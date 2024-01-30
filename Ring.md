@@ -3,6 +3,8 @@ $\mathcal{R} \subseteq \Omega$ heißt *Ring* auf $\Omega$, falls
 - $A, B \in \mathcal{R} \implies A \cap B^C \in \mathcal{R}$
 - $A, B \in \mathcal{R} \implies A \cup B \in \mathcal{R}$
 
+---
+
 Für eine beliebige Teilmenge $\mathcal{C} \subseteq \mathcal{P}(\Omega)$ ist
 
 $$

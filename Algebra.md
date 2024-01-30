@@ -3,6 +3,8 @@ $\mathcal{A} \subseteq \Omega$ heißt *Algebra* auf $\Omega$, falls
 - $A \in \mathcal{A} \implies A^C \in \mathcal{A}$
 - $A, B \in \mathcal{A} \implies A \cup B \in \mathcal{A}$
 
+---
+
 Für eine beliebige Teilmenge $\mathcal{C} \subseteq \mathcal{P}(\Omega)$ ist
 
 $$

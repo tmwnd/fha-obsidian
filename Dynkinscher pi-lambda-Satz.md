@@ -1,0 +1,1 @@
+Ist $\mathcal{C} \subseteq \mathcal{P}(\Omega)$ $\cap$-[[Durchschnittsstabilität|stabil]], so ist $\sigma(\mathcal{C}) = D(\mathcal{C})$
