@@ -5,10 +5,6 @@ Sei $f$ eine *Funktion* mit
 Es gilt
 - $f = f^+ - f^-$
 
-Falls $f$ messbar
-- $f^+$, $f^-$ sind nicht-negative messbare Funktionen
-- $|f| = f^+ + f^-$
-
 ---
 
 Eine Funktion $f : \mathcal{A} \to \mathcal{L}$ heißt *messbar*, falls
@@ -24,6 +20,24 @@ Folgende Funktionen sind messbar
 - $f + g$
 - $f \cdot g$
 - $\frac{f}{g}$, falls definiert
+
+Es gilt
+- $f^+$, $f^-$ sind nicht-negative messbare Funktionen
+- $|f| = f^+ + f^-$
+
+---
+
+Die Menge aller messbaren Funktionen ist definiert als
+
+$$
+	\mathcal{M} = \mathcal{M}(\Omega, \mathcal{A}) = \{ f, f : (\Omega, \mathcal{A}) \to (\overline{\mathbb{R}}, \overline{\mathcal{L}}) \}
+$$
+
+Die Menge aller nicht-negativen messbaren Funktionen ist definiert als
+
+$$
+	\mathcal{M}_+ = \mathcal{M}_+(\Omega, \mathcal{A}) = \{ f, f : (\Omega, \mathcal{A}) \to (\overline{\mathbb{R}}, \overline{\mathcal{L}}) \land f \ge 0 \}
+$$
 
 ---
 
@@ -42,7 +56,7 @@ Die Funktionen $\sup_{n \in \mathbb{N}} f_n$ und $\inf_{n \in \mathbb{N}} f_n$ s
 Eine Funktion $f : \Omega \to \mathbb{R}$ heißt *primitiv*, falls
 - endlich viele, paarweise verschiedene Werte $\alpha_1, \dots, \alpha_n$ angenommen werden
 
-Seien $\mathcal{A}$ die $\sigma$-[[sigma-Algebra|Algebra]] auf $\Omega$, $i \in \{ 1, \dots, n \}$, $A_i = \{ f = \alpha_i \} \subseteq \mathcal{A}$ geeignete p. d. Mengen und $I_{A_i}$ die [[Indikatorfunktion]] für $A_i$ mit
+Sei $\mathcal{A}$ die $\sigma$-[[sigma-Algebra|Algebra]] auf $\Omega$, $i \in \{ 1, \dots, n \}$, $A_i = \{ f = \alpha_i \} \subseteq \mathcal{A}$ geeignete p. d. Mengen und $I_{A_i}$ die [[Indikatorfunktion]] für $A_i$ mit
 - $\bigcup_{i = 1}^n A_i = \Omega$
 
 $f$ hat die *Normalenarstellung*
