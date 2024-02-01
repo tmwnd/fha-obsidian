@@ -6,7 +6,26 @@ $$
 	F(x) = P((-\infty, x], x \in \mathbb{R})
 $$
 
----
-
 $P$ ist eindeutig auf $\mathcal{L}$ bestimmt.
 
+---
+
+Sei $\mu$ ein endliches [[Maß]] auf $\mathcal{L}^d$ mit
+- $S = \Pi_{i = 1}^d (a_1, b_1]$
+- $S_{(x_1, \dots, x_d)} = \Pi_{i = 1}^d (-\infty, x]$
+
+Die [[Verteilungsfunktion]] $F$ sei definiert durch
+
+$$
+	F(x_1, \dots, x_d) = \mu(S_{(x_1, \dots, x_d)})
+$$
+
+Es gilt mit der [[Satz 1.7|Siebformel]]
+
+$$
+	\mu(S) = \Delta_S F = \sum_{(\varepsilon_1, \dots, \varepsilon_d) \in \{ 0, 1 \}^d} (-1)^{\sum_{i=1}^d \varepsilon_i} F\left( \sum_{i = 1}^d \varepsilon_i a_i + (1 - \varepsilon_i) b_i \right)
+$$
+
+Es gilt
+- $\Delta_S F \ge 0$
+- $x_n^d \downarrow x^d \implies \lim_{n \to \infty} F(x_n^d) = F(x)$ mit $\forall i \in \{ 1, \dots, d \} : x_n^{(i)} \downarrow x^{(i)}$

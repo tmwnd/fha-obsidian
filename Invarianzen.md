@@ -1,17 +1,17 @@
-Sei $\mathscr{S}$ eine $\sigma$-[[sigma-Algebra|Algebra]].
+Sei $\mathcal{A}$ eine $\sigma$-[[sigma-Algebra|Algebra]].
 
-$\mathscr{S}$ ist *translationsinvariant*, falls
-- $\forall S \in \mathscr{S}, x \in \mathbb{R} : S + x = \{ y + x, y \in S \} \in \mathscr{S}$
+$\mathcal{A}$ ist *translationsinvariant*, falls
+- $\forall S \in \mathcal{A}, x \in \mathbb{R} : S + x = \{ y + x, y \in S \} \in \mathcal{A}$
 
-$\mathscr{S}$ ist *spiegelungsinvariant*, falls
-- $\forall S \in \mathscr{S} : -S = \{ -y, y \in S \} \in \mathscr{S}$
+$\mathcal{A}$ ist *spiegelungsinvariant*, falls
+- $\forall S \in \mathcal{A} : -S = \{ -y, y \in S \} \in \mathcal{A}$
 
 ---
 
-Sei $\mathscr{S}$ eine tranlations- bzw. spiegelungsinvariante $\sigma$-[[sigma-Algebra|Algebra]] und $\mu$ ein [[Maß]] auf $\mathscr{S}$
+Sei $\mathcal{A}$ eine tranlations- bzw. spiegelungsinvariante $\sigma$-[[sigma-Algebra|Algebra]] und $\mu$ ein [[Maß]] auf $\mathcal{A}$
 
 $\mu$ ist *translationsinvariant*, falls
-- $\forall S \in \mathscr{S}, x \in \mathbb{R} : \mu(S + x) = \mu(S)$
+- $\forall A \in \mathcal{A}, x \in \mathbb{R} : \mu(A + x) = \mu(A)$
 
 $\mu$ ist *spiegelungsinvariant*, falls
-- $\forall S \in \mathscr{S} : \mu(S) = \mu(-S)$
+- $\forall A \in \mathcal{A} : \mu(A) = \mu(-A)$
