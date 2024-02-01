@@ -1,6 +1,6 @@
 Sei $n, k \in \mathbb{N}$, $p \in [0, 1]$, $x \in \mathbb{R}$.
 
-Die [[Verteilungsfunktion]] einer [[Zufallsvariable]] $X$ heißt *binomialverteilt*, falls
+Die [[Verteilungsfunktion]] einer reelwertigen [[Zufallsvariable]] $X$ heißt *binomialverteilt*, falls
 
 $$
 	P(X = x) = {n \choose k}p^k(1-p)^{n-k}

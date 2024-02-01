@@ -6,7 +6,7 @@ $$
 
 Sei $x \in \mathbb{R}$.
 
-Die [[Verteilungsfunktion]] einer [[Zufallsvariable]] $X$ heißt *Cauchy-verteilt*, falls
+Die [[Verteilungsfunktion]] einer reelwertigen [[Zufallsvariable]] $X$ heißt *Cauchy-verteilt*, falls
 
 $$
 	F(x) = P(X \le x) = \int_{-\infty}^x x_{\mu, \sigma}(t) dt = \frac{1}{2} + \frac{1}{\pi}\arctan\left( \frac{x - \mu}{\sigma} \right)

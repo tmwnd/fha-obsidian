@@ -6,7 +6,7 @@ $$
 
 Sei $x \in \mathbb{R}$.
 
-Die [[Verteilungsfunktion]] einer [[Zufallsvariable]] $X$ heißt *normalverteilt*, falls
+Die [[Verteilungsfunktion]] einer reelwertigen [[Zufallsvariable]] $X$ heißt *normalverteilt*, falls
 
 $$
 	F(x) = \int_{-\infty}^x \varphi_{\mu, \sigma^2}(t) dt

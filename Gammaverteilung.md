@@ -12,7 +12,7 @@ $$
 
 Sei $x \in \mathbb{R}$.
 
-Die [[Verteilungsfunktion]] einer [[Zufallsvariable]] $X$ heißt *gammaverteilt*, falls
+Die [[Verteilungsfunktion]] einer reelwertigen [[Zufallsvariable]] $X$ heißt *gammaverteilt*, falls
 
 $$
 	F(x) = P(X \le x) = \begin{cases}

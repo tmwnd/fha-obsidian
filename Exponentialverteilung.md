@@ -6,7 +6,7 @@ $$
 
 Sei $x \in \mathbb{R}$.
 
-Die [[Verteilungsfunktion]] einer [[Zufallsvariable]] $X$ heißt *exponentialverteilt*, falls
+Die [[Verteilungsfunktion]] einer reelwertigen [[Zufallsvariable]] $X$ heißt *exponentialverteilt*, falls
 
 $$
 	F(x) = \begin{cases}

@@ -3,7 +3,7 @@ Seien $-\infty \lt a \lt b \lt +\infty$ und $r : [a, b] \to \mathbb{R}_+$ konsta
 
 Sei $x \in \mathbb{R}$.
 
-Die [[Verteilungsfunktion]] einer [[Zufallsvariable]] $X$ heißt *gleich-* bzw. *rechteckverteilt*, falls
+Die [[Verteilungsfunktion]] einer reelwertigen [[Zufallsvariable]] $X$ heißt *gleich-* bzw. *rechteckverteilt*, falls
 
 $$
 	F(x) = P(x \le x) = \begin{cases}
