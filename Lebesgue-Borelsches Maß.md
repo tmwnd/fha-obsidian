@@ -17,7 +17,7 @@ Das Lebesgue Borelsche Maß ist [[Invarianzen|translations-]] und [[Invarianzen|
 
 ---
 
-Sei $-\infty \lt a \le b \lt +\infty$, $x \in \mathbb{R}$, $f : [a, b] \to \mathbb{R}_+$ eine Riemann-integrierbare Funktion mit
+Sei $-\infty \lt a \le b \lt +\infty$, $x \in \mathbb{R}$, $f : [a, b] \to \mathbb{R}_+$ eine Riemann-integrierbare [[Funktion]] mit
 - $\int_a^b f(t) dt = 1$
 
 Die [[Verteilungsfunktion]] $F : \mathbb{R} \to \mathbb{R}$ eines [[Maß|Wahrscheinlichkeitsmaßes]] $P$ auf der Borelschen $\sigma$-[[Borelsche sigma-Algebra|Algebra]] $\mathcal{L}$ ist definiert als
@@ -32,7 +32,7 @@ $$
 
 ---
 
-Sei $x \in \mathbb{R}$, $f : \mathbb{R} \to \mathbb{R}_+$ eine uneigentlich Riemann-integrierbare Funktion mit
+Sei $x \in \mathbb{R}$, $f : \mathbb{R} \to \mathbb{R}_+$ eine uneigentlich Riemann-integrierbare [[Funktion]] mit
 - $\int_{-\infty}^{+\infty} f(t) dt = 1$
 
 Die [[Verteilungsfunktion]] $F : \mathbb{R} \to \mathbb{R}$ eines [[Maß|Wahrscheinlichkeitsmaßes]] $P$ auf der Borelschen $\sigma$-[[Borelsche sigma-Algebra|Algebra]] $\mathcal{L}$ ist definiert als
@@ -40,3 +40,19 @@ Die [[Verteilungsfunktion]] $F : \mathbb{R} \to \mathbb{R}$ eines [[Maß|Wahrsch
 $$
 	F(x) = \int_{-\infty}^x f(t) dtcd
 $$
+
+---
+
+Jede stetige Funktion $f : \mathbb{R}^d \to \mathbb{R}^p$ ist $(\mathcal{L}^d, \mathcal{L}^p)$-[[A-S-messbare Abbildungen|messbar]].
+
+---
+
+$f : \Omega \to \overline{\mathbb{R}}$ ist genau dann $(\mathcal{A}, \overline{\mathcal{L}})$-[[A-S-messbare Abbildungen|messbar]], falls
+- a) $\forall a \in \mathbb{R} : \{ f \gt a \} = \{ \omega \in \Omega, f(\omega) \gt a \}$ = $f^{-1}((a, +\infty]) \in \mathcal{A}$
+- b) $\forall a \in \mathbb{R} : \{ f \ge a \} = \{ \omega \in \Omega, f(\omega) \ge a \}$ = $f^{-1}([a, +\infty]) \in \mathcal{A}$
+- c) $\forall b \in \mathbb{R} : \{ f \lt b \} = \{ \omega \in \Omega, f(\omega) \lt b \}$ = $f^{-1}([-\infty, b)) \in \mathcal{A}$
+- d) $\forall b \in \mathbb{R} : \{ f \le b \} = \{ \omega \in \Omega, f(\omega) \le b \}$ = $f^{-1}([-\infty, b]) \in \mathcal{A}$
+
+a) $\iff$ b) $\iff$ c) $\iff$ d).
+
+Schreibe $\{ f \in B \} = f^{-1}(B), B \subseteq R$.

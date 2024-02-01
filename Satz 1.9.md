@@ -23,8 +23,8 @@ $$
 	\lim_{n \to \infty} \mu(A_n) \lt \infty
 $$
 
-Es gilt: a) $\iff$ b) $\implies$ c) $\implies$ d)
+Es gilt: a) $\iff$ b) $\implies$ c) $\implies$ d).
 
 ---
 
-$\forall A \in \mathcal{R} : \mu(A) \lt \infty \implies$ a), b), c), d) äquivalent
+$\forall A \in \mathcal{R} : \mu(A) \lt \infty \implies$ a), b), c), d) äquivalent.

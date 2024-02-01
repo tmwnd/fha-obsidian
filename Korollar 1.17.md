@@ -10,7 +10,7 @@ $P$ ist eindeutig auf $\mathcal{L}$ bestimmt.
 
 ---
 
-Sei $\mu$ ein endliches [[Maß]] auf $\mathcal{L}^d$ mit
+Sei $\mu$ ein [[Maß|endliches]] [[Maß]] auf $\mathcal{L}^d$ mit
 - $S = \Pi_{i = 1}^d (a_1, b_1]$
 - $S_{(x_1, \dots, x_d)} = \Pi_{i = 1}^d (-\infty, x]$
 

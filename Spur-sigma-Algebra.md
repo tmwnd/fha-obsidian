@@ -11,7 +11,7 @@ $$
 Sei $\mathcal{C} \subseteq \mathcal{P}(\Omega)$, $B \subseteq \Omega$ mit
 - $\mathcal{C}_B = \{ C \cap B, C \in \mathcal{C} \}$
 
-$\sigma(\mathcal{C})_B$ ist die von $\mathcal{C}_B$ erzeugte $\sigma$-[[sigma-Algebra|Algebra]] auf $B$
+$\sigma(\mathcal{C})_B$ ist die von $\mathcal{C}_B$ erzeugte $\sigma$-[[sigma-Algebra|Algebra]] auf $B$.
 
 ---
 
@@ -35,4 +35,4 @@ $$
 
 ---
 
-Das [[Lebesgue-Borelsches Maß]] $\lambda_{[0, 1]}$ ist ein [[Maß|Wahrscheinlichkeitsmaß]] auf der Borelschen $\sigma$-[[Borelsche sigma-Algebra|Algebra]] $\mathcal{L}_{[0, 1]}$
+Das [[Lebesgue-Borelsches Maß]] $\lambda_{[0, 1]}$ ist ein [[Maß|Wahrscheinlichkeitsmaß]] auf der Borelschen $\sigma$-[[Borelsche sigma-Algebra|Algebra]] $\mathcal{L}_{[0, 1]}$.

@@ -8,7 +8,7 @@ $\mathcal{A}$ ist *spiegelungsinvariant*, falls
 
 ---
 
-Sei $\mathcal{A}$ eine tranlations- bzw. spiegelungsinvariante $\sigma$-[[sigma-Algebra|Algebra]] und $\mu$ ein [[Maß]] auf $\mathcal{A}$
+Sei $\mathcal{A}$ eine tranlations- bzw. spiegelungsinvariante $\sigma$-[[sigma-Algebra|Algebra]] und $\mu$ ein [[Maß]] auf $\mathcal{A}$.
 
 $\mu$ ist *translationsinvariant*, falls
 - $\forall A \in \mathcal{A}, x \in \mathbb{R} : \mu(A + x) = \mu(A)$
