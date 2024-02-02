@@ -1,0 +1,31 @@
+Seien $((\Omega_i, \mathcal{A}_i))_{i \in \{ 1, 2 \}}$ [[Messraum|Messräume]] mit
+- $\Omega = \Omega_1 \times \Omega_2$
+- $\mathcal{A} = \mathcal{A}_1 \otimes \mathcal{A}_2$ die Produkt-$\sigma$-[[Produkt-sigma-Algebra,  Kolmogorowsche sigma-Algebra|Algebra]] von $\mathcal{A}_1$ und $\mathcal{A}_2$
+- $A_{\omega_1} = \{ \omega_2 \in \Omega_2 : (\omega_1, \omega_2) \in A \}$ *der $\omega_1$-Schnitt* von $A$ mit $\omega_1 \in \Omega_1$, $A \in \Omega$
+- $A_{\omega_2} = \{ \omega_1 \in \Omega_1 : (\omega_1, \omega_2) \in A \}$ *der $\omega_2$-Schnitt* von $A$ mit $\omega_2 \in \Omega_2$, $A \in \Omega$
+- $\forall \omega_1 \in \Omega_1 : \{ A \in \mathcal{A} : A_{\omega_1} \in \mathcal{A}_2 \}$ ist eine $\sigma$-[[sigma-Algebra|Algebra]]
+
+Sei $(R, \mathscr{S})$ ein [[Messraum]], $f : (\Omega, \mathcal{A}) \to (R, \mathscr{S})$ eine [[Funktion|messbare]] [[Funktion]], $\omega_1 \in \Omega_1$, $\omega_2 \in \Omega_2$.
+
+Es gilt
+- $\forall \omega_1 \in \Omega_1 : f_{\omega_1}(\omega_2) = f(\omega_1, \omega_2)$
+- $\forall \omega_2 \in \Omega_2 : f_{\omega_2}(\omega_1) = f(\omega_1, \omega_2)$
+- $\forall \omega_1 \in \Omega_1 : f_{\omega_1} : \Omega_2 \to R$ ist eine $(\mathcal{A}_2, \mathscr{S})$-[[A-S-Messbarkeit|messbare]] Funktion
+- $\forall \omega_2 \in \Omega_2 : f_{\omega_2} : \Omega_1 \to R$ ist eine $(\mathcal{A}_1, \mathscr{S})$-[[A-S-Messbarkeit|messbare]] Funktion
+
+---
+
+Seien $((\Omega_i, \mathcal{A}_i))_{i \in \{ 1, 2 \}}$ [[Messraum|Messräume]] mit
+- $\Omega = \Omega_1 \times \Omega_2$
+- $\mathscr{S} = \{ A_1 \times A_2, A_1 \in \mathcal{A}, A_2 \in \mathcal{A} \}$ der [[Semiring]] auf $\Omega$
+- $\mathcal{A} = \mathcal{A}_1 \otimes \mathcal{A}_2 = \sigma(\mathscr{S})$ die Produkt-$\sigma$-[[Produkt-sigma-Algebra,  Kolmogorowsche sigma-Algebra|Algebra]] von $\mathcal{A}_1$ und $\mathcal{A}_2$
+
+Sie $\mu_1$ ein [[Maß]] auf $\mathcal{A}_1$, $\mu_2$ ein [[Maß]] auf $\mathcal{A}_2$, $A_1 \in \mathcal{A}_1$, $A_2 \in \mathcal{A}_2$ mit
+- $S = A_1 \times A_2 \in \mathscr{S}$
+- $\tilde{\mu}$ dem $\sigma$-[[Abbildung|additiven]] [[Maß|Produktmaß]] von $\mu_1$ und $\mu_2$ auf $\mathscr{S}$
+
+$\tilde{\mu}$ ist definiert als
+
+$$
+	\tilde{\mu}(S) = \mu_1(A_1) \times \mu_2(A_2)
+$$

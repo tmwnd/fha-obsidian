@@ -17,7 +17,7 @@ $$
 ---
 
 Seien $\mathscr{S}, \mathcal{O}, \mathcal{A}, \mathcal{K}$ [[Semiring|Semiringe]] auf $\mathbb{R}^d$ mit
-- $\mathscr{S}^d = \{ \Pi_{i = 1, \dots, d} (a_i, b_i], -\infty \lt a_i \le b_i \lt +\infty \}$
+- $\mathscr{S}^d = \{ \prod_{i = 1, \dots, d} (a_i, b_i], -\infty \lt a_i \le b_i \lt +\infty \}$
 - $\mathcal{O}^d = \{ O, O \subseteq \mathbb{R}^d \text{ offen } \}$
 - $\mathcal{A}^d = \{ A, A \subseteq \mathbb{R}^d \text{ abgeschlossen } \}$
 - $\mathcal{K}^d = \{ K, K \subseteq \mathbb{R}^d \text{ kompakt } \}$

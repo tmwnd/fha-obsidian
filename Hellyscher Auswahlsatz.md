@@ -10,7 +10,7 @@ Es existiert eine Teilfolge $(f_{n_k})_{k \in \mathbb{N}}$ und eine [[Funktion]]
 	  \Delta_S F = \sum_{(\varepsilon_1, \dots, \varepsilon_d) \in \{ 0, 1 \}^d} (-1)^{\sum_{i=1}^d \varepsilon_i} F\left( \sum_{i = 1}^d \varepsilon_i a_i + (1 - \varepsilon_i) b_i \right)
   $$
   
-  mit $S = \Pi_{i \in \{ 1, \dots, d \}} (a_i, b_i]$
+  mit $S = \prod_{i \in \{ 1, \dots, d \}} (a_i, b_i]$
 - $\forall x \in C(F) = \{ \text{ Stetigkeitsstellen von F } \}$ ist
   
   $$

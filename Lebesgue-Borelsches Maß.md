@@ -7,8 +7,8 @@ Es gilt
 ---
 
 Zu jeder [[Korollar 1.17|Verteilungsfunktion]] $F : \mathbb{R} \to \mathbb{R}$ auf der Borelschen $\sigma$-[[Borelsche sigma-Algebra|Algebra]] $\mathcal{L}^d$ gibt es genau ein [[Maß]] $\lambda^d$, sodass
-- $\lambda^d(S) = \Delta_S F = \Pi_{k = 1}^d (b_k - a_k)$ mit
-- $S = \Pi_{i = 1}^d (a_1, b_1]$
+- $\lambda^d(S) = \Delta_S F = \prod_{k = 1}^d (b_k - a_k)$ mit
+- $S = \prod_{i = 1}^d (a_1, b_1]$
 - $\forall k \in {1, \dots, d} : -\infty \lt a_k \le b_k \lt +\infty$
 
 ---
@@ -43,11 +43,11 @@ $$
 
 ---
 
-Jede stetige Funktion $f : \mathbb{R}^d \to \mathbb{R}^p$ ist $(\mathcal{L}^d, \mathcal{L}^p)$-[[A-S-messbare Abbildungen|messbar]].
+Jede stetige Funktion $f : \mathbb{R}^d \to \mathbb{R}^p$ ist $(\mathcal{L}^d, \mathcal{L}^p)$-[[A-S-Messbarkeit|messbar]].
 
 ---
 
-$f : \Omega \to \overline{\mathbb{R}}$ ist genau dann $(\mathcal{A}, \overline{\mathcal{L}})$-[[A-S-messbare Abbildungen|messbar]], falls
+$f : \Omega \to \overline{\mathbb{R}}$ ist genau dann $(\mathcal{A}, \overline{\mathcal{L}})$-[[A-S-Messbarkeit|messbar]], falls
 - a) $\forall a \in \mathbb{R} : \{ f \gt a \} = \{ \omega \in \Omega, f(\omega) \gt a \}$ = $f^{-1}((a, +\infty]) \in \mathcal{A}$
 - b) $\forall a \in \mathbb{R} : \{ f \ge a \} = \{ \omega \in \Omega, f(\omega) \ge a \}$ = $f^{-1}([a, +\infty]) \in \mathcal{A}$
 - c) $\forall b \in \mathbb{R} : \{ f \lt b \} = \{ \omega \in \Omega, f(\omega) \lt b \}$ = $f^{-1}([-\infty, b)) \in \mathcal{A}$

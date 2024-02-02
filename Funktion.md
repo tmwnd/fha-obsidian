@@ -56,7 +56,7 @@ Die Funktionen $\sup_{n \in \mathbb{N}} f_n$ und $\inf_{n \in \mathbb{N}} f_n$ s
 Eine Funktion $f : \Omega \to \mathbb{R}$ heißt *primitiv*, falls
 - endlich viele, paarweise verschiedene Werte $\alpha_1, \dots, \alpha_n$ angenommen werden
 
-Sei $\mathcal{A}$ die $\sigma$-[[sigma-Algebra|Algebra]] auf $\Omega$, $i \in \{ 1, \dots, n \}$, $A_i = \{ f = \alpha_i \} \subseteq \mathcal{A}$ geeignete p. d. Mengen und $I_{A_i}$ die [[Indikatorfunktion]] für $A_i$ mit
+Sei $\mathcal{A}$ die $\sigma$-[[sigma-Algebra|Algebra]] auf $\Omega$, $n \in \mathbb{N}$, $i \in \{ 1, \dots, n \}$, $A_i = \{ f = \alpha_i \} \subseteq \mathcal{A}$ geeignete p. d. Mengen und $I_{A_i}$ die [[Indikatorfunktion]] für $A_i$ mit
 - $\bigcup_{i = 1}^n A_i = \Omega$
 
 $f$ hat die *Normalenarstellung*
@@ -68,3 +68,11 @@ $$
 ---
 
 Den reelen Vektorraum der primitiven Funktionen auf dem [[Messraum]] $(\Omega, \mathcal{A})$ bezeichnen wir mit $\mathcal{P}(\Omega, \mathcal{A})$ bzw $\mathcal{P}$.
+
+---
+
+Sei $(\Omega, \mathcal{A}, \mu)$ ein [[Maßraum]], $N \in \mathcal{A}$ eine $\mu$-[[mu-Nullmengen|Nullmenge]] mit
+
+Eine Funktion $g$ ist *$\mu$-[[mu-Nullmengen|f. ü.]] definiert*, falls
+- $g : (N^C, \mathcal{A}_{N^C}) \to (\overline{\mathbb{R}}, \overline{\mathcal{L}})$ $\mu$-[[mu-Integral|integrierbar]] ist
+- $\tilde{g}(\omega) = \begin{cases} g(w), \quad \omega \in N^C \\ 0, \quad\quad\ \ \omega \in N \end{cases}$ $\mu$-[[mu-Integral|integrierbar]] ist

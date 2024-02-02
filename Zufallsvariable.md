@@ -1,6 +1,6 @@
 Sei $(\Omega, \mathcal{A}, P)$ ein [[Maßraum|Wahrscheinlichkeitsraum]], $(R, \mathscr{S})$ ein [[Messraum]].
 
-Eine $(\mathcal{A}, \mathscr{S})$-[[A-S-messbare Abbildungen|messbare]] [[Funktion]] $X : (\Omega, \mathcal{A}) \to (R, \mathscr{S})$ heißt *Zufallsvariable*.
+Eine $(\mathcal{A}, \mathscr{S})$-[[A-S-Messbarkeit|messbare]] [[Funktion]] $X : (\Omega, \mathcal{A}) \to (R, \mathscr{S})$ heißt *Zufallsvariable*.
 
 ---
 
@@ -26,14 +26,14 @@ Sei $(x_i)_{i \in \{ 1, \dots, d \}} \in \mathbb{R}$.
 Es gilt
 
 $$
-	X^{-1}( \Pi_{i=1}^d (-\infty, x_i]) = \bigcap_{i=1}^d X_i^{-1}((-\infty, x_i])
+	X^{-1}\left( \prod_{i=1}^d (-\infty, x_i] \right) = \bigcap_{i=1}^d X_i^{-1}((-\infty, x_i])
 
 $$
 
 mit der [[Verteilungsfunktion]] von $X$
 
 $$
-	F(x_1, \dots, x_d) = P(X^{-1}(\Pi_{i=1}^d (-\infty, x_i])) = P(X_1 \le x_1, \dots, X_d \le X_d)
+	F(x_1, \dots, x_d) = P\left( X^{-1}\left( \prod_{i=1}^d (-\infty, x_i] \right)\right) = P(X_1 \le x_1, \dots, X_d \le X_d)
 $$
 
 ---

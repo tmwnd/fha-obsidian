@@ -1,4 +1,4 @@
-Sei $T : (\Omega, \mathcal{A}) \to (R, \mathscr{S})$ eine $(\mathcal{A}, \mathscr{S})$-[[A-S-messbare Abbildungen|messbare]] [[Abbildung]], $\mu$ ein [[Maß]] auf $(\Omega, \mathcal{A})$.
+Sei $T : (\Omega, \mathcal{A}) \to (R, \mathscr{S})$ eine $(\mathcal{A}, \mathscr{S})$-[[A-S-Messbarkeit|messbare]] [[Abbildung]], $\mu$ ein [[Maß]] auf $(\Omega, \mathcal{A})$.
 
 Es gilt für das $\mu$-[[mu-Integral|Integral]]
 
@@ -8,6 +8,6 @@ $$
 
 ---
 
-Sei $T : (\Omega, \mathcal{A}) \to (R, \mathscr{S})$ eine $(\mathcal{A}, \mathscr{S})$-[[A-S-messbare Abbildungen|messbare]] [[Abbildung]], $\mu$ ein [[Maß]] auf $(\Omega, \mathcal{A})$.
+Sei $T : (\Omega, \mathcal{A}) \to (R, \mathscr{S})$ eine $(\mathcal{A}, \mathscr{S})$-[[A-S-Messbarkeit|messbare]] [[Abbildung]], $\mu$ ein [[Maß]] auf $(\Omega, \mathcal{A})$.
 
 Das $\mu$-Integral existiert für eine [[Funktion|messbare]] [[Funktion]] $g \in \mathcal{M}_+$ genau dann, wenn $\mu^T$-Integral von $g$ existiert.

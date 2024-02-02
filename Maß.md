@@ -32,3 +32,13 @@ und hat die Form
 $$
 	P = \sum_{\omega \in \Omega_0} P(\{ \omega \}) \delta_\omega
 $$
+
+---
+
+Seien $\mu_1, \mu_2$ $\sigma$-endliche Maße.
+
+Das *Produktmaß* $\tilde{\mu}$ ist definiert als
+
+$$
+	\tilde{\mu} = \mu_1 \otimes \mu_2
+$$
