@@ -1,4 +1,4 @@
-Sei $\mu \in \mathbb{R}$, $\sigma \gt 0$, $t \in \mathbb{R}$ und
+Sei $\mu \in \mathbb{R}$, $\sigma \gt 0$, $t \in \mathbb{R}$ und die $\lambda$-[[lambda-Dichte|Dichte]] $c_{\mu, \sigma}$ definiert als
 
 $$
 	c_{\mu, \sigma}(t) = \frac{\sigma}{\pi}\frac{1}{\sigma^2 + (x - \mu)^2}

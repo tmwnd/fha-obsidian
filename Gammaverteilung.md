@@ -4,7 +4,7 @@ $$
 	\Gamma(z) = \int_0^\infty t^{z-1}e^{-t} dt
 $$
 
-und
+und die $\lambda$-[[lambda-Dichte|Dichte]] $g_{a, \lambda}$ definiert als 
 
 $$
 	g_{a, \lambda}(t) = \frac{\lambda^\alpha}{\Gamma(\alpha)}t^{\alpha-1}e^{-\lambda t}

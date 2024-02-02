@@ -1,4 +1,4 @@
-Sei $f \in \mathcal{M}_+$, $(f_n)_{n \in \mathbb{N}} \in P+$ [[Funktion|primitive]] [[Funktion|Funktionen]] mit
+Sei $f \in \mathcal{M}_+$ eine [[Funktion|messbare]] [[Funktion]], $(f_n)_{n \in \mathbb{N}} \in \mathcal{P}+$ [[Funktion|primitive]] [[Funktion|Funktionen]] mit
 - $f_n \uparrow f$
 
 Das $\mu$-[[mu-Integral|Integral]] auf $f$ ist definiert als
@@ -9,7 +9,7 @@ $$
 
 ---
 
-Sei $f \in \mathcal{M}$.
+Sei $f \in \mathcal{M}$ eine [[Funktion|messbare]] [[Funktion]].
 
 $f$ hat ein *existierendes* $\mu$-[[mu-Integral|Integral]], falls
 - $\int f^+ d\mu \lt \infty$ oder
@@ -26,7 +26,7 @@ Es gilt
 
 ---
 
-Sei $f \in \mathcal{M}$.
+Sei $f \in \mathcal{M}$ eine [[Funktion|messbare]] [[Funktion]].
 
 $f$ heißt *$\mu$-integrierbar*, falls
 - $\int f^+ d\mu \lt \infty$ und
@@ -40,7 +40,7 @@ $$
 
 ---
 
-Sei $f \in \mathcal{M}$.
+Sei $f \in \mathcal{M}$ eine [[Funktion|messbare]] [[Funktion]].
 
 $f$ $\mu$-integrierbar $\iff$ $|f|$ $\mu$-integrierbar.
 

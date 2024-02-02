@@ -4,7 +4,7 @@ Eine $(\mathcal{A}, \mathscr{S})$-[[A-S-messbare Abbildungen|messbare]] [[Funkti
 
 ---
 
-$F(X)$ heißt [[Verteilungsfunktion]] von $X : (\Omega, \mathcal{A}) \to (\mathbb{R}, \mathcal{L})$ falls
+$F(X)$ heißt [[Verteilungsfunktion]] von $X : (\Omega, \mathcal{A}) \to (\mathbb{R}, \mathcal{L})$, falls
 - $X$ eine reelwertige Zufallsvariable ist
 
 Sei $x \in \mathbb{R}$.

@@ -1,4 +1,4 @@
-Sei $\mu \in (0, \infty)$, $t \gt 0$ und
+Sei $\mu \in (0, \infty)$, $t \gt 0$ und die $\lambda$-[[lambda-Dichte|Dichte]] $e_\lambda$ definiert als
 
 $$
 	e_\lambda(t) = \lambda e^{-\lambda t}
@@ -16,3 +16,11 @@ $$
 $$
 
 Schreibe $X \sim \text{Exp}(\lambda)$
+
+---
+
+Sei $X \sim \text{Exp}(\lambda)$ eine [[Zufallsvariable]].
+
+Es gilt
+- Der [[Erwartungswert]] ist $E[X] = \frac{1}{\lambda}$
+- Die [[Varianz]] ist $\text{Var}(X) = \frac{1}{\lambda^2}$

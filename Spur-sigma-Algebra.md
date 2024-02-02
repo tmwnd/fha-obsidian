@@ -17,7 +17,7 @@ $\sigma(\mathcal{C})_B$ ist die von $\mathcal{C}_B$ erzeugte $\sigma$-[[sigma-Al
 
 Sei $\mathcal{A}$ eine $\sigma$-[[sigma-Algebra|Algebra]] auf $\Omega$, $B \subseteq \Omega$, $\mu$ ein [[Maß]] auf $\mathcal{A}$.
 
-Das [[Maß]] $\mu_B = \mu|_{\mathcal{A}_B}$ ist ein [[Maß]] auf $\mathcal{A}_B$ falls
+Das [[Maß]] $\mu_B = \mu|_{\mathcal{A}_B}$ ist ein [[Maß]] auf $\mathcal{A}_B$, falls
 - $B \in \mathcal{A}$
 
 ---

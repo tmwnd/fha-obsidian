@@ -15,3 +15,13 @@ Sei $A \subseteq \Omega$, $\mathcal{A}$ die $\sigma$-[[sigma-Algebra|Algebra]] a
 
 $I_A$ ist genau dann [[Funktion|messbar]], falls
 - $A \in \mathcal{A}$
+
+---
+
+Sei $f : (\Omega, \mathcal{A}) \to (\overline{\mathbb{R}}, \overline{\mathcal{L}})$ [[Funktion|messbar]] mit existierendem $\mu$-[[mu-Integral|Integral]], $A \in \mathcal{A}$.
+
+Schreibe
+
+$$
+	\int f I_A d\mu = \int_A f d\mu
+$$

@@ -1,4 +1,4 @@
-Sei $(\Omega, \mathcal{A})$ ein [[Messraum]], $\mu$ in [[Maß]] auf $\mathcal{A}$, $f \in \mathcal{P}_+$ eine [[Funktion|primitive]] [[Funktion]] in [[Funktion|Normalendarstellung]] mit $(\alpha_i)_{i \in \{ 1, \dots, n \}} \in \mathbb{R}_+$.
+Sei $(\Omega, \mathcal{A})$ ein [[Messraum]], $\mu$ ein [[Maß]] auf $\mathcal{A}$, $f \in \mathcal{P}_+$ eine [[Funktion|primitive]] [[Funktion]] in [[Funktion|Normalendarstellung]] mit $(\alpha_i)_{i \in \{ 1, \dots, n \}} \in \mathbb{R}_+$.
 
 Das *$\mu$-Integral* ist wohldefiniert als
 
