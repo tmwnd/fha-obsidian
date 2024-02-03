@@ -3,7 +3,7 @@ Sei $(\Omega, \mathcal{A}, \mu)$ ein [[Maßraum]], $f : (\Omega, \mathcal{A}) \t
 
 Es gilt
 
-- $\mu$-[[mu-Integral|integrierbare]] Funktionen sind $\mu$-[[mu-Nullmengen|f. ü.]] endlich.
+- $\mu$-[[mu-Integral|integrierbare]] [[Funktion|Funktionen]] sind $\mu$-[[mu-Nullmengen|f. ü.]] endlich.
 
 und
 

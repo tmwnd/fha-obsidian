@@ -29,3 +29,18 @@ Es gilt mit dem $P^X$-[[PX-Integral|Integral]]
 $$
 	E[g \circ X] = \int g dP^X = \sum_{a \in S} g(y)P(X = a) = \sum_{a \in R} g(a) P(X = a)
 $$
+
+---
+
+Sie $X$ ein $d$-dimensionaler [[Zufallsvariable|Zufallsvektor]] mit
+- $\forall i \in \{ 1, \dots, d \} : E[X_i] \lt \infty$ bzw. $E[|X_i|] \lt \infty$
+
+Der *Erwartungswertvekotor* von $X$ ist definiert als
+
+$$
+	E[X] = (E[X_1], \dots, E[X_d])
+$$
+
+Es gilt
+- $\forall A \in \mathbb{R}^{n \times d}, b \in \mathbb{R}^n : E[AX + b] = AE[X] + b$
+- $E[X^2] \lt \infty$

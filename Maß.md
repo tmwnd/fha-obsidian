@@ -35,10 +35,10 @@ $$
 
 ---
 
-Seien $\mu_1, \mu_2$ $\sigma$-endliche Maße.
+Sei $n \in \mathbb{N}$, $\mu_1, \dots, \mu_n$ $\sigma$-endliche Maße.
 
-Das *Produktmaß* $\tilde{\mu}$ ist definiert als
+Das *Produktmaß* $\mu$ ist definiert als
 
 $$
-	\tilde{\mu} = \mu_1 \otimes \mu_2
+	\mu = \bigotimes_{i=1}^n \mu_i
 $$

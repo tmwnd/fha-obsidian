@@ -1,4 +1,4 @@
-Sei $\alpha \gt 0$, $\lambda \gt 0$, $t \in (0, \infty)$ , die Gamma-Funktion $\Gamma$ mit
+Sei $\alpha \gt 0$, $\lambda \gt 0$, $t \in (0, \infty)$ , die Gamma-[[Funktion]] $\Gamma$ mit
 
 $$
 	\Gamma(z) = \int_0^\infty t^{z-1}e^{-t} dt

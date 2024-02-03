@@ -5,5 +5,5 @@ Sei $n \in \mathbb{N}$, $((\Omega_n, \mathcal{A}_n))_{n \in \{ 1, \dots, n \}}$ 
 Die *Produkt-$\sigma$-Algebra* $\mathcal{A}$ ist definiert als die $\sigma$-[[sigma-Algebra|Algebra]] auf $\mathscr{S}$
 
 $$
-	\mathcal{A} = \bigotimes_{i = 1}^n A_i = \sigma(\mathscr{S})
+	\mathcal{A} = \bigotimes_{i = 1}^n \mathcal{A}_i = \sigma(\mathscr{S})
 $$

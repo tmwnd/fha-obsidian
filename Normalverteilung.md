@@ -27,3 +27,48 @@ Sei $X \sim \mathcal{N}(\mu, \sigma^2)$ eine [[Zufallsvariable]].
 Es gilt
 - Der [[Erwartungswert]] ist $E[X] = \mu$
 - Die [[Varianz]] ist $\text{Var}(X) = \sigma^2$
+
+---
+
+Sei $n \in \mathbb{N}$, $(X_i)_{i \in \{ 1, \dots, n \}}$ [[Unabhängige Zufallsvariablen|unabhängige Zufallsvariablen]] mit
+- $X = (X_1, \dots, X_n)$
+- $\forall i \in \{ 1, \dots, n \} : X_i \sim N(0, 1)$
+- $x \in \mathbb{R}^n$
+
+Die $\lambda^n$-[[lambda-Dichte|Dichte]] $f$ von $X$ ist
+
+$$
+	f(x) = \left( \frac{1}{2\pi}^\frac{n}{2} \right) \cdot e^{-\frac{1}{2}|x|^n}
+$$
+
+Schreibe $X \sim \mathcal{N}_n(\vec{0}, I_n)$ mit
+- $\vec{0} \in \mathbb{R}^d$ dem Nullvektor
+- $I_n \in \mathbb{R}^{n \times n}$ der Einheitsmatrix
+
+---
+
+Sei $n \in \mathbb{N}$, $X \sim \mathcal{N}_n(\vec{0}, I_n)$ ein $n$-dimensional standardnormalverteilter [[Zufallsvariable|Zufallsvektor]], $A \in \mathbb{R}^{n \times n}$ regulär, $b \in \mathbb{R}^n$, $Y = AX + b$ mit
+- $y \in \mathbb{R}^n$
+
+Es gilt mit dem [[Erwartungswert]] und der [[Covarianz]]
+- $E[Y] = b$
+- $\text{Cov}(Y) = \Sigma = AA^T$
+
+Die $\lambda^n$-[[lambda-Dichte|Dichte]] $f$ von $Y$ ist
+
+$$
+	f(y) = \left( \frac{1}{2\pi} \right)^\frac{n}{2} \cdot \frac{1}{\sqrt{\text{det}(\Sigma)}} \cdot e^{-\frac{1}{2} \cdot (y-b) \cdot \Sigma^{-1}(y-b)}
+$$
+
+$Y$ ist [[Unabhängige Zufallsvariablen|unabhängig]], falls
+- $\Sigma$ eine Diagonalmatrix ist
+
+Schreibe $X \sim \mathcal{N}_n(b, \Sigma)$
+
+---
+
+Sei $n \in \mathbb{N}$, $X \sim \mathcal{N}_n(b, \Sigma)$ ein [[Zufallsvariable|Zufallsvektor]].
+
+Es gilt
+- Der [[Erwartungswert]] ist $E[X] = b$
+- Die [[Varianz]] ist $\text{Var}(X) = \Sigma$

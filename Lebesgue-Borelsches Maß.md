@@ -43,7 +43,7 @@ $$
 
 ---
 
-Jede stetige Funktion $f : \mathbb{R}^d \to \mathbb{R}^p$ ist $(\mathcal{L}^d, \mathcal{L}^p)$-[[A-S-Messbarkeit|messbar]].
+Jede stetige [[Funktion]] $f : \mathbb{R}^d \to \mathbb{R}^p$ ist $(\mathcal{L}^d, \mathcal{L}^p)$-[[A-S-Messbarkeit|messbar]].
 
 ---
 

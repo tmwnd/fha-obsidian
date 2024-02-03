@@ -1,1 +1,1 @@
-Ein *Banachraum* ist ein vollständig normierter Vektorraum
+Ein *Banachraum* ist ein vollständig normierter Vektorraum.
