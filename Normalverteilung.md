@@ -30,7 +30,7 @@ Es gilt
 
 ---
 
-Sei $n \in \mathbb{N}$, $(X_i)_{i \in \{ 1, \dots, n \}}$ [[Unabhängige Zufallsvariablen|unabhängige Zufallsvariablen]] mit
+Sei $n \in \mathbb{N}$, $(X_i)_{i \in \{ 1, \dots, n \}}$ [[Unabhängige Zufallsvariablen|unabhängige]] [[Zufallsvariable|Zufallsvariablen]] mit
 - $X = (X_1, \dots, X_n)$
 - $\forall i \in \{ 1, \dots, n \} : X_i \sim N(0, 1)$
 - $x \in \mathbb{R}^n$
@@ -50,7 +50,7 @@ Schreibe $X \sim \mathcal{N}_n(\vec{0}, I_n)$ mit
 Sei $n \in \mathbb{N}$, $X \sim \mathcal{N}_n(\vec{0}, I_n)$ ein $n$-dimensional standardnormalverteilter [[Zufallsvariable|Zufallsvektor]], $A \in \mathbb{R}^{n \times n}$ regulär, $b \in \mathbb{R}^n$, $Y = AX + b$ mit
 - $y \in \mathbb{R}^n$
 
-Es gilt mit dem [[Erwartungswert]] und der [[Covarianz]]
+Es gilt mit dem [[Erwartungswert]] $E$ und der [[Covarianz]] Cov
 - $E[Y] = b$
 - $\text{Cov}(Y) = \Sigma = AA^T$
 

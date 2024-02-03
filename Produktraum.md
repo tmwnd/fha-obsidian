@@ -1,4 +1,4 @@
-Sei $n \in \mathbb{N}$, $((R_i, \mathscr{S}_i))_{i \in \{ 1, \dots, n \}}$ [[Messraum|Messräume]], $(X_i)_{i \in \{ 1, \dots, n \}}$ [[Unabhängige Zufallsvariablen|unabhängige Zufallsvariablen]] auf $((R_i, \mathscr{S}_i))_{i \in \{ 1, \dots, n \}}$.
+Sei $n \in \mathbb{N}$, $((R_i, \mathscr{S}_i))_{i \in \{ 1, \dots, n \}}$ [[Messraum|Messräume]], $(X_i)_{i \in \{ 1, \dots, n \}}$ [[Unabhängige Zufallsvariablen|unabhängige]] [[Zufallsvariable|Zufallsvariablen]] auf $((R_i, \mathscr{S}_i))_{i \in \{ 1, \dots, n \}}$.
 
 Der *Produktraum* ist definiert als [[Maßraum|Wahrscheinlichkeitsraum]] $(R, \mathscr{S}, P)$ mit
 - $P_i = P^{X_i}$ der [[Verteilungsfunktion]] auf $(R_i, \mathscr{S}_i)$
