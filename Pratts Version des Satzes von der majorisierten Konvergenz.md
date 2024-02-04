@@ -1,4 +1,4 @@
-Sei $f, g, G, (f_n)_{n \in \mathbb{N}}, (g_n)_{n \in \mathbb{N}}, (G_n)_{n \in \mathbb{N}} : (\Omega, \mathcal{A}) \to (\mathbb{R}, \mathcal{L})$ mit
+Sei $f, g, G, (f_n)_{n \in \mathbb{N}}, (g_n)_{n \in \mathbb{N}}, (G_n)_{n \in \mathbb{N}} : (\Omega, \mathcal{A}) \to (\mathbb{R}, \mathcal{L})$ [[Funktion|messbar]] mit
 - $\forall n \in \mathbb{N} : g_n \le f_n \le G_n$
 - $\forall n \in \mathbb{N} : g, G, g_n, G_n$ sind $\mu$-[[mu-Integral einer Funktion|integrierbar]]
 - $\liminf_{n \to \infty} f_n = f$

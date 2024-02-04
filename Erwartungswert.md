@@ -1,4 +1,4 @@
-Sei $(\Omega, \mathcal{A}, P)$ ein [[Maßraum|Wahrscheinlichkeitsraum]], $X : (\Omega, \mathcal{A}) \to (\overline{R}, \overline{\mathcal{L}})$ eine [[Zufallsvariable]] mit
+Sei $(\Omega, \mathcal{A}, P)$ ein [[Maßraum|Wahrscheinlichkeitsraum]], $\overline{\mathcal{L}}$ die Borelsche $\sigma$-[[Borelsche sigma-Algebra|Algebra]] , $X : (\Omega, \mathcal{A}) \to (\overline{R}, \overline{\mathcal{L}})$ eine [[Zufallsvariable]] mit
 - $\int X^+ dP \lt \infty$ oder
 - $\int x^- dP \lt \infty$
 
@@ -10,7 +10,7 @@ $$
 
 ---
 
-Sei $(\Omega, \mathcal{A}, P)$ ein [[Maßraum|Wahrscheinlichkeitsraum]], $X : (\Omega, \mathcal{A}) \to (\overline{R}, \overline{\mathcal{L}})$ eine [[Zufallsvariable]] mit der $\lambda$-[[lambda-Dichte|Dichte]] $f : (\mathbb{R}, \mathcal{L}) \to (\mathbb{R}, \mathcal{L})$, $g : (\mathbb{R}, \mathcal{L}) \to (\mathbb{R}, \mathcal{L})$ eine nicht-negative [[Funktion]].
+Sei $(\Omega, \mathcal{A}, P)$ ein [[Maßraum|Wahrscheinlichkeitsraum]], $\mathcal{L}$ die Borelsche $\sigma$-[[Borelsche sigma-Algebra|Algebra]] , $X : (\Omega, \mathcal{A}) \to (\overline{R}, \overline{\mathcal{L}})$ eine [[Zufallsvariable]] mit der $\lambda$-[[lambda-Dichte|Dichte]] $f : (\mathbb{R}, \mathcal{L}) \to (\mathbb{R}, \mathcal{L})$, $g : (\mathbb{R}, \mathcal{L}) \to (\mathbb{R}, \mathcal{L})$ eine nicht-negative [[Funktion]].
 
 Es gilt mit dem $P$-[[P-Integral|Integral]] 
 
@@ -20,7 +20,7 @@ $$
 
 ---
 
-Sei $(\Omega, \mathcal{A}, P)$ ein [[Maßraum|Wahrscheinlichkeitsraum]], $X : (\Omega, \mathcal{A}) \to (\overline{R}, \overline{\mathcal{L}})$ eine diskret verteilte [[Zufallsvariable]], $\delta_a$ das [[Dirac-Maß]], $g : (R, \mathscr{S}) \to (\overline{\mathbb{R}}, \overline{\mathcal{L}})$ eine nicht-negative [[Funktion]] und $(R, \mathscr{S})$ ein [[Messraum]] mit
+Sei $(\Omega, \mathcal{A}, P)$ ein [[Maßraum|Wahrscheinlichkeitsraum]], $\mathcal{L}$ die Borelsche $\sigma$-[[Borelsche sigma-Algebra|Algebra]] , $X : (\Omega, \mathcal{A}) \to (\overline{R}, \overline{\mathcal{L}})$ eine diskret verteilte [[Zufallsvariable]], $\delta_a$ das [[Dirac-Maß]], $g : (R, \mathscr{S}) \to (\overline{\mathbb{R}}, \overline{\mathcal{L}})$ eine nicht-negative [[Funktion]] und $(R, \mathscr{S})$ ein [[Messraum]] mit
 - $\forall x \in R : \{ x \} \in \mathscr{S}$
 - $\exists S \in \mathscr{S} : P^X(S) = P(X \in S) = 1$
 

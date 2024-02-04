@@ -1,4 +1,4 @@
-Sei $B \in \mathcal{L}^d$ eine [[Borelsche sigma-Algebra|Borellmenge]], $T : \mathbb{R}^d \to \mathbb{R}^d$ eine geeignete $(\mathcal{L}^d, \mathcal{L}^d)$-[[A-S-Messbarkeit|messbare]] Transformation mit
+Sei $\mathcal{L}^d$ die Borelsche $\sigma$-[[Borelsche sigma-Algebra|Algebra]], $B \in \mathcal{L}^d$ eine [[Borelsche sigma-Algebra|Borellmenge]], $T : \mathbb{R}^d \to \mathbb{R}^d$ eine geeignete $(\mathcal{L}^d, \mathcal{L}^d)$-[[A-S-Messbarkeit|messbare]] Transformation mit
 - $T(B) \in \mathcal{L}^d$
 
 Es gilt für die $\lambda^d$-Dichte

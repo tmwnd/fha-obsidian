@@ -10,7 +10,7 @@ $P$ ist eindeutig auf $\mathcal{L}$ bestimmt.
 
 ---
 
-Sei $\mu$ ein [[Maß|endliches]] [[Maß]] auf $\mathcal{L}^d$ mit
+Sei $\mu$ ein [[Maß|endliches]] [[Maß]] auf der Borelschen $\sigma$-[[Borelsche sigma-Algebra|Algebra]] $\mathcal{L}^d$ mit
 - $S = \prod_{i = 1}^d (a_1, b_1]$
 - $S_{(x_1, \dots, x_d)} = \prod_{i = 1}^d (-\infty, x]$
 

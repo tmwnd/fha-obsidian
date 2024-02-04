@@ -1,4 +1,4 @@
-Sei $\mu$ ein [[Maß]], $f : (\Omega, \mathcal{A}) \to (\overline{R}, \overline{\mathcal{L}})$.
+Sei $\mu$ ein [[Maß]], $f : (\Omega, \mathcal{A}) \to (\overline{R}, \overline{\mathcal{L}})$ [[Funktion|messbar]].
 
 Es gilt
 

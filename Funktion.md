@@ -27,7 +27,7 @@ Es gilt
 
 ---
 
-Die Menge aller messbaren Funktionen ist definiert als
+Die Menge aller messbaren Funktionen ist mit der Borelschen $\sigma$-[[Borelsche sigma-Algebra|Algebra]] $\mathcal{L}$ definiert als
 
 $$
 	\mathcal{M} = \mathcal{M}(\Omega, \mathcal{A}) = \{ f, f : (\Omega, \mathcal{A}) \to (\overline{\mathbb{R}}, \overline{\mathcal{L}}) \}
@@ -71,7 +71,7 @@ Den reelen Vektorraum der primitiven Funktionen auf dem [[Messraum]] $(\Omega, \
 
 ---
 
-Sei $(\Omega, \mathcal{A}, \mu)$ ein [[Maßraum]], $N \in \mathcal{A}$ eine $\mu$-[[mu-Nullmengen|Nullmenge]] mit
+Sei $(\Omega, \mathcal{A}, \mu)$ ein [[Maßraum]], $N \in \mathcal{A}$ eine $\mu$-[[mu-Nullmengen|Nullmenge]], $\mathcal{L}$ die Borelsche $\sigma$-[[Borelsche sigma-Algebra|Algebra]]  mit
 
 Eine Funktion $g$ ist *$\mu$-[[mu-Nullmengen|f. ü.]] definiert*, falls
 - $g : (N^C, \mathcal{A}_{N^C}) \to (\overline{\mathbb{R}}, \overline{\mathcal{L}})$ $\mu$-[[mu-Integral|integrierbar]] ist
