@@ -72,3 +72,23 @@ Sei $n \in \mathbb{N}$, $X \sim \mathcal{N}_n(b, \Sigma)$ ein [[Zufallsvariable|
 Es gilt
 - Der [[Erwartungswert]] ist $E[X] = b$
 - Die [[Varianz]] ist $\text{Var}(X) = \Sigma$
+
+---
+
+Sei $X$ ein $d$-dimensionaler [[Zufallsvariable|Zufallsvektor]], $\mu, z \in \mathbb{R}^d$, $\Sigma \in \mathbb{R}^{d \times d}$ eine symmetrisch, positiv semidifinite Matrix.
+
+$X$ heißt *normalverteilt*, falls die [[Fourier-Transformierte]] $\varphi_X$ definiert ist als
+
+$$
+	\varphi_X(z) = e^{i\mu^Tz-\frac{1}{2}z^T\Sigma z}
+$$
+
+---
+
+Sei $X$ ein $d$-dimensionaler [[Zufallsvariable|Zufallsvektor]].
+
+$X$ heißt *normalverteilt*, falls
+
+$$
+	\forall k \in \mathbb{R}^d : k^T X \sim \mathcal{N}(\vec{0}, I_d)
+$$

@@ -1,0 +1,9 @@
+Sie $n \in \mathbb{N}$, $z \in \mathbb{R}$, $X$ eine reele [[Zufallsvariable]] mit der [[Fourier-Transformierte|Fourier-Transformierten]] $\varphi$ und
+- dem [[Erwartungswert]] $E[|X|^n] \lt \infty$
+- $z \to 0$
+
+Es gilt
+
+$$
+	\varphi(z) = \sum_{k=0}^n \varphi^{(k)}(0)\frac{z^k}{k!} + \mathcal{O(|z|^n)}
+$$

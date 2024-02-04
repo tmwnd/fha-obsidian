@@ -74,5 +74,5 @@ Den reelen Vektorraum der primitiven Funktionen auf dem [[Messraum]] $(\Omega, \
 Sei $(\Omega, \mathcal{A}, \mu)$ ein [[Maßraum]], $N \in \mathcal{A}$ eine $\mu$-[[mu-Nullmengen|Nullmenge]], $\mathcal{L}$ die Borelsche $\sigma$-[[Borelsche sigma-Algebra|Algebra]]  mit
 
 Eine Funktion $g$ ist *$\mu$-[[mu-Nullmengen|f. ü.]] definiert*, falls
-- $g : (N^C, \mathcal{A}_{N^C}) \to (\overline{\mathbb{R}}, \overline{\mathcal{L}})$ $\mu$-[[mu-Integral|integrierbar]] ist
-- $\tilde{g}(\omega) = \begin{cases} g(w), \quad \omega \in N^C \\ 0, \quad\quad\ \ \omega \in N \end{cases}$ $\mu$-[[mu-Integral|integrierbar]] ist
+- $g : (N^C, \mathcal{A}_{N^C}) \to (\overline{\mathbb{R}}, \overline{\mathcal{L}})$ $\mu$-[[mu-Integrierbarkeit|integrierbare]] ist
+- $\tilde{g}(\omega) = \begin{cases} g(w), \quad \omega \in N^C \\ 0, \quad\quad\ \ \omega \in N \end{cases}$ $\mu$-[[mu-Integrierbarkeit|integrierbare]] ist

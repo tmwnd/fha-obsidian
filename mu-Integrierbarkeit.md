@@ -1,14 +1,3 @@
-Sei $f \in \mathcal{M}_+$ eine [[Funktion|messbare]] [[Funktion]], $(f_n)_{n \in \mathbb{N}} \in \mathcal{P}+$ [[Funktion|primitive]] [[Funktion|Funktionen]] mit
-- $f_n \uparrow f$
-
-Das $\mu$-[[mu-Integral|Integral]] auf $f$ ist definiert als
-
-$$
-	\int f d\mu = \sup_{n \in \mathbb{N}} \int f_n d\mu
-$$
-
----
-
 Sei $f \in \mathcal{M}$ eine [[Funktion|messbare]] [[Funktion]].
 
 $f$ hat ein *existierendes* $\mu$-[[mu-Integral|Integral]], falls
@@ -42,11 +31,13 @@ $$
 
 Sei $f \in \mathcal{M}$ eine [[Funktion|messbare]] [[Funktion]].
 
-$f$ $\mu$-integrierbar $\iff$ $|f|$ $\mu$-integrierbar.
+Es gilt
+- $f$ $\mu$-integrierbar $\iff$ $|f|$ $\mu$-integrierbar.
 
 ---
 
 Sie $f, g \in \mathcal{M}$ [[Funktion|messbare]] [[Funktion|Funktionen]] mit
 - $|f| \le |g|$
 
-$g$ $\mu$-integrierbar $\implies$ $f$ $\mu$-integrierbar
+Es gilt
+- $g$ $\mu$-integrierbar $\implies$ $f$ $\mu$-integrierbar

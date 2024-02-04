@@ -18,3 +18,14 @@ Es gilt
 ---
 
 Das $\mu$-Integral ist ein *positives* *lineares* *Funktional* auf dem reelen Vektorraum $\mathcal{L}(\Omega, \mathcal{A}, \mu) = \{ f \text{ reelwertig, messbar, } \mu \text{-integreirbar } \}$.
+
+---
+
+Sei $f \in \mathcal{M}_+$ eine [[Funktion|messbare]] [[Funktion]], $(f_n)_{n \in \mathbb{N}} \in \mathcal{P}+$ [[Funktion|primitive]] [[Funktion|Funktionen]] mit
+- $f_n \uparrow f$
+
+Das $\mu$-[[mu-Integral|Integral]] auf $f$ ist definiert als
+
+$$
+	\int f d\mu = \sup_{n \in \mathbb{N}} \int f_n d\mu
+$$
