@@ -1,6 +1,6 @@
 Sei $\mathcal{H}$ ein [[Hypothese|Hypothesenset]], $C \in \mathbb{R}$.
 
-Das *eingeschränkte* [[Hypothese|Hypothesenset]] $\mathcal{H}(C)$ ist definiert als
+Das *weich eingeschränkte* [[Hypothese|Hypothese]] $\mathcal{H}(C)$ ist definiert als
 
 $$
 	\mathcal{H}(C) = \left\{ h \in \mathcal{H} \mid \sum_{i=1}^d h_i^2 \le C \right\}

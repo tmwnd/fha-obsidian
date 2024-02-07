@@ -8,7 +8,7 @@ $d_{VC}(\mathcal{H}) = \infty$, falls für die [[Wachstumsfunktion]]  $m_\mathca
 
 ---
 
-Sei $\mathcal{H}$ ein [[Hypothese|Hypothesenset]], $k$ der [[Bruchpunkt]] von $\mathcal{H}$.
+Sei $\mathcal{H}$ ein [[Hypothese|Hypothese]], $k$ der [[Bruchpunkt]] von $\mathcal{H}$.
 
 Es gilt
 - $d_{VC}(\mathcal{H}) = k - 1$

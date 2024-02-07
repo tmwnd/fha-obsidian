@@ -1,13 +1,9 @@
-[[Weight Decay]]
+![[Weight Decay]]
 
-[[Weiche Beschränkung]]
+![[Weiche Beschränkung]]
 
-[[Harte, strikte Beschränkung]]
+![[Harte, strikte Beschränkung]]
 
-[[Low-order Regularisierer]]
+![[Regularisierung mit Polynomen]]
 
-[[High-order Regularisierer]]
-
-[[Tikhonov-Regularisierer]]
-
-[[Regularisierung über den erweiterten Fehler]]
+![[Tikhonov-Regularisierer]]

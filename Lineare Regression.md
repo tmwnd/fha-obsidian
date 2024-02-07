@@ -18,4 +18,12 @@ $$
 
 ---
 
-TODO
+```py
+def lin_reg(X, y):
+	X = np.concatenate([np.ones((X.shape[0], 1)), X], axis=1)
+	X_inv = np.linalg.pinv(X)
+
+	return X_inv @ y
+
+w_lin = lin_reg(X, y)
+```
