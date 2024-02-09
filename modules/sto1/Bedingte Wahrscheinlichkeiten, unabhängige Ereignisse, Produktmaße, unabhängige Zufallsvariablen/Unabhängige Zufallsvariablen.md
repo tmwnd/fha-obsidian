@@ -1,0 +1,8 @@
+![[Bemerkung 4.3.1]]
+![[Bemerkung 4.3.2]]
+![[Randverteilung]]
+![[mu-Dichte]]
+![[Unabhängige Zufallsvariablen]]
+![[Covarianz]]
+![[Korrelationskoeffizient]]
+![[Satz 4.7]]

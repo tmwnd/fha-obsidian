@@ -1,4 +1,4 @@
-Sei $\delta_n$ das [[Dirac-Maß]].
+Sei $\delta_n$ das [[Dirac-Maß, Einpunktmaß|Dirac-Maß]].
 
 $\tau$ heißt *Zählmaß* auf $(\mathbb{N}, \mathcal{P}(\mathbb{N}))$ und ist definiert als
 

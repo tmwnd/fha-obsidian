@@ -12,7 +12,7 @@ $$
 Sei $\mathcal{H}$ ein [[Hypothese|Hypothesenset]], $f$ eine [[Target-Function]] mit
 - $\overline{g} = \mathbb{E}_\mathcal{D}[g^{(\mathcal{D})}(x)]$ die gemittelte finale Hypothese
 
-Die *Varianz* von $H$ ist definiert als
+Die *Varianz* von $\mathcal{H}$ ist definiert als
 
 $$
 	\mathbb{E}_x[\mathbb{E}_\mathcal{D}[(g^{(\mathcal{D})}(x) - \overline{g}(x))^2]]

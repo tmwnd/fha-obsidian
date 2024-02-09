@@ -1,0 +1,1 @@
+Wenn ein Datensatz den Lernprozess in irgendeiner Weise beeinflusst hat, dann wurde seine Fähigkeit zur Einschätzung der Lernleistung ([[Out-Sample Error]]) eingeschränkt.
