@@ -1,4 +1,4 @@
-Sei $\mathcal{A}$ eine $\sigma$-[[sigma-Algebra|Algebra]].
+Sei $\mathcal{A}$ eine $\sigma$-[[sigma-Algebra|Algebra]] auf $\Omega$.
 
 $\mathcal{A}$ ist *translationsinvariant*, falls
 - $\forall S \in \mathcal{A}, x \in \mathbb{R} : S + x = \{ y + x, y \in S \} \in \mathcal{A}$
@@ -8,7 +8,7 @@ $\mathcal{A}$ ist *spiegelungsinvariant*, falls
 
 ---
 
-Sei $\mathcal{A}$ eine tranlations- bzw. spiegelungsinvariante $\sigma$-[[sigma-Algebra|Algebra]] und $\mu$ ein [[Maß]] auf $\mathcal{A}$.
+Sei $\mathcal{A}$ eine tranlations- bzw. spiegelungsinvariante $\sigma$-[[sigma-Algebra|Algebra]] auf $\Omega$ und $\mu$ ein [[Maß]] auf $\mathcal{A}$.
 
 $\mu$ ist *translationsinvariant*, falls
 - $\forall A \in \mathcal{A}, x \in \mathbb{R} : \mu(A + x) = \mu(A)$

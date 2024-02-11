@@ -1,15 +1,9 @@
 ![[Gleichverteilung]]
-
 ![[Normalverteilung]]
-
 ![[Exponentialverteilung]]
-
 ![[Gammaverteilung]]
-
 ![[Cauchy-Verteilung]]
-
 ![[Binomialverteilung]]
-
 ![[Multinomialverteilung]]
 
 Sei $X$ ein $d$-dimensionaler Zufallsvektor, $P^X$ eine diskrete Verteiltung.

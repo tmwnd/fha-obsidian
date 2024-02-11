@@ -1,4 +1,4 @@
-Sei $\mathcal{A}$ eine $\sigma$-[[sigma-Algebra|Algebra]], $A, B \in \mathcal{A}$, $P$ ein [[Maß|Wahrscheinlichkeitsmaß]] mit
+Sei $\mathcal{A}$ eine $\sigma$-[[sigma-Algebra|Algebra]] auf $\Omega$, $A, B \in \mathcal{A}$, $P$ ein [[Maß|Wahrscheinlichkeitsmaß]] mit
 - $P(B) \gt 0$
 
 Die *bedingte Wahrscheinlichkeit* von $A$ unter $B$ ist definiert als

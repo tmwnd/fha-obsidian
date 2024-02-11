@@ -14,7 +14,7 @@ Sei $L^p \subseteq \mathcal{L}^p$ ein normierter Vektorraum mit
 
 ---
 
-Ein $\mathcal{L}^p$-Raum besteht aus allen $p$-fach integrierbaren [[Funktion|Funktionen]].
+Ein $\mathcal{L}^p$-Raum besteht aus allen $p$-fach integrierbaren [[Funktion|messbaren]] [[Funktion|Funktionen]].
 
 ---
 

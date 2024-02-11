@@ -28,14 +28,14 @@ Seien $(X_n)_{n \in \mathbb{N}}$ [[Unabhängige Zufallsvariablen|unabhängige]] 
 - dem [[Erwartungswert]] $E[X]$ endlich
 - der [[Varianz]] $\text{Var}(X) \gt 0$ und endlich
 
-Es gilt bzgl. der [[Normalverteilung|Standardnormalverteilung]] $Z \sim \mathcal{N}(0, 1)$, falls
+$Z$ ist [[Normalverteilung|standardnormalverteilt]], falls
 - $\sigma Z + \mu \sim \mathcal{N}(\mu, \sigma^2)$
 
 ---
 
 Seien $(X_n)_{n \in \mathbb{N}}$ [[Unabhängige Zufallsvariablen|unabhängige]] und identisch verteilte, reele [[Zufallsvariable|Zufallsvariablen]] mit
 - dem [[Erwartungswert]] $\mu$ endlich
-- der [[Varianz]] $\sigma^2 = 0$
+- der [[Varianz]] $\text{Var}(X)  = 0$
 
 Es gilt
 - $\forall i \in \mathbb{N} : X_i \equiv \mu$ fast sicher

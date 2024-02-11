@@ -7,4 +7,4 @@ Sei $d \in \mathbb{N}$, $\mathcal{L}^d$ die Borelsche $\sigma$-[[Borelsche sigma
 - $C$ abgeschlossen
 - $f$ gleichmäßig stetig und beschränkt
 
-$P$ ist durch die Werte $P(C)$ bzw. durch $\int f dP$ eindeutig bestimmt.
+$P$ ist durch die Werte $P(C)$ bzw. durch das $P$-[[P-Integral|Integral]] $\int f dP$ eindeutig bestimmt.

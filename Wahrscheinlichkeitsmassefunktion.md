@@ -8,5 +8,7 @@ Eine [[Funktion]] $p : \Omega \to \mathbb{R}_+$ heißt *Wahrscheinlichkeitsmasse
 
 ---
 
+Sei $p$ eine Wahrscheinlichkeitsmassefunktion.
+
 Das [[Maß|Wahrscheinlichkeitsmaß]] $P$ auf $(\Omega, \mathcal{P}(\Omega))$ ist $p$ fest zugeordnet, eindeutig und es gilt
 - $\forall \omega \in \Omega : P(\{ \omega \}) = p(\omega)$

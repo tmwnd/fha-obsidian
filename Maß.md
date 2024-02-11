@@ -1,4 +1,4 @@
-Sei $\mathcal{A}$ eine $\sigma$-[[sigma-Algebra|Algebra]].
+Sei $\mathcal{A}$ eine $\sigma$-[[sigma-Algebra|Algebra]] auf $\Omega$.
 
 Eine $\sigma$-additive [[Abbildung]] $\mu : \mathcal{A} \to \overline{\mathbb{R}}_+$ heißt *Maß* auf $\mathcal{A}$
 
@@ -27,7 +27,7 @@ Sei $\Omega \ne \emptyset$, $\mathcal{A}$ eine $\sigma$-[[sigma-Algebra|Algebra]
 Ein Wahrscheinlichkeitsmaß $P : \mathcal{A} \to \overline{\mathbb{R}}_+$$ heißt *diskret*, falls für eine abzählbare Menge $\Omega_0 \subseteq \Omega$ gilt
 - $P(\Omega_0) = 1$
 
-und hat die Form
+und hat durch das [[Dirac-Maß, Einpunktmaß|Dirac-Maß]] $\delta$ die Form
 
 $$
 	P = \sum_{\omega \in \Omega_0} P(\{ \omega \}) \delta_\omega

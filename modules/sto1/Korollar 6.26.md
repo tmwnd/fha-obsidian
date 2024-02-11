@@ -1,4 +1,4 @@
-Sie $n \in \mathbb{N}$, $z \in \mathbb{R}$, $X$ eine reele [[Zufallsvariable]] mit der [[Fourier-Transformierte|Fourier-Transformierten]] $\varphi$ und
+Sie $n \in \mathbb{N}$, $(z_n)_{n \in \mathbb{N}} \in \mathbb{R}$, $X$ eine reele [[Zufallsvariable]] mit der [[Fourier-Transformierte|Fourier-Transformierten]] $\varphi$ und
 - dem [[Erwartungswert]] $E[|X|^n] \lt \infty$
 - $z \to 0$
 

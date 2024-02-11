@@ -22,5 +22,5 @@ Schreibe $X \sim \text{Exp}(\lambda)$
 Sei $X \sim \text{Exp}(\lambda)$ eine [[Zufallsvariable]].
 
 Es gilt
-- Der [[Erwartungswert]] ist $E[X] = \frac{1}{\lambda}$
-- Die [[Varianz]] ist $\text{Var}(X) = \frac{1}{\lambda^2}$
+- Der [[Erwartungswert]] von $X$ ist $E[X] = \frac{1}{\lambda}$
+- Die [[Varianz]] von $X$ ist $\text{Var}(X) = \frac{1}{\lambda^2}$

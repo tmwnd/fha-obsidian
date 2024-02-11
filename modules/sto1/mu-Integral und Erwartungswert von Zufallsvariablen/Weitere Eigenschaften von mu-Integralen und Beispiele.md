@@ -3,4 +3,4 @@
 ![[Korollar 3.10]]
 ![[nu-Nullmenge]]
 ![[Transformationssatz für Integrale]]
-![[Integrale]]]
+![[Integrale]]

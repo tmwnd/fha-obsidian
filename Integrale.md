@@ -1,13 +1,7 @@
 ![[mu-Integral]]
-
 ![[nu-Integral]]
-
 ![[tau-Integral]]
-
-![[delta-Integral]]
-
+![[delta-a-Integral]]
 ![[lambda-a-b-Integral]]
-
 ![[lambda-Integral]]
-
 ![[P-Integral]]

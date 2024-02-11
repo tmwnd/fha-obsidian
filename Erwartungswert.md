@@ -1,6 +1,6 @@
 Sei $(\Omega, \mathcal{A}, P)$ ein [[Maßraum|Wahrscheinlichkeitsraum]], $\overline{\mathcal{L}}$ die Borelsche $\sigma$-[[Borelsche sigma-Algebra|Algebra]] , $X : (\Omega, \mathcal{A}) \to (\overline{R}, \overline{\mathcal{L}})$ eine [[Zufallsvariable]] mit
 - $\int X^+ dP \lt \infty$ oder
-- $\int x^- dP \lt \infty$
+- $\int X^- dP \lt \infty$
 
 Der *Erwartungswert* von $X$ bzw. $P^X$ ist mit dem $P$-[[P-Integral|Integral]] definiert als
 

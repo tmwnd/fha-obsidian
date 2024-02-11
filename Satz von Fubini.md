@@ -14,7 +14,7 @@ $$
 ---
 
 Seien $((\Omega_i, \mathcal{A}_i, \mu_i))_{i \in \{ 1, 2 \}}$ [[Maßraum|Maßräume]], $f : (\Omega_1 \times \Omega_2, \mathcal{A}_1 \otimes \mathcal{A_2}) \to (\overline{\mathbb{R}}, \overline{\mathcal{L}})$ eine [[Funktion|messbare]] [[Funktion]] mit
-- $f$ $\mu_1 \otimes \mu_2$-[[mu-Integrierbarkeit|integrierbare]]
+- $f$ $\mu_1 \otimes \mu_2$-[[mu-Integrierbarkeit|integrierbar]]
 
 Es gilt
 - $f_{\omega_1}$ ist für $\mu_1$-[[mu-Nullmengen|fast alle]] $\omega_1 \in \Omega_1$ $\mu_2$-[[mu-Integrierbarkeit|integrierbare]]

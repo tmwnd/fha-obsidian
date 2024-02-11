@@ -13,5 +13,4 @@ $$
 $$
 
 ![[Polynomieller Kernel]]
-
 ![[Gaußscher RBF Kernel]]

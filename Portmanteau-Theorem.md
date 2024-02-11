@@ -10,7 +10,7 @@ $$
 - b) $\forall O \subseteq \mathbb{R}^d$ mit $O$ offen gilt
 
 $$
-	\liminf{n \to \infty} P_n(O) \ge P(O)
+	\liminf_{n \to \infty} P_n(O) \ge P(O)
 $$
 
 - c) $\forall A \subseteq \mathbb{R}^d$ mit $A$ abgeschlossen gilt

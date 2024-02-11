@@ -18,15 +18,15 @@ Schreibe $X \sim \mathcal{N}(\mu, \sigma^2)$
 
 Sei $X \sim \mathcal{N}(0, 1)$.
 
-Die [[Verteilungsfunktion]] von $X$ heißt *Standardnormalverteilt*.
+Die [[Verteilungsfunktion]] von $X$ heißt *standardnormalverteilt*.
 
 ---
 
 Sei $X \sim \mathcal{N}(\mu, \sigma^2)$ eine [[Zufallsvariable]].
 
 Es gilt
-- Der [[Erwartungswert]] ist $E[X] = \mu$
-- Die [[Varianz]] ist $\text{Var}(X) = \sigma^2$
+- Der [[Erwartungswert]] von $X$ ist $E[X] = \mu$
+- Die [[Varianz]] von $X$ ist $\text{Var}(X) = \sigma^2$
 
 ---
 

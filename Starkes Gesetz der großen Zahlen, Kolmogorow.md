@@ -2,7 +2,7 @@ Sei $(\Omega, \mathcal{A}, P)$ ein [[Maßraum|Warhscheinlichkeitsraum]]. $(X_n)_
 - $\forall n \in \mathbb{N} : E[X_n]$ existiert und ist endlich
 - $\forall n \in \mathbb{N} : E[X_n] = \mu$
 
-Es gilt $P$-[[Konvergenz P-fast sicher|f. s.]]
+Das *starke Gesetz der großen Zahlen* gilt und es folgt $P$-[[Konvergenz P-fast sicher|f. s.]]
 
 $$
 	\frac{1}{n} \sum_{k=1}^n X_k \stackrel{P\text{-f. s.}}{\longrightarrow} \mu

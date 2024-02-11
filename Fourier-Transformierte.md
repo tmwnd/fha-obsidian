@@ -8,17 +8,16 @@ $$
 
 ---
 
-Sei $X$ein $d$-dimensionaler [[Zufallsvariable|Zufallsvektor]], $\varphi_X$ die Fourier-Transformierte von $X$
+Sei $X$ ein $d$-dimensionaler [[Zufallsvariable|Zufallsvektor]], $\varphi_X$ die Fourier-Transformierte von $X$
 
 Es gilt
 - $\varphi_X(\vec{0}) = 1$
 - $\forall z \in \mathbb{R}^d : |\varphi_X(z)| \le 1$
 - $\varphi_X$ ist gleichmäßig stetig
 - $\varphi_Y(z) = e^{ib^Tz}\varphi_X(A^TX)$ mit
-	- $n \in \mathbb{N}$
+	- $Y = AX + b$ ein $n$-dimensionaler [[Zufallsvariable|Zufallsvektor]]
 	- $A \in \mathbb{R}^{n \times d}$
 	- $b \in \mathbb{R}^n$
-	- $Y = AX + b$ ein $n$-dimensionale [[Zufallsvariable|Zufallsvektor]]
 - $\overline{\varphi_X}$ ist die Fourier-Transformierte für $-X$
 
 ---

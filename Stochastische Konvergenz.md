@@ -14,8 +14,8 @@ Aus $X_n \stackrel{P\text{-f. s.}}{\longrightarrow} X$ $P$-[[Konvergenz P-fast s
 
 ---
 
-Sei $(\Omega, \mathcal{A}, P)$ ein [[Maßraum|Wahrscheinlichkeitsraum]], $X, (X_n)_{n \in \mathbb{N}}$ [[Zufallsvariable|Zufallsvariablen]] mit $P$-[[Konvergenz P-fast sicher|f. s.]]
-- $X_n \stackrel{P}{\longrightarrow} X$
+Sei $(\Omega, \mathcal{A}, P)$ ein [[Maßraum|Wahrscheinlichkeitsraum]], $X, (X_n)_{n \in \mathbb{N}}$ [[Zufallsvariable|Zufallsvariablen]] mit
+- $X_n \stackrel{P}{\longrightarrow} X$ konvergiert stochastisch
 
 Es existiert eine Teilfolge $(X_{n_k})_{k \in \mathbb{N}} \subseteq (X_n)_{n \in \mathbb{N}}$ mit $P$-[[Konvergenz P-fast sicher|f. s.]]
 - $X_{n_k} \stackrel{P\text{-f. s.}}{\longrightarrow} X$

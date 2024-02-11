@@ -1,6 +1,5 @@
 ![[Produkt-sigma-Algebra,  Kolmogorowsche sigma-Algebra]]
-![[Satz 4.2]]
+![[Bemerkung 4.2.1]]
 ![[Produktraum]]
-TODO
-![[Bemerkung 4.2]]
+![[Bemerkung 4.2.2]]
 ![[Satz von Fubini]]

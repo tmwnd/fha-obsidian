@@ -5,5 +5,5 @@ Sei $(\Omega, \mathcal{A}, P)$ ein [[Maßraum|Wahrscheinlichkeitsraum]], $\mathc
 Es gilt
 
 $$
-	P^X = \sum_{s \in \S} P(X = a) \delta_a = \sum_{a \in R} P(X = a) \delta_a
+	P^X = \sum_{s \in \S} P(X = s) \delta_R(a) = \sum_{a \in R} P(X = a)
 $$

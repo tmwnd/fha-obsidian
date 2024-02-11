@@ -1,5 +1,5 @@
 Seien $X, (X_n)_{n \in \mathbb{N}}$ $d$-dimensionale [[Zufallsvariable|Zufallsvektoren]] mit den [[Fourier-Transformierte|Fourier-Transformierten]] $\varphi, (\varphi_n)_{n \in \mathbb{N}}$ mit
-- $X_n \stackrel{V}{\longrightarrow} X$ [[Verteilungskonvergenz|verteilugnskonvergiert]]
+- $X_n \stackrel{V}{\longrightarrow} X$ [[Verteilungskonvergenz|verteilungskonvergent]]
 
 Es gilt
 

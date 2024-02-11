@@ -5,6 +5,6 @@
 ![[Minkowskische Ungleichung]]
 ![[Lp-Raum]]
 ![[Lemma 3.30]]
-![[Jensensche Ungleichung]]
 ![[Konvexität]]
 ![[Konkavität]]
+![[Jensensche Ungleichung]]

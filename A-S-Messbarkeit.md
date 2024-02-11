@@ -1,7 +1,7 @@
 Seien $(\Omega, \mathcal{A}), (R, \mathscr{S})$ [[Messraum|Messräume]].
 
 Die [[Abbildung]] $f : \Omega \to R$ heißt *$(\mathcal{A}, \mathscr{S})$-messbar*, falls
-- $\forall S \subseteq \mathscr{S} : f^{-1}(S) \subseteq A$
+- $\forall S \subseteq \mathscr{S} : f^{-1}(S) \subseteq \mathcal{A}$
 
 Schreibe $f : (\Omega, \mathcal{A}) \to (R, \mathscr{S})$
 
