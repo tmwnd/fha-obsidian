@@ -67,7 +67,7 @@ $$
 
 ---
 
-Den reelen Vektorraum der primitiven Funktionen auf dem [[Messraum]] $(\Omega, \mathcal{A})$ bezeichnen wir mit $\mathcal{P}(\Omega, \mathcal{A})$ bzw $\mathcal{P}$.
+Den reellen Vektorraum der primitiven Funktionen auf dem [[Messraum]] $(\Omega, \mathcal{A})$ bezeichnen wir mit $\mathcal{P}(\Omega, \mathcal{A})$ bzw $\mathcal{P}$.
 
 ---
 

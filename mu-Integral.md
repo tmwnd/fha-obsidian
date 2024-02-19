@@ -17,7 +17,7 @@ Es gilt
 
 ---
 
-Das $\mu$-Integral ist ein *positives* *lineares* *Funktional* auf dem reelen Vektorraum $\mathcal{L}(\Omega, \mathcal{A}, \mu) = \{ f \text{ reelwertig, messbar, } \mu \text{-integreirbar } \}$.
+Das $\mu$-Integral ist ein *positives* *lineares* *Funktional* auf dem reellen Vektorraum $\mathcal{L}(\Omega, \mathcal{A}, \mu) = \{ f \text{ reelwertig, messbar, } \mu \text{-integreirbar } \}$.
 
 ---
 

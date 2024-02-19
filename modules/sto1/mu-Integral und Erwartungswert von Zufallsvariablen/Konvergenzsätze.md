@@ -1,5 +1,5 @@
 ![[Beppo Levi, Satz der Monotonen Konvergenz]]
-![[Korollar 3.5]]
+![[modules/sto1/Korollar 3.5]]
 ![[Lemma von Fatou]]
 ![[Henri Lebesgue, Satz der majorisierten Konvergenz]]
 ![[Pratts Version des Satzes von der majorisierten Konvergenz]]

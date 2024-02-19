@@ -1,4 +1,4 @@
-Seien $b, (a_n)_{n \in \mathbb{N}}$ reele Zahlen mit
+Seien $b, (a_n)_{n \in \mathbb{N}}$ reelle Zahlen mit
 
 $$
 	\sum_{n=1}^\infty \frac{a_n}{n} \to b

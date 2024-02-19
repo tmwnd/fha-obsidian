@@ -16,7 +16,7 @@
 
 ^1
 
-2. Die reele Zufallsvariable sei exponentialverteilt mit dem Parameter $\lambda \gt 0$.
+2. Die reelle Zufallsvariable sei exponentialverteilt mit dem Parameter $\lambda \gt 0$.
 	Es sei $Y = e^{-2X}$ und $Z = \min(X, \frac{1}{\lambda})$.
 	Bestimmen Sie die Erwartungswerte $E(Y)$ und $E(Z)$.
 

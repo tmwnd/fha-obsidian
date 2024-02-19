@@ -1,6 +1,6 @@
 Sei $\mathcal{A}$ eine $\sigma$-[[sigma-Algebra|Algebra]] auf $\Omega$.
 
-Eine $\sigma$-additive [[Abbildung]] $\mu : \mathcal{A} \to \overline{\mathbb{R}}_+$ heißt *Maß* auf $\mathcal{A}$
+Eine $\sigma$-[[Abbildung|additive]] [[Abbildung]] $\mu : \mathcal{A} \to \overline{\mathbb{R}}_+$ heißt *Maß* auf $\mathcal{A}$
 
 ---
 
@@ -41,4 +41,10 @@ Das *Produktmaß* $\mu$ ist definiert als
 
 $$
 	\mu = \bigotimes_{i=1}^n \mu_i
+$$
+
+Es gilt für $(A_n)_{n \in \mathbb{N}}$
+
+$$
+\mu(\bigtimes_{i=1}^n A_i) \prod_{i=1}^n \mu_i(A_i)
 $$

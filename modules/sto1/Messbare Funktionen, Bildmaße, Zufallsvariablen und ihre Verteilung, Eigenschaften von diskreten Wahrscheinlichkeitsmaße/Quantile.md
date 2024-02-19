@@ -1,1 +1,1 @@
-![[Quantile]]
+![[Quantil]]

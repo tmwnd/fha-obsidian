@@ -1,4 +1,4 @@
-$\mathcal{R} \subseteq \Omega$ heißt *Ring* auf $\Omega$, falls
+$\mathcal{R} \subseteq \mathcal{P}(\Omega)$ heißt *Ring* auf $\Omega$, falls
 - $\emptyset \in \mathcal{R}$
 - $A, B \in \mathcal{R} \implies A \cap B^C \in \mathcal{R}$
 - $A, B \in \mathcal{R} \implies A \cup B \in \mathcal{R}$

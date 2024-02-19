@@ -25,7 +25,7 @@
 
 ^2
 
-3. Es sei $X$ eine reele Zufallsvariable mit der Verteilungsfunktion $F$, $U \sim \mathfrak{R}(0, 1)$, $F^-1 : \mathbb{R} \to \mathbb{R}$ sei auf dem Intervall $(0, 1)$ festgelegt durch
+3. Es sei $X$ eine reelle Zufallsvariable mit der Verteilungsfunktion $F$, $U \sim \mathfrak{R}(0, 1)$, $F^-1 : \mathbb{R} \to \mathbb{R}$ sei auf dem Intervall $(0, 1)$ festgelegt durch
 	
 	$$
 		F^-1(u) = \inf\{ x \in \mathbb{R} \mid F(x) \ge u \}

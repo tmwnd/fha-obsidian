@@ -34,8 +34,8 @@ $f \circ X_n \stackrel{P\text{-f. s.}}{\longrightarrow} f \circ X$ gilt falls
 
 ---
 
-Seien $(X_n)_{n \in \mathbb{N}}$ reele [[Zufallsvariable|Zufallsvariablen]] mit dem [[Erwartungswert]] $E$, der [[Varianz]] Var und
+Seien $(X_n)_{n \in \mathbb{N}}$ reelle [[Zufallsvariable|Zufallsvariablen]] mit dem [[Erwartungswert]] $E$, der [[Varianz]] Var und
 - $\forall n \in \mathbb{N} : E[X_n]  = 0$
 - $\sum_{n=1}^\infty \text{Var}(X_n) \lt \infty$
 
-$\sum_{n=1}^\infty X_k$ konvergiert $P$-f. s. gegen eine reele [[Zufallsvariable]]
+$\sum_{n=1}^\infty X_k$ konvergiert $P$-f. s. gegen eine reelle [[Zufallsvariable]]

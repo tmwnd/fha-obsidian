@@ -1,11 +1,11 @@
 1. Es sei $\Omega$ eine nicht abzählbare Menge und
 	
 	$$
-		\mathfrak{A} := \{ A \subseteq \Omega \mid A \text{ abzählbar } \lor A^C \text{ abtzählbar } \}
+		\mathfrak{A} := \{ A \subseteq \Omega \mid A \text{ abzählbar } \lor A^C \text{ abzählbar } \}
 	$$
 	
 	1. Zeigen Sie, dass $\mathfrak{A}$ eine $\sigma$-Algebra auf $\Omega$ ist.
-	2. Es sei $m : \mathfrak{A} \to [0, 1]$ definiert durch $m(A) = 0$, falls $A$ anzählbar und $m(A) = 1$, falls $A^C$ abzählbar ist.
+	2. Es sei $m : \mathfrak{A} \to [0, 1]$ definiert durch $m(A) = 0$, falls $A$ abzählbar und $m(A) = 1$, falls $A^C$ abzählbar ist.
 	   Zeigen Sie, dass $m$ ein Maß ist.
 
 ^1

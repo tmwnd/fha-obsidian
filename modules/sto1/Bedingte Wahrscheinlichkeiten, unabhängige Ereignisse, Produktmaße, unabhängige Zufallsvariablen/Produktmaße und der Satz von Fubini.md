@@ -1,5 +1,5 @@
 ![[Produkt-sigma-Algebra,  Kolmogorowsche sigma-Algebra]]
-![[Bemerkung 4.2.1]]
+![[modules/sto1/Bemerkung 4.2.1]]
 ![[Produktraum]]
-![[Bemerkung 4.2.2]]
+![[modules/sto1/Bemerkung 4.2.2]]
 ![[Satz von Fubini]]

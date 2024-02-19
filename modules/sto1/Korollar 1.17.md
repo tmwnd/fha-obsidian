@@ -20,7 +20,7 @@ $$
 	F(x_1, \dots, x_d) = \mu(S_{(x_1, \dots, x_d)})
 $$
 
-Es gilt mit der [[Satz 1.7|Siebformel]]
+Es gilt mit der [[modules/sto1/Satz 1.7|Siebformel]]
 
 $$
 	\mu(S) = \Delta_S F = \sum_{(\varepsilon_1, \dots, \varepsilon_d) \in \{ 0, 1 \}^d} (-1)^{\sum_{i=1}^d \varepsilon_i} F\left( \sum_{i = 1}^d \varepsilon_i a_i + (1 - \varepsilon_i) b_i \right)

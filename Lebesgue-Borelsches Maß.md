@@ -2,11 +2,11 @@ Das zu $F(x) = x, x \in \mathbb{R}$ gehörende [[Maß]] $\lambda$ heißt *Lebesg
 
 Es gilt
 - $\forall x \in \mathbb{R} : \lambda(\{ x \}) = 0$
-- $\lambda([a, b]) = \lambda((a, b]) = \lambda([a, b)) = \lambda((a, b)) = b - a$
+- $\lambda([a, b]) = \lambda((a, b]) = \lambda([a, b)) = \lambda((a, b)) = F(b) - F(a) = b - a$
 
 ---
 
-Zu jeder [[Korollar 1.17|Verteilungsfunktion]] $F : \mathbb{R} \to \mathbb{R}$ auf der Borelschen $\sigma$-[[Borelsche sigma-Algebra|Algebra]] $\mathcal{L}^d$ gibt es genau ein [[Maß]] $\lambda^d$, sodass
+Zu jeder [[modules/sto1/Korollar 1.17|Verteilungsfunktion]] $F : \mathbb{R} \to \mathbb{R}$ auf der Borelschen $\sigma$-[[Borelsche sigma-Algebra|Algebra]] $\mathcal{L}^d$ gibt es genau ein [[Maß]] $\lambda^d$, sodass
 - $\lambda^d(S) = \Delta_S F = \prod_{k = 1}^d (b_k - a_k)$ mit
 - $S = \prod_{i = 1}^d (a_1, b_1]$
 - $\forall k \in {1, \dots, d} : -\infty \lt a_k \le b_k \lt +\infty$
@@ -24,9 +24,9 @@ Die [[Verteilungsfunktion]] $F : \mathbb{R} \to \mathbb{R}$ eines [[Maß|Wahrsch
 
 $$
 	F(x) = \begin{cases}
-		0, \quad\quad\quad\quad\quad x \le a \\
+		0, \quad\quad\quad\quad\ x \le a \\
 		\int_a^x f(t) dt, \quad a \lt x \le b \\
-		1, \quad\quad\quad\quad\quad x \gt b
+		1, \quad\quad\quad\quad\ x \gt b
 	\end{cases}
 $$
 

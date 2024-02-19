@@ -2,4 +2,4 @@
 ![[A-S-Messbarkeit]]
 ![[Funktion]]
 ![[Indikatorfunktion]]
-![[Satz 2.7]]
+![[modules/sto1/Satz 2.7]]

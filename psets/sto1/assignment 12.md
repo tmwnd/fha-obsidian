@@ -1,4 +1,4 @@
-1. Es sei $X$ eine reele Zufallsvariable mit der Dichte
+1. Es sei $X$ eine reelle Zufallsvariable mit der Dichte
 	
 	$$
 		f(x) = \begin{cases}

@@ -3,7 +3,7 @@ Sei $T : (\Omega, \mathcal{A}) \to (R, \mathscr{S})$ eine $(\mathcal{A}, \mathsc
 Es gilt für das $\mu$-[[mu-Integral|Integral]]
 
 $$
-	\forall f \in \mathcal{M}_+ (R, \mathscr{S}) : \int g \circ T d\mu = \int g d\mu^T
+	\forall f \in \mathcal{M}_+ (R, \mathscr{S}) : \int g \circ T d\mu = \int f d(\mu \circ T^{-1}) = \int g d\mu^T
 $$
 
 ---

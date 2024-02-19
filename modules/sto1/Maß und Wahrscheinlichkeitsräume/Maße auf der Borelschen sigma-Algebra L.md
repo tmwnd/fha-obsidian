@@ -1,4 +1,4 @@
-![[Satz 1.13]]
+![[modules/sto1/Satz 1.13]]
 ![[Lebesgue-Borelsches Maß]]
 ![[Invarianzen]]
-![[Korollar 1.17]]
+![[modules/sto1/Korollar 1.17]]

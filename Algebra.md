@@ -1,4 +1,4 @@
-$\mathcal{A} \subseteq \Omega$ heißt *Algebra* auf $\Omega$, falls
+$\mathcal{A} \subseteq \mathcal{P}(\Omega)$ heißt *Algebra* auf $\Omega$, falls
 - $\Omega \in \mathcal{A}$
 - $A \in \mathcal{A} \implies A^C \in \mathcal{A}$
 - $A, B \in \mathcal{A} \implies A \cup B \in \mathcal{A}$

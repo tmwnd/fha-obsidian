@@ -1,4 +1,4 @@
-Sei $n \in \mathbb{N}$, $(X_i)_{i \in \{ 1, \dots, n \}}$ [[Unabhängige Zufallsvariablen|unabhängige]], reele [[Zufallsvariable|Zufallsvariablen]] mit
+Sei $n \in \mathbb{N}$, $(X_i)_{i \in \{ 1, \dots, n \}}$ [[Unabhängige Zufallsvariablen|unabhängige]], reelle [[Zufallsvariable|Zufallsvariablen]] mit
 - $\forall i \in \{ 1, \dots, n \} : X_i \ge 0$
 - $\forall i \in \{ 1, \dots, n \} : E[X_i] \lt \infty$
 
@@ -10,7 +10,7 @@ $$
 
 ---
 
-Sei $n \in \mathbb{N}$, $(X_i)_{i \in \{ 1, \dots, n \}}$ [[Unabhängige Zufallsvariablen|unabhängige]], reele [[Zufallsvariable|Zufallsvariablen]] mit
+Sei $n \in \mathbb{N}$, $(X_i)_{i \in \{ 1, \dots, n \}}$ [[Unabhängige Zufallsvariablen|unabhängige]], reelle [[Zufallsvariable|Zufallsvariablen]] mit
 - $\forall i \in \{ 1, \dots, n \} : E[X_i^2] \lt \infty$
 
 Es gilt mit der [[Varianz]] Var

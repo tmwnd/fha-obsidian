@@ -1,4 +1,4 @@
-1. Es sei $\alpha$ eine reele Zahl. $f : \mathbb{R} \to \mathbb{R}$ eine durch
+1. Es sei $\alpha$ eine reelle Zahl. $f : \mathbb{R} \to \mathbb{R}$ eine durch
 	
 	$$
 		f(x) = \begin{cases}
@@ -8,17 +8,17 @@
 	$$
 	
 	definierte Funktion.
-	Es ist $\alpha$ so zu bestimmen, dass $f$ Wahrscheinlichkeitsdichte einer reelen Zufallsvariable $X$ ist.
+	Es ist $\alpha$ so zu bestimmen, dass $f$ Wahrscheinlichkeitsdichte einer reellen Zufallsvariable $X$ ist.
 	Gesucht sind $E(X)$, $P(X \le \frac{1}{2})$ und $P(X \lt E(X))$.
 
 ^1
 
-2. Die reele Zufallsvariable $X$  habe die Dichte $f(x) = 1 - |1 - x|$ für $0 \le x \le 2$ und $0$ sonst.
+2. Die reelle Zufallsvariable $X$  habe die Dichte $f(x) = 1 - |1 - x|$ für $0 \le x \le 2$ und $0$ sonst.
 	Bestimmen Sie $\text{Var}(X)$.
 
 ^2
 
-3. Es sei $X$ eine reele Zufallsvariable mit dem Erwartungswert $0$ und der Varianz $0 \lt \sigma^2 \lt \infty$.
+3. Es sei $X$ eine reelle Zufallsvariable mit dem Erwartungswert $0$ und der Varianz $0 \lt \sigma^2 \lt \infty$.
 	Zeigen Sie mit der Cauchy-Schwarzen Ungleichung:
 	
 	$$
@@ -43,8 +43,8 @@
 ^4
 
 5. 
-	- a) Es sei $X$ eine reele, nicht negative Zufallsvariable mit $0 \lt E(X^2) \lt \infty$.
+	- a) Es sei $X$ eine reelle, nicht negative Zufallsvariable mit $0 \lt E(X^2) \lt \infty$.
 		Zeigen Sie mit der Cauchy-Schwarzen Ungleichung: $P(X \gt 0) \ge \frac{E(X)^2}{E(X^2)}$.
-	- b) Zeigen Sie mit der Cauchy-Schwarzen Ungleichung: Für eine positive reele Zufallsvariable mit $E(\frac{1}{X}) \lt \infty$ und $E(X) \lt \infty$ ist $E(\frac{1}{X}) \ge \frac{1}{E(X)}$.
+	- b) Zeigen Sie mit der Cauchy-Schwarzen Ungleichung: Für eine positive reelle Zufallsvariable mit $E(\frac{1}{X}) \lt \infty$ und $E(X) \lt \infty$ ist $E(\frac{1}{X}) \ge \frac{1}{E(X)}$.
 
 ^5

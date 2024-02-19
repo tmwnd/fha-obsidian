@@ -1,4 +1,4 @@
-Sei $r \in \mathbb{N}$, $X$ eine reele [[Zufallsvariable]] mit
+Sei $r \in \mathbb{N}$, $X$ eine reelle [[Zufallsvariable]] mit
 - $E[|X|^r] \lt \infty$
 
 Der *$r$-te endliche Moment* von $X$ ist definiert als

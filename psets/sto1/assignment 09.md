@@ -1,4 +1,4 @@
-1. Es sei $X$ eine reele Zufallsvariable mit der Verteilungsfunktion $F$, $u : [a, b] \to \mathbb{R}$ sei stetig differenzierbar.
+1. Es sei $X$ eine reelle Zufallsvariable mit der Verteilungsfunktion $F$, $u : [a, b] \to \mathbb{R}$ sei stetig differenzierbar.
 	Zeigen Sie mit Hilfe des Satzes von Fubini:
 	
 	$$
@@ -7,7 +7,7 @@
 
 ^1
 
-2. Zeigen Sie mit Hilfe des Satzes von Fubini, dass für reele unabhängige Zufallsvariablen $X, Y$ mit den Verteilungsfunktionen $F, G$ gilt:
+2. Zeigen Sie mit Hilfe des Satzes von Fubini, dass für reelle unabhängige Zufallsvariablen $X, Y$ mit den Verteilungsfunktionen $F, G$ gilt:
 	
 	$$
 		E(|X - Y|) = \int_{-\infty}^{+\infty} (1 - F(X))G(x) dx + \int_{-\infty}^{+\infty} (1 - G(X))F(x) dx

@@ -25,4 +25,4 @@ $L^p$ ist ein [[Banachraum]].
 Sei $L^2$ ein $L^p$-Raum, $f, g \in L^2$, $\langle f, g \rangle$ ein Skalarprodukt mit
 - $\langle f, g \rangle = \int f \cdot g d\mu$
 
-$L^2$ ist ein reeler Hilbertraum.
+$L^2$ ist ein reeller Hilbertraum.

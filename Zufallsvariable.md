@@ -17,7 +17,7 @@ $$
 
 ---
 
-Seien $(X_i)_{i \in \{ 1, \dots, d \}}$ reele Zufallsvariablen mit
+Seien $(X_i)_{i \in \{ 1, \dots, d \}}$ reelle Zufallsvariablen mit
 - $\forall i \in \{ 1, \dots, d \} : X_i : (\Omega, \mathcal{A}) \to (\mathbb{R}, \mathcal{L})$
 - $X = (X_1, \dots, X_d)$ heißt *Zufallsvektor*
 
