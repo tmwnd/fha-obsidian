@@ -5,10 +5,10 @@ $\mathcal{D} \subseteq \mathcal{P}(\Omega)$ heißt *Dynkin-System* auf $\Omega$,
 
 ---
 
-Für eine beliebige Teilmenge $\mathcal{C} \subseteq \mathcal{P}(\Omega)$ ist
+Für eine beliebige Teilmenge $\mathcal{E} \subseteq \mathcal{P}(\Omega)$ ist
 
 $$
-	D(\mathcal{C}) = \bigcap_{\mathcal{D} \text{ Dynkin-System auf } \Omega, \ \mathcal{C} \in \mathcal{D}} \mathcal{D}
+	D(\mathcal{E}) = \bigcap_{\mathcal{D} \text{ Dynkin-System auf } \Omega, \ \mathcal{E} \in \mathcal{D}} \mathcal{D}
 $$
 
-das von $\mathcal{C}$ erzeugte Dynkin-System.
+das von $\mathcal{E}$ erzeugte Dynkin-System.

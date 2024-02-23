@@ -5,10 +5,10 @@ $\mathcal{R} \subseteq \mathcal{P}(\Omega)$ heißt *Ring* auf $\Omega$, falls
 
 ---
 
-Für eine beliebige Teilmenge $\mathcal{C} \subseteq \mathcal{P}(\Omega)$ ist
+Für eine beliebige Teilmenge $\mathcal{E} \subseteq \mathcal{P}(\Omega)$ ist
 
 $$
-	R(\mathcal{C}) = \bigcap_{\mathcal{R} \text{ Ring auf } \Omega, \ \mathcal{C} \subseteq \mathcal{R}} \mathcal{R}
+	R(\mathcal{E}) = \bigcap_{\mathcal{R} \text{ Ring auf } \Omega, \ \mathcal{E} \subseteq \mathcal{R}} \mathcal{R}
 $$
 
-der von $\mathcal{C}$ erzeugte Ring.
+der von $\mathcal{E}$ erzeugte Ring.

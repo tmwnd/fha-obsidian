@@ -5,10 +5,10 @@ $\mathcal{A} \subseteq \mathcal{P}(\Omega)$ heißt *Algebra* auf $\Omega$, falls
 
 ---
 
-Für eine beliebige Teilmenge $\mathcal{C} \subseteq \mathcal{P}(\Omega)$ ist
+Für eine beliebige Teilmenge $\mathcal{E} \subseteq \mathcal{P}(\Omega)$ ist
 
 $$
-	A(\mathcal{C}) = \bigcap_{\mathcal{A} \text{ Algebra auf } \Omega, \ \mathcal{C} \subseteq \mathcal{A}} \mathcal{A}
+	A(\mathcal{E}) = \bigcap_{\mathcal{A} \text{ Algebra auf } \Omega, \ \mathcal{E} \subseteq \mathcal{A}} \mathcal{A}
 $$
 
-die von $\mathcal{C}$ erzeugte Algebra.
+die von $\mathcal{E}$ erzeugte Algebra.

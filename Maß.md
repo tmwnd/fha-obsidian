@@ -4,7 +4,7 @@ Eine $\sigma$-[[Abbildung|additive]] [[Abbildung]] $\mu : \mathcal{A} \to \overl
 
 ---
 
-Ein Maß $\mu : \mathcal{A} \to \overline{\mathbb{R}}_+$ heißt *endlich*, falls
+Ein Maß $\mu : \mathcal{A} \to \overline{\mathbb{R}}_+$ heißt *endlich* bzw. *finit*, falls
 - $\mu(\Omega) < \infty$
 
 ---

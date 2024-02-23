@@ -17,3 +17,11 @@ Eine Abbildung $\mu : \mathcal{C} \to \overline{\mathbb{R}}_+$ (nicht-negativ) h
 $$
 	\mu\left( \bigcup_{n \in \mathbb{N}} A_n \right) = \sum_{n \in \mathbb{N}} \mu(A_n)
 $$
+
+---
+
+Jedes $\sigma$-additive nicht-negative [[Maß]] $\mu$ ist additiv.
+
+---
+
+Jedes $\sigma$-subadditive nicht-negative [[Maß]] $\mu$ ist subadditiv.

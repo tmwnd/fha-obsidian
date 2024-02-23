@@ -5,10 +5,10 @@ $\mathcal{A} \subseteq \mathcal{P}(\Omega)$ heißt *$\sigma$-Algebra* auf $\Omeg
 
 ---
 
-Für eine beliebige Teilmenge $\mathcal{C} \subseteq \mathcal{P}(\Omega)$ ist
+Für eine beliebige Teilmenge $\mathcal{E} \subseteq \mathcal{P}(\Omega)$ ist
 
 $$
-	\sigma(\mathcal{C}) = \bigcap_{\mathcal{A} \ \sigma\text{-Algebra auf } \Omega, \ \mathcal{C} \subseteq \mathcal{A}} \mathcal{A}
+	\sigma(\mathcal{E}) = \bigcap_{\mathcal{A} \ \sigma\text{-Algebra auf } \Omega, \ \mathcal{E} \subseteq \mathcal{A}} \mathcal{A}
 $$
 
-die von $\mathcal{C}$ erzeugte $\sigma$-Algebra.
+die von $\mathcal{E}$ erzeugte $\sigma$-Algebra.
