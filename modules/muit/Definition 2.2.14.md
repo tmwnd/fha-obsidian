@@ -21,10 +21,10 @@ $$
 	A \subseteq \bigcup_{n \in \mathbb{N}} A_n, \forall n \in \mathbb{N} : A_n \text{ offen } \implies \exists n \in \mathbb{N} : A \subseteq \bigcup_{i=1}^n A_i
 $$
 
-- $\mathcal{O}$ ist das System der offenen Mengen von $\Omega$
-- $\mathcal{A}$ ist das System der abgeschlossenen Mengen von $\Omega$
-- $\mathcal{K}$ ist das System der kompakten Mengen von $\Omega$
-- $\mathcal{B}(\Omega) = \sigma(\mathcal{O}(\Omega)) = \sigma(\mathcal{A}(\Omega)) = \sigma(\mathcal{K}(\Omega))$ ist die $\sigma$-[[sigma-Algebra|Algebra]] der *Borelmengen* auf $\Omega$.
+- $\mathcal{O}(\Omega)$ ist das System der offenen Mengen von $\Omega$
+- $\mathcal{A}(\Omega)$ ist das System der abgeschlossenen Mengen von $\Omega$
+- $\mathcal{K}(\Omega)$ ist das System der kompakten Mengen von $\Omega$
+- $\mathcal{B}(\Omega) = \sigma(\mathcal{O}(\Omega))$ ist die $\sigma$-[[sigma-Algebra|Algebra]] der *Borelmengen* auf $\Omega$.
 
 ---
 

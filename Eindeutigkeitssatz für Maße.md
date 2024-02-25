@@ -1,5 +1,5 @@
-Sei $\mathcal{C} \subseteq \mathcal{P}(\Omega)$ $\cap$-[[Durchschnittsstabilität|stabil]] und $\mu_1, \mu_2$ [[Maß|Maße]] auf $\sigma(\Omega)$ mit $\forall E \in \mathcal{C} : \mu_1(E) = \mu_2(E)$ so gilt
-- $\exists (E_n)_{n \in \mathbb{N}} \in \mathcal{C} : \Omega = \bigcup_{n \in \mathbb{N}} E_n \land \forall n \in \mathbb{N} : \mu_1(E_n) = \mu_2(E_n) \lt \infty \implies \mu_1 = \mu_2$
+Sei $\mathcal{E} \subseteq \mathcal{P}(\Omega)$ $\cap$-[[Durchschnittsstabilität|stabil]], $\mu_1, \mu_2$ [[Maß|Maße]] auf $\sigma(\Omega)$ mit $\forall E \in \mathcal{E} : \mu_1(E) = \mu_2(E)$ so gilt
+- $\exists (E_n)_{n \in \mathbb{N}} \in \mathcal{E} : \Omega = \bigcup_{n \in \mathbb{N}} E_n \land \forall n \in \mathbb{N} : \mu_1(E_n) = \mu_2(E_n) \lt \infty \implies \mu_1 = \mu_2$
 
 ---
 
