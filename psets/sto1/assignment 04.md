@@ -33,7 +33,7 @@
 	
 	für $u \in (0, 1)$.
 	
-	- a) Bestimmen und skizzieren Sie $F^-1$ für die Verteilungen in [[assignment 02#^1|Aufgabe 1]] von [[assignment 02|Blatt 2]].
+	- a) Bestimmen und skizzieren Sie $F^-1$ für die Verteilungen in [[psets/sto1/assignment 02#^1|Aufgabe 1]] von [[psets/sto1/assignment 02|Blatt 2]].
 	- b) Zeigen Sie: Es haben $F^{-1} \circ U$ und $X$ dieselbe Verteilung.
 	- c) Zeigen Sie: Es sei $F$ stetig.
 		Dann haben $F \circ X$ und $U$ dieselbe Verteilung.

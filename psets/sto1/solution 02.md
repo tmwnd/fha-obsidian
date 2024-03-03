@@ -1,12 +1,12 @@
-![[assignment 02#^1]]
+![[psets/sto1/assignment 02#^1]]
 
 ---
 
-![[assignment 02#^2]]
+![[psets/sto1/assignment 02#^2]]
 
 ---
 
-![[assignment 02#^3]]
+![[psets/sto1/assignment 02#^3]]
 
 $G$ ist eine [[Verteilungsfunktion]], falls
 1. $G$ monoton wachend ist
@@ -23,4 +23,4 @@ Alle Voraussetzungen sind erfüllt, da
 
 ---
 
-![[assignment 02#^4]]
+![[psets/sto1/assignment 02#^4]]

@@ -1,4 +1,4 @@
-![[assignment 01#^1]]
+![[psets/sto1/assignment 01#^1]]
 
 1. $\mathfrak{A}$ ist eine $\sigma$-[[sigma-Algebra|Algebra]], falls
 	1. $\Omega \in \mathfrak{A}$
@@ -29,11 +29,11 @@
 
 ---
 
-![[assignment 01#^2]]
+![[psets/sto1/assignment 01#^2]]
 
 ---
 
-![[assignment 01#^3]]
+![[psets/sto1/assignment 01#^3]]
 
 
 [^1]: $\forall n \in \mathbb{N} : A_n$ abzählbar $\implies$ $m(\bigcup_{n=1}^\infty A_n) = 0 \ne 1$

@@ -1,4 +1,4 @@
-![[assignment 03#^1]]
+![[psets/sto1/assignment 03#^1]]
 
 - a) Betrachten wir den Differentialquotientern
 	
@@ -11,8 +11,8 @@
 
 ---
 
-![[assignment 03#^2]]
+![[psets/sto1/assignment 03#^2]]
 
 ---
 
-![[assignment 03#^3]]
+![[psets/sto1/assignment 03#^3]]
