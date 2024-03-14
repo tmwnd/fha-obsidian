@@ -46,5 +46,5 @@ $$
 Es gilt für $(A_n)_{n \in \mathbb{N}}$
 
 $$
-\mu(\bigtimes_{i=1}^n A_i) \prod_{i=1}^n \mu_i(A_i)
+\mu\left( \prod_{i=1}^n A_i \right) \prod_{i=1}^n \mu_i(A_i)
 $$
