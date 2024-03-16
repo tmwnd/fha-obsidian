@@ -1,1 +1,0 @@
-Damit eine [[Hypothese]] eine [[Target-Function]] gut *approximiert* wird, muss der [[In-Sample Error]] klein sein.

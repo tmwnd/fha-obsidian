@@ -1,7 +1,7 @@
 $\mathcal{A} \subseteq \mathcal{P}(\Omega)$ heißt *$\sigma$-Algebra* auf $\Omega$, falls
 - $\Omega \in \mathcal{A}$
 - $A \in \mathcal{A} \implies A^C \in \mathcal{A}$
-- $(A_n)_{n \in \mathbb{N}} \in \mathcal{A}: \bigcup_{n \in \mathbb{N}} A_n \in \mathcal{A}$
+- $\forall (A_n)_{n \in \mathbb{N}} \in \mathcal{A}: \bigcup_{n \in \mathbb{N}} A_n \in \mathcal{A}$
 
 ---
 

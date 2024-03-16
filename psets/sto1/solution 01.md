@@ -1,9 +1,9 @@
 ![[psets/sto1/assignment 01#^1]]
 
-1. $\mathfrak{A}$ ist eine $\sigma$-[[sigma-Algebra|Algebra]], falls
+1. $\mathfrak{A}$ ist eine $\sigma$-[[sigma-Algebra|Algebra]] auf $\Omega$, falls
 	1. $\Omega \in \mathfrak{A}$
 	2. $A \in \mathfrak{A} \implies A^C \in \mathfrak{A}$
-	3. $(A_n)_{n \in \mathbb{N}} \in \mathfrak{A}: \bigcup_{n \in \mathbb{N}} A_n \in \mathfrak{A}$
+	3. $\forall (A_n)_{n \in \mathbb{N}} \in \mathfrak{A}: \bigcup_{n \in \mathbb{N}} A_n \in \mathfrak{A}$
 	
 	Alle Voraussetzungen sind erfüllt, da
 	
@@ -37,4 +37,4 @@
 
 
 [^1]: $\forall n \in \mathbb{N} : A_n$ abzählbar $\implies$ $m(\bigcup_{n=1}^\infty A_n) = 0 \ne 1$
-[^2]: $A_k^C$ abzählbar $\stackrel{\Omega \text{ überabzählbar}}{\implies}$ $A_k$ überabzählbar $\stackrel{A_k, A_l \text{ diskunkt}}{\implies}$ $A_l \subseteq A_k^C$ $\implies$ $A_l$ abzählbar
+[^2]: $A_k^C$ abzählbar $\overset{\Omega \text{ überabzählbar}}{\implies}$ $A_k$ überabzählbar $\overset{A_k, A_l \text{ diskunkt}}{\implies}$ $A_l \subseteq A_k^C$ $\implies$ $A_l$ abzählbar

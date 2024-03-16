@@ -1,2 +1,0 @@
-Bei *Weight Decay* Regularisierung wird anstatt aussschließlich dem [[In-Sample Error]], ein Fehlermaß verwendet, welches die Größe von dem Gewichtsvektor $w$ mitbestraft z. B.
-- der [[Erweiterte Fehler|erweiterte Fehler]]

@@ -4,5 +4,5 @@ Sei $(\Omega, \mathcal{A}, P)$ ein [[Maßraum|Wahrscheinlichkeitsraum]], $X, Z$ 
 Es gilt mit der [[Verteilungskonvergenz]]
 
 $$
-	\forall (a_n)_{n \in \mathbb{N}} \to 0 : aZ + X \stackrel{V}{\longrightarrow} X
+	\forall (a_n)_{n \in \mathbb{N}} \to 0 : aZ + X \overset{V}{\longrightarrow} X
 $$

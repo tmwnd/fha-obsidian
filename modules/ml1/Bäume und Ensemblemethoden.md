@@ -1,2 +1,0 @@
-![[Baum]]
-TODO Ensemblemethoden

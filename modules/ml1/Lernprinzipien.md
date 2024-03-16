@@ -1,2 +1,0 @@
-![[Lernprinzipien]]
-![[Nicht-Falsifizierbarkeit]]

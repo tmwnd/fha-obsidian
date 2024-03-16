@@ -18,7 +18,7 @@
 	Zeigen Sie, dass das Mengensystem
 	
 	$$
-		A := \{ A \subseteq X \mid A \lor A^C \text{ abzählbar } \}
+		\mathcal{A} := \{ A \subseteq X \mid A \lor A^C \text{ abzählbar } \}
 	$$
 	
 	eine $\sigma$-Algebra ist.
@@ -29,7 +29,7 @@
 	Beweisen Sie:
 	
 	$$
-		\forall A, B \in \mathcal{D} : A \subseteq D \implies B \setminus A \in \mathcal{D}
+		\forall A, B \in \mathcal{D} : A \subset B \implies B \setminus A \in \mathcal{D}
 	$$
 
 ^4
@@ -39,7 +39,9 @@
 
 ^5
 
-6. Sei $X \ne \emptyset$ und $(\mathcal{A}_i)_{i \in I}$, mit $I \ne \emptyset$, ein indiziertes System von $\sigma$-Algebren (bzw. Dynkinsystemen) auf $X$.
+6. Beweisen Sie.
+	
+	Sei $X \ne \emptyset$ und $(\mathcal{A}_i)_{i \in I}$, mit $I \ne \emptyset$, ein indiziertes System von $\sigma$-Algebren (bzw. Dynkinsystemen) auf $X$.
 	Dann gilt: $\mathcal{A} := \bigcap_{i \in I} \mathcal{A}_i$ ist wieder eine $\sigma$-Algebra (bzw. Dynkinsystem).
 
 ^6

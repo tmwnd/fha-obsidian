@@ -1,4 +1,4 @@
-1. Es seien $X, X_n$, $n \in \mathbb{N}$, reelle Zufallsvariablen mit $X_n \stackrel{V}{\longrightarrow} X$.
+1. Es seien $X, X_n$, $n \in \mathbb{N}$, reelle Zufallsvariablen mit $X_n \overset{V}{\longrightarrow} X$.
 	Zeigen Sie
 	
 	$$

@@ -1,1 +1,0 @@
-Wenn das Ergebnis eines Experiments ($X$) keine Möglichkeit hat, eine Annahme ($h$) zu falsifizieren, dann liefert uns das Ergebnis des Experiments (der Fit unseres Modells) keine Evidenz für oder gegen die Gültigkeit der Annahme ($h$).

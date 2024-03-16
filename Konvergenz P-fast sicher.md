@@ -8,29 +8,29 @@ $$
 	\forall \omega \in N^C : \lim_{n \to \infty} X_n(\omega) = X(\omega)
 $$
 
-Schreibe $X_n \to X$ $P$-f. s. oder $X_n \stackrel{P\text{-f. s.}}{\longrightarrow} X$
+Schreibe $X_n \to X$ $P$-f. s. oder $X_n \overset{P\text{-f. s.}}{\longrightarrow} X$
 
 ---
 
 Seien $X, (X_n)_{n \in \mathbb{N}}$ [[Zufallsvariable|Zufallsvariablen]].
 
-$X_n \stackrel{P\text{-f. s.}}{\longrightarrow} X$ gilt falls
+$X_n \overset{P\text{-f. s.}}{\longrightarrow} X$ gilt falls
 - $P(\lim_{n \to \infty} X_n = X) = 1$
 
 ---
 
 Seien $X, X', (X_n)_{n \in \mathbb{N}}$ [[Zufallsvariable|Zufallsvariablen]].
 
-$X \stackrel{P\text{-f. s.}}{=} X'$ gilt, falls
-- $X_n \stackrel{P\text{-f. s.}}{\longrightarrow} X$
-- $X_n \stackrel{P\text{-f. s.}}{\longrightarrow} X'$
+$X \overset{P\text{-f. s.}}{=} X'$ gilt, falls
+- $X_n \overset{P\text{-f. s.}}{\longrightarrow} X$
+- $X_n \overset{P\text{-f. s.}}{\longrightarrow} X'$
 
 ---
 
 Sei $d, m \in \mathbb{N}$, $X, (X_n)_{n \in \mathbb{N}}$ [[Zufallsvariable|Zufallsvariablen]], $f : \mathbb{R}^d \to \mathbb{R}^m$ $P$-fast sicher stetig.
 
-$f \circ X_n \stackrel{P\text{-f. s.}}{\longrightarrow} f \circ X$ gilt falls
-- $X_n \stackrel{P\text{-f. s.}}{\longrightarrow} X$
+$f \circ X_n \overset{P\text{-f. s.}}{\longrightarrow} f \circ X$ gilt falls
+- $X_n \overset{P\text{-f. s.}}{\longrightarrow} X$
 
 ---
 

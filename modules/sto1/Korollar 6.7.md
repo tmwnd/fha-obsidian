@@ -1,18 +1,18 @@
 Seien $X, (X_n)_{n \in \mathbb{N}}$ $r$-dimensionale [[Zufallsvariable|Zufallsvektoren]], $(Y_n)_{n \in \mathbb{N}}$ $s$-dimensionale
 [[Zufallsvariable|Zufallsvektoren]], $c \in \mathbb{R}^s$ mit
-- $X_n \stackrel{V}{\longrightarrow} X$ [[Verteilungskonvergenz|verteilungskonvergent]]
-- $Y_n \stackrel{P}{\longrightarrow} c$ [[Stochastische Konvergenz|stochastisch]] konvergent
+- $X_n \overset{V}{\longrightarrow} X$ [[Verteilungskonvergenz|verteilungskonvergent]]
+- $Y_n \overset{P}{\longrightarrow} c$ [[Stochastische Konvergenz|stochastisch]] konvergent
 - $r = s$
 
 Es gilt nach [[Lemma von Slutsky|Slutsky]]
-- $X_n + Y_n \stackrel{V}{\longrightarrow} X + c$ [[Verteilungskonvergenz|verteilungskonvergent]] und
-- $Y_n^TX_n \stackrel{V}{\longrightarrow} c^TX$
+- $X_n + Y_n \overset{V}{\longrightarrow} X + c$ [[Verteilungskonvergenz|verteilungskonvergent]] und
+- $Y_n^TX_n \overset{V}{\longrightarrow} c^TX$
 
 ---
 
 Sei $c \in \mathbb{N}$, $X, (X_n)_{n \in \mathbb{N}}$ $r$-dimensionale [[Zufallsvariable|Zufallsvektoren]], $(Y_n)_{n \in \mathbb{N}}$ [[Zufallsvariable|Zufallsvariablen]] mit
-- $X_n \stackrel{V}{\longrightarrow} X$ [[Verteilungskonvergenz|verteilungskonvergent]]
-- $Y_n \stackrel{P}{\longrightarrow} c$ [[Stochastische Konvergenz|stochastisch]] konvergent
+- $X_n \overset{V}{\longrightarrow} X$ [[Verteilungskonvergenz|verteilungskonvergent]]
+- $Y_n \overset{P}{\longrightarrow} c$ [[Stochastische Konvergenz|stochastisch]] konvergent
 - $c \ne 0$
 
 und
@@ -22,4 +22,4 @@ $$
 $$
 
 Es gilt nach [[Lemma von Slutsky|Slutsky]]
-- $\frac{1}{Y_n}X_n \stackrel{V}{\longrightarrow} \frac{1}{c}X$ [[Verteilungskonvergenz|verteilungskonvergent]]
+- $\frac{1}{Y_n}X_n \overset{V}{\longrightarrow} \frac{1}{c}X$ [[Verteilungskonvergenz|verteilungskonvergent]]

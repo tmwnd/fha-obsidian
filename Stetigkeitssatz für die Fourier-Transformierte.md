@@ -1,5 +1,5 @@
 Seien $X, (X_n)_{n \in \mathbb{N}}$ $d$-dimensionale [[Zufallsvariable|Zufallsvektoren]] mit den [[Fourier-Transformierte|Fourier-Transformierten]] $\varphi, (\varphi_n)_{n \in \mathbb{N}}$ mit
-- $X_n \stackrel{V}{\longrightarrow} X$ [[Verteilungskonvergenz|verteilungskonvergent]]
+- $X_n \overset{V}{\longrightarrow} X$ [[Verteilungskonvergenz|verteilungskonvergent]]
 
 Es gilt
 
@@ -14,4 +14,4 @@ Seien $(X_n)_{n \in \mathbb{N}}$ $d$-dimensionale [[Zufallsvariable|Zufallsvekto
 - $\forall z \in \mathbb{R}^d : \lim_{n \to \infty} \varphi_n(z) = \varphi(z)$
 
 $\varphi$ ist die [[Fourier-Transformierte]] eines [[Zufallsvariable|Zufallvektors]] $X^*$ und es gilt
-- $X_n \stackrel{V}{\longrightarrow} X^*$ [[Verteilungskonvergenz|verteilungskonvergiert]]
+- $X_n \overset{V}{\longrightarrow} X^*$ [[Verteilungskonvergenz|verteilungskonvergiert]]

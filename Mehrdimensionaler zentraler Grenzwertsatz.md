@@ -6,5 +6,5 @@ Seien $(X_n)_{n \in \mathbb{N}}$ [[Unabhängige Zufallsvariablen|unabhängige]],
 Es gilt bzgl. der [[Verteilungskonvergenz]] und der [[Normalverteilung]]
 
 $$
-	\forall n \in \mathbb{N} : \sqrt{n} (\overline{X}_n - \mu) \stackrel{V}{\longrightarrow} \mathcal{N}_d(\vec{0}, \Sigma)
+	\forall n \in \mathbb{N} : \sqrt{n} (\overline{X}_n - \mu) \overset{V}{\longrightarrow} \mathcal{N}_d(\vec{0}, \Sigma)
 $$

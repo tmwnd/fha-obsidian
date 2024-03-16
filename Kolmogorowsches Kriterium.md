@@ -5,5 +5,5 @@ Seien $(X_n)_{n \in \mathbb{N}}$ [[Unabhängige Zufallsvariablen|unabhängige]] 
 Es gilt $P$-[[Konvergenz P-fast sicher|f. s.]]
 
 $$
-	\frac{1}{n} \sum_{n=1}^\infty X_n \stackrel{P\text{-f. s.}}{\longrightarrow} 0
+	\frac{1}{n} \sum_{n=1}^\infty X_n \overset{P\text{-f. s.}}{\longrightarrow} 0
 $$

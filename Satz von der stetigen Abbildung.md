@@ -8,11 +8,11 @@ Es gilt
 ---
 
 Seien $d \in \mathbb{N}$, $X, (X_n)_{n \in \mathbb{N}}$ $d$-dimensionale [[Zufallsvariable|Zufallsvektoren]] mit
-- $X_n \stackrel{V}{\longrightarrow} X$ [[Verteilungskonvergenz|verteilungskonvergent]]
+- $X_n \overset{V}{\longrightarrow} X$ [[Verteilungskonvergenz|verteilungskonvergent]]
 - $f$ $p$-f. ü. stetig
 
 Es gilt
 
 $$
-	f \circ X_n \stackrel{V}{\longrightarrow} f \circ X
+	f \circ X_n \overset{V}{\longrightarrow} f \circ X
 $$

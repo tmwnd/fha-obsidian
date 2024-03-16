@@ -5,7 +5,7 @@ Seien $((R_i, \mathscr{S}_i))_{i \in \{ 1, \dots, n \}}$ [[Messraum|Messräume]]
 Es gilt nach dem [[Satz von Fubini]]
 
 $$
-	\forall B \in \mathscr{S}_1 : P(X_1 \in B) = P(X_1 \in B, X_2 \in R_2) = \int_{B \times R_2} f d\underbrace{(\mu_1 \otimes \mu_2)}_{= \mu} \stackrel{\text{Fubini}}{=} \int_B \left( \int_{R_2} f(x_1, x_2) d\mu_2(x_2) \right) d\mu_1(x_1)
+	\forall B \in \mathscr{S}_1 : P(X_1 \in B) = P(X_1 \in B, X_2 \in R_2) = \int_{B \times R_2} f d\underbrace{(\mu_1 \otimes \mu_2)}_{= \mu} \overset{\text{Fubini}}{=} \int_B \left( \int_{R_2} f(x_1, x_2) d\mu_2(x_2) \right) d\mu_1(x_1)
 $$
 
 mit

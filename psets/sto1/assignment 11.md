@@ -1,7 +1,7 @@
 1. Es seinen $X, X_1, X_2, \dots, Y, Y_1, Y_2, \dots$ Zufallsvariablen auf einem Wahrscheinlichkeitsraum $(\Omega, \mathfrak{A}, P)$.
 	Beweisen Sie die folgenden Implikationen:
-	- a) $X_n \stackrel{P}{\longrightarrow} X$ und $Y_n \stackrel{P}{\longrightarrow} Y$ $\implies$ $X_n + Y_n \stackrel{P}{\longrightarrow} X + Y$
-	- b) $X_n \stackrel{f. s.}{\longrightarrow} X$ und $Y_n \stackrel{f. s.}{\longrightarrow} Y$ $\implies$ $X_n + Y_n \stackrel{f. s.}{\longrightarrow} X + Y$
+	- a) $X_n \overset{P}{\longrightarrow} X$ und $Y_n \overset{P}{\longrightarrow} Y$ $\implies$ $X_n + Y_n \overset{P}{\longrightarrow} X + Y$
+	- b) $X_n \overset{f. s.}{\longrightarrow} X$ und $Y_n \overset{f. s.}{\longrightarrow} Y$ $\implies$ $X_n + Y_n \overset{f. s.}{\longrightarrow} X + Y$
 
 ^1
 

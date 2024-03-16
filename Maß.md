@@ -1,6 +1,6 @@
 Sei $\mathcal{A}$ eine $\sigma$-[[sigma-Algebra|Algebra]] auf $\Omega$.
 
-Eine $\sigma$-[[Abbildung|additive]] [[Abbildung]] $\mu : \mathcal{A} \to \overline{\mathbb{R}}_+$ heißt *Maß* auf $\mathcal{A}$
+Eine $\sigma$-[[Abbildung|additive]] [[Abbildung]] $\mu : \mathcal{A} \to \overline{\mathbb{R}}_+$ heißt *Maß* auf $\mathcal{A}$.
 
 ---
 

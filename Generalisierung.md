@@ -1,1 +1,0 @@
-Damit eine [[Hypothese]] eine [[Target-Function]] gut *generalisiert*, muss der [[In-Sample Error]] ähnlich groß, wie der [[Out-Sample Error]] sein.

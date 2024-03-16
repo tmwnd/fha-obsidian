@@ -1,5 +1,0 @@
-![[Weight Decay]]
-![[Weiche Beschränkung]]
-![[Harte, strikte Beschränkung]]
-![[Regularisierung mit Polynomen]]
-![[Tikhonov-Regularisierer]]

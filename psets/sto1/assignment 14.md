@@ -14,7 +14,7 @@
 	Ziegen Sie, dass im Falle $\lim_{m, n \to \infty} \frac{n}{n+m} = \tau \in [0, 1]$
 	
 	$$
-		\sqrt{\frac{mn}{m+n}}(\overline{X}_m - \overline{Y}_n) \stackrel{V}{\longrightarrow} N(0, 1), \quad m, n \to \infty
+		\sqrt{\frac{mn}{m+n}}(\overline{X}_m - \overline{Y}_n) \overset{V}{\longrightarrow} N(0, 1), \quad m, n \to \infty
 	$$
 	
 	gilt.
@@ -32,7 +32,7 @@
 	Zeigen Sie:
 	
 	$$
-		\frac{X_1 + X_2}{\sqrt{2}} \stackrel{V}{=} X_1 \iff X_1 \sim N(0, 1)
+		\frac{X_1 + X_2}{\sqrt{2}} \overset{V}{=} X_1 \iff X_1 \sim N(0, 1)
 	$$
 
 ^4
