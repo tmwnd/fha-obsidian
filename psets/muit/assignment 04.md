@@ -9,7 +9,7 @@
 	1. $\sim$ ist eine Äquivalenzrelation auf dem System aller Maße.
 	2. $\mu \sim \nu$ genau dann, wenn die Maße die gleichen Nullmengen besitzen.
 	3. Seien $\mu$ und $\nu$ $\sigma$-endlich und $\mu \sim \nu$.
-		Dann Folgt $\nu = f\mu$ mit einer Dichte $f \gt 0$ $\mu$-fast überall.
+		Dann folgt $\nu = f\mu$ mit einer Dichte $f \gt 0$ $\mu$-fast überall.
 
 ^2
 

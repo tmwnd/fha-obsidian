@@ -5,7 +5,7 @@ Die Folge $(X_i)_{i \in \{ 1, \dots, n \}}$ *konvergiert $P$-fast sicher* gegen 
 - $\exists N \in \mathcal{A}$ eine $P$-[[mu-Nullmengen|Nullmenge]] mit
 
 $$
-	\forall \omega \in N^C : \lim_{n \to \infty} X_n(\omega) = X(\omega)
+	\forall \omega \in N^\complement : \lim_{n \to \infty} X_n(\omega) = X(\omega)
 $$
 
 Schreibe $X_n \to X$ $P$-f. s. oder $X_n \overset{P\text{-f. s.}}{\longrightarrow} X$

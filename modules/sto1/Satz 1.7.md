@@ -2,7 +2,7 @@ Sei $\mathcal{R}$ ein [[Ring]] auf $\Omega$ und $\mu : \mathcal{R} \to \overline
 - Isotonie:
 	- $A, B \in \mathcal{R}, A \subseteq B \implies \mu(A) \le \mu(B)$
 - Subtraktivität:
-	- $A, B \in \mathcal{R}, A \subseteq B, \mu(A) \lt \infty \implies \mu(B \cap A^C) = \mu(B) - \mu(A)$
+	- $A, B \in \mathcal{R}, A \subseteq B, \mu(A) \lt \infty \implies \mu(B \cap A^\complement) = \mu(B) - \mu(A)$
 - Siebformel:
 	- $A_1, \dots, A_n \in \mathcal{R}$ mit $\mu(\bigcup_{k=1}^n) A_k \lt \infty, n \in \mathbb{N} \implies$
 

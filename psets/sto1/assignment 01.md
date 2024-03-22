@@ -1,11 +1,11 @@
 1. Es sei $\Omega$ eine nicht abzählbare Menge und
 	
 	$$
-		\mathfrak{A} := \{ A \subseteq \Omega \mid A \text{ abzählbar } \lor A^C \text{ abzählbar } \}
+		\mathfrak{A} := \{ A \subseteq \Omega \mid A \text{ abzählbar } \lor A^\complement \text{ abzählbar } \}
 	$$
 	
 	1. Zeigen Sie, dass $\mathfrak{A}$ eine $\sigma$-Algebra auf $\Omega$ ist.
-	2. Es sei $m : \mathfrak{A} \to [0, 1]$ definiert durch $m(A) = 0$, falls $A$ abzählbar und $m(A) = 1$, falls $A^C$ abzählbar ist.
+	2. Es sei $m : \mathfrak{A} \to [0, 1]$ definiert durch $m(A) = 0$, falls $A$ abzählbar und $m(A) = 1$, falls $A^\complement$ abzählbar ist.
 	   Zeigen Sie, dass $m$ ein Maß ist.
 
 ^1
@@ -14,8 +14,8 @@
 	Zeigen Sie, dass für das Wahrscheinlichkeitsmaß $P$ die folgenden Eigenschaften gelten:
 	
 	1. Aus $A, B \in \mathfrak{A}$, $A \subseteq B$, folgt $P(A) \le P(B)$. (Isotonie)
-	2. Aus $A, B \in \mathfrak{A}$, $A \subseteq B$, folgt $P(A \cap A^C) = P(B) - P(A)$. (Subtraktivität)
-	3. Für $A \in \mathfrak{A}$ ist $P(A^C) = 1 - P(A)$
+	2. Aus $A, B \in \mathfrak{A}$, $A \subseteq B$, folgt $P(A \cap A^\complement) = P(B) - P(A)$. (Subtraktivität)
+	3. Für $A \in \mathfrak{A}$ ist $P(A^\complement) = 1 - P(A)$
 	4. $P(\emptyset) = 0$
 	5. Für endlich viele $A_1, \dots, A_n \in \mathfrak{A}$ gilt
 	
@@ -42,7 +42,7 @@
 	- (a) $\mathfrak{D}$ ist ein Dynkin-System auf $\Omega$.
 	- (b) hat die Eigenschaften:
 		1. $\Omega \in \mathfrak{D}$
-		2. $A, B \in \mathfrak{D}, B \subseteq A \implies A \cap B^C \in \mathfrak{D}$
+		2. $A, B \in \mathfrak{D}, B \subseteq A \implies A \cap B^\complement \in \mathfrak{D}$
 		3. $A_1, A_2, \dots \in \mathfrak{D}$ mit $A_n \subseteq A_{n+1}$ für $n \in \mathbb{N}$ $\implies$ $\bigcup_{n=1}^\infty A_n \in \mathfrak{D}$
 
 ^3

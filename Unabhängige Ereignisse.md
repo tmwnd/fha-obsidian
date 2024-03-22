@@ -4,10 +4,10 @@ $A, B$ sind *(stochastisch) unabhängig*, falls
 - $P(A \cap B) = P(A) \cdot P(B)$
 
 Es gilt
-- $P(A \cap B^C) = P(A) \cdot P(B^C)$
-- $A, B^C$ sind unabängig
-- $A^C, B^C$ sind unabhängig
-- $A^C, B$ sind unabhängig
+- $P(A \cap B^\complement) = P(A) \cdot P(B^\complement)$
+- $A, B^\complement$ sind unabängig
+- $A^\complement, B^\complement$ sind unabhängig
+- $A^\complement, B$ sind unabhängig
 
 ---
 

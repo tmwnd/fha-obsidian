@@ -7,17 +7,17 @@
 	1. Komplementbildung
 	
 	$$
-		(A^C)^C = A, \quad X^C = \emptyset, \quad \emptyset^C = X, \quad A \subseteq B \iff B^C \subseteq A^C
+		(A^\complement)^\complement = A, \quad X^\complement = \emptyset, \quad \emptyset^\complement = X, \quad A \subseteq B \iff B^\complement \subseteq A^\complement
 	$$
 	
 	2. De Morgansche Gesetze
 	
 	$$
-		\left( \bigcup_{i \in I} A_i \right)^C = \bigcap_{i \in I}(A_i^C)
+		\left( \bigcup_{i \in I} A_i \right)^\complement = \bigcap_{i \in I}(A_i^\complement)
 	$$
 	
 	$$
-		\left( \bigcap_{i \in I} A_i \right)^C = \bigcup_{i \in I}(A_i^C)
+		\left( \bigcap_{i \in I} A_i \right)^\complement = \bigcup_{i \in I}(A_i^\complement)
 	$$
 	
 	3. Distributivgesetz

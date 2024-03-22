@@ -9,7 +9,7 @@
 
 ^1
 
-2. Sei $f : (X, \mathcal{A}) \to (Y, \mathcal{B})$ eine messbare Abbildung und $\mathcal{B}_f$ wie unter [[psets/muit/assignment 03#^1|(1)]] definiert.
+2. Sei $f : (X, \mathcal{A}) \to (Y, \mathcal{B})$ eine messbare Abbildung und $\mathcal{B}_f$ wie unter [[psets/muit/assignment 03#^1|1.]] definiert.
 	Zeigen Sie:
 	1. $\mathcal{B} \subseteq \mathcal{B}_f$
 	2. $f^{-1}(\mathcal{B}) \subseteq f^{-1}(\mathcal{B}_f) \subseteq \mathcal{A}$
@@ -31,7 +31,7 @@
 
 ^4
 
-5. Sei $f : (\mathbb{R}, \mathcal{B}^*) \to (\mathbb{R}, \mathbb{B}^*)$ eine monotone FUnktion.
+5. Sei $f : (\mathbb{R}, \mathcal{B}^*) \to (\mathbb{R}, \mathcal{B}^*)$ eine monotone Funktion.
 	Zeigen Sie, dass $f$ $\mathcal{B}^*$-messbar ist.
 
 ^5
@@ -40,11 +40,11 @@
 
 ^6
 
-7. Sei $f : (X, \mathcal{A}) \to (Y, \mathcal{B})$ eine messbare Abbildung und $X \subseteq X$ eine beliebige Menge, die nicht notwendigerweise in $\mathcal{A}$ liegen muss.
+7. Sei $f : (X, \mathcal{A}) \to (Y, \mathcal{B})$ eine messbare Abbildung und $C \subseteq X$ eine beliebige Menge, die nicht notwendigerweise in $\mathcal{A}$ liegen muss.
 	
 	1. Zeigen Sie zunächst, dass das Mengensystem $\mathcal{A}_C := \{ A \cap C \mid A \in \mathcal{A} \}$ eine $\sigma$-Algebra auf $C$ ist.
 	2. Durch $f|_C : (C, \mathcal{A}_C) \to (Y, \mathcal{B})$ mit $f|_C(x) : f(x)$, für $x \in C$, wird dann die Restriktion von $f$ auf $C$ definiert.
-		Zeigen Sie, dass aus der $\mathcal{A}$-$\mathcal{B}$-Messbarkeit von $f$ die $\mathcal{A}_C$-$\mathcal{B}$-Messbarkeit von $f|_C$ folgt.
+		Zeigen Sie, dass aus der $(\mathcal{A}, \mathcal{B})$-Messbarkeit von $f$ die $(\mathcal{A}_C, \mathcal{B})$-Messbarkeit von $f|_C$ folgt.
 
 ^7
 
@@ -79,7 +79,7 @@
 12. Beweisen Sie.
 	
 	Sei der Maßraum $((0, 1], \mathcal{B}_{(0, 1]}^*, \lambda)$ gegeben mit dem Lebesgue-Maß $\lambda$ auf dem Einheitsintervall.
-	Dabei bezeichnet $\mathcal{B}_{(0, 1]}^* := \{ (0, 1] \cap B \mid B \in \mathcal{B}^* \}$ die $\sigma$-Algebra, die entsteht, wenn man die Borelmengen mit dem Intervall $(0, 1]$ schneidet vgl. [[psets/muit/assignment 03#^7|(7)]].
+	Dabei bezeichnet $\mathcal{B}_{(0, 1]}^* := \{ (0, 1] \cap B \mid B \in \mathcal{B}^* \}$ die $\sigma$-Algebra, die entsteht, wenn man die Borelmengen mit dem Intervall $(0, 1]$ schneidet vgl. [[psets/muit/assignment 03#^7|7.]].
 	Die Messbare Funktion
 	
 	$$
@@ -93,7 +93,7 @@
 13. Sei $f : (0, 1] \to \mathbb{R}, f(x) := x^2$, $(f_n)_{n \in \mathbb{N}} \subseteq E_+((0, 1], \mathcal{B}_{(0, 1]}^*)$ eine Folge von nicht-negativen Elementarfunktionen mit
 	
 	$$
-		f_n(x) := \sum_{k=1}^{2^n} \frac{(k-1)^2}{2^{2n}} \cdot I_{A_{n, k}}(x), \text{ mit } A_{n, k} := \left[ \frac{k-1}{2^n}, \frac{l}{2^n} \right]
+		f_n(x) := \sum_{k=1}^{2^n} \frac{(k-1)^2}{2^{2n}} \cdot I_{A_{n, k}}(x), \text{ mit } A_{n, k} := \left( \frac{k-1}{2^n}, \frac{k}{2^n} \right]
 	$$
 	
 	wobei $k = 1, \dots, 2^n$, $n \in \mathbb{N}$.
@@ -147,8 +147,8 @@
 
 19. Sei $(X, \mathcal{A}, \mu)$ ein Maßraum und $1 \le p \le q \le \infty$.
 	Man zeige:
-	1. Im Fall $\mu(X) \lt \infty$ gilt $L_q(X, \mathcal{A}, \mu) \subseteq L_q(X, \mathcal{A}, \mu)$.
-	2. Gilt obige Aussgae auch im Fall $\mu(X) = \infty$?
+	1. Im Fall $\mu(X) \lt \infty$ gilt $L_q(X, \mathcal{A}, \mu) \subseteq L_p(X, \mathcal{A}, \mu)$.
+	2. Gilt obige Aussage auch im Fall $\mu(X) = \infty$?
 	3. Seien $p, q$ wie oben, $\mu(X) \lt \infty$ und $(f_n)_{n \in \mathbb{N}} \subseteq L_q(X, \mathcal{A}, \mu)$.
 		Dann gilt: $\| f_n - f \|_q \to 0 \implies \| f_n - f \|_p \to 0$
 

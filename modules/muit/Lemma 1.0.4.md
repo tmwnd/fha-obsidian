@@ -4,18 +4,18 @@ Sei $\Omega \ne \emptyset$, $\mathcal{A}, \mathcal{B} \subseteq \mathcal{P}(\Ome
 
 Es gilt
 - *Komplementbildung*
-	- $(A^C)^C = A$
-	- $\Omega^C = \emptyset$
-	- $\emptyset^C = \Omega$
-	- $A \subseteq B \iff B^C \subseteq A^C$
+	- $(A^\complement)^\complement = A$
+	- $\Omega^\complement = \emptyset$
+	- $\emptyset^\complement = \Omega$
+	- $A \subseteq B \iff B^\complement \subseteq A^\complement$
 - *De Morgansche Gesetze*
 
 $$
-	\left( \bigcup_{i \in I} A_i \right)^C = \bigcap_{i \in I} A_i^C
+	\left( \bigcup_{i \in I} A_i \right)^\complement = \bigcap_{i \in I} A_i^\complement
 $$
 
 $$
-	\left( \bigcap_{i \in I} A_i \right)^C = \bigcup_{i \in I} A_i^C
+	\left( \bigcap_{i \in I} A_i \right)^\complement = \bigcup_{i \in I} A_i^\complement
 $$
 
 - *Distributivgesetz*

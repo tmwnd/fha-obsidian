@@ -24,7 +24,7 @@ $$
 - *Komplement* von $A$ in $\Omega$
 
 $$
-	A^C = \{ \omega \in \Omega \mid \omega \notin A \}
+	A^\complement = \{ \omega \in \Omega \mid \omega \notin A \}
 $$
 
 - $A$ ohne $B$

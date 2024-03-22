@@ -3,17 +3,17 @@
 1. 
 
 $$
-	(A^C)^C = (\{ a \mid a \in A \}^C)^C = \{ a \mid \overline{a \in A} \}^C = \{ a \mid \overline{\overline{a \in A}} \} = \{ a \mid a \in A \} = A
+	(A^\complement)^\complement = (\{ a \mid a \in A \}^\complement)^\complement = \{ a \mid \overline{a \in A} \}^\complement = \{ a \mid \overline{\overline{a \in A}} \} = \{ a \mid a \in A \} = A
 $$
 
 2. 
 
 $$
-	\left( \bigcup_{i \in I} A_i \right)^C = \{ a \mid \exists i \in I : a \in A_i \}^C = \{ a \mid \forall i \in I : a \notin A_i \} = \bigcap_{i \in I} A_i^C
+	\left( \bigcup_{i \in I} A_i \right)^\complement = \{ a \mid \exists i \in I : a \in A_i \}^\complement = \{ a \mid \forall i \in I : a \notin A_i \} = \bigcap_{i \in I} A_i^\complement
 $$
 
 $$
-	\left( \bigcap_{i \in I} A_i \right)^C = \{ a \mid \forall i \in I : a \in A_i \}^C = \{ a \mid \exists i \in I : a \notin A_i \} = \bigcup_{i \in I} A_i^C
+	\left( \bigcap_{i \in I} A_i \right)^\complement = \{ a \mid \forall i \in I : a \in A_i \}^\complement = \{ a \mid \exists i \in I : a \notin A_i \} = \bigcup_{i \in I} A_i^\complement
 $$
 
 3. 

@@ -19,3 +19,10 @@ Es gilt mit dem $\mu$-[[mu-Integral|Integral]]
 $$
 	P(X \in A) = \int_A f d\mu
 $$
+
+---
+
+Sei $(\Omega, \mathcal{A})$ ein [[Messraum]], $\mu$ ein $\sigma$-[[Maß|finites]] [[Maß]] auf $(\Omega, \mathcal{A})$, $\nu$ ein [[Maß]] auf $(\Omega, \mathcal{A})$.
+
+$\nu$ hat eine $\mu$-Dichte, falls
+- $\nu$ $\mu$-[[mu-Stetigkeit|stetig]] ist

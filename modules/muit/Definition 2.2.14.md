@@ -10,7 +10,7 @@ $$
 - Der *Rand* von $A$
 
 $$
-	\partial A = \{ \omega \in \Omega \mid \forall \epsilon \gt 0 : K_\epsilon(\omega) \cap A \ne \emptyset \land K_\epsilon(\omega) \cap A^C \ne \emptyset \}
+	\partial A = \{ \omega \in \Omega \mid \forall \epsilon \gt 0 : K_\epsilon(\omega) \cap A \ne \emptyset \land K_\epsilon(\omega) \cap A^\complement \ne \emptyset \}
 $$
 
 - $A$ heißt *offen*, falls $A = A \setminus \partial A$

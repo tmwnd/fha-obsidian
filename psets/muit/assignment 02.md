@@ -18,7 +18,7 @@
 	Zeigen Sie, dass das Mengensystem
 	
 	$$
-		\mathcal{A} := \{ A \subseteq X \mid A \lor A^C \text{ abzählbar } \}
+		\mathcal{A} := \{ A \subseteq X \mid A \lor A^\complement \text{ abzählbar } \}
 	$$
 	
 	eine $\sigma$-Algebra ist.

@@ -3,7 +3,7 @@ Sei $\Omega_0 \subseteq \Omega$  mit
 - $\Omega_0 \ne \emptyset$
 
 Eine [[Funktion]] $p : \Omega \to \mathbb{R}_+$ heißt *Wahrscheinlichkeitsmassefunktion*, falls
-- $\forall \omega \in \Omega_0^C : p(\omega) = 0$
+- $\forall \omega \in \Omega_0^\complement : p(\omega) = 0$
 - $\sum_{\omega \in \Omega} p(\omega) = \sum_{\omega \in \Omega_0} p(\omega) = 1$
 
 ---
