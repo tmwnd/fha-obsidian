@@ -1,7 +1,14 @@
-Seien $(x_i, y_i)_{i \in \{ 1, \dots, m \}}$ Daten-Paare, $l$ eine differenzierbare [[Loss-Funktion]].
+Seien $(x_i, y_i)_{i \in \{ 1, \dots, m \}}$ Daten-Paare, $w^{(0)} \in \mathbb{R}^n$, $l$ eine zweifach differenzierbare [[Loss-Funktion]] mit
+- $l''$ [[regulär]]
 
 Die $k$-te Iteration des *Gradientenverfahrens* ist definiert als
 
 $$
-	w^{(k+1)} = w^{(k)} - l''\left( w^{(k)} \right)^{-1}l'\left( w^{(k)} \right)
+	w^{(k+1)} = \underbrace{w^{(k)} - l''\left( w^{(k)} \right)^{-1}l'\left( w^{(k)} \right)}_\text{linesares Gleichungssystem}
+$$
+
+Es gilt
+
+$$
+	l(w) \approx \underbrace{l(w^{(k)}) + l'(w^{(k)})(w - w^{(k)}) + \frac{1}{2}(w - w^{(k)})^Tl''(w^{(k)})(w - w^{(k)})}_\text{quadratisch}
 $$

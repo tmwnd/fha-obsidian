@@ -35,9 +35,9 @@ $$
 $$
 
 und
-- $l$ [[konvex]] $\implies$ jedes lokale Minimum ist ein globales Minimum
+- $l$ [[Konvexität|konvex]] $\implies$ jedes lokale Minimum ist ein globales Minimum
 - $l'(w) = 0 \iff A^TAw = A^Tb$
-- $l''(w)$ [[positiv semidefinit]] $\implies$ $w$ ist ein lokales Minimum
+- $l''(w)$ [[Definitheit|positiv semidefinit]] $\implies$ $w$ ist ein lokales Minimum
 - $\underbrace{w^* = \arg\min_{w \in \mathbb{R}^n} l(w)}_\text{numerisches Optimierungsproblem} \equiv \underbrace{A^TAw = A^Tb}_\text{linesares Gleichungssystem}$[^1]
 
 [^1]: $w$ nicht eindeutig, da $g$ mehrere globale Minima enthalten kann

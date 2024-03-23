@@ -7,7 +7,6 @@
 	$$
 	
 	Die Vorraussetzung ist erfüllt, da der Grenzwert einer Folge $(\mathfrak{B}, \mathfrak{B})$-messbarer Funktionen immer $(\mathfrak{B}, \mathfrak{B})$-messbar ist
-- b) TODO
 
 ---
 
