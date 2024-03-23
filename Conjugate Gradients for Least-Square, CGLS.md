@@ -14,4 +14,4 @@ Der $k$-te Schritt von *CGLS* ist definiert als
 
 ---
 
-CGLS optimiert [[CG]] für [[Least-Square Problem|Least-Square Probleme]].
+CGLS optimiert [[Conjugate Gradients, CG|CG]] für [[Least-Square Problem|Least-Square Probleme]].

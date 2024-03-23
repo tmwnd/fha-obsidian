@@ -18,5 +18,5 @@ Interpretation
 	- CG greift im $k$-ten Schritt zusätzlich zu auf die vorherige Suchrichtung zu
 	- CG ist keine stationäre Iteration
 - CG als Projektionsverfahren
-	- CG ersetzt $Aw = b$ durch eine Folge kleinerer, exakt zu lösender Systeme:
+	- CG ersetzt $Aw = b$ durch eine Folge kleinerer, exakt zu lösender Systeme
 	- CG wendet Modellvereinfachung bzw. Dimensionsreduktion an

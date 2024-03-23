@@ -1,7 +1,7 @@
 Seien $(x_i, y_i)_{i \in \{ 1, \dots, m \}}$ Daten-Paare, $w^{(0)} \in \mathbb{R}^n$, $l$ eine zweifach differenzierbare [[Loss-Funktion]] mit
 - $l''$ [[regulär]]
 
-Die $k$-te Iteration des *Gradientenverfahrens* ist definiert als
+Die $k$-te Iteration des *Newton Verfahrens* ist definiert als
 
 $$
 	w^{(k+1)} = \underbrace{w^{(k)} - l''\left( w^{(k)} \right)^{-1}l'\left( w^{(k)} \right)}_\text{linesares Gleichungssystem}

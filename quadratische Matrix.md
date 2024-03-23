@@ -1,4 +1,4 @@
-Sei $A \in \mathbb{R}^{n \times m}$.
+Sei $A \in \mathbb{R}^{m \times n}$.
 
 $A$ heißt *quatratisch*, falls
 - $n = m$
