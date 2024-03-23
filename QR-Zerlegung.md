@@ -5,7 +5,7 @@ Sei $X \in \mathbb{R}^{m \times n}, y \in \mathbb{R}^m$, $w \in \mathbb{R}^n$ mi
 Zerlege $X$, sodass
 - $X = QR = Q\begin{pmatrix} \tilde{R} \\ 0 \end{pmatrix}$
 - $Q \in \mathbb{R}^{m \times m}$
-- $Q$ [[orthonormal]]
+- $Q$ [[orthogonale Matrizen|orthogonal]]
 - $R \in \mathbb{R}^{m \times n}$
 - $\tilde{R} \in \mathbb{R}^{n \times n}$
 - $\tilde{R}$ eine [[quadratische Matrix|quadratische]] [[Dreiecksmatrix|obere Dreiecksmatrix]]
