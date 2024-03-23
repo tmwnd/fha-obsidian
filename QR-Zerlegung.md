@@ -1,6 +1,8 @@
 Sei $X \in \mathbb{R}^{m \times n}, y \in \mathbb{R}^m$, $w \in \mathbb{R}^n$ mit
-- $X^TXw = X^Ty$
 - $m \ge n$
+
+Das zu lösende Normalgleichungssystem ist
+- $X^TXw = X^Ty$
 
 Zerlege $X$, sodass
 - $X = QR = Q\begin{pmatrix} \tilde{R} \\ 0 \end{pmatrix}$

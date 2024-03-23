@@ -25,7 +25,7 @@
 	1. $\emptyset$ abzählbar $\implies$ $m(\emptyset) = 0$
 	2. 
 		1. $m(\bigcup_{n=1}^\infty A_n) = 0$ $\implies$ $\bigcup_{n=1}^\infty A_n$ abzählbar $\implies$ $\forall n \in \mathbb{N} : A_n$ abzählbar $\implies$ $\sum_{n \in \mathbb{N}} m(A_n) = 0$
-		2. $m(\bigcup_{n=1}^\infty A_n) = 1$ $\implies$ $(\bigcup_{n=1}^\infty A_n)^\complement$ abzählbar $\land$ $\exists k \in \mathbb{N} : A_k^\complement$ abzählbar[^1] $\land$ $\forall l \in \mathbb{N} \setminus \{ k \} : A_l$ abzählbar[^2] $\implies$ $\sum_{n \in \mathbb{N}} m(A_n) \gt 0 \land \sum_{n \in \mathbb{N}} m(A_n) \le 1$ $\implies$ $\sum_{n \in \mathbb{N}} m(A_n) = 1$
+		2. $m(\bigcup_{n=1}^\infty A_n) = 1$ $\implies$ $(\bigcup_{n=1}^\infty A_n)^\complement$ abzählbar $\land$ $\exists k \in \mathbb{N} : A_k^\complement$ abzählbar^[$\forall n \in \mathbb{N} : A_n$ abzählbar $\implies$ $m(\bigcup_{n=1}^\infty A_n) = 0 \ne 1$] $\land$ $\forall l \in \mathbb{N} \setminus \{ k \} : A_l$ abzählbar^[$A_k^\complement$ abzählbar $\overset{\Omega \text{ überabzählbar}}{\implies}$ $A_k$ überabzählbar $\overset{A_k, A_l \text{ diskunkt}}{\implies}$ $A_l \subseteq A_k^\complement$ $\implies$ $A_l$ abzählbar] $\implies$ $\sum_{n \in \mathbb{N}} m(A_n) \gt 0 \land \sum_{n \in \mathbb{N}} m(A_n) \le 1$ $\implies$ $\sum_{n \in \mathbb{N}} m(A_n) = 1$
 
 ---
 
@@ -34,7 +34,3 @@
 ---
 
 ![[psets/sto1/assignment 01#^3]]
-
-
-[^1]: $\forall n \in \mathbb{N} : A_n$ abzählbar $\implies$ $m(\bigcup_{n=1}^\infty A_n) = 0 \ne 1$
-[^2]: $A_k^\complement$ abzählbar $\overset{\Omega \text{ überabzählbar}}{\implies}$ $A_k$ überabzählbar $\overset{A_k, A_l \text{ diskunkt}}{\implies}$ $A_l \subseteq A_k^\complement$ $\implies$ $A_l$ abzählbar

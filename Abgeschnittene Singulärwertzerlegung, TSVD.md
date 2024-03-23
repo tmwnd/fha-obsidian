@@ -7,7 +7,7 @@ Sei $X \in \mathbb{R}^{m \times n}$ mit
 
 Es gilt
 - $X = U\Sigma V^T = \sum_{i=1}^r u_i\sigma_iv_i^T = U_r\Sigma_rV_r^T$
-- $X^+ = V_r\Sigma_r^{-1}U_r^T$
+- $X^+ = V_r\Sigma_r^{-1}U_r^T$ die [[Pseudoinverse]] von $X$
 
 Falls $r \ll \min(m, n)$ gilt
 - Produkte über $U_r\Sigma_rV_r^T$ deutlich günstiger als über $X$

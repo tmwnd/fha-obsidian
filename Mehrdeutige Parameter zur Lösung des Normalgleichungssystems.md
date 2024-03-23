@@ -1,10 +1,12 @@
 Sei $X \in \mathbb{R}^{m \times n}, y \in \mathbb{R}^m$ mit
-- $X^TXw = X^Ty$
 - Spaltenvektoren von $X$ linear abhängig $\implies$ $X^TX$ [[Definitheit|positiv semidefinit]] $\implies$ $X^TX$ nicht [[regulär]] bzw. [[singulär]]
 - $U\Sigma V$ die [[Singulärwertzerlegung, SVD|SVD]] von $X$
 - $w$ existiert
 - $w$ nicht eindeutig bestimmt
 - $X^+ \in \mathbb{R}^{n \times m}$ die [[Pseudoinverse]] von $X$
+
+Das zu lösende Normalgleichungssystem ist
+- $X^TXw = X^Ty$
 
 Suche
 - $w^+ = \arg\min_{w} \| w \|_2^2$
