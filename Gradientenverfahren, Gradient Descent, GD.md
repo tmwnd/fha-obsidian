@@ -1,4 +1,4 @@
-Seien $(x_i, y_i)_{i \in \{ 1, \dots, m \}}$ Daten-Paare, $l$ eine differenzierbare [[Loss-Funktion]], $\gamma^{(k)} \ge 0$ die Schrittlänge.
+Seien $(x_i, y_i)_{i \in \{ 1, \dots, m \}}$ Daten-Paare, $l$ eine differenzierbare [[Loss-Funktion]], $w^{(0)} \in \mathbb{R}^n$, $\gamma^{(k)} \ge 0$ die Schrittlänge.
 
 Die $k$-te Iteration des *Gradientenverfahrens* ist definiert als
 

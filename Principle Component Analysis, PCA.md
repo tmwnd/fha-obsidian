@@ -69,5 +69,7 @@ $$
 	\sum_{i=1}^k V(\tilde{X}_i) = \frac{\sum_{i=1}^k \sigma_i^2}{n-1} \ge V(X) - \varepsilon
 $$
 
-Es gilt
+---
+
+Vorteile:
 - Produkte über $\tilde{X}$ deutlich günstiger als über $X$

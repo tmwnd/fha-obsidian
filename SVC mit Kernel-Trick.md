@@ -13,5 +13,5 @@ Anstatt $g(\Phi(x), \hat{w})$ zu berechnen, ersetzten wir jedes Skalarprodukt $\
 - $K(x, y) = K(y, x)$
 
 Es gilt
-- [[Trennende Hyperebene von überlappenden Clustern, Support-Vector Klassifikation, SVC|SVC]] mit *Kernel-Trick* erzeugt komplexere [[Hyperebene|Hyperebenen]]
-- [[Trennende Hyperebene von überlappenden Clustern, Support-Vector Klassifikation, SVC|SVC]] mit *Kernel-Trick* kann die Daten potenziell besser trennen
+- [[Trennende Hyperebene von überlappenden Clustern, Support-Vector Klassifikation, SVC|SVC]] mit Kernel-Trick erzeugt komplexere [[Hyperebene|Hyperebenen]]
+- [[Trennende Hyperebene von überlappenden Clustern, Support-Vector Klassifikation, SVC|SVC]] mit Kernel-Trick kann die Daten potenziell besser trennen

@@ -19,5 +19,7 @@ $$
 	X = U\Sigma V^T = \sum_{i=1}^r u_i\sigma_iv_i^T \approx \sum_{i=1}^k u_i\sigma_iv_i^T = U_k\Sigma_kV_k^T = X_k
 $$
 
-und
+---
+
+Vorteile
 - Produkte über $X_k$ deutlich günstiger als über $X$
