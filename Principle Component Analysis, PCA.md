@@ -1,6 +1,6 @@
 Sei $X = (x_1, \dots, x_n) \in \mathbb{R}^{m \times n}$ mit
 - $X$ [[zentrierter Datensatz|zentriert]]
-- $U\Sigma V^T$ der [[Singulärwertzerlegung, SVD|SVD]] von $X$
+- $U\Sigma V^T$ die [[Singulärwertzerlegung, SVD|SVD]] von $X$
 - $s \in \mathbb{R}$
 
 Suche

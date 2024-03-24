@@ -1,5 +1,5 @@
 Sei $X \in \mathbb{R}^{m \times n}$ mit
-- $U\Sigma V^T$ der [[Singulärwertzerlegung, SVD|SVD]] von $X$
+- $U\Sigma V^T$ die [[Singulärwertzerlegung, SVD|SVD]] von $X$
 - $\sigma_r \gt \sigma_{r+1} = 0$
 - $U_r = (u_1, \dots, u_r) \in \mathbb{R}^{m \times r}$
 - $\Sigma_r = \text{diag}(\sigma_1, \dots, \sigma_r) \in \mathbb{R}^{r \times r}$
