@@ -10,8 +10,8 @@ die $i$-te Iteration des *Unterraum-Iteration-Verfahrens* ist definiert als
 Es gilt
 - $\lambda^{(i)} \to \lambda_1$ dem größten [[Eigenwert]] von $X^TX$
 - $v^{(i)} \to v_1$ dem zum größten [[Eigenwert]] gehörendem [[Eigenvektor]] von $X^TX$
-- $\sqrt{\lambda_i} = \sigma_1$ der größte [[Singulärwerte|Singulärwert]] von $A$
-- Die Lösung von $Xv_1 = U\Sigma V^Tv_1 = \sigma_1u_1$ entspricht dem zum größten [[Singulärwerte]] gehörenden [[Eigenvektor]] $u_1$
+- $\sqrt{\lambda_i} = \sigma_1$ der größte [[Singulärwert]] von $A$
+- Die Lösung von $Xv_1 = U\Sigma V^Tv_1 = \sigma_1u_1$ entspricht dem zum größten [[Singulärwert]] gehörenden [[Eigenvektor]] $u_1$
 
 ---
 
@@ -30,4 +30,4 @@ die $i$-te Iteration des *Unterraum-Iteration-Verfahrens* ist definiert als
 Es gilt
 - $\Lambda^{(i)} \to \text{diag}((\lambda_j)_{j \in \{ 1, \dots, k \}})$ die $k$ größten [[Eigenwert|Eigenwerte]] von $X^TX$
 - $V^{(i)} \to (v_j)_{j \in \{ 1, \dots, k \}}$ die $k$-größten [[Eigenvektor|Eigenvektoren]] von $X^TX$
-- $(\sqrt{\lambda_j})_{j \in \{ 1, \dots, k \}} = (\sigma_i)_{j \in \{ 1, \dots, k \}}$ die $k$-größten [[Singulärwerte]] von $A$
+- $(\sqrt{\lambda_j})_{j \in \{ 1, \dots, k \}} = (\sigma_i)_{j \in \{ 1, \dots, k \}}$ die $k$-größten [[Singulärwert|Singulärwerte]] von $A$

@@ -7,8 +7,8 @@ $$
 $$
 
 mit
-- $\alpha \downarrow 0$ Gewichtung von kleinen [[Residuenvektor|Residuen]]
-- $\alpha \uparrow \infty$ Gewichtung des Entgegenwirkens von [[Overfitting]]
+- $\alpha \to 0$ Gewichtung von kleinen [[Residuenvektor|Residuen]]
+- $\alpha \to \infty$ Gewichtung des Entgegenwirkens von [[Overfitting]]
 
 Es gilt
 

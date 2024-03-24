@@ -8,4 +8,4 @@ $A$ heißt *orthogonal*, falls
 Sei $X \in \mathbb{R}^{m \times n}$, $T$, $S$ orthonormal.
 
 Es gilt
-- Die [[Singulärwerte]] von $X$ sind identisch zu den [[Singulärwerte|Singulärwerten]] von $TXS$
+- Die [[Singulärwert|Singulärwerte]] von $X$ sind identisch zu den [[Singulärwert|Singulärwerten]] von $TXS$
