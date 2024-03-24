@@ -15,7 +15,8 @@ $$
 	\end{cases}
 $$
 
-Schreibe $X \sim \text{Exp}(\lambda)$
+Schreibe
+- $X \sim \text{Exp}(\lambda)$
 
 ---
 

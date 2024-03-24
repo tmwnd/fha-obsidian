@@ -9,4 +9,5 @@ $$
 	P(X_1 = x_1, \dots, X_d = x_d) = \frac{n!}{\prod_{n=1}^dk_i!}\prod_{i=1}^dp_i^{k_i}
 $$
 
-Schreibe $X \sim \mathfrak{M}(n, p_1, \dots, p_d)$
+Schreibe
+- $X \sim \mathfrak{M}(n, p_1, \dots, p_d)$

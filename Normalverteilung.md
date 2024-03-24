@@ -12,7 +12,8 @@ $$
 	F(x) = \int_{-\infty}^x \varphi_{\mu, \sigma^2}(t) dt
 $$
 
-Schreibe $X \sim \mathcal{N}(\mu, \sigma^2)$
+Schreibe
+- $X \sim \mathcal{N}(\mu, \sigma^2)$
 
 ---
 
@@ -41,9 +42,10 @@ $$
 	f(x) = \left( \frac{1}{2\pi}^\frac{n}{2} \right) \cdot e^{-\frac{1}{2}|x|^n}
 $$
 
-Schreibe $X \sim \mathcal{N}_n(\vec{0}, I_n)$ mit
-- $\vec{0} \in \mathbb{R}^d$ dem Nullvektor
-- $I_n \in \mathbb{R}^{n \times n}$ der Einheitsmatrix
+Schreibe
+- $X \sim \mathcal{N}_n(\vec{0}, I_n)$ mit
+	- $\vec{0} \in \mathbb{R}^d$ dem Nullvektor
+	- $I_n \in \mathbb{R}^{n \times n}$ der Einheitsmatrix
 
 ---
 
@@ -63,7 +65,8 @@ $$
 $Y$ ist [[Unabhängige Zufallsvariablen|unabhängig]], falls
 - $\Sigma$ eine Diagonalmatrix ist
 
-Schreibe $X \sim \mathcal{N}_n(b, \Sigma)$
+Schreibe
+- $X \sim \mathcal{N}_n(b, \Sigma)$
 
 ---
 

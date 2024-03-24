@@ -21,4 +21,5 @@ $$
 	\end{cases}
 $$
 
-Schreibe $X \sim \text{G}(\alpha, \lambda)$
+Schreibe
+- $X \sim \text{G}(\alpha, \lambda)$

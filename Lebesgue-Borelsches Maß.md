@@ -55,4 +55,5 @@ $f : \Omega \to \overline{\mathbb{R}}$ ist genau dann $(\mathcal{A}, \overline{\
 
 a) $\iff$ b) $\iff$ c) $\iff$ d).
 
-Schreibe $\{ f \in B \} = f^{-1}(B), B \subseteq R$.
+Schreibe
+- $\{ f \in B \} = f^{-1}(B), B \subseteq R$.

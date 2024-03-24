@@ -6,7 +6,8 @@ $$
 	\forall \varepsilon \gt 0 : \lim_{n \to \infty} P(|X_n - X| \gt \varepsilon) = 0
 $$
 
-Schreibe $X_n \overset{P}{\longrightarrow} X$.
+Schreibe
+- $X_n \overset{P}{\longrightarrow} X$.
 
 ---
 

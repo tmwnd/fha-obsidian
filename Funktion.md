@@ -12,7 +12,8 @@ Eine Funktion $f : \mathcal{A} \to \mathcal{L}$ heißt *messbar*, falls
 - $f$ $(\mathcal{A}, \mathcal{L})$-[[A-S-Messbarkeit|messbar]] ist oder
 - $f$ $(\mathcal{A}, \overline{\mathcal{L}})$-[[A-S-Messbarkeit|messbar]] ist
 
-Schreibe $f \in \mathcal{M}$
+Schreibe
+- $f \in \mathcal{M}$
 
 ---
 

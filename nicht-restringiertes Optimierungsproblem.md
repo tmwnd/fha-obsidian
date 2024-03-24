@@ -1,7 +1,32 @@
-Seien $(x_i, y_i)_{i \in \{ 1, \dots, m \}}$ Daten-Paare, $w \in \mathbb{R}^n$, $l$ eine [[Loss-Funktion]], $g$ eine [[Modellfunktion]].
+Sei $f : \mathbb{R}^d \to \mathbb{R}$.
 
-Der optimale Parameter $w^*$ wird über das *nicht-restringierte Optimierungsproblem* definiert als
+Minimiere das [[Optimierungsproblem]]
 
 $$
-	w^* := \underset{w \in \mathbb{R}^n}{\arg\min} \ l(w)
+	x_* \in \underset{x \in \mathbb{R}^d}{\arg\min} f(x) \ne \emptyset
 $$
+
+---
+
+Sei $f \in C^1(\mathbb{R}^d)$.
+
+Falls $x_* \in \arg\min_{x \in \mathbb{R^d}} f(x)$ gilt
+- $f'(x_*) = 0$
+
+---
+
+Sei $f \in C^2(\mathbb{R}^d)$.
+
+Falls $x_* \in \arg\min_{x \in \mathbb{R^d}} f(x)$ gilt
+- $f'(x_*) = 0$
+- $f''(x_*)$ ist [[Definitheit|positiv semidefinit]]
+
+---
+
+Sei $f \in C^2(\mathbb{R}^d)$.
+
+Falls $f'(\tilde{x}) = 0 \land f''(\tilde{x})$ [[Definitheit|positiv semidefinit]] gilt
+- $\tilde{x} \in \arg\min_{x \in \mathbb{R^d}} f(x)$
+
+Schreibe
+- $\tilde{x}$ ist lokales Minimum

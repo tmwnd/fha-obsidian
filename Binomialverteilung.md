@@ -6,4 +6,5 @@ $$
 	P(X = x) = \binom{n}{k}p^k(1-p)^{n-k}
 $$
 
-Schreibe $X \sim \mathfrak{B}(n, p)$
+Schreibe
+- $X \sim \mathfrak{B}(n, p)$

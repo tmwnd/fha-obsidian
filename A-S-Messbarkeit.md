@@ -3,7 +3,8 @@ Seien $(\Omega, \mathcal{A}), (R, \mathscr{S})$ [[Messraum|Messräume]].
 Die [[Abbildung]] $f : \Omega \to R$ heißt *$(\mathcal{A}, \mathscr{S})$-messbar*, falls
 - $\forall S \in \mathscr{S} : f^{-1}(S) \in \mathcal{A}$
 
-Schreibe $f : (\Omega, \mathcal{A}) \to (R, \mathscr{S})$
+Schreibe
+- $f : (\Omega, \mathcal{A}) \to (R, \mathscr{S})$
 
 ---
 

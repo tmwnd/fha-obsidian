@@ -17,7 +17,7 @@ $$
 Sei
 - $f(z) = V_1(z)$ [[Konvexität|konvex]]
 - $g(z) = \| z \|_2^2 - 1$ [[Konvexität|konvex]]
-- $L(z, \lambda) = f(z) - \lambda g(z)$ die zu lösende [[Lagrangefunktion]]
+- $L(z, \lambda) = f(z) - \lambda g(z)$ die zu lösende [[Lagrange-Funktion]]
 
 Es gilt
 - $\partial_z L(z, \lambda) = 2(\Sigma\Sigma^Tz - \lambda z)$

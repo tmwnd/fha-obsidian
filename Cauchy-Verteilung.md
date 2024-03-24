@@ -12,4 +12,5 @@ $$
 	F(x) = P(X \le x) = \int_{-\infty}^x x_{\mu, \sigma}(t) dt = \frac{1}{2} + \frac{1}{\pi}\arctan\left( \frac{x - \mu}{\sigma} \right)
 $$
 
-Schreibe $X \sim \mathcal{C}(\mu, \sigma)$
+Schreibe
+- $X \sim \mathcal{C}(\mu, \sigma)$

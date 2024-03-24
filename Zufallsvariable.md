@@ -42,4 +42,5 @@ Sei $X : (\Omega, \mathcal{A}) \to (R, \mathscr{S})$ eine Zufallsvariable, $B \i
 
 Das [[Bildmaß]] $P^X$ heißt *Verteilung* von $X$.
 
-Schreibe $P^X(B) = P(X \in B)$
+Schreibe
+- $P^X(B) = P(X \in B)$

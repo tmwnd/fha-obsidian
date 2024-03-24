@@ -8,7 +8,8 @@ $$
 	\forall \omega \in N^\complement : \lim_{n \to \infty} X_n(\omega) = X(\omega)
 $$
 
-Schreibe $X_n \to X$ $P$-f. s. oder $X_n \overset{P\text{-f. s.}}{\longrightarrow} X$
+Schreibe
+- $X_n \to X$ $P$-f. s. oder $X_n \overset{P\text{-f. s.}}{\longrightarrow} X$
 
 ---
 

@@ -3,7 +3,8 @@ Sei $(\Omega, \mathcal{A})$ ein [[Messraum]].
 Die [[Abbildung]] $f : \Omega \to \mathbb{R}$ heißt *$\mathcal{A}$-messbar*, falls
 - $\forall r \in \mathbb{R} : \{ \omega \in \Omega \mid f(\omega) \le r \} \in \mathcal{A}$
 
-Schreibe $f \in \overline{Z(\Omega, \mathcal{A})}$
+Schreibe
+- $f \in \overline{Z(\Omega, \mathcal{A})}$
 
 ---
 

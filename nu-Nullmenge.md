@@ -7,4 +7,5 @@ $N$ ist eine *$\nu$-Nullmenge*, falls
 
 Jede $\mu$-[[mu-Nullmengen|Nullmenge]] ist ein $\nu$-Nullmenge bzw. $\nu$ ist $\mu$-stetig.
 
-Schreibe $\nu \ll \mu$.
+Schreibe
+- $\nu \ll \mu$.

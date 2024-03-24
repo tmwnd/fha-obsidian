@@ -17,7 +17,8 @@ $$
 	\end{cases}
 $$
 
-Schreibe $X \sim \mathcal{R}(a, b)$.
+Schreibe
+- $X \sim \mathcal{R}(a, b)$.
 
 ---
 
