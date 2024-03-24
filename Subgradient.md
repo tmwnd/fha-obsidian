@@ -1,4 +1,4 @@
-Sei $f : X \to \mathbb{R}$ eine [[numerische]] nicht-differenzierbare [[Konvexität|konvexe]] [[Funktion]], $w \in X$.
+Sei $f : X \to \mathbb{R}$ eine [[numerische Funktion|numerische]] nicht-differenzierbare [[Konvexität|konvexe]] [[Funktion]], $w \in X$.
 
 Der *Subgradient* $\partial f(w)$ an der Stelle $w$ ist definiert als
 

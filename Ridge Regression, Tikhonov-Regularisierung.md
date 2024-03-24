@@ -7,8 +7,8 @@ $$
 $$
 
 mit
-- $\alpha \to 0$ Gewichtung von kleinen [[Residuenvektor|Residuen]]
-- $\alpha \to \infty$ Gewichtung des Entgegenwirkens von [[Overfitting]]
+- $\alpha \downarrow 0$ Gewichtung von kleinen [[Residuenvektor|Residuen]]
+- $\alpha \uparrow \infty$ Gewichtung des Entgegenwirkens von [[Overfitting]]
 
 Es gilt
 
@@ -25,3 +25,11 @@ $$
 Das zu lösende Normalgleichungssystem ist
 - $\tilde{X}^T\tilde{X}w = \tilde{X}^T\tilde{y}$ bzw.
 - $(X^TX + \alpha I)w = X^Ty$
+
+---
+
+Sei $X \in \mathbb{R}^{m \times n}$, $y \in \mathbb{R}^m$, $w \in \mathbb{R}^n$ ein Löser von $X^TXw = X^Ty$, $\alpha \gt 0$.
+
+Es gilt
+- $\forall k \in \{ 1, \dots, m \} : w_k = 0 \iff |\langle x_k, r \rangle_2| = 0$ bzw.
+- $r = Xw - y \perp x_k$
