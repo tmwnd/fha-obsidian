@@ -14,5 +14,5 @@ Nachteile:
 - Die Komplexität zur Berechnung von $X^TX$ mit $X \in \mathbb{R}^{m \times n}$ ist $\mathcal{O}(mn^2)$
 - Die Komplexität der Zerlegung von $A$ ist $\mathcal{O}(n^3)$
 - Die [[Kondition]] von $A$ ist $\kappa(A) = \kappa(X)^2$
-- $X$ [[sparse]] $\implies$ $A$ oft nicht [[sparse]]
-- $A$ [[sparse]] $\implies$ $L$ nicht [[sparse]]
+- $X$ möglicherweise [[sparse]], $A$ oft nicht [[sparse]]
+- $A$ möglicherweise [[sparse]], $L$ nicht [[sparse]]

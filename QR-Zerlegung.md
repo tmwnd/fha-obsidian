@@ -45,4 +45,4 @@ Vorteile:
 
 Nachteile:
 - Die Komplexität der Zerlegung von $X$ ist $\mathcal{O}(n^3)$
-- $X$ [[sparse]] $\implies$ $Q, R$ nicht [[sparse]]
+- $X$ [[sparse]], $Q$, $R$ nicht [[sparse]]
