@@ -24,9 +24,9 @@ Die [[Verteilungsfunktion]] $F : \mathbb{R} \to \mathbb{R}$ eines [[Maß|Wahrsch
 
 $$
 	F(x) = \begin{cases}
-		0, \quad\quad\quad\quad\ x \le a \\
-		\int_a^x f(t) dt, \quad a \lt x \le b \\
-		1, \quad\quad\quad\quad\ x \gt b
+		0, & x \le a \\
+		\int_a^x f(t) dt, & a \lt x \le b \\
+		1, & x \gt b
 	\end{cases}
 $$
 

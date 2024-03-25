@@ -59,7 +59,7 @@ $f$ ist $\mathcal{B}^*$-[[A-Messbarkeit|messbar]], falls
 %%
 Sei $(s_n)_{n \in \mathbb{N}}$ die Menge der Sprungstellen von $f$ mit
 - $(s_n)_{n \in \mathbb{N}}$ [offensichtlich](https://de.wikipedia.org/wiki/Monotone_reelle_Funktion#Eigenschaften) abzählbar
-- $\forall r \in \mathbb{R} : (s_n^{(r)})_{n \in \overline{\mathbb{N}}_0} := \begin{cases} -\infty, \quad\quad\quad\quad\quad\quad n = 0 \\ (\max(s_n, r))_{n \in \mathbb{N}}, \quad n \in \mathbb{N} \\ +\infty, \quad\quad\quad\quad\quad\quad n = \infty \end{cases}$
+- $\forall r \in \mathbb{R} : (s_n^{(r)})_{n \in \overline{\mathbb{N}}_0} := \begin{cases} -\infty, & n = 0 \\ (\max(s_n, r))_{n \in \mathbb{N}}, & n \in \mathbb{N} \\ +\infty, & n = \infty \end{cases}$
 
 Alle Voraussetzungen sind erfüllt, da
 1. $\forall r \in \mathbb{R} : \{ x \in \mathbb{R} \mid f(x) \le r \} = \bigcup_{n \in \overline{\mathbb{N}}_0} \{ x \in \mathbb{R} \mid s_n^{(r)} \lt f(x) \le s_{n + 1}^{(r)} \} = \bigcup_{n \in \overline{\mathbb{N}}_0} \underbrace{(\min(\{ x \in X \mid f(x) = s_n^{(r)} \}), \max(\{ x \in X \mid f(x) = s_{n+1}^{(r)} \})]}_{\in \mathcal{B}^*} \in \mathcal{B}^*$
@@ -72,8 +72,8 @@ Alle Voraussetzungen sind erfüllt, da
 
 ![[psets/muit/assignment 03#^6]]
 
-$\sin^+ = \max(+\sin, 0) = \begin{cases} +\sin(x), \quad \exists k \in \mathbb{N}_0 : x \in (2k\pi, (2k+1)\pi) \\ 0, \quad\quad\quad\quad \text{sonst} \end{cases}$
-$\sin^- = \max(-\sin, 0) = \begin{cases} -\sin(x), \quad \exists k \in \mathbb{N}_0 : x \notin (2k\pi, (2k+1)\pi) \\ 0, \quad\quad\quad\quad \text{sonst} \end{cases}$
+$\sin^+ = \max(+\sin, 0) = \begin{cases} +\sin(x), & \exists k \in \mathbb{N}_0 : x \in (2k\pi, (2k+1)\pi) \\ 0, & \text{sonst} \end{cases}$
+$\sin^- = \max(-\sin, 0) = \begin{cases} -\sin(x), & \exists k \in \mathbb{N}_0 : x \notin (2k\pi, (2k+1)\pi) \\ 0, & \text{sonst} \end{cases}$
 
 ---
 

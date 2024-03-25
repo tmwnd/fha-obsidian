@@ -8,5 +8,5 @@ $$
 $$
 
 und der Projektion
-- $\forall i, j : \tilde{a}_{ij} = \begin{cases} a_{ij}, \quad a_{ij} \ge 0 \\ 0, \quad\ \ \ a_{ij} \lt 0 \end{cases}$
+- $\forall i, j : \tilde{a}_{ij} = \begin{cases} a_{ij}, & a_{ij} \ge 0 \\ 0, & a_{ij} \lt 0 \end{cases}$
 - $\prod(A) = (\tilde{a}_{ij})_{ij}$

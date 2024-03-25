@@ -7,13 +7,13 @@ Die [[Verteilungsfunktion]] einer reelwertigen [[Zufallsvariable]] $X$ heißt *g
 
 $$
 	F(x) = P(x \le x) = \begin{cases}
-		0, \quad\quad\quad\quad\ x \le a \\
-		\int_a^x r(t) dt, \quad a \lt x \le b \\
-		1, \quad\quad\quad\quad\ x \gt b
+		0, & x \le a \\
+		\int_a^x r(t) dt, & a \lt x \le b \\
+		1, & x \gt b
 	\end{cases} = \begin{cases}
-		0, \quad\quad\ x \le a \\
-		\frac{x - a}{b - a}, \quad a \lt x \le b \\
-		1, \quad\quad\ x \gt b
+		0, & x \le a \\
+		\frac{x - a}{b - a}, & a \lt x \le b \\
+		1, & x \gt b
 	\end{cases}
 $$
 

@@ -45,7 +45,7 @@ $$
 
 gilt offensichtlich
 - $\hat{z} = e_i$ der $i$-te [[Einheitsvektor]]
-- $\hat{\lambda}_i = \begin{cases} \sigma_i^2, \quad i \in \{ 1, \dots, r \} \\ 0, \quad\ \ i \gt r \end{cases}$
+- $\hat{\lambda}_i = \begin{cases} \sigma_i^2, & i \in \{ 1, \dots, r \} \\ 0, & i \gt r \end{cases}$
 - $f(\hat{z}) = \| \Sigma^T e_i \|_2^2 = \sigma_i^2 \implies \arg\max_i f(\hat{z}_i) = 1$
 
 Für unser Ausgangsproblem erhalten wir

@@ -22,9 +22,9 @@ mit
 
 $$
 	d = \begin{cases}
-		-1, \quad\quad\ \ w_k \lt 0 \\
-		[-1, 1], \quad w_k = 0 \\
-		1, \quad\quad\quad\  w_k \gt 0
+		-1, & w_k \lt 0 \\
+		[-1, 1], & w_k = 0 \\
+		1, &  w_k \gt 0
 	\end{cases} \implies w_k = \frac{\langle x_k, y_k \rangle_2 - \alpha dm}{\langle x, x \rangle_2}
 $$
 

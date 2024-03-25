@@ -79,4 +79,4 @@ Sei $(\Omega, \mathcal{A}, \mu)$ ein [[Maßraum]], $N \in \mathcal{A}$ eine $\mu
 
 Eine Funktion $g$ ist *$\mu$-[[mu-Nullmengen|f. ü.]] definiert*, falls
 - $g : (N^\complement, \mathcal{A}_{N^\complement}) \to (\overline{\mathbb{R}}, \overline{\mathcal{L}})$ $\mu$-[[mu-Integrierbarkeit|integrierbare]] ist
-- $\tilde{g}(\omega) = \begin{cases} g(w), \quad \omega \in N^\complement \\ 0, \quad\quad\ \ \omega \in N \end{cases}$ $\mu$-[[mu-Integrierbarkeit|integrierbare]] ist
+- $\tilde{g}(\omega) = \begin{cases} g(w), & \omega \in N^\complement \\ 0, & \omega \in N \end{cases}$ $\mu$-[[mu-Integrierbarkeit|integrierbare]] ist

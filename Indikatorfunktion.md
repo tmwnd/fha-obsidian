@@ -4,8 +4,8 @@ Die *Indikatorfunktion* $I_A : \Omega \to \mathbb{R}$ ist definiert als
 
 $$
 	I_A(\omega) = \begin{cases}
-		1, \quad \omega \in A \\
-		0, \quad \omega \notin A
+		1, & \omega \in A \\
+		0, & \omega \notin A
 	\end{cases}
 $$
 

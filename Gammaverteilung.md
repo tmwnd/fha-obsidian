@@ -16,8 +16,8 @@ Die [[Verteilungsfunktion]] einer reelwertigen [[Zufallsvariable]] $X$ heißt *g
 
 $$
 	F(x) = P(X \le x) = \begin{cases}
-		0, \quad\quad\quad\quad\quad\ x \le 0 \\
-		\int_0^x g_{a, \lambda}(t) dt, \quad x \gt 0
+		0, & x \le 0 \\
+		\int_0^x g_{a, \lambda}(t) dt, & x \gt 0
 	\end{cases}
 $$
 

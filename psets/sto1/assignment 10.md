@@ -32,8 +32,8 @@
 	
 	$$
 		f(x, y) = \begin{cases}
-			2, \quad 0 \le x, y,x+y \le 1 \\
-			0, \quad \text{sonst}
+			2, & 0 \le x, y,x+y \le 1 \\
+			0, & \text{sonst}
 		\end{cases}
 	$$
 	

@@ -4,8 +4,8 @@ $\tau$ heißt *Zählmaß* auf $A$ und ist definiert als
 
 $$
 	\tau(A) = \begin{cases}
-		|A|, \quad\ \ A \text{ endlich} \\
-		+\infty, \quad A \sim \mathbb{N}
+		|A|, & A \text{ endlich} \\
+		+\infty, & A \sim \mathbb{N}
 	\end{cases}
 $$
 

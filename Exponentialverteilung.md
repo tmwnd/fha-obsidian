@@ -10,8 +10,8 @@ Die [[Verteilungsfunktion]] einer reelwertigen [[Zufallsvariable]] $X$ heißt *e
 
 $$
 	F(x) = \begin{cases}
-		0, \quad\quad\quad\quad\ x \ge 0 \\
-		\int_0^x e_\lambda(t) dt \quad x \gt 0
+		0, & x \ge 0 \\
+		\int_0^x e_\lambda(t) dt & x \gt 0
 	\end{cases}
 $$
 

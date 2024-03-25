@@ -5,4 +5,4 @@ $$
 $$
 
 mit
-- $\forall k \in \{ 1, \dots, n \} : a_k = \begin{cases} 1, \quad k = i \\ 0, \quad k \ne i \end{cases}$
+- $\forall k \in \{ 1, \dots, n \} : a_k = \begin{cases} 1, & k = i \\ 0, & k \ne i \end{cases}$
