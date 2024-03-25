@@ -35,7 +35,7 @@ $$
 $$
 
 und
-- $l$ [[Konvexität|konvex]] $\implies$ jedes lokale Minimum ist ein globales Minimum
+- $l$ [[Konvexe Funktion|konvex]] $\implies$ jedes lokale Minimum ist ein globales Minimum
 - $l'(w) = 0 \iff A^TAw = A^Tb$
 - $l''(w)$ [[Definitheit|positiv semidefinit]] $\implies$ $w$ ist ein lokales Minimum
 

@@ -1,4 +1,4 @@
-Sei $-\infty \lt a \le b \lt +\infty$, $C = [a, b] \subset \mathbb{R}$, $\overset{\circ}{C}$ die [[Menge der inneren Punkte]] von $C$, $f : C \to \mathbb{R}$ [[Konvexität|konvex]].
+Sei $-\infty \lt a \le b \lt +\infty$, $C = [a, b] \subset \mathbb{R}$, $\overset{\circ}{C}$ die [[Menge der inneren Punkte]] von $C$, $f : C \to \mathbb{R}$ [[Konvexe Funktion|konvex]].
 
 Es gilt
 

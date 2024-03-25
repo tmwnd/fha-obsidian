@@ -23,11 +23,18 @@ Falls $x_* \in \arg\min_{x \in X} f(x)$ gilt
 
 ---
 
-Seien $X$, $f$, $g$ [[Konvexität|konvex]], $h$ [[lineare Affinität|linear affin]]
+Seien $X$ [[Konvexe Menge|konvex]], $f$, $g$ [[Konvexe Funktion|konvex]], $h$ [[lineare Affinität|linear affin]]
 
 Es gilt
 - Als Regularisierungsbedingung muss nur [[Slater-Bedingung]] erfüllt sein
 - $x_*$ [[Karush-Kuhn-Tucker-Bedingungen, KKT|KKT-Punkt]] $\implies$ $x_*$ lokales Minimum $\implies$ $x_*$ globales Minimum
+
+---
+
+Sei $x$ [[Konvexe Menge|konvex]], $f$ [[Konvexe Funktion|konvex]]
+
+Es gilt
+- $x_* \in X$ ist Minimierer $\iff$ $\forall x \in X : f'(x_*)(x - x_*) \ge 0$
 
 ---
 

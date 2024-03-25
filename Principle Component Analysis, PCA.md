@@ -15,8 +15,8 @@ $$
 $$
 
 Sei
-- $f(z) = V_1(z)$ [[Konvexität|konvex]]
-- $g(z) = \| z \|_2^2 - 1$ [[Konvexität|konvex]]
+- $f(z) = V_1(z)$ [[Konvexe Funktion|konvex]]
+- $g(z) = \| z \|_2^2 - 1$ [[Konvexe Funktion|konvex]]
 - $L(z, \lambda) = f(z) - \lambda g(z)$ die zu lösende [[Lagrange-Funktion]]
 
 Es gilt
