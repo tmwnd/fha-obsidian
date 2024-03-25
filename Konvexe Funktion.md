@@ -33,6 +33,12 @@ Sei $f : X \to \mathbb{R}$ konvex und differenzierbar, $x \in X$.
 Es gilt
 - $x$ globales Minimum von $f$ $\iff$ $f'(x) = 0$
 
+und
+
+$$
+	\forall x, y \in \text{dom}(f) : f(y) \ge f(x) + f'(x)(y-x)
+$$
+
 ---
 
 Sei $f : X \to \mathbb{R}$ konvex, $x$ ein lokales Minimum von $f$.
