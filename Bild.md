@@ -1,4 +1,4 @@
-Sei $f : X \to Y$ eine Funktion, $A \subseteq X$.
+Sei $f : X \to Y$ eine [[Funktion]], $A \subseteq X$.
 
 Das *Bild* von $A$ unter $f$ ist definiert als
 
