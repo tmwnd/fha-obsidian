@@ -1,0 +1,15 @@
+Eine [[Funktion]] $f : \Omega \to \mathbb{R}$ heißt *primitiv*, falls
+- endlich viele, paarweise verschiedene Werte $\alpha_1, \dots, \alpha_n$ angenommen werden
+
+Sei $\mathcal{A}$ die $\sigma$-[[sigma-Algebra|Algebra]] auf $\Omega$, $n \in \mathbb{N}$, $i \in \{ 1, \dots, n \}$, $A_i = \{ f = \alpha_i \} \subseteq \mathcal{A}$ geeignete p. d. Mengen und $I_{A_i}$ die [[Indikatorfunktion]] für $A_i$ mit
+- $\bigcup_{i = 1}^n A_i = \Omega$
+
+$f$ hat die *Normalenarstellung*
+
+$$
+	f = \sum_{i = 1}^n \alpha_i \cdot I_{A_i}
+$$
+
+---
+
+Den reellen Vektorraum der primitiven Funktionen auf dem [[Messraum]] $(\Omega, \mathcal{A})$ bezeichnen wir mit $\mathcal{P}(\Omega, \mathcal{A})$ bzw $\mathcal{P}$.

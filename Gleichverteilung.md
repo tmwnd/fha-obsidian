@@ -25,5 +25,5 @@ Schreibe
 Sei $X \sim \mathcal{R}(a, b)$ eine [[Zufallsvariable]].
 
 Es gilt
-- Der [[Erwartungswert]] von $X$ ist $E[X] = \frac{a + b}{2}$
-- Die [[Varianz]] von $X$ ist $\text{Var}(X) = \frac{(b - a)^2}{12}$
+- Der [[Zufallsvariable Erwartungswert|Erwartungswert]] von $X$ ist $E[X] = \frac{a + b}{2}$
+- Die [[Zufallsvariable Varianz|Varianz]] von $X$ ist $\text{Var}(X) = \frac{(b - a)^2}{12}$

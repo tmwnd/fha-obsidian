@@ -1,5 +1,5 @@
 Seien $(x_i, y_i)_{i \in \{ 1, \dots, m \}}$ Daten-Paare, $w^{(0)} \in \mathbb{R}^n$, $B^{(0)} \in \mathbb{R}^{n \times n}$, $l$ eine zweifach differenzierbare [[Loss-Funktion]], $\gamma^{(k)} \ge 0$ die durch Liniensuche bestimmte Schrittlänge, $p^{(k)}$ die Suchrichtung mit
-- $l''$ [[singulär]]
+- $l''$ [[Matrix singulär|singulär]]
 
 Die $k$-te Iteration von *BFGS* ist definiert als
 - $B^{(k)}p^{(k)} = -l'(w^{(k)})$

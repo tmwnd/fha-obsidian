@@ -11,6 +11,6 @@ und
 - $(\mathbb{R}, \mathcal{L}^*, \lambda^*)$ ist ein [[Maßraum]]
 - $(\mathbb{R}, \mathcal{M}_{\lambda^*}, \lambda^*)$ ist ein [[Maßraum]]
 - $\lambda^*$ ist eine Erweiterung von $\lambda$, da $\forall I \in \mathcal{I}^1 : \lambda(I) = \lambda^*(I)$
-- $\lambda^*$ ist auf $\mathcal{L}^*$ eindeutig, da $\mathcal{I}^1$ ein $\cap$-[[Durchschnittsstabilität|stabiler]] Erzeuger von $\mathcal{L}^*$ ist.
+- $\lambda^*$ ist auf $\mathcal{L}^*$ eindeutig, da $\mathcal{I}^1$ ein $\cap$-[[Menge durchschnitsstabil|stabiler]] Erzeuger von $\mathcal{L}^*$ ist.
 
 Schreibe für das [[Lebesgue-Borelsches Maß]] $\lambda$ statt $\lambda^+$

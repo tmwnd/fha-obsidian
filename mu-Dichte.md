@@ -10,7 +10,7 @@ $$
 
 ---
 
-Sei $(X, \mathcal{A}, P)$ ein [[Maßraum|Wahrscheinlichkeitsraum]], $X$ eine stetige [[Zufallsvariable]], $A \in \mathcal{A}$.
+Sei $(X, \mathcal{A}, P)$ ein [[Wahrscheinlichkeitsraum]], $X$ eine stetige [[Zufallsvariable]], $A \in \mathcal{A}$.
 
 Die *$\mu$-Dichte* $f$ von $X$ ist definiert als [[Verteilungsfunktion]] von $X$ bzw. Dichtefunktion von $P$.
 
@@ -22,7 +22,7 @@ $$
 
 ---
 
-Sei $(\Omega, \mathcal{A})$ ein [[Messraum]], $\mu$ ein $\sigma$-[[Maß|finites]] [[Maß]] auf $(\Omega, \mathcal{A})$, $\nu$ ein [[Maß]] auf $(\Omega, \mathcal{A})$.
+Sei $(\Omega, \mathcal{A})$ ein [[Messraum]], $\mu$ ein $\sigma$-[[Maß|finites]] TODO [[Maß]] auf $(\Omega, \mathcal{A})$, $\nu$ ein [[Maß]] auf $(\Omega, \mathcal{A})$.
 
 $\nu$ hat eine $\mu$-Dichte, falls
 - $\nu$ $\mu$-[[mu-Stetigkeit|stetig]] ist

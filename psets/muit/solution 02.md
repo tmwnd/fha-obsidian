@@ -119,7 +119,7 @@ Alle Voraussetzungen sind erfüllt, da
 
 ![[psets/muit/assignment 02#^7]]
 
-Da $\delta(\mathcal{E})$ ein [[Durchschnittsstabilität|durchschnittsstabiles]] [[Dynkin-System]] bzw. eine $\sigma$-[[sigma-Algebra|Algebra]] auf $X$ ist, gilt
+Da $\delta(\mathcal{E})$ ein [[Menge durchschnitsstabil|durchschnittsstabiles]] [[Dynkin-System]] bzw. eine $\sigma$-[[sigma-Algebra|Algebra]] auf $X$ ist, gilt
 - $X \in \delta(\mathcal{E})$
 - $A \in \delta(\mathcal{E}) \implies A^\complement \in \delta(\mathcal{E})$
 - $\forall (A_n)_{n \in \mathbb{N}} \in \delta(\mathcal{E}) : \bigcup_{n \in \mathbb{N}} A_n \in \delta(\mathcal{E})$
@@ -255,7 +255,7 @@ Alle Voraussetzungen sind erfüllt, da
 
 ![[psets/muit/assignment 02#^16]]
 
-$\nu$ ist ein [[Maß|Wahrscheinlichkeitsmaß]] auf $\mathcal{A}$, falls
+$\nu$ ist ein [[Wahrscheinlichkeitsmaß]] auf $\mathcal{A}$, falls
 1. $\nu(\emptyset) = 0$
 2. $(A_k)_{k \in \mathbb{N}} \text{ p. d.} \in \mathcal{A} \implies \nu( \bigcup_{k \in \mathbb{N}} A_k) = \sum_{k \in \mathbb{N}} \nu(A_k)$
 3. $\nu(X) = 1$

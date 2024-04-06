@@ -1,4 +1,4 @@
-Sei $(\Omega, \mathcal{A}, P)$ ein [[Maßraum|Wahrscheinlichkeitsraum]], $(A_n)_{n \in \mathbb{N}}$ Ereignisse mit
+Sei $(\Omega, \mathcal{A}, P)$ ein [[Wahrscheinlichkeitsraum]], $(A_n)_{n \in \mathbb{N}}$ Ereignisse mit
 - $\sum_{n=1}^\infty P(A_n) \lt \infty$
 
 Es gilt
@@ -9,8 +9,8 @@ $$
 
 ---
 
-Sei $(\Omega, \mathcal{A}, P)$ ein [[Maßraum|Wahrscheinlichkeitsraum]], $(A_n)_{n \in \mathbb{N}}$ Ereignisse mit
-- $(A_n)_{n \in \mathbb{N}}$ [[Unabhängige Zufallsvariablen|unabhängig]]
+Sei $(\Omega, \mathcal{A}, P)$ ein [[Wahrscheinlichkeitsraum]], $(A_n)_{n \in \mathbb{N}}$ Ereignisse mit
+- $(A_n)_{n \in \mathbb{N}}$ [[Zufallsvariable unabhängig|unabhängig]]
 - $\sum_{n=1}^\infty P(A_n) = \infty$
 
 Es gilt

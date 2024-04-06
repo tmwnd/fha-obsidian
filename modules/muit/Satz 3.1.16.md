@@ -10,8 +10,8 @@ $$
 	\mathcal{A} = \sigma\left( \bigcup_{i \in I} \mathcal{A}_i \right)
 $$
 
-Sei weiterhin $g : (S, \mathscr{S}) \to (\Omega, \mathcal{A})$ eine [[Abbildung]].
+Sei weiterhin $g : (S, \mathscr{S}) \to (\Omega, \mathcal{A})$ eine [[Funktion]].
 
 Folgende Aussagen sind äquivalent
-- $g$ ist $\mathscr{S}$-$\mathcal{A}$-[[A-S-Messbarkeit|messbar]]
-- $\forall i \in I : (f_i \circ g)$ ist $\mathscr{S}$-$\mathcal{R}_i$-[[A-S-Messbarkeit|messbar]]
+- $g$ ist $\mathscr{S}$-$\mathcal{A}$-[[Funktion A-S-messbar|messbar]]
+- $\forall i \in I : (f_i \circ g)$ ist $\mathscr{S}$-$\mathcal{R}_i$-[[Funktion A-S-messbar|messbar]]

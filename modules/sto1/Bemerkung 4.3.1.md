@@ -1,4 +1,4 @@
-Sei $(\Omega, \mathcal{A}, P)$ ein [[Maßraum|Wahrscheinlichkeitsraum]], $\omega \in \Omega$, $n \in \mathbb{N}$, $((R_i, \mathscr{S}_i))_{i \in \{ 1, \dots, n \}}$ [[Messraum|Messräume]], $X : \Omega \to R$ eine [[Abbildung]] mit
+Sei $(\Omega, \mathcal{A}, P)$ ein [[Wahrscheinlichkeitsraum]], $\omega \in \Omega$, $n \in \mathbb{N}$, $((R_i, \mathscr{S}_i))_{i \in \{ 1, \dots, n \}}$ [[Messraum|Messräume]], $X : \Omega \to R$ eine [[Funktion]] mit
 - $R = \prod_{i=1}^n R_i$
 - $\mathscr{S} = \bigotimes_{i=1}^n \mathscr{S}_i$ eine Produkt-$\sigma$-[[Produkt-sigma-Algebra,  Kolmogorowsche sigma-Algebra|Algebra]] auf $((R_i, \mathscr{S}_i))_{i \in \{ 1, \dots, n \}}$
 - $(x_1, \dots, x_n) \in R$
@@ -16,7 +16,7 @@ $$
 $$
 
 $X$ ist eine [[Zufallsvariable]], falls
-- a) $X$ $(\mathcal{A}, \mathscr{S})$-[[A-S-Messbarkeit|messbar]] ist
-- b) $\forall i \in \{ 1, \dots, n \} : X_i$ $(\mathcal{A}, \mathscr{S})$-[[A-S-Messbarkeit|messbar]] ist
+- a) $X$ $(\mathcal{A}, \mathscr{S})$-[[Funktion A-S-messbar|messbar]] ist
+- b) $\forall i \in \{ 1, \dots, n \} : X_i$ $(\mathcal{A}, \mathscr{S})$-[[Funktion A-S-messbar|messbar]] ist
 
 a) $\iff$ b).

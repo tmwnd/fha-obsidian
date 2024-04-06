@@ -1,2 +1,2 @@
 ![[Bedingte Wahrscheinlichkeit]]
-![[Unabhängige Ereignisse]]
+![[Ereignisse unabhängig]]

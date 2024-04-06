@@ -1,4 +1,4 @@
-Sei $(\Omega, \mathcal{A}, P)$ ein [[Maßraum|Wahrscheinlichkeitsraum]], $(X_n)_{n \in \mathbb{N}_0}$ reelle [[Zufallsvariable|Zufallsvariablen]] auf $(\Omega, \mathcal{A}, P)$ mit den [[Verteilungsfunktion|Verteilungsfunktionen]] $(F_n)_{n \in \mathbb{N}_0}$ mit
+Sei $(\Omega, \mathcal{A}, P)$ ein [[Wahrscheinlichkeitsraum]], $(X_n)_{n \in \mathbb{N}_0}$ reelle [[Zufallsvariable|Zufallsvariablen]] auf $(\Omega, \mathcal{A}, P)$ mit den [[Verteilungsfunktion|Verteilungsfunktionen]] $(F_n)_{n \in \mathbb{N}_0}$ mit
 - $X_n \overset{V}{\longrightarrow} X_0$ [[Verteilungskonvergenz|verteilungskonvergent]]
 - $C(F_0^{-1})$ der Menge der Stetigkeitspunkte von $F_0^{-1}$
 
@@ -10,7 +10,7 @@ $$
 
 ---
 
-Sei $(\Omega, \mathcal{A}, P)$ ein [[Maßraum|Wahrscheinlichkeitsraum]], $(X_n)_{n \in \mathbb{N}_0}$ reelle [[Zufallsvariable|Zufallsvariablen]] auf $(\Omega, \mathcal{A}, P)$, $(\tilde{\Omega}, \tilde{\mathcal{A}}, \tilde{P})$ ein beliebiger [[Maßraum|Wahrscheinlichkeitsraum]], $U \sim \mathcal{R}(0, 1)$ eine [[Gleichverteilung|gleichverteilte]] [[Zufallsvariable]] auf $(\tilde{\Omega}, \tilde{\mathcal{A}}, \tilde{P})$ mit
+Sei $(\Omega, \mathcal{A}, P)$ ein [[Wahrscheinlichkeitsraum]], $(X_n)_{n \in \mathbb{N}_0}$ reelle [[Zufallsvariable|Zufallsvariablen]] auf $(\Omega, \mathcal{A}, P)$, $(\tilde{\Omega}, \tilde{\mathcal{A}}, \tilde{P})$ ein beliebiger [[Wahrscheinlichkeitsraum]], $U \sim \mathcal{R}(0, 1)$ eine [[Gleichverteilung|gleichverteilte]] [[Zufallsvariable]] auf $(\tilde{\Omega}, \tilde{\mathcal{A}}, \tilde{P})$ mit
 - $X_n \overset{V}{\longrightarrow} X_0$ [[Verteilungskonvergenz|verteilungskonvergent]]
 
 Es gilt
@@ -19,7 +19,7 @@ Es gilt
 
 ---
 
-Sei $(\Omega, \mathcal{A}, P)$ ein [[Maßraum|Wahrscheinlichkeitsraum]], $(X_n)_{n \in \mathbb{N}_0}$ reelle [[Zufallsvariable|Zufallsvariablen]] auf $(\Omega, \mathcal{A}, P)$, $(\tilde{\Omega}, \tilde{\mathcal{A}}, \tilde{P})$ ein beliebiger [[Maßraum|Wahrscheinlichkeitsraum]] mit
+Sei $(\Omega, \mathcal{A}, P)$ ein [[Wahrscheinlichkeitsraum]], $(X_n)_{n \in \mathbb{N}_0}$ reelle [[Zufallsvariable|Zufallsvariablen]] auf $(\Omega, \mathcal{A}, P)$, $(\tilde{\Omega}, \tilde{\mathcal{A}}, \tilde{P})$ ein beliebiger [[Wahrscheinlichkeitsraum]] mit
 - $X_n \overset{V}{\longrightarrow} X_0$ [[Verteilungskonvergenz|verteilungskonvergent]]
 
 Es existieren $(Y_n)_{n \in \mathbb{N}}$ [[Zufallsvariable|Zufallsvariablen]] auf $(\tilde{\Omega}, \tilde{\mathcal{A}}, \tilde{P})$ mit

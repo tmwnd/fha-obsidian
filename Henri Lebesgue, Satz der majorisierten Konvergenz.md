@@ -1,4 +1,4 @@
-Sei $f, g, (f_n)_{n \in \mathbb{N}} \in \mathcal{M}$ [[Funktion|messbare]] [[Funktion|Funktionen]] mit
+Sei $f, g, (f_n)_{n \in \mathbb{N}} \in \mathcal{M}$ [[Funktion messbar|messbare]] [[Funktion|Funktionen]] mit
 - $g \ge 0$
 - $\forall n \in \mathbb{N} : |f_n| \le g$
 - $lim_{n \to \infty} f_n = f$

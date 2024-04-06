@@ -1,4 +1,4 @@
-Sei $(\Omega, \mathcal{A}, P)$ ein [[Maßraum|Wahrscheinlichkeitsraum]], $X, (X_n)_{n \in \mathbb{N}}$ [[Zufallsvariable|Zufallsvariablen]].
+Sei $(\Omega, \mathcal{A}, P)$ ein [[Wahrscheinlichkeitsraum]], $X, (X_n)_{n \in \mathbb{N}}$ [[Zufallsvariable|Zufallsvariablen]].
 
 Die Folge $(X_i)_{i \in \{ 1, \dots, n \}}$ *konvergiert stochastisch* bzw. *in Wahrscheinlichkeit* gegen $X$, falls
 
@@ -15,7 +15,7 @@ Aus $X_n \overset{P\text{-f. s.}}{\longrightarrow} X$ $P$-[[Konvergenz P-fast si
 
 ---
 
-Sei $(\Omega, \mathcal{A}, P)$ ein [[Maßraum|Wahrscheinlichkeitsraum]], $X, (X_n)_{n \in \mathbb{N}}$ [[Zufallsvariable|Zufallsvariablen]] mit
+Sei $(\Omega, \mathcal{A}, P)$ ein [[Wahrscheinlichkeitsraum]], $X, (X_n)_{n \in \mathbb{N}}$ [[Zufallsvariable|Zufallsvariablen]] mit
 - $X_n \overset{P}{\longrightarrow} X$ konvergiert stochastisch
 
 Es existiert eine Teilfolge $(X_{n_k})_{k \in \mathbb{N}} \subseteq (X_n)_{n \in \mathbb{N}}$ mit $P$-[[Konvergenz P-fast sicher|f. s.]]
@@ -23,7 +23,7 @@ Es existiert eine Teilfolge $(X_{n_k})_{k \in \mathbb{N}} \subseteq (X_n)_{n \in
 
 ---
 
-Sei $(\Omega, \mathcal{A}, P)$ ein [[Maßraum|Wahrscheinlichkeitsraum]], $X, (X_n)_{n \in \mathbb{N}}$ [[Zufallsvariable|Zufallsvariablen]] mit $P$-[[Konvergenz P-fast sicher|f. s.]]
+Sei $(\Omega, \mathcal{A}, P)$ ein [[Wahrscheinlichkeitsraum]], $X, (X_n)_{n \in \mathbb{N}}$ [[Zufallsvariable|Zufallsvariablen]] mit $P$-[[Konvergenz P-fast sicher|f. s.]]
 - $\forall (X_{n'})_{n' \in \mathbb{N}} \subseteq (X_n)_{n \in \mathbb{N}}, \exists (X_{n''})_{n'' \in \mathbb{N}} \subseteq (X_{n'})_{n' \in \mathbb{N}} : X_{n''} \overset{P\text{-f. s.}}{\longrightarrow} X$
 
 Es gilt
@@ -39,7 +39,7 @@ $f \circ X_n \overset{P}{\longrightarrow} f \circ X$ gilt falls
 
 ---
 
-Sei $(\Omega, \mathcal{A}, P)$ ein [[Maßraum|Wahrscheinlichkeitsraum]], $X, (X_n)_{n \in \mathbb{N}}$ $d$-dimensionale [[Zufallsvariable|Zufallsvektoren]], $Y, (Y_n)_{n \in \mathbb{N}}$ $m$-dimensionale [[Zufallsvariable|Zufallsvektoren]] mit
+Sei $(\Omega, \mathcal{A}, P)$ ein [[Wahrscheinlichkeitsraum]], $X, (X_n)_{n \in \mathbb{N}}$ $d$-dimensionale [[Zufallsvariable|Zufallsvektoren]], $Y, (Y_n)_{n \in \mathbb{N}}$ $m$-dimensionale [[Zufallsvariable|Zufallsvektoren]] mit
 - $X_n \overset{P}{\longrightarrow} X$
 - $Y_n \overset{P}{\longrightarrow} Y$
 

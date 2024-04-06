@@ -1,4 +1,4 @@
-Folgende Mengen sind [[Kardinalitäten, Mächtigkeiten|abzählbar unendlich]].
+Folgende Mengen sind [[Menge Kardinalitäten, Mächtigkeiten|abzählbar unendlich]].
 - $2\mathbb{N}$ mit $\varphi(n) = 2n$ bijektiv
 - $\mathbb{Z}$, da $\mathbb{Z} = -\mathbb{N} \cup \{ 0 \} \cup \mathbb{N}$
 - $\mathbb{Q}$ mit $q = \frac{r}{s} \in \mathbb{Q}$ maximal gekürzt, $r \in \mathbb{Z}$, $s \in \mathbb{N}$, $\chi(q) = (r, s)$ bijektiv und $\mathbb{Q} \sim \chi(\mathbb{Q}) \subset \mathbb{Z} \times \mathbb{N}$

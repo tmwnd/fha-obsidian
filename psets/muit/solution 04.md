@@ -1,6 +1,6 @@
 ![[psets/muit/assignment 04#^1]]
 
-Sei $\lambda$ das $\sigma$-[[Maß|endliche]] [[Lebesgue-Borelsches Maß]], $\epsilon_x$ das [[Dirac-Maß, Einpunktmaß|Einpunktmaß]], $\mathcal{N}_\lambda$ das [[mu-Nullmengen|System der Nullmengen]] auf $\lambda$, $\mathcal{N}_{\epsilon_x}$ das [[mu-Nullmengen|System der Nullmengen]] auf $\epsilon_x$.
+Sei $\lambda$ das $\sigma$-[[Maß|endliche]] TODO [[Lebesgue-Borelsches Maß]], $\epsilon_x$ das [[Dirac-Maß, Einpunktmaß|Einpunktmaß]], $\mathcal{N}_\lambda$ das [[mu-Nullmengen|System der Nullmengen]] auf $\lambda$, $\mathcal{N}_{\epsilon_x}$ das [[mu-Nullmengen|System der Nullmengen]] auf $\epsilon_x$.
 
 $\epsilon_x$ hat eine $\lambda$-[[mu-Dichte|Dichte]], falls
 - $\epsilon_x$ $\lambda$-[[mu-Stetigkeit|stetig]] ist
@@ -35,6 +35,6 @@ Sei $\lambda$ das [[Lebesgue-Borelsches Maß]], $\mathcal{N}_\lambda$ das [[mu-N
 1. $\nu$ ist $\lambda$-[[mu-Stetigkeit|stetig]], falls
 	1. $\forall N \in \mathcal{N}_\lambda : N \in \mathcal{N}_\nu$
 
-	$\nu$ ist $\sigma$-[[Maß|endlich]], falls eine Folge $(A_n)_{n \in \mathbb{N}} \subseteq \mathcal{A}$ existiert mit
+	$\nu$ ist $\sigma$-[[Maß|endlich]] TODO, falls eine Folge $(A_n)_{n \in \mathbb{N}} \subseteq \mathcal{A}$ existiert mit
 	1. $\forall n \in \mathbb{N} : \mu(A_n) < \infty$
 	2. $X = \bigcup_{n \in \mathbb{N}} A_i$

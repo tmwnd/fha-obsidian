@@ -1,5 +1,5 @@
 Sei $X \in \mathbb{R}^{m \times n}, y \in \mathbb{R}^m$ mit
-- Spaltenvektoren von $X$ linear abhängig $\implies$ $X^TX$ [[Definitheit|positiv semidefinit]] $\implies$ $X^TX$ nicht [[regulär]] bzw. [[singulär]]
+- Spaltenvektoren von $X$ linear abhängig $\implies$ $X^TX$ [[Matrix definit|positiv semidefinit]] $\implies$ $X^TX$ nicht [[Matrix regulär|regulär]] bzw. [[Matrix singulär|singulär]]
 - $U\Sigma V$ die [[Singulärwertzerlegung, SVD|SVD]] von $X$
 - $w$ existiert
 - $w$ nicht eindeutig bestimmt

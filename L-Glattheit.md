@@ -9,17 +9,17 @@ $$
 ---
 
 Es gilt
-- $f'$ [[Libschitz-Stetigkeit|L-stetig]] $\implies$ $f$ L-glatt
+- $f'$ [[Funktion Libschitz-stetig|L-stetig]] $\implies$ $f$ L-glatt
 
-Falls $f \in C^1$ [[Konvexe Funktion|konvex]], $\text{dom}(f) = \mathbb{R}^d$ und $\exists x_* \in \text{dom}(f) : f(x_*) = \inf_x f(x)$ gilt
-- $f'$ [[Libschitz-Stetigkeit|L-stetig]] $\iff$ $f$ L-glatt
+Falls $f \in C^1$ [[Funktion konvex|konvex]], $\text{dom}(f) = \mathbb{R}^d$ und $\exists x_* \in \text{dom}(f) : f(x_*) = \inf_x f(x)$ gilt
+- $f'$ [[Funktion Libschitz-stetig|L-stetig]] $\iff$ $f$ L-glatt
 
 ---
 
-Sei $f : \mathbb{R}^d \to \mathbb{R}$ [[Konvexe Funktion|konvex]] und differenziebar, $\exists x_* \in \text{dom}(f) : f(x_*) = \inf_x f(x)$.
+Sei $f : \mathbb{R}^d \to \mathbb{R}$ [[Funktion konvex|konvex]] und differenziebar, $\exists x_* \in \text{dom}(f) : f(x_*) = \inf_x f(x)$.
 
 Falls $f$ L-glatt mit $L$ gilt
-- $f'$ ist [[Libschitz-Stetigkeit|L-stetig]]
+- $f'$ ist [[Funktion Libschitz-stetig|L-stetig]]
 
 und
 

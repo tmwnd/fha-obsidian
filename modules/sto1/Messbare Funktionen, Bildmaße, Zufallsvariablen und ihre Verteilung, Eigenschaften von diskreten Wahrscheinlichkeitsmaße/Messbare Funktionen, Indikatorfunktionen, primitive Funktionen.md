@@ -1,5 +1,5 @@
 ![[Messraum]]
-![[A-S-Messbarkeit]]
+![[Funktion A-S-messbar]]
 ![[Funktion]]
 ![[Indikatorfunktion]]
 ![[modules/sto1/Satz 2.7]]

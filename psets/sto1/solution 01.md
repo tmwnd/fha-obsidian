@@ -12,8 +12,8 @@
 	3.  
 		1. $\forall n \in \mathbb{N} : A_n$ abzählbar $\implies$ $\bigcup_{n \in \mathbb{N}} A_n$ abzählbar
 		2. $\exists k \in \mathbb{N} : A_k$  überabzählbar $\implies$ $A_k^\complement$ abzählbar $\implies$ $( \bigcup_{n \in \mathbb{N}} A_n)^\complement = \bigcap_{n \in \mathbb{N}} A_n^\complement$ abzählbar
-2. $m$ ist ein [[Maß]], falls $m$ eine $\sigma$-[[Abbildung|additive]] [[Abbildung]] ist.
-	$m$ ist eine $\sigma$-[[Abbildung|additive]] [[Abbildung]], falls
+2. $m$ ist ein [[Maß]], falls $m$ eine $\sigma$-[[Funktion sigma-additiv|additive]] [[Funktion]] ist.
+	$m$ ist eine $\sigma$-[[Funktion sigma-additiv|additive]] [[Funktion]], falls
 	1. $m(\emptyset) = 0$
 	2. p. d. $(A_n)_{n \in \mathbb{N}} \in \mathfrak{A} \implies$
 	

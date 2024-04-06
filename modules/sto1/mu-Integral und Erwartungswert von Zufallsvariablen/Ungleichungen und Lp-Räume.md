@@ -5,6 +5,6 @@
 ![[Minkowskische Ungleichung]]
 ![[Lp-Raum]]
 ![[modules/sto1/Lemma 3.30]]
-![[Konvexe Funktion]]
-![[Konkavität]]
+![[Funktion konvex]]
+![[Funktion konkav]]
 ![[Jensensche Ungleichung]]

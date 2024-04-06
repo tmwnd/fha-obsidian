@@ -17,6 +17,6 @@ Schreibe
 
 ---
 
-Sei $(\Omega, \mathcal{A}, P)$ ein [[Maßraum|Wahrscheinlichkeitsraum]], $X, (X_n)_{n \in \mathbb{N}}$ $d$-dimensionale [[Zufallsvariable|Zufallsvektoren]].
+Sei $(\Omega, \mathcal{A}, P)$ ein [[Wahrscheinlichkeitsraum]], $X, (X_n)_{n \in \mathbb{N}}$ $d$-dimensionale [[Zufallsvariable|Zufallsvektoren]].
 
 Aus $X_n \overset{P}{\longrightarrow} X$ konvergiert [[Stochastische Konvergenz|stochastisch]] folgt $X_n \overset{V}{\longrightarrow} X$.

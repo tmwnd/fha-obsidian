@@ -1,7 +1,7 @@
 Sei $\mathcal{A} \subseteq \mathcal{P}(\Omega)$, $\mu : \mathcal{A} \to [0, \infty]$ mit
 - $\Omega \in \mathcal{A}$
 - $A \in \mathcal{A} \implies A^\complement \in \mathcal{A}$
-- $\mathcal{A}$ ist $\cap$-[[Vereinigungsstabilität|stabil]]
+- $\mathcal{A}$ ist $\cap$-[[Menge vereinigungsstabil|stabil]]
 - $\mu(\emptyset) = 0$
 - $\forall (A_n)_{n \in \mathbb{N}} \subseteq \mathcal{A} \text{ p. d. }, \bigcup_{n \in \mathbb{n}} A_n \in \mathcal{A} : \mu\left( \bigcup_{n \in \mathbb{N}} A_n \right) = \sum_{n \in \mathbb{N}} \mu(A_n)$
 

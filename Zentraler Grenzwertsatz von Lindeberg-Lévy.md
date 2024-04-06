@@ -1,6 +1,6 @@
-Seien $(X_n)_{n \in \mathbb{N}}$ [[Unabhängige Zufallsvariablen|unabhängige]], identisch verteilte, reelle [[Zufallsvariable|Zufallsvariablen]] mit
-- dem [[Erwartungswert]] $E[X_1] = 0$
-- der [[Varianz]] $\text{Var}(X_1) = 1$
+Seien $(X_n)_{n \in \mathbb{N}}$ [[Zufallsvariable unabhängig|unabhängige]], identisch verteilte, reelle [[Zufallsvariable|Zufallsvariablen]] mit
+- dem [[Zufallsvariable Erwartungswert|Erwartungswert]] $E[X_1] = 0$
+- der [[Zufallsvariable Varianz|Varianz]] $\text{Var}(X_1) = 1$
 - $\forall n \in \mathbb{N} : S_n = \sum_{i=1}^n X_i$
 
 Es gilt bzgl. der [[Verteilungskonvergenz]] und [[Normalverteilung]] $\mathcal{N}$
@@ -11,9 +11,9 @@ $$
 
 ---
 
-Seien $(X_n)_{n \in \mathbb{N}}$ [[Unabhängige Zufallsvariablen|unabhängige]] und identisch verteilte, reelle [[Zufallsvariable|Zufallsvariablen]] mit
-- dem [[Erwartungswert]] $\mu$ endlich
-- der [[Varianz]] $\sigma^2$ endlich
+Seien $(X_n)_{n \in \mathbb{N}}$ [[Zufallsvariable unabhängig|unabhängige]] und identisch verteilte, reelle [[Zufallsvariable|Zufallsvariablen]] mit
+- dem [[Zufallsvariable Erwartungswert|Erwartungswert]] $\mu$ endlich
+- der [[Zufallsvariable Varianz|Varianz]] $\sigma^2$ endlich
 - $\forall n \in \mathbb{N} : \overline{X}_n = \frac{1}{n} \sum_{i=1}^n X_i$
 
 Es gilt bzgl. der [[Verteilungskonvergenz]] und [[Normalverteilung]] $\mathcal{N}$
@@ -24,18 +24,18 @@ $$
 
 ---
 
-Seien $(X_n)_{n \in \mathbb{N}}$ [[Unabhängige Zufallsvariablen|unabhängige]] und identisch verteilte, reelle [[Zufallsvariable|Zufallsvariablen]], $Z$ eine [[Zufallsvariable]] mit
-- dem [[Erwartungswert]] $E[X]$ endlich
-- der [[Varianz]] $\text{Var}(X) \gt 0$ und endlich
+Seien $(X_n)_{n \in \mathbb{N}}$ [[Zufallsvariable unabhängig|unabhängige]] und identisch verteilte, reelle [[Zufallsvariable|Zufallsvariablen]], $Z$ eine [[Zufallsvariable]] mit
+- dem [[Zufallsvariable Erwartungswert|Erwartungswert]] $E[X]$ endlich
+- der [[Zufallsvariable Varianz|Varianz]] $\text{Var}(X) \gt 0$ und endlich
 
 $Z$ ist [[Normalverteilung|standardnormalverteilt]], falls
 - $\sigma Z + \mu \sim \mathcal{N}(\mu, \sigma^2)$
 
 ---
 
-Seien $(X_n)_{n \in \mathbb{N}}$ [[Unabhängige Zufallsvariablen|unabhängige]] und identisch verteilte, reelle [[Zufallsvariable|Zufallsvariablen]] mit
-- dem [[Erwartungswert]] $\mu$ endlich
-- der [[Varianz]] $\text{Var}(X)  = 0$
+Seien $(X_n)_{n \in \mathbb{N}}$ [[Zufallsvariable unabhängig|unabhängige]] und identisch verteilte, reelle [[Zufallsvariable|Zufallsvariablen]] mit
+- dem [[Zufallsvariable Erwartungswert|Erwartungswert]] $\mu$ endlich
+- der [[Zufallsvariable Varianz|Varianz]] $\text{Var}(X)  = 0$
 
 Es gilt
 - $\forall i \in \mathbb{N} : X_i \equiv \mu$ fast sicher

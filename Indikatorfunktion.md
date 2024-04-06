@@ -13,12 +13,12 @@ $$
 
 Sei $A \subseteq \Omega$, $\mathcal{A}$ die $\sigma$-[[sigma-Algebra|Algebra]] auf $\Omega$.
 
-$I_A$ ist genau dann [[Funktion|messbar]], falls
+$I_A$ ist genau dann [[Funktion|messbar]] TODO, falls
 - $A \in \mathcal{A}$
 
 ---
 
-Sei $f : (\Omega, \mathcal{A}) \to (\overline{\mathbb{R}}, \overline{\mathcal{L}})$ [[Funktion|messbar]] mit existierendem $\mu$-[[mu-Integral|Integral]], $A \in \mathcal{A}$.
+Sei $f : (\Omega, \mathcal{A}) \to (\overline{\mathbb{R}}, \overline{\mathcal{L}})$ [[Funktion messbar|messbar]] mit existierendem $\mu$-[[mu-Integral|Integral]], $A \in \mathcal{A}$.
 
 Schreibe
 

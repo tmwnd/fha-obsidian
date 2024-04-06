@@ -19,7 +19,7 @@ Alle Voraussetzungen sind erfüllt, da
 
 ![[psets/muit/assignment 03#^2]]
 
-Da $f$ $(\mathcal{A}, \mathcal{B})$-[[A-S-Messbarkeit|messbar]] ist, gilt
+Da $f$ $(\mathcal{A}, \mathcal{B})$-[[Funktion A-S-messbar|messbar]] ist, gilt
 - $\forall B \in \mathcal{B} : f^{-1}(B) \in \mathcal{A}$
 
 Sei $\mathcal{E} \subseteq \mathcal{P}(Y)$ mit
@@ -33,7 +33,7 @@ Alle Voraussetzungen sind erfüllt, da
 
 ![[psets/muit/assignment 03#^3]]
 
-$f$ ist $(\mathcal{A}, \mathcal{B})$-[[A-S-Messbarkeit|messbar]], falls
+$f$ ist $(\mathcal{A}, \mathcal{B})$-[[Funktion A-S-messbar|messbar]], falls
 - $f \in \{ f_B \mid B \in \mathcal{B} \land \forall x \in X : f_B(x) := B \}\}$
 
 ---
@@ -53,7 +53,7 @@ $$
 
 ![[psets/muit/assignment 03#^5]]
 
-$f$ ist $\mathcal{B}^*$-[[A-Messbarkeit|messbar]], falls
+$f$ ist $\mathcal{B}^*$-[[Funktion A-messbar|messbar]], falls
 1. $\forall r \in \mathbb{R} : \{ x \in \mathbb{R} \mid f(x) \le r \} \in \mathcal{B}^*$
 
 %%
@@ -93,10 +93,10 @@ $\sin^- = \max(-\sin, 0) = \begin{cases} -\sin(x), & \exists k \in \mathbb{N}_0 
 	1. $X \in \mathcal{A} \implies X \cap C = C \in \mathcal{A}_C$
 	2. $A_C \in \mathcal{A}_C \implies \exists A \in \mathcal{A} : A_C \subseteq A \land (A \setminus A_C)_C = \emptyset \implies A^\complement \in \mathcal{A} \implies A^\complement \cap C = A_C^\complement \in \mathcal{A}_C$
 	3. $\forall (A_{C_n})_{n \in \mathbb{N}} \in \mathcal{A}_C : \exists (A_n)_{n \in \mathbb{N}} \in \mathcal{A} : (A_n \cap C)_{n \in \mathbb{N}} = (A_{C_n})_{n \in \mathbb{N}} \implies \bigcup_{n \in \mathbb{N}} A_n \in \mathcal{A} \implies \bigcup_{n \in \mathbb{N}} A_n \cap C = \bigcup_{n \in \mathbb{N}} A_{C_n} \in \mathcal{A}_C$
-2. Da $f$ $(\mathcal{A}, \mathcal{B})$-[[A-S-Messbarkeit|messbar]] ist, gilt
+2. Da $f$ $(\mathcal{A}, \mathcal{B})$-[[Funktion A-S-messbar|messbar]] ist, gilt
 	- $\forall B \in \mathcal{B} : f^{-1}(B) \in \mathcal{A}$
 	
-	$f|_C$ ist $(\mathcal{A}_C, \mathcal{B})$-[[A-S-Messbarkeit|messbar]]
+	$f|_C$ ist $(\mathcal{A}_C, \mathcal{B})$-[[Funktion A-S-messbar|messbar]]
 	1. $\forall B \in \mathcal{B} : f|_C^{-1}(B) \in \mathcal{A}_C$
 	
 	Alle Voraussetzungen sind erfüllt, da
@@ -106,7 +106,7 @@ $\sin^- = \max(-\sin, 0) = \begin{cases} -\sin(x), & \exists k \in \mathbb{N}_0 
 
 ![[psets/muit/assignment 03#^8]]
 
-$\frac{f}{g}$ ist [[A-Messbarkeit|messbar]], falls
+$\frac{f}{g}$ ist [[Funktion A-messbar|messbar]], falls
 1. $\forall r, \alpha \in \mathbb{R} : \{ \alpha \cdot f \le r \} \in \mathcal{A} \land \{ f \le \alpha \cdot g \} \in \mathcal{A} \implies \left\{ \frac{f}{g} \le r \right\} = \{ f \le r \cdot g \} \in \mathcal{A}$
 
 ---

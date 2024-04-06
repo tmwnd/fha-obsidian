@@ -1,4 +1,4 @@
-Sei $P$ ein [[Maß|Wahrscheinlichkeitsmaß]] auf der Borelschen $\sigma$-[[Borelsche sigma-Algebra|Algebra]] $\mathcal{L}$
+Sei $P$ ein [[Wahrscheinlichkeitsmaß]] auf der Borelschen $\sigma$-[[Borelsche sigma-Algebra|Algebra]] $\mathcal{L}$
 
 Die [[Verteilungsfunktion]] $F : \mathbb{R} \to \mathbb{R}$ sei definiert durch
 
@@ -10,7 +10,7 @@ $P$ ist eindeutig auf $\mathcal{L}$ bestimmt.
 
 ---
 
-Sei $\mu$ ein [[Maß|endliches]] [[Maß]] auf der Borelschen $\sigma$-[[Borelsche sigma-Algebra|Algebra]] $\mathcal{L}^d$ mit
+Sei $\mu$ ein [[Maß|endliches]] TODO [[Maß]] auf der Borelschen $\sigma$-[[Borelsche sigma-Algebra|Algebra]] $\mathcal{L}^d$ mit
 - $S = \prod_{i = 1}^d (a_1, b_1]$
 - $S_{(x_1, \dots, x_d)} = \prod_{i = 1}^d (-\infty, x]$
 

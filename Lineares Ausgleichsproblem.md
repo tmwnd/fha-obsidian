@@ -1,5 +1,5 @@
 Seien $(x_i, y_i)_{i \in \{ 1, \dots, m \}}$ Daten-Paare, $w \in \mathbb{R}^n$, $g$ eine [[Modellfunktion]] mit
-- $g$ [[lineare Affinität|linear affin]]
+- $g$ [[Funktion lineare affin|linear affin]]
 - $l(w)$ die [[Loss-Funktion]] des [[Least-Square Problem|Least-Square Problems]]
 
 Es gilt bzgl. des [[Residuenvektor|Residuenvektors]]
@@ -35,9 +35,9 @@ $$
 $$
 
 und
-- $l$ [[Konvexe Funktion|konvex]] $\implies$ jedes lokale Minimum ist ein globales Minimum
+- $l$ [[Funktion konvex|konvex]] $\implies$ jedes lokale Minimum ist ein globales Minimum
 - $l'(w) = 0 \iff A^TAw = A^Tb$
-- $l''(w)$ [[Definitheit|positiv semidefinit]] $\implies$ $w$ ist ein lokales Minimum
+- $l''(w)$ [[Matrix definit|positiv semidefinit]] $\implies$ $w$ ist ein lokales Minimum
 
 Das zu lösende Normalgleichungssystem ist
 - $\underbrace{w^* = \arg\min_{w \in \mathbb{R}^n} l(w)}_\text{numerisches Optimierungsproblem} \equiv \underbrace{A^TAw = A^Tb}_\text{linesares Gleichungssystem}$^[$w$ nicht eindeutig, da $g$ mehrere globale Minima enthalten kann]

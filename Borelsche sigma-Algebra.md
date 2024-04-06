@@ -47,4 +47,4 @@ Es gilt für die Spur-$\sigma$-[[Spur-sigma-Algebra|Algebra]] $\overline{\mathca
 
 ---
 
-Die Borelsche $\sigma$-[[sigma-Algebra|Algebra]] ist [[Invarianzen|translations-]] und [[Invarianzen|spiegelungsinvariant]].
+Die Borelsche $\sigma$-[[sigma-Algebra|Algebra]] ist [[sigma-Algebra Invarianzen|translations-]] und [[sigma-Algebra Invarianzen|spiegelungsinvariant]].

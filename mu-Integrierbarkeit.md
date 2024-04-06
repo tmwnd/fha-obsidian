@@ -1,4 +1,4 @@
-Sei $f \in \mathcal{M}$ eine [[Funktion|messbare]] [[Funktion]].
+Sei $f \in \mathcal{M}$ eine [[Funktion messbar|messbare]] [[Funktion]].
 
 $f$ hat ein *existierendes* $\mu$-[[mu-Integral|Integral]], falls
 - $\int f^+ d\mu \lt \infty$ oder
@@ -15,7 +15,7 @@ Es gilt
 
 ---
 
-Sei $f \in \mathcal{M}$ eine [[Funktion|messbare]] [[Funktion]].
+Sei $f \in \mathcal{M}$ eine [[Funktion messbar|messbare]] [[Funktion]].
 
 $f$ heißt *$\mu$-integrierbar*, falls
 - $\int f^+ d\mu \lt \infty$ und
@@ -29,14 +29,14 @@ $$
 
 ---
 
-Sei $f \in \mathcal{M}$ eine [[Funktion|messbare]] [[Funktion]].
+Sei $f \in \mathcal{M}$ eine [[Funktion messbar|messbare]] [[Funktion]].
 
 Es gilt
 - $f$ $\mu$-integrierbar $\iff$ $|f|$ $\mu$-integrierbar.
 
 ---
 
-Sie $f, g \in \mathcal{M}$ [[Funktion|messbare]] [[Funktion|Funktionen]] mit
+Sie $f, g \in \mathcal{M}$ [[Funktion messbar|messbare]] [[Funktion|Funktionen]] mit
 - $|f| \le |g|$
 
 Es gilt

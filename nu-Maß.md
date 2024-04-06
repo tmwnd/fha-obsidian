@@ -1,4 +1,4 @@
-Sei $f \in \mathcal{M}_+$ eine [[Funktion|messbare]] [[Funktion]], $A \in \mathcal{A}$.
+Sei $f \in \mathcal{M}_+$ eine [[Funktion messbar|messbare]] [[Funktion]], $A \in \mathcal{A}$.
 
 Das [[Maß]] $\nu$ ist auf $(\Omega, \mathcal{A})$ mit dem $\mu$-[[mu-Integral|Integral]] definiert als
 

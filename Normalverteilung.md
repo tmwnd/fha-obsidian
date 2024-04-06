@@ -26,12 +26,12 @@ Die [[Verteilungsfunktion]] von $X$ heißt *standardnormalverteilt*.
 Sei $X \sim \mathcal{N}(\mu, \sigma^2)$ eine [[Zufallsvariable]].
 
 Es gilt
-- Der [[Erwartungswert]] von $X$ ist $E[X] = \mu$
-- Die [[Varianz]] von $X$ ist $\text{Var}(X) = \sigma^2$
+- Der [[Zufallsvariable Erwartungswert|Erwartungswert]] von $X$ ist $E[X] = \mu$
+- Die [[Zufallsvariable Varianz|Varianz]] von $X$ ist $\text{Var}(X) = \sigma^2$
 
 ---
 
-Sei $n \in \mathbb{N}$, $(X_i)_{i \in \{ 1, \dots, n \}}$ [[Unabhängige Zufallsvariablen|unabhängige]] [[Zufallsvariable|Zufallsvariablen]] mit
+Sei $n \in \mathbb{N}$, $(X_i)_{i \in \{ 1, \dots, n \}}$ [[Zufallsvariable unabhängig|unabhängige]] [[Zufallsvariable|Zufallsvariablen]] mit
 - $X = (X_1, \dots, X_n)$
 - $\forall i \in \{ 1, \dots, n \} : X_i \sim N(0, 1)$
 - $x \in \mathbb{R}^n$
@@ -52,7 +52,7 @@ Schreibe
 Sei $n \in \mathbb{N}$, $X \sim \mathcal{N}_n(\vec{0}, I_n)$ ein $n$-dimensional standardnormalverteilter [[Zufallsvariable|Zufallsvektor]], $A \in \mathbb{R}^{n \times n}$ regulär, $b \in \mathbb{R}^n$, $Y = AX + b$ mit
 - $y \in \mathbb{R}^n$
 
-Es gilt mit dem [[Erwartungswert]] $E$ und der [[Covarianz]] Cov
+Es gilt mit dem [[Zufallsvariable Erwartungswert|Erwartungswert]] $E$ und der [[Covarianz]] Cov
 - $E[Y] = b$
 - $\text{Cov}(Y) = \Sigma = AA^T$
 
@@ -62,7 +62,7 @@ $$
 	f(y) = \left( \frac{1}{2\pi} \right)^\frac{n}{2} \cdot \frac{1}{\sqrt{\text{det}(\Sigma)}} \cdot e^{-\frac{1}{2} \cdot (y-b) \cdot \Sigma^{-1}(y-b)}
 $$
 
-$Y$ ist [[Unabhängige Zufallsvariablen|unabhängig]], falls
+$Y$ ist [[Zufallsvariable unabhängig|unabhängig]], falls
 - $\Sigma$ eine Diagonalmatrix ist
 
 Schreibe
@@ -73,8 +73,8 @@ Schreibe
 Sei $n \in \mathbb{N}$, $X \sim \mathcal{N}_n(b, \Sigma)$ ein [[Zufallsvariable|Zufallsvektor]].
 
 Es gilt
-- Der [[Erwartungswert]] ist $E[X] = b$
-- Die [[Varianz]] ist $\text{Var}(X) = \Sigma$
+- Der [[Zufallsvariable Erwartungswert|Erwartungswert]] ist $E[X] = b$
+- Die [[Zufallsvariable Varianz|Varianz]] ist $\text{Var}(X) = \Sigma$
 
 ---
 

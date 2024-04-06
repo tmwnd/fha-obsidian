@@ -13,14 +13,14 @@ Zu jeder [[modules/sto1/Korollar 1.17|Verteilungsfunktion]] $F : \mathbb{R} \to 
 
 ---
 
-Das Lebesgue Borelsche Maß ist [[Invarianzen|translations-]] und [[Invarianzen|spiegelungsinvariant]].
+Das Lebesgue Borelsche Maß ist [[sigma-Algebra Invarianzen|translations-]] und [[sigma-Algebra Invarianzen|spiegelungsinvariant]].
 
 ---
 
 Sei $-\infty \lt a \le b \lt +\infty$, $x \in \mathbb{R}$, $f : [a, b] \to \mathbb{R}_+$ eine Riemann-integrierbare [[Funktion]] mit
 - $\int_a^b f(t) dt = 1$
 
-Die [[Verteilungsfunktion]] $F : \mathbb{R} \to \mathbb{R}$ eines [[Maß|Wahrscheinlichkeitsmaßes]] $P$ auf der Borelschen $\sigma$-[[Borelsche sigma-Algebra|Algebra]] $\mathcal{L}$ ist definiert als
+Die [[Verteilungsfunktion]] $F : \mathbb{R} \to \mathbb{R}$ eines [[Wahrscheinlichkeitsmaß|Wahrscheinlichkeitsmaßes]] $P$ auf der Borelschen $\sigma$-[[Borelsche sigma-Algebra|Algebra]] $\mathcal{L}$ ist definiert als
 
 $$
 	F(x) = \begin{cases}
@@ -35,7 +35,7 @@ $$
 Sei $x \in \mathbb{R}$, $f : \mathbb{R} \to \mathbb{R}_+$ eine uneigentlich Riemann-integrierbare [[Funktion]] mit
 - $\int_{-\infty}^{+\infty} f(t) dt = 1$
 
-Die [[Verteilungsfunktion]] $F : \mathbb{R} \to \mathbb{R}$ eines [[Maß|Wahrscheinlichkeitsmaßes]] $P$ auf der Borelschen $\sigma$-[[Borelsche sigma-Algebra|Algebra]] $\mathcal{L}$ ist definiert als
+Die [[Verteilungsfunktion]] $F : \mathbb{R} \to \mathbb{R}$ eines [[Wahrscheinlichkeitsmaß|Wahrscheinlichkeitsmaßes]] $P$ auf der Borelschen $\sigma$-[[Borelsche sigma-Algebra|Algebra]] $\mathcal{L}$ ist definiert als
 
 $$
 	F(x) = \int_{-\infty}^x f(t) dtcd
@@ -43,11 +43,11 @@ $$
 
 ---
 
-Jede stetige [[Funktion]] $f : \mathbb{R}^d \to \mathbb{R}^p$ ist $(\mathcal{L}^d, \mathcal{L}^p)$-[[A-S-Messbarkeit|messbar]].
+Jede stetige [[Funktion]] $f : \mathbb{R}^d \to \mathbb{R}^p$ ist $(\mathcal{L}^d, \mathcal{L}^p)$-[[Funktion A-S-messbar|messbar]].
 
 ---
 
-$f : \Omega \to \overline{\mathbb{R}}$ ist genau dann $(\mathcal{A}, \overline{\mathcal{L}})$-[[A-S-Messbarkeit|messbar]], falls
+$f : \Omega \to \overline{\mathbb{R}}$ ist genau dann $(\mathcal{A}, \overline{\mathcal{L}})$-[[Funktion A-S-messbar|messbar]], falls
 - a) $\forall a \in \mathbb{R} : \{ f \gt a \} = \{ \omega \in \Omega, f(\omega) \gt a \}$ = $f^{-1}((a, +\infty]) \in \mathcal{A}$
 - b) $\forall a \in \mathbb{R} : \{ f \ge a \} = \{ \omega \in \Omega, f(\omega) \ge a \}$ = $f^{-1}([a, +\infty]) \in \mathcal{A}$
 - c) $\forall b \in \mathbb{R} : \{ f \lt b \} = \{ \omega \in \Omega, f(\omega) \lt b \}$ = $f^{-1}([-\infty, b)) \in \mathcal{A}$

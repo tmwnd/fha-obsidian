@@ -1,4 +1,4 @@
-Sei $(\Omega, \mathcal{A}, \mu)$ ein [[Maßraum]], $f: (\Omega, \mathcal{A}) \to (\mathbb{C}, \mathcal{L}(\mathbb{C}))$ eine [[Komplexwertige Funktion|komplexwertige]], [[A-S-Messbarkeit einer komplexwertigen Funktion|messbare]] [[Funktion]].
+Sei $(\Omega, \mathcal{A}, \mu)$ ein [[Maßraum]], $f: (\Omega, \mathcal{A}) \to (\mathbb{C}, \mathcal{L}(\mathbb{C}))$ eine [[Funktion komplexwertig|komplexwertige]], [[Funktion komplexwertig A-S-messbar|messbare]] [[Funktion]].
 
 $f$ heißt *$\mu$-integrierbar*, falls
 - $\text{Re}(f)$ $\mu$-[[mu-Integrierbarkeit|integrierbare]] ist
@@ -12,7 +12,7 @@ $$
 
 ---
 
-Sei $(\Omega, \mathcal{A}, \mu)$ ein [[Maßraum]], $f: (\Omega, \mathcal{A}) \to (\mathbb{C}, \mathcal{L}(\mathbb{C}))$ eine $\mu$-integrierbare [[Komplexwertige Funktion|komplexwertige]], [[A-S-Messbarkeit einer komplexwertigen Funktion|messbare]] [[Funktion]].
+Sei $(\Omega, \mathcal{A}, \mu)$ ein [[Maßraum]], $f: (\Omega, \mathcal{A}) \to (\mathbb{C}, \mathcal{L}(\mathbb{C}))$ eine $\mu$-integrierbare [[Funktion komplexwertig|komplexwertige]], [[Funktion komplexwertig A-S-messbar|messbare]] [[Funktion]].
 
 Es gilt für das $\mu$-[[mu-Integral|Integral]]
 - Die komplex konjugierte Funktion $\overline{f} = \text{Re}(f) - i \text{Im}(f)$ ist ebenfalls $\mu$-Integrierbare
@@ -24,14 +24,14 @@ $$
 
 ---
 
-Sei $(\Omega, \mathcal{A}, \mu)$ ein [[Maßraum]], $f: (\Omega, \mathcal{A}) \to (\mathbb{C}, \mathcal{L}(\mathbb{C}))$ eine [[Komplexwertige Funktion|komplexwertige]], [[A-S-Messbarkeit einer komplexwertigen Funktion|messbare]] [[Funktion]].
+Sei $(\Omega, \mathcal{A}, \mu)$ ein [[Maßraum]], $f: (\Omega, \mathcal{A}) \to (\mathbb{C}, \mathcal{L}(\mathbb{C}))$ eine [[Funktion komplexwertig|komplexwertige]], [[Funktion komplexwertig A-S-messbar|messbare]] [[Funktion]].
 
 Es gilt
 - $f$ $\mu$-integrierbar $\iff$ $|f|$ $\mu$-integrierbar
 
 ---
 
-Sei $(\Omega, \mathcal{A}, \mu)$ ein [[Maßraum]], $f: (\Omega, \mathcal{A}) \to (\mathbb{C}, \mathcal{L}(\mathbb{C}))$ eine $\mu$-integrierbare [[Komplexwertige Funktion|komplexwertige]], [[A-S-Messbarkeit einer komplexwertigen Funktion|messbare]] [[Funktion]].
+Sei $(\Omega, \mathcal{A}, \mu)$ ein [[Maßraum]], $f: (\Omega, \mathcal{A}) \to (\mathbb{C}, \mathcal{L}(\mathbb{C}))$ eine $\mu$-integrierbare [[Funktion komplexwertig|komplexwertige]], [[Funktion komplexwertig A-S-messbar|messbare]] [[Funktion]].
 
 Es gilt für das $\mu$-[[mu-Integral|Integral]]
 

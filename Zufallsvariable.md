@@ -1,6 +1,6 @@
-Sei $(\Omega, \mathcal{A}, P)$ ein [[Maßraum|Wahrscheinlichkeitsraum]], $(R, \mathscr{S})$ ein [[Messraum]].
+Sei $(\Omega, \mathcal{A}, P)$ ein [[Wahrscheinlichkeitsraum]], $(R, \mathscr{S})$ ein [[Messraum]].
 
-Eine $(\mathcal{A}, \mathscr{S})$-[[A-S-Messbarkeit|messbare]] [[Funktion]] $X : (\Omega, \mathcal{A}) \to (R, \mathscr{S})$ heißt *Zufallsvariable*.
+Eine $(\mathcal{A}, \mathscr{S})$-[[Funktion A-S-messbar|messbare]] [[Funktion]] $X : (\Omega, \mathcal{A}) \to (R, \mathscr{S})$ heißt *Zufallsvariable*.
 
 ---
 

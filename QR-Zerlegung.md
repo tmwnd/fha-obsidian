@@ -10,7 +10,7 @@ Zerlege $X$, sodass
 - $Q$ [[orthogonale Matrizen|orthogonal]]
 - $R \in \mathbb{R}^{m \times n}$
 - $\tilde{R} \in \mathbb{R}^{n \times n}$
-- $\tilde{R}$ eine [[quadratische Matrix|quadratische]] [[Dreiecksmatrix|obere Dreiecksmatrix]]
+- $\tilde{R}$ eine [[Matrix quadratisch|quadratische]] [[Dreiecksmatrix|obere Dreiecksmatrix]]
 
 Es gilt
 

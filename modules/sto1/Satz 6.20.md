@@ -1,6 +1,6 @@
-Sei $(\Omega, \mathcal{A}, P)$ ein [[Maßraum|Wahrscheinlichkeitsraum]], $X$ ein $p$-dimensionaler [[Zufallsvariable|Zufallsvektor]] auf $(\Omega, \mathcal{A}, P)$, $Y$ ein $q$-dimensionaler [[Zufallsvariable|Zufallsvektor]] auf $(\Omega, \mathcal{A}, P)$.
+Sei $(\Omega, \mathcal{A}, P)$ ein [[Wahrscheinlichkeitsraum]], $X$ ein $p$-dimensionaler [[Zufallsvariable|Zufallsvektor]] auf $(\Omega, \mathcal{A}, P)$, $Y$ ein $q$-dimensionaler [[Zufallsvariable|Zufallsvektor]] auf $(\Omega, \mathcal{A}, P)$.
 
-$X$ und $Y$ sind [[Unabhängige Zufallsvariablen|unabhängig]], falls mit dem [[Erwartungswert]] $E$ gilt
+$X$ und $Y$ sind [[Zufallsvariable unabhängig|unabhängig]], falls mit dem [[Zufallsvariable Erwartungswert|Erwartungswert]] $E$ gilt
 
 $$
 	\forall (w, z) \in \mathbb{R}^p \times \mathbb{R}^q : E[e^{iw^T+iz^TY}] = E[e^{iw^TX}] \cdot E[e^{iz^TY}]
@@ -14,7 +14,7 @@ Sei $1 \le p \lt d$, $Z \sim \mathcal{N}(\mu, \Sigma)$ ein $d$-dimensionaler [[N
 - $\Sigma_X = \text{Cov}(X)$
 - $\Sigma_Y = \text{Cov}(Y)$
 
-$X$ und $Y$ sind [[Unabhängige Zufallsvariablen|unabhängig]], falls
+$X$ und $Y$ sind [[Zufallsvariable unabhängig|unabhängig]], falls
 
 $$
 	\Sigma = \begin{pmatrix} \Sigma_X & 0 \\ 0 & \Sigma_Y \end{pmatrix}

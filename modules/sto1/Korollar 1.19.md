@@ -20,4 +20,4 @@ $$
 
 Es gilt
 - $\mu(\mathbb{R}^d) = a$
-- $a = 1$ $\implies$ $\mu$ ist ein [[Maß|Wahrscheinlichkeitsmaß]], $F$ ist eine [[Verteilungsfunktion]] gemäß des korrespondierenden [[Maß|Wahrscheinlichkeitsmaßes]] $P$.
+- $a = 1$ $\implies$ $\mu$ ist ein [[Wahrscheinlichkeitsmaß]], $F$ ist eine [[Verteilungsfunktion]] gemäß des korrespondierenden [[Wahrscheinlichkeitsmaß|Wahrscheinlichkeitsmaßes]] $P$.

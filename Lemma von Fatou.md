@@ -1,4 +1,4 @@
-Sei $(f_n)_{n \in \mathbb{N}} \in \mathcal{M}_+$ [[Funktion|messbare]] [[Funktion|Funktionen]].
+Sei $(f_n)_{n \in \mathbb{N}} \in \mathcal{M}_+$ [[Funktion messbar|messbare]] [[Funktion|Funktionen]].
 
 Es gilt für das $\mu$-[[mu-Integral|Integral]]
 

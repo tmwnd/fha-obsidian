@@ -1,4 +1,4 @@
-Sei $g \in \mathcal{M}$ eine [[Funktion|messbare]] [[Funktion]], $\nu$ ein $\nu$-[[nu-Maß|Maß]] mit
+Sei $g \in \mathcal{M}$ eine [[Funktion messbar|messbare]] [[Funktion]], $\nu$ ein $\nu$-[[nu-Maß|Maß]] mit
 - $d\nu = g d\mu$
 
 Das *$\nu$-Integral* ist mit dem $\mu$-[[mu-Integral|Integral]] definiert als
@@ -9,6 +9,6 @@ $$
 
 ---
 
-Sei $f \in \mathcal{M}_+$ eine [[Funktion|messbare]] [[Funktion]].
+Sei $f \in \mathcal{M}_+$ eine [[Funktion messbar|messbare]] [[Funktion]].
 
-Das $\nu$-Integral existiert für eine [[Funktion|messbare]] [[Funktion]] $g \in \mathcal{M}$ genau dann, wenn $g \cdot f$ existiert.
+Das $\nu$-Integral existiert für eine [[Funktion messbar|messbare]] [[Funktion]] $g \in \mathcal{M}$ genau dann, wenn $g \cdot f$ existiert.

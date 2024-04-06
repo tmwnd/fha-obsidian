@@ -1,9 +1,9 @@
-Seien $((\Omega_i, \mathcal{A}_i, \mu_i))_{i \in \{ 1, 2 \}}$ [[Maßraum|Maßräume]], $f : (\Omega_1 \times \Omega_2, \mathcal{A}_1 \otimes \mathcal{A_2}) \to (\overline{\mathbb{R}}, \overline{\mathcal{L}})$ eine [[Funktion|messbare]] [[Funktion]] mit
+Seien $((\Omega_i, \mathcal{A}_i, \mu_i))_{i \in \{ 1, 2 \}}$ [[Maßraum|Maßräume]], $f : (\Omega_1 \times \Omega_2, \mathcal{A}_1 \otimes \mathcal{A_2}) \to (\overline{\mathbb{R}}, \overline{\mathcal{L}})$ eine [[Funktion messbar|messbare]] [[Funktion]] mit
 - $f \gt 0$
 
 Es gilt
-- $\forall \omega_2 \in \Omega_2 : w_2 \mapsto \int f_{\omega_2} d\mu_1$ ist $(\mathcal{A}_2, \overline{\mathcal{L}})$-[[Funktion|messbar]]
-- $\forall \omega_1 \in \Omega_1 : w_1 \mapsto \int f_{\omega_1} d\mu_2$ ist $(\mathcal{A}_1, \overline{\mathcal{L}})$-[[Funktion|messbar]]
+- $\forall \omega_2 \in \Omega_2 : w_2 \mapsto \int f_{\omega_2} d\mu_1$ ist $(\mathcal{A}_2, \overline{\mathcal{L}})$-[[Funktion messbar|messbar]]
+- $\forall \omega_1 \in \Omega_1 : w_1 \mapsto \int f_{\omega_1} d\mu_2$ ist $(\mathcal{A}_1, \overline{\mathcal{L}})$-[[Funktion messbar|messbar]]
 
 und 
 
@@ -13,7 +13,7 @@ $$
 
 ---
 
-Seien $((\Omega_i, \mathcal{A}_i, \mu_i))_{i \in \{ 1, 2 \}}$ [[Maßraum|Maßräume]], $f : (\Omega_1 \times \Omega_2, \mathcal{A}_1 \otimes \mathcal{A_2}) \to (\overline{\mathbb{R}}, \overline{\mathcal{L}})$ eine [[Funktion|messbare]] [[Funktion]] mit
+Seien $((\Omega_i, \mathcal{A}_i, \mu_i))_{i \in \{ 1, 2 \}}$ [[Maßraum|Maßräume]], $f : (\Omega_1 \times \Omega_2, \mathcal{A}_1 \otimes \mathcal{A_2}) \to (\overline{\mathbb{R}}, \overline{\mathcal{L}})$ eine [[Funktion messbar|messbare]] [[Funktion]] mit
 - $f$ $\mu_1 \otimes \mu_2$-[[mu-Integrierbarkeit|integrierbar]]
 
 Es gilt

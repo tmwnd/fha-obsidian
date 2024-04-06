@@ -1,4 +1,4 @@
-Sei $(\Omega, \mathcal{A}, \mu)$ ein [[Maßraum]], $f : (\Omega, \mathcal{A}) \to (\overline{\mathbb{R}}, \overline{\mathcal{L}})$ eine $\mu$-[[mu-Integrierbarkeit|integrierbare]] [[Funktion|messbare]] Funktion mit
+Sei $(\Omega, \mathcal{A}, \mu)$ ein [[Maßraum]], $f : (\Omega, \mathcal{A}) \to (\overline{\mathbb{R}}, \overline{\mathcal{L}})$ eine $\mu$-[[mu-Integrierbarkeit|integrierbare]] [[Funktion messbar|messbare]] Funktion mit
 - $\mu(|f| = \infty) = 0$
 
 Es gilt

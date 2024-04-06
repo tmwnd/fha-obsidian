@@ -1,4 +1,4 @@
-Sei $(\Omega, \mathcal{A}, P)$ ein [[Maßraum|Wahrscheinlichkeitsraum]], $X$ ein $d$-dimensionaler [[Zufallsvariable|Zufallsvektor]] auf $(\Omega, \mathcal{A}, P)$, $z \in \mathbb{R}^d$.
+Sei $(\Omega, \mathcal{A}, P)$ ein [[Wahrscheinlichkeitsraum]], $X$ ein $d$-dimensionaler [[Zufallsvariable|Zufallsvektor]] auf $(\Omega, \mathcal{A}, P)$, $z \in \mathbb{R}^d$.
 
 Die Funktione $\varphi_X : \mathbb{R}^d \to \mathbb{C}$ heißt *Fourier-Transformierte* von $X$ bzw. $P^X$ und ist definiert als
 
@@ -22,7 +22,7 @@ Es gilt
 
 ---
 
-Sei $n \in \mathbb{N}$, $(X_n)_{n \in \{ 1, \dots, n \}}$ [[Unabhängige Zufallsvariablen|unabhängige]] $d$-dimensionale [[Zufallsvariable|Zufallsvektoren]] mit den Fourier-Transformierten $(\varphi_n)_{n \in \{ 1, \dots, n \}}$, $z \in \mathbb{R}^d$ mit
+Sei $n \in \mathbb{N}$, $(X_n)_{n \in \{ 1, \dots, n \}}$ [[Zufallsvariable unabhängig|unabhängige]] $d$-dimensionale [[Zufallsvariable|Zufallsvektoren]] mit den Fourier-Transformierten $(\varphi_n)_{n \in \{ 1, \dots, n \}}$, $z \in \mathbb{R}^d$ mit
 - $X = \sum_{i=1}^n X_i$
 
 Die Fourier-Transformierte $\varphi_x$ ist definiert als

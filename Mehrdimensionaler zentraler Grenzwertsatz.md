@@ -1,5 +1,5 @@
-Seien $(X_n)_{n \in \mathbb{N}}$ [[Unabhängige Zufallsvariablen|unabhängige]], identisch verteilte, $d$-dimensionale [[Zufallsvariable|Zufallsvektoren]] mit
-- dem [[Erwartungswert]] $\mu$
+Seien $(X_n)_{n \in \mathbb{N}}$ [[Zufallsvariable unabhängig|unabhängige]], identisch verteilte, $d$-dimensionale [[Zufallsvariable|Zufallsvektoren]] mit
+- dem [[Zufallsvariable Erwartungswert|Erwartungswert]] $\mu$
 - der symmetrisch, postitv definiten [[Covarianz|Kovarianzmatrix]] $\Sigma$
 - $\forall n \in \mathbb{N} : \overline{X}_n = \frac{1}{n} \sum_{i=1}^n X_i$
 

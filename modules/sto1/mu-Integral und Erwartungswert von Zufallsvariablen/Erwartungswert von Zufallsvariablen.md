@@ -1,4 +1,4 @@
 ![[modules/sto1/Bemerkung 3.4]]
-![[Erwartungswert]]
-![[Varianz]]
+![[Zufallsvariable Erwartungswert]]
+![[Zufallsvariable Varianz]]
 ![[Moment]]

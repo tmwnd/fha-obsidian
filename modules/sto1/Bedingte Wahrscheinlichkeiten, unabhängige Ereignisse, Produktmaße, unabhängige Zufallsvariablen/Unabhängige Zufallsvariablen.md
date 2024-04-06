@@ -2,7 +2,7 @@
 ![[modules/sto1/Bemerkung 4.3.2]]
 ![[Randverteilung]]
 ![[mu-Dichte]]
-![[Unabhängige Zufallsvariablen]]
+![[Zufallsvariable unabhängig]]
 ![[Covarianz]]
 ![[Korrelationskoeffizient]]
 ![[modules/sto1/Satz 4.7]]

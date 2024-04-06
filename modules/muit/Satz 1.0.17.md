@@ -2,8 +2,8 @@ Alle echten offenen, abgeschlossenen und halboffenen Intervalle^[z. B. $\mathbb{
 
 ---
 
-Sei $M$ eine [[Kardinalitäten, Mächtigkeiten|unendliche]] Menge, $M' \subseteq M$.
+Sei $M$ eine [[Menge Kardinalitäten, Mächtigkeiten|unendliche]] Menge, $M' \subseteq M$.
 
 Es gilt
-- $M'$ ist [[Kardinalitäten, Mächtigkeiten|endlich]] oder
+- $M'$ ist [[Menge Kardinalitäten, Mächtigkeiten|endlich]] oder
 - $M \sim M'$
