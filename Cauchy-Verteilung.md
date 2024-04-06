@@ -1,6 +1,6 @@
 ---
 title: Cauchy-Verteilung
-type: definition
+type: example
 ---
 
 Sei $\mu \in \mathbb{R}$, $\sigma \gt 0$, $t \in \mathbb{R}$ und die $\lambda$-[[λ-Dichte|Dichte]] $c_{\mu, \sigma}$ definiert als
