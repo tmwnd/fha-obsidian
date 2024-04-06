@@ -1,3 +1,8 @@
+---
+title: Lemma 3.2
+type: lemma
+---
+
 Sei $(f_n)_{n \in \mathbb{N}}, (g_n)_{n \in \mathbb{N}} \in \mathcal{P}_+$ [[Funktion|primitive]] [[Funktion|Funktionen]]  mit
 - $f_n \uparrow \sup_{n \in \mathbb{N}} f_n$
 - $g_n \uparrow \sup_{n \in \mathbb{N}} g_n$

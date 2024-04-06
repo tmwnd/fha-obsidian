@@ -1,3 +1,7 @@
+---
+type: assignment
+---
+
 1. Es sei $\alpha$ eine reelle Zahl. $f : \mathbb{R} \to \mathbb{R}$ eine durch
 	
 	$$

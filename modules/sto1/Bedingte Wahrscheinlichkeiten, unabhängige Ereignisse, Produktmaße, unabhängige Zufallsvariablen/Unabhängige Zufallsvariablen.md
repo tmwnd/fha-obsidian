@@ -1,3 +1,8 @@
+---
+title: Unabhängige Zufallsvariablen
+type: subsection
+---
+
 ![[modules/sto1/Bemerkung 4.3.1]]
 ![[modules/sto1/Bemerkung 4.3.2]]
 ![[Randverteilung]]

@@ -1,3 +1,8 @@
+---
+title: Integrationstheorie
+type: section
+---
+
 ![[modules/muit/Integrationstheorie/Messbare Abbildungen]]
 ![[modules/muit/Integrationstheorie/Numerische Abbildungen]]
 ![[modules/muit/Integrationstheorie/Integrierbarkeit numerischer Funktionen]]

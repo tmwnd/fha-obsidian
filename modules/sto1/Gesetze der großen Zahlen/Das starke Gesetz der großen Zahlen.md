@@ -1,3 +1,8 @@
+---
+title: Das starke Gesetz der großen Zahlen
+type: subsection
+---
+
 ![[Kolomogorowsche Ungleichung]]
 ![[Lemma von Kronecker]]
 ![[Kolmogorowsches Kriterium]]

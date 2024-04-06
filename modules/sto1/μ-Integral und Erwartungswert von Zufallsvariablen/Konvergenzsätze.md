@@ -1,3 +1,8 @@
+---
+title: Konvergenzsätze
+type: subsection
+---
+
 ![[Beppo Levi]]
 ![[modules/sto1/Korollar 3.5]]
 ![[Lemma von Fatou]]

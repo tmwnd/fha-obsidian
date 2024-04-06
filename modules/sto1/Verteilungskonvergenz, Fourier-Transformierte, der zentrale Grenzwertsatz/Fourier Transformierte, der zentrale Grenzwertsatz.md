@@ -1,3 +1,8 @@
+---
+title: Fourier Transformierte, der zentrale Grenzwertsatz
+type: subsection
+---
+
 ![[Fourier-Transformierte]]
 ![[modules/sto1/Lemma 6.14]]
 ![[modules/sto1/Lemma 6.16]]

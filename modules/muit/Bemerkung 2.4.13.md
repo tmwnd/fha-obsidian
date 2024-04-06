@@ -1,3 +1,8 @@
+---
+title: Bemerkung 2.4.13
+type: TODO
+---
+
 Sei $(\Omega, \mathcal{A}, \mu)$ ein [[Maßraum]], $\mathcal{M}_\mu$ das Systen der $\mu$-[[μ-Nullmengen|Nullmengen]].
 
 Es gilt

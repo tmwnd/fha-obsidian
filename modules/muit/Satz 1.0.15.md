@@ -1,3 +1,8 @@
+---
+title: Satz 1.0.15
+type: theorem
+---
+
 Folgende Mengen sind [[Menge Kardinalitäten|abzählbar unendlich]].
 - $2\mathbb{N}$ mit $\varphi(n) = 2n$ bijektiv
 - $\mathbb{Z}$, da $\mathbb{Z} = -\mathbb{N} \cup \{ 0 \} \cup \mathbb{N}$

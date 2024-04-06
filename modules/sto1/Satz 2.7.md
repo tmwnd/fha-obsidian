@@ -1,3 +1,8 @@
+---
+title: Satz 2.7
+type: theorem
+---
+
 Sei $f \ge 0$ [[Funktion messbar|messbar]], $\mathcal{A}$ die $\sigma$-[[σ-Algebra|Algebra]] auf $\Omega$, $\mathcal{P}_+$ der nicht-negative, reelle Vektorraum der [[Funktion|primitiven]] [[Funktion|Funktionen]] auf dem [[Messraum]] $(\Omega, \mathcal{A})$.
 
 Es existiert eine Folge $(f_n)_{n \in \mathbb{N}} \in \mathcal{P}_+$ mit

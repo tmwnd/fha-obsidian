@@ -1,3 +1,8 @@
+---
+title: Satz 2.3.7
+type: theorem
+---
+
 Sei $(\Omega, \mathcal{A}, \mu)$ ein [[Maßraum]], $(A_n)_{n \in \mathbb{N}} \subseteq \mathcal{A}$.
 
 Es gelten folgende [[Konvergenz|Konvergenzaussagen]]

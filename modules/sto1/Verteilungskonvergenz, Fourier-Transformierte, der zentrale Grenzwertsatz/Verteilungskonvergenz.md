@@ -1,3 +1,8 @@
+---
+title: Verteilungskonvergenz
+type: subsection
+---
+
 ![[Topologischer Rand]]
 ![[Portmanteau-Theorem]]
 ![[Schwache Konvergenz]]

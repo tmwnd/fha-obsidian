@@ -1,3 +1,8 @@
+---
+title: Definition 1.0.3
+type: definition
+---
+
 Sei $A, B, (A_i)_{i \in I} \in \mathcal{P}(\Omega)$.
 
 Es gilt

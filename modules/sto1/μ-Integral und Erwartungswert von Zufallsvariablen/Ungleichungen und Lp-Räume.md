@@ -1,3 +1,8 @@
+---
+title: Ungleichungen und Lp-Räume
+type: subsection
+---
+
 ![[Tschebyscheffsche Ungleichung]]
 ![[modules/sto1/Lemma 3.24]]
 ![[Höldersche Ungleichung]]

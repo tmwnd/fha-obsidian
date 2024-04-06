@@ -1,3 +1,8 @@
+---
+title: Korollar 1.17
+type: corollary
+---
+
 Sei $P$ ein [[Wahrscheinlichkeitsmaß]] auf der Borelschen $\sigma$-[[Borelsche σ-Algebra|Algebra]] $\mathcal{L}$
 
 Die [[Verteilungsfunktion]] $F : \mathbb{R} \to \mathbb{R}$ sei definiert durch

@@ -1,3 +1,8 @@
+---
+title: Maßtheoretische Grundlagen
+type: subsection
+---
+
 ![[Mengensysteme]]
 ![[Menge durchschnitsstabil]]
 ![[Dynkinscher π-λ-Satz]]

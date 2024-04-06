@@ -1,3 +1,8 @@
+---
+title: Satz 1.9
+type: theorem
+---
+
 Sei $\mathcal{R}$ ein [[Ring]] auf $\Omega$ und $\mu : \mathcal{R} \to \overline{\mathbb{R}}_+$ ein endlich-additives [[Maß]].
 
 Wir betrachten die folgenden [[Konvergenz]]-Aussagen:

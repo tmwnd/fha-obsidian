@@ -1,3 +1,7 @@
+---
+type: assignment
+---
+
 1. Es sei $X$ eine reelle Zufallsvariable mit der Dichte
 	
 	$$

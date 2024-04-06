@@ -1,3 +1,8 @@
+---
+title: Weitere Eigenschaften von μ-Integralen und Beispiele
+type: subsection
+---
+
 ![[μ-Nullmengen]]
 ![[modules/sto1/Satz 3.9]]
 ![[modules/sto1/Korollar 3.10]]

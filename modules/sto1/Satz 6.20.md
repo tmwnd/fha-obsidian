@@ -1,3 +1,8 @@
+---
+title: Satz 6.20
+type: theorem
+---
+
 Sei $(\Omega, \mathcal{A}, P)$ ein [[Wahrscheinlichkeitsraum]], $X$ ein $p$-dimensionaler [[Zufallsvariable|Zufallsvektor]] auf $(\Omega, \mathcal{A}, P)$, $Y$ ein $q$-dimensionaler [[Zufallsvariable|Zufallsvektor]] auf $(\Omega, \mathcal{A}, P)$.
 
 $X$ und $Y$ sind [[Zufallsvariable unabhängig|unabhängig]], falls mit dem [[Zufallsvariable Erwartungswert|Erwartungswert]] $E$ gilt

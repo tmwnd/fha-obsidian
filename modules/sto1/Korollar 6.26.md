@@ -1,3 +1,8 @@
+---
+title: Korollar 6.26
+type: corollary
+---
+
 Sie $n \in \mathbb{N}$, $(z_n)_{n \in \mathbb{N}} \in \mathbb{R}$, $X$ eine reelle [[Zufallsvariable]] mit der [[Fourier-Transformierte|Fourier-Transformierten]] $\varphi$ und
 - dem [[Zufallsvariable Erwartungswert|Erwartungswert]] $E[|X|^n] \lt \infty$
 - $z \to 0$

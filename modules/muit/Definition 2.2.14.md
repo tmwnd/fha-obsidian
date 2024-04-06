@@ -1,3 +1,8 @@
+---
+title: Definition 2.2.14
+type: definition
+---
+
 Sei $(\Omega, d)$ ein metrischer Raum, $A \subseteq \Omega$, $\omega \in \Omega$, $\epsilon \gt 0$.
 
 Es sei definiert

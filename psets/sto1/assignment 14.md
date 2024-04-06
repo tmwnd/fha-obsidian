@@ -1,3 +1,7 @@
+---
+type: assignment
+---
+
 1. Eine Cauchy-verteilte Zufallsvariable $X$ hat die Fourier-Transformierte
 	
 	$$

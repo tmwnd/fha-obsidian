@@ -1,3 +1,7 @@
+---
+type: solution
+---
+
 ![[assignment 12#^1]]
 
 ---

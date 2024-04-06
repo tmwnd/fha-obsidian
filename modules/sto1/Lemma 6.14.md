@@ -1,3 +1,8 @@
+---
+title: Lemma 6.14
+type: lemma
+---
+
 Sei $(\Omega, \mathcal{A}, \mu)$ ein [[Maßraum]], $\omega \in \Omega$, $U \subseteq \mathbb{C}$, $z_0, z \in U$, $f : \Omega \times U \to \mathbb{C}$ mit
 - $U$ offen
 - $\forall \omega \in \Omega, z \in U : \omega \mapsto f(\omega, z)$ $\mu$-[[μ-Integrierbarkeit einer komplexwertigen Funktion|integrierbar]]

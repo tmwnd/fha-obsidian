@@ -1,3 +1,8 @@
+---
+title: Messbare Funktionen, Indikatorfunktionen, primitive Funktionen
+type: subsection
+---
+
 ![[Messraum]]
 ![[Funktion A-S-messbar]]
 ![[Funktion]]

@@ -1,3 +1,8 @@
+---
+title: Korollar 1.19
+type: corollary
+---
+
 Sei $F : \mathbb{R}^d \to \mathbb{R}$ eine [[Funktion]] mit
 - $\Delta_S F \ge 0$
 - $x_n^d \downarrow x^d \implies \lim_{n \to \infty} F(x_n^d) = F(x)$ mit $\forall i \in \{ 1, \dots, d \} : x_n^{(i)} \downarrow x^{(i)}$

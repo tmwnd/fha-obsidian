@@ -1,3 +1,7 @@
+---
+type: solution
+---
+
 ![[psets/muit/assignment 02#^1]]
 
 Sei $A = \left( \pmatrix{a_1 \\ a_2}, \pmatrix{b_1 \\ b_2} \right], B = \left( \pmatrix{c_1 \\ c_2}, \pmatrix{d_1 \\ d_2} \right] \in \mathcal{I}^2$

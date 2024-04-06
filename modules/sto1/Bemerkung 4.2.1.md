@@ -1,3 +1,8 @@
+---
+title: Bemerkung 4.2.1
+type: TODO
+---
+
 Seien $((\Omega_i, \mathcal{A}_i))_{i \in \{ 1, 2 \}}$ [[Messraum|Messräume]] mit
 - $\Omega = \Omega_1 \times \Omega_2$
 - $\mathcal{A} = \mathcal{A}_1 \otimes \mathcal{A}_2$ die Produkt-$\sigma$-[[Produkt-σ-Algebra|Algebra]] auf $((\Omega_i, \mathcal{A}_i))_{i \in \{ 1, 2 \}}$

@@ -1,3 +1,13 @@
+---
+title: Stochastik 1
+semester: Wintersemester 2023/24
+lecturers:
+  - gaigall
+authors:
+  - pblan
+  - tmwnd
+---
+
 ![[modules/sto1/Maß und Wahrscheinlichkeitsräume]]
 ![[modules/sto1/Messbare Funktionen, Bildmaße, Zufallsvariablen und ihre Verteilung, Eigenschaften von diskreten Wahrscheinlichkeitsmaße]]
 ![[modules/sto1/mu-Integral und Erwartungswert von Zufallsvariablen]]

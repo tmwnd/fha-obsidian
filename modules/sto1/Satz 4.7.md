@@ -1,3 +1,8 @@
+---
+title: Satz 4.7
+type: theorem
+---
+
 Sei $n \in \mathbb{N}$, $(X_i)_{i \in \{ 1, \dots, n \}}$ [[Zufallsvariable unabhängig|unabhängige]], reelle [[Zufallsvariable|Zufallsvariablen]] mit
 - $\forall i \in \{ 1, \dots, n \} : X_i \ge 0$
 - $\forall i \in \{ 1, \dots, n \} : E[X_i] \lt \infty$

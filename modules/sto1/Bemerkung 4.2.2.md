@@ -1,3 +1,8 @@
+---
+title: Bemerkung 4.2.2
+type: TODO
+---
+
 Sei $(\Omega, \mathcal{A}, \mu)$ ein [[Maßraum]], $f : (\Omega, \mathcal{A}) \to (\overline{\mathbb{R}}, \overline{\mathcal{L}})$ eine $\mu$-[[μ-Integrierbarkeit|integrierbare]] [[Funktion messbar|messbare]] Funktion mit
 - $\mu(|f| = \infty) = 0$
 

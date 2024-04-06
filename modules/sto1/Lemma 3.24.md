@@ -1,3 +1,8 @@
+---
+title: Lemma 3.24
+type: lemma
+---
+
 Sei $\alpha \in (0, 1)$.
 
 Es gilt

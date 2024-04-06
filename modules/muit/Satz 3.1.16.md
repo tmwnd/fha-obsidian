@@ -1,3 +1,8 @@
+---
+title: Satz 3.1.16
+type: theorem
+---
+
 Sei $(R_i)_{i \in I}$, $(\mathcal{R}_i)_{i \in I}$ ein System von $\sigma$-[[σ-Algebra|Algebren]], $(f_i)_{i \in I}$ eine Menge von [[Funktion|Funktionen]] mit
 - $\forall i \in I : f_i : \Omega \to (R_i, \mathcal{R}_i)$
 

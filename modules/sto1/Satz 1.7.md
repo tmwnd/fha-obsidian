@@ -1,3 +1,8 @@
+---
+title: Satz 1.7
+type: theorem
+---
+
 Sei $\mathcal{R}$ ein [[Ring]] auf $\Omega$ und $\mu : \mathcal{R} \to \overline{\mathbb{R}}_+$ ein [[Maß|endlich-additives]] TODO [[Maß]], dann gilt
 - Isotonie:
 	- $A, B \in \mathcal{R}, A \subseteq B \implies \mu(A) \le \mu(B)$

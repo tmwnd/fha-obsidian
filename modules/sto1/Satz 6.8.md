@@ -1,3 +1,8 @@
+---
+title: Satz 6.8
+type: theorem
+---
+
 Sei $(\Omega, \mathcal{A}, P)$ ein [[Wahrscheinlichkeitsraum]], $(X_n)_{n \in \mathbb{N}_0}$ reelle [[Zufallsvariable|Zufallsvariablen]] auf $(\Omega, \mathcal{A}, P)$ mit den [[Verteilungsfunktion|Verteilungsfunktionen]] $(F_n)_{n \in \mathbb{N}_0}$ mit
 - $X_n \overset{V}{\longrightarrow} X_0$ [[Verteilungskonvergenz|verteilungskonvergent]]
 - $C(F_0^{-1})$ der Menge der Stetigkeitspunkte von $F_0^{-1}$

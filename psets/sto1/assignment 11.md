@@ -1,3 +1,7 @@
+---
+type: assignment
+---
+
 1. Es seinen $X, X_1, X_2, \dots, Y, Y_1, Y_2, \dots$ Zufallsvariablen auf einem Wahrscheinlichkeitsraum $(\Omega, \mathfrak{A}, P)$.
 	Beweisen Sie die folgenden Implikationen:
 	- a) $X_n \overset{P}{\longrightarrow} X$ und $Y_n \overset{P}{\longrightarrow} Y$ $\implies$ $X_n + Y_n \overset{P}{\longrightarrow} X + Y$

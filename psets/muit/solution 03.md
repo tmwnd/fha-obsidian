@@ -1,3 +1,7 @@
+---
+type: solution
+---
+
 ![[psets/muit/assignment 03#^1]]
 
 Da $\mathcal{A}$ eine $\sigma$-[[σ-Algebra|Algebra]] auf $X$ ist, gilt

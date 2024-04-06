@@ -1,3 +1,8 @@
+---
+title: Satz 1.13
+type: theorem
+---
+
 Sei $\mathcal{L}$ die Borelsche $\sigma$-[[Borelsche σ-Algebra|Algebra]], $F : \mathbb{R} \to \mathbb{R}$ monoton wachsend und rechtsseitig stetig.
 
 Dann gibt es genau ein [[Maß]] $\mu_F : \mathcal{L} \to \overline{\mathbb{R}}_+$ mit

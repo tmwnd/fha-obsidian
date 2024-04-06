@@ -1,3 +1,8 @@
+---
+title: Lemma 1.0.4
+type: lemma
+---
+
 Sei $\Omega \ne \emptyset$, $\mathcal{A}, \mathcal{B} \subseteq \mathcal{P}(\Omega)$ mit
 - $\mathcal{A} = (A_i)_{i \in I}$
 - $\mathcal{B} = (B_j)_{j \in J}$

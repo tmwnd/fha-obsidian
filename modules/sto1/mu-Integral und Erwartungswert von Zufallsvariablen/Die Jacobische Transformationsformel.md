@@ -1,1 +1,0 @@
-![[Jacobische Transformationsformel]]
