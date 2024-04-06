@@ -1,3 +1,8 @@
+---
+title: Verteilungskonvergenz
+type: definition
+---
+
 Seien $X, (X_n)_{n \in \mathbb{N}}$ $d$-dimensionale [[Zufallsvariable|Zufallsvektoren]].
 
 $(X_n)_{n \in \mathbb{N}}$ heißt *verteilungskonvergent* gegen $X$, falls

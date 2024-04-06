@@ -10,7 +10,7 @@ $$
 Falls $a \in \mathbb{R}$ exisitert mit
 - $\lim_{min(x_1, \dots, x_d) \to +\infty} F(x_1, \dots, x_d) = a$
 
-Dann existiert genau ein [[Maß]] $\mu$ auf der Borelschen $\sigma$-[[Borelsche sigma-Algebra|Algebra]] $\mathcal{L}^d$ mit
+Dann existiert genau ein [[Maß]] $\mu$ auf der Borelschen $\sigma$-[[Borelsche σ-Algebra|Algebra]] $\mathcal{L}^d$ mit
 
 $$
 	\forall (x_1, \dots, x_d) \in \mathbb{R}^d : \mu(S_{(x_1, \dots, x_d)}) = F(x_1, \dots, x_d)

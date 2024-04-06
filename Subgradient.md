@@ -1,3 +1,8 @@
+---
+title: Subgradient
+type: definition
+---
+
 Sei $f : X \to \mathbb{R}$ eine [[Funktion numerisch|numerische]] nicht-differenzierbare [[Funktion konvex|konvexe]] [[Funktion]], $w \in X$.
 
 Der *Subgradient* $\partial f(w)$ an der Stelle $w$ ist definiert als

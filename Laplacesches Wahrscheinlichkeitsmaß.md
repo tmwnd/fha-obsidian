@@ -1,3 +1,8 @@
+---
+title: Laplacesches Wahrscheinlichkeitsma�
+type: definition
+---
+
 Sei $\Omega \ne \emptyset$, $\omega \in \Omega$, $A \subseteq \Omega$, $p$ eine [[Wahrscheinlichkeitsmassefunktion]] mit
 - $p(\omega) = \frac{1}{|\Omega|}$
 

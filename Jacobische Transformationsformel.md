@@ -1,6 +1,11 @@
-Sei $(X, \mathcal{A}, P)$ ein [[Wahrscheinlichkeitsraum]], $X$ ein $d$-dimensionaler [[Zufallsvariable|Zufallsvektor]] mit der $\lambda^d$-[[lambda-Dichte|Dichte]] $f$, $T : \mathbb{R}^d \to \mathbb{R}^d$ eine geeignete $(\mathcal{L}^d, \mathcal{L}^d)$-[[Funktion A-S-messbar|messbare]] Transformation.
+---
+title: Jacobische Transformationsformel
+type: definition
+---
 
-Die $\lambda^d$-[[lambda-Dichte|Dichte]] des [[Zufallsvariable|Zufallvektors]] $Y = T \circ X$ existiert und ist je nach Vorraussetzungen wie folgt definiert.
+Sei $(X, \mathcal{A}, P)$ ein [[Wahrscheinlichkeitsraum]], $X$ ein $d$-dimensionaler [[Zufallsvariable|Zufallsvektor]] mit der $\lambda^d$-[[λ-Dichte|Dichte]] $f$, $T : \mathbb{R}^d \to \mathbb{R}^d$ eine geeignete $(\mathcal{L}^d, \mathcal{L}^d)$-[[Funktion A-S-messbar|messbare]] Transformation.
+
+Die $\lambda^d$-[[λ-Dichte|Dichte]] des [[Zufallsvariable|Zufallvektors]] $Y = T \circ X$ existiert und ist je nach Vorraussetzungen wie folgt definiert.
 
 ---
 

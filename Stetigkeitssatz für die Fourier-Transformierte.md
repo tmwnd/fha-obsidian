@@ -1,3 +1,8 @@
+---
+title: Stetigkeitssatz für die Fourier-Transformierte
+type: definition
+---
+
 Seien $X, (X_n)_{n \in \mathbb{N}}$ $d$-dimensionale [[Zufallsvariable|Zufallsvektoren]] mit den [[Fourier-Transformierte|Fourier-Transformierten]] $\varphi, (\varphi_n)_{n \in \mathbb{N}}$ mit
 - $X_n \overset{V}{\longrightarrow} X$ [[Verteilungskonvergenz|verteilungskonvergent]]
 

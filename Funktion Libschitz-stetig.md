@@ -1,3 +1,10 @@
+---
+title: Libschitz-stetige Funktion
+type: definition
+aliase:
+  - L-stetige Funktion
+---
+
 Sei $f : \mathbb{R}^d \to \mathbb{R}$ eine [[Funktion]].
 
 $f$ heißt *Libschitz-stetig* bzw. *L-stetig*, falls

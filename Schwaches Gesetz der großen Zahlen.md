@@ -1,3 +1,8 @@
+---
+title: Schwaches Gesetz der gro�en Zahlen
+type: definition
+---
+
 Sei $(\Omega, \mathcal{A}, P)$ ein [[Wahrscheinlichkeitsraum]]. $(X_n)_{n \in \mathbb{N}}$ reelle, [[Zufallsvariable unabhängig|unabhängige]] und identisch verteilte [[Zufallsvariable|Zufallsvariablen]], $\mu \in \mathbb{R}$ mit dem [[Zufallsvariable Erwartungswert|Erwartungswert]] $E$ mit
 - $\forall n \in \mathbb{N} : E[X_n]$ existiert und ist endlich
 - $\forall n \in \mathbb{N} : E[X_n] = \mu$
@@ -10,4 +15,4 @@ $$
 
 ---
 
-Das schwache Gesetz der großen Zahlen gilt, falls das [[Starkes Gesetz der großen Zahlen, Kolmogorow|starke Gesetz der großen Zahlen]] gilt.
+Das schwache Gesetz der großen Zahlen gilt, falls das [[Starkes Gesetz der großen Zahlen|starke Gesetz der großen Zahlen]] gilt.

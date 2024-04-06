@@ -1,10 +1,10 @@
-Sei $(R_i)_{i \in I}$, $(\mathcal{R}_i)_{i \in I}$ ein System von $\sigma$-[[sigma-Algebra|Algebren]], $(f_i)_{i \in I}$ eine Menge von [[Funktion|Funktionen]] mit
+Sei $(R_i)_{i \in I}$, $(\mathcal{R}_i)_{i \in I}$ ein System von $\sigma$-[[σ-Algebra|Algebren]], $(f_i)_{i \in I}$ eine Menge von [[Funktion|Funktionen]] mit
 - $\forall i \in I : f_i : \Omega \to (R_i, \mathcal{R}_i)$
 
 Es existiert das System $(\mathcal{A}_i)_{i \in I}$ mit
 - $\forall i \in I : A_i = f_i^{-1}(\mathcal{R}_i)$
 
-und die $\sigma$-[[sigma-Algebra|Algebra]] $\mathcal{A}$ auf $\Omega$ ist definiert als
+und die $\sigma$-[[σ-Algebra|Algebra]] $\mathcal{A}$ auf $\Omega$ ist definiert als
 
 $$
 	\mathcal{A} = \sigma\left( \bigcup_{i \in I} \mathcal{A}_i \right)

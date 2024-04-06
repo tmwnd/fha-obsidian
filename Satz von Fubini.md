@@ -1,3 +1,8 @@
+---
+title: Satz von Fubini
+type: theorem
+---
+
 Seien $((\Omega_i, \mathcal{A}_i, \mu_i))_{i \in \{ 1, 2 \}}$ [[Maßraum|Maßräume]], $f : (\Omega_1 \times \Omega_2, \mathcal{A}_1 \otimes \mathcal{A_2}) \to (\overline{\mathbb{R}}, \overline{\mathcal{L}})$ eine [[Funktion messbar|messbare]] [[Funktion]] mit
 - $f \gt 0$
 
@@ -14,11 +19,11 @@ $$
 ---
 
 Seien $((\Omega_i, \mathcal{A}_i, \mu_i))_{i \in \{ 1, 2 \}}$ [[Maßraum|Maßräume]], $f : (\Omega_1 \times \Omega_2, \mathcal{A}_1 \otimes \mathcal{A_2}) \to (\overline{\mathbb{R}}, \overline{\mathcal{L}})$ eine [[Funktion messbar|messbare]] [[Funktion]] mit
-- $f$ $\mu_1 \otimes \mu_2$-[[mu-Integrierbarkeit|integrierbar]]
+- $f$ $\mu_1 \otimes \mu_2$-[[μ-Integrierbarkeit|integrierbar]]
 
 Es gilt
-- $f_{\omega_1}$ ist für $\mu_1$-[[mu-Nullmengen|fast alle]] $\omega_1 \in \Omega_1$ $\mu_2$-[[mu-Integrierbarkeit|integrierbare]]
-- $f_{\omega_2}$ ist für $\mu_2$-[[mu-Nullmengen|fast alle]] $\omega_2 \in \Omega_2$ $\mu_1$-[[mu-Integrierbarkeit|integrierbare]]
+- $f_{\omega_1}$ ist für $\mu_1$-[[μ-Nullmengen|fast alle]] $\omega_1 \in \Omega_1$ $\mu_2$-[[μ-Integrierbarkeit|integrierbare]]
+- $f_{\omega_2}$ ist für $\mu_2$-[[μ-Nullmengen|fast alle]] $\omega_2 \in \Omega_2$ $\mu_1$-[[μ-Integrierbarkeit|integrierbare]]
 
 Die $\mu_1$-[[Funktion|f. ü. definierte]] [[Funktion]] bzw. $\mu_2$-[[Funktion|f. ü. definierte]] [[Funktion]] ist definiert als
 - $\omega_1 \mapsto \int f_{\omega_1} d\mu_2$

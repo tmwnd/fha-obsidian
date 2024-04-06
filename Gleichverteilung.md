@@ -1,4 +1,9 @@
-Seien $-\infty \lt a \lt b \lt +\infty$ und die $\lambda$-[[lambda-Dichte|Dichte]] $r : [a, b] \to \mathbb{R}_+$ konstant mit
+---
+title: Gleichverteilung
+type: example
+---
+
+Seien $-\infty \lt a \lt b \lt +\infty$ und die $\lambda$-[[λ-Dichte|Dichte]] $r : [a, b] \to \mathbb{R}_+$ konstant mit
 - $r \equiv \frac{1}{b - a}$ auf $[a, b]$
 
 Sei $x \in \mathbb{R}$.

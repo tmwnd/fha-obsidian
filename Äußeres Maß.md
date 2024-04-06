@@ -1,3 +1,8 @@
+---
+title: Äußeres Maß
+type: definition
+---
+
 Sei $\Omega$ eine beliebige Menge, $\mu^* : \mathcal{P}(\Omega) \to [0, \infty]$.
 
 $\mu$ heißt *äußeres Maß* auf $\Omega$, falls
@@ -20,5 +25,5 @@ $$
 Sie $\mu^*$ ein äußeres Maß, $\mathcal{M}_{\mu^*}$ das System der $\mu^*$-messbaren Mengen.
 
 Es gilt
-- $\mathcal{M}_{\mu^*}$ ist eine $\sigma$-[[sigma-Algebra|Algebra]]
+- $\mathcal{M}_{\mu^*}$ ist eine $\sigma$-[[σ-Algebra|Algebra]]
 - $\mu^*|_{\mathcal{M}_{\mu^*}}$ ist ein [[Maß]]

@@ -1,3 +1,8 @@
+---
+title: Lemma von Borel-Cantelli
+type: lemma
+---
+
 Sei $(\Omega, \mathcal{A}, P)$ ein [[Wahrscheinlichkeitsraum]], $(A_n)_{n \in \mathbb{N}}$ Ereignisse mit
 - $\sum_{n=1}^\infty P(A_n) \lt \infty$
 

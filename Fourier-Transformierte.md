@@ -1,3 +1,8 @@
+---
+title: Fourier-Transformierte
+type: definition
+---
+
 Sei $(\Omega, \mathcal{A}, P)$ ein [[Wahrscheinlichkeitsraum]], $X$ ein $d$-dimensionaler [[Zufallsvariable|Zufallsvektor]] auf $(\Omega, \mathcal{A}, P)$, $z \in \mathbb{R}^d$.
 
 Die Funktione $\varphi_X : \mathbb{R}^d \to \mathbb{C}$ heißt *Fourier-Transformierte* von $X$ bzw. $P^X$ und ist definiert als

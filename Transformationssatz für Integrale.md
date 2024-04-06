@@ -1,6 +1,11 @@
+---
+title: Transformationssatz f�r Integrale
+type: theorem
+---
+
 Sei $T : (\Omega, \mathcal{A}) \to (R, \mathscr{S})$ eine $(\mathcal{A}, \mathscr{S})$-[[Funktion A-S-messbar|messbare]] [[Funktion]], $\mu$ ein [[Maß]] auf $(\Omega, \mathcal{A})$.
 
-Es gilt für das $\mu$-[[mu-Integral|Integral]]
+Es gilt für das $\mu$-[[μ-Integral|Integral]]
 
 $$
 	\forall f \in \mathcal{M}_+ (R, \mathscr{S}) : \int f \circ T d\mu = \int f d(\mu \circ T^{-1}) = \int f d\mu^T

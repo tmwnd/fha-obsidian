@@ -1,3 +1,8 @@
+---
+title: messbare Funktion
+type: definition
+---
+
 Eine [[Funktion]] $f : \mathcal{A} \to \mathcal{L}$ heißt *messbar*, falls
 - $f$ $\mathcal{A}$-[[Funktion A-messbar|messbar]] ist oder
 - $f$ $(\mathcal{A}, \mathcal{L})$-[[Funktion A-S-messbar|messbar]] ist oder
@@ -22,7 +27,7 @@ Es gilt
 
 ---
 
-Die Menge aller messbaren [[Funktion|Funktionen]] ist mit der Borelschen $\sigma$-[[Borelsche sigma-Algebra|Algebra]] $\mathcal{L}$ definiert als
+Die Menge aller messbaren [[Funktion|Funktionen]] ist mit der Borelschen $\sigma$-[[Borelsche σ-Algebra|Algebra]] $\mathcal{L}$ definiert als
 
 $$
 	\mathcal{M} = \mathcal{M}(\Omega, \mathcal{A}) = \{ f, f : (\Omega, \mathcal{A}) \to (\overline{\mathbb{R}}, \overline{\mathcal{L}}) \}

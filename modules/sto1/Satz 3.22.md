@@ -1,4 +1,4 @@
-Sei $X$ ein $d$-dimensionaler [[Zufallsvariable|Zufallsvektor]] mit $\lambda^d$-[[lambda-Dichte|Dichte]] $f$, $(M_i)_{i \in \mathbb{I}} \subseteq \mathbb{R}^d$, $T : (\mathbb{R}^d, \mathcal{L}^d) \to (\mathbb{R}^d, \mathcal{L}^d)$  eine geeignete $(\mathcal{L}^d, \mathcal{L}^d)$-[[Funktion A-S-messbar|messbare]] Transformation, $S$ die Inverse zu $T$ und $\Delta : \mathbb{R}^d \to \mathbb{R}$ die [[Funktionaldeterminante]]  mit
+Sei $X$ ein $d$-dimensionaler [[Zufallsvariable|Zufallsvektor]] mit $\lambda^d$-[[λ-Dichte|Dichte]] $f$, $(M_i)_{i \in \mathbb{I}} \subseteq \mathbb{R}^d$, $T : (\mathbb{R}^d, \mathcal{L}^d) \to (\mathbb{R}^d, \mathcal{L}^d)$  eine geeignete $(\mathcal{L}^d, \mathcal{L}^d)$-[[Funktion A-S-messbar|messbare]] Transformation, $S$ die Inverse zu $T$ und $\Delta : \mathbb{R}^d \to \mathbb{R}$ die [[Funktionaldeterminante]]  mit
 - $f$ verschwindet außerhalb $\bigcup_{i \in I} M_i$
 - $I$ abzählbar
 - $(M_i)_{i \in \mathbb{I}}$ p. d.
@@ -10,7 +10,7 @@ Sei $X$ ein $d$-dimensionaler [[Zufallsvariable|Zufallsvektor]] mit $\lambda^d$-
 - $\forall i \in I : S_i$ offen
 - $\forall i \in I : S_i$ ist $(\mathcal{L}_{T_i(M_i)}^d, \mathcal{L}_{M_i}^d)$-[[Funktion A-S-messbar|messbar]]
 
-Die $\lambda$-[[lambda-Dichte|Dichte]] des $d$-dimensionalen [[Zufallsvariable|Zufallsvektor]] $Y = T \circ X$ ist definiert
+Die $\lambda$-[[λ-Dichte|Dichte]] des $d$-dimensionalen [[Zufallsvariable|Zufallsvektor]] $Y = T \circ X$ ist definiert
 
 $$
 	\sum_{i \in I} \frac{f \circ S_i}{|\Delta_i \circ S_i|} I_{T_i(M_i)}

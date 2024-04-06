@@ -1,4 +1,9 @@
-Ist $f : \mathbb{R}^d \to \mathbb{R}$ [[L-Glattheit|L-glatt]], $(f_t)_{t \in \mathbb{N}}$ mit
+---
+title: Descent-Lemma
+type: definition
+---
+
+Ist $f : \mathbb{R}^d \to \mathbb{R}$ [[Funktion L-glatt|L-glatt]], $(f_t)_{t \in \mathbb{N}}$ mit
 - $\beta = \gamma(1 - \frac{\gamma L}{2})$
 
 Es gilt

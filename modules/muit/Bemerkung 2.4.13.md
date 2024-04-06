@@ -1,4 +1,4 @@
-Sei $(\Omega, \mathcal{A}, \mu)$ ein [[Maßraum]], $\mathcal{M}_\mu$ das Systen der $\mu$-[[mu-Nullmengen|Nullmengen]].
+Sei $(\Omega, \mathcal{A}, \mu)$ ein [[Maßraum]], $\mathcal{M}_\mu$ das Systen der $\mu$-[[μ-Nullmengen|Nullmengen]].
 
 Es gilt
 - $\emptyset \in \mathcal{N}_\mu$

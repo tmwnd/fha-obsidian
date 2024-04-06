@@ -1,4 +1,9 @@
-Sei $\mathcal{A}$ eine $\sigma$-[[sigma-Algebra|Algebra]] auf $\Omega$, $A, B \in \mathcal{A}$, $P$ ein [[Wahrscheinlichkeitsmaß]].
+---
+title: Unabhängige Ereignisse
+type: definition
+---
+
+Sei $\mathcal{A}$ eine $\sigma$-[[σ-Algebra|Algebra]] auf $\Omega$, $A, B \in \mathcal{A}$, $P$ ein [[Wahrscheinlichkeitsmaß]].
 
 $A, B$ sind *(stochastisch) unabhängig*, falls
 - $P(A \cap B) = P(A) \cdot P(B)$
@@ -11,7 +16,7 @@ Es gilt
 
 ---
 
-Sei $\mathcal{A}$ eine $\sigma$-[[sigma-Algebra|Algebra]] auf $\Omega$ ,$(A_n)_{n \in \mathbb{N}} \in \mathcal{A}$.
+Sei $\mathcal{A}$ eine $\sigma$-[[σ-Algebra|Algebra]] auf $\Omega$ ,$(A_n)_{n \in \mathbb{N}} \in \mathcal{A}$.
 
 $(A_n)_{n \in \mathbb{N}}$ heißt *(stochastisch) unabhängig*, falls
 

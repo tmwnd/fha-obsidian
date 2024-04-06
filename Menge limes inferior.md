@@ -1,3 +1,8 @@
+---
+title: limes inferior
+type: definition
+---
+
 Sei $(A_n)_{n \in \mathbb{N}}$ eine Mengenfolge.
 
 Es gilt

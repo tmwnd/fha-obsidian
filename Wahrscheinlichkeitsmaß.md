@@ -1,3 +1,10 @@
+---
+title: Wahrscheinlichkeitsmaß
+type: definition
+aliases:
+  - W-Maß
+---
+
 Sei $P : \mathcal{A} \to \overline{\mathbb{R}}_+$ ein [[Maß]].
 
 $P$ heißt *Wahrscheinlichkeitsmaß*, falls
@@ -5,4 +12,4 @@ $P$ heißt *Wahrscheinlichkeitsmaß*, falls
 
 ---
 
-![[Wahrscheinlichkeitsmaß disket]]
+![[Wahrscheinlichkeitsmaß diskret]]

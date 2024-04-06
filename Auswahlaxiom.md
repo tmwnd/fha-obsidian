@@ -1,3 +1,13 @@
+---
+title: Auswahlaxiom
+type: definition
+---
+
+---
+title: Auswahlaxiom
+type: definition
+---
+
 Sei $\mathcal{A} = (A_i)_{i \in I}$ eine Menge mit
 - $\forall i \in I : A_i \ne \emptyset$
 

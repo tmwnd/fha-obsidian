@@ -1,6 +1,11 @@
+---
+title: Mehrdeutige Parameter zur Lösung des Normalgleichungssystems
+type: definition
+---
+
 Sei $X \in \mathbb{R}^{m \times n}, y \in \mathbb{R}^m$ mit
 - Spaltenvektoren von $X$ linear abhängig $\implies$ $X^TX$ [[Matrix definit|positiv semidefinit]] $\implies$ $X^TX$ nicht [[Matrix regulär|regulär]] bzw. [[Matrix singulär|singulär]]
-- $U\Sigma V$ die [[Singulärwertzerlegung, SVD|SVD]] von $X$
+- $U\Sigma V$ die [[Singulärwertzerlegung|SVD]] von $X$
 - $w$ existiert
 - $w$ nicht eindeutig bestimmt
 - $X^+ \in \mathbb{R}^{n \times m}$ die [[Pseudoinverse]] von $X$

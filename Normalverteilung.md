@@ -1,4 +1,9 @@
-Sei $\mu \in \mathbb{R}$, $\sigma^2 \in (0, \infty)$, $t \in \mathbb{R}$ und die  $\lambda$-[[lambda-Dichte|Dichte]] $\varphi_{\mu, \sigma^2}$ definiert als
+---
+title: Normalverteilung
+type: example
+---
+
+Sei $\mu \in \mathbb{R}$, $\sigma^2 \in (0, \infty)$, $t \in \mathbb{R}$ und die  $\lambda$-[[λ-Dichte|Dichte]] $\varphi_{\mu, \sigma^2}$ definiert als
 
 $$
 	\varphi_{\mu, \sigma^2}(t) = \frac{1}{\sqrt{2\pi\sigma^2}}e^{-\frac{1}{2}\frac{(t-\mu)^2}{\sigma^2}}
@@ -36,7 +41,7 @@ Sei $n \in \mathbb{N}$, $(X_i)_{i \in \{ 1, \dots, n \}}$ [[Zufallsvariable unab
 - $\forall i \in \{ 1, \dots, n \} : X_i \sim N(0, 1)$
 - $x \in \mathbb{R}^n$
 
-Die $\lambda^n$-[[lambda-Dichte|Dichte]] $f$ von $X$ ist
+Die $\lambda^n$-[[λ-Dichte|Dichte]] $f$ von $X$ ist
 
 $$
 	f(x) = \left( \frac{1}{2\pi}^\frac{n}{2} \right) \cdot e^{-\frac{1}{2}|x|^n}
@@ -56,7 +61,7 @@ Es gilt mit dem [[Zufallsvariable Erwartungswert|Erwartungswert]] $E$ und der [[
 - $E[Y] = b$
 - $\text{Cov}(Y) = \Sigma = AA^T$
 
-Die $\lambda^n$-[[lambda-Dichte|Dichte]] $f$ von $Y$ ist
+Die $\lambda^n$-[[λ-Dichte|Dichte]] $f$ von $Y$ ist
 
 $$
 	f(y) = \left( \frac{1}{2\pi} \right)^\frac{n}{2} \cdot \frac{1}{\sqrt{\text{det}(\Sigma)}} \cdot e^{-\frac{1}{2} \cdot (y-b) \cdot \Sigma^{-1}(y-b)}

@@ -1,3 +1,8 @@
+---
+title: Korrelationskoeffizient
+type: definition
+---
+
 Seien $X_1, X_2$ [[Zufallsvariable|Zufallsvariablen]] mit
 - $E[X_1 X_2] \lt \infty$
 

@@ -1,3 +1,8 @@
+---
+title: Zentraler Grenzwertsatz von Lindeberg-Lévy
+type: theorem
+---
+
 Seien $(X_n)_{n \in \mathbb{N}}$ [[Zufallsvariable unabhängig|unabhängige]], identisch verteilte, reelle [[Zufallsvariable|Zufallsvariablen]] mit
 - dem [[Zufallsvariable Erwartungswert|Erwartungswert]] $E[X_1] = 0$
 - der [[Zufallsvariable Varianz|Varianz]] $\text{Var}(X_1) = 1$

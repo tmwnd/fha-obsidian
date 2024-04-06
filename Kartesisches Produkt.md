@@ -1,3 +1,8 @@
+---
+title: Kartesisches Produkt
+type: definition
+---
+
 Seien $A, B$ Mengen.
 
 Das *kartesische Produkt* von $A$ und $B$ ist definiert als

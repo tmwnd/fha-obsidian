@@ -1,3 +1,8 @@
+---
+title: Dualität
+type: definition
+---
+
 Sei $f$ ein [[restringiertes Optimierungsproblem]] mit den Nebenbedingungen
 - $g(x) \le 0$
 - $h(x) = 0$

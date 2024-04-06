@@ -24,7 +24,7 @@ $$
 
 ![[psets/muit/assignment 02#^2]]
 
-Da $\mathcal{A}$ eine $\sigma$-[[sigma-Algebra|Algebra]] auf $X$ ist, gilt
+Da $\mathcal{A}$ eine $\sigma$-[[σ-Algebra|Algebra]] auf $X$ ist, gilt
 - $X \in \mathcal{A}$
 - $A \in \mathcal{A} \implies A^\complement \in \mathcal{A}$
 - $\forall (A_n)_{n \in \mathbb{N}} \in \mathcal{A} : \bigcup_{n \in \mathbb{N}} A_n \in \mathcal{A}$
@@ -37,7 +37,7 @@ $$
 
 ![[psets/muit/assignment 02#^3]]
 
-$\mathcal{A}$ ist eine $\sigma$-[[sigma-Algebra|Algebra]] auf $X$, falls
+$\mathcal{A}$ ist eine $\sigma$-[[σ-Algebra|Algebra]] auf $X$, falls
 1. $X \in \mathcal{A}$
 2. $A \in \mathcal{A} \implies A^\complement \in \mathcal{A}$
 3. $\forall (A_n)_{n \in \mathbb{N}} \in \mathcal{A}: \bigcup_{n \in \mathbb{N}} A_n \in \mathcal{A}$
@@ -66,12 +66,12 @@ $$
 
 ![[psets/muit/assignment 02#^5]]
 
-Da $\mathcal{B}$ eine $\sigma$-[[sigma-Algebra|Algebra]] auf $Y$ ist, gilt
+Da $\mathcal{B}$ eine $\sigma$-[[σ-Algebra|Algebra]] auf $Y$ ist, gilt
 - $Y \in \mathcal{B}$
 - $B \in \mathcal{B} \implies B^\complement \in \mathcal{B}$
 - $\forall (B_n)_{n \in \mathbb{N}} \in \mathcal{B}: \bigcup_{n \in \mathbb{N}} B_n \in \mathcal{B}$
 
-$\mathcal{A}$ ist eine $\sigma$-[[sigma-Algebra|Algebra]] auf $X$, falls
+$\mathcal{A}$ ist eine $\sigma$-[[σ-Algebra|Algebra]] auf $X$, falls
 1. $X \in \mathcal{A}$
 2. $A \in \mathcal{A} \implies A^\complement \in \mathcal{A}$
 3. $\forall (A_n)_{n \in \mathbb{N}} \in \mathcal{A}: \bigcup_{n \in \mathbb{N}} A_n \in \mathcal{A}$
@@ -86,12 +86,12 @@ Alle Voraussetzungen sind erfüllt, da
 
 ![[psets/muit/assignment 02#^6]]
 
-1. Falls $\forall i \in I : \mathcal{A}_i$ eine $\sigma$-[[sigma-Algebra|Algebra]] auf $X$ ist, gilt
+1. Falls $\forall i \in I : \mathcal{A}_i$ eine $\sigma$-[[σ-Algebra|Algebra]] auf $X$ ist, gilt
 	- $\forall i \in I : X \in \mathcal{A}_i$
 	- $\forall i \in I : A \in \mathcal{A}_i \implies A^\complement \in \mathcal{A}_i$
 	- $\forall i \in I, (A_n)_{n \in \mathbb{N}} \in \mathcal{A_i}: \bigcup_{n \in \mathbb{N}} A_n \in \mathcal{A_i}$
 	
-	$\mathcal{A}$ ist eine $\sigma$-[[sigma-Algebra|Algebra]] auf $X$, falls
+	$\mathcal{A}$ ist eine $\sigma$-[[σ-Algebra|Algebra]] auf $X$, falls
 	1. $X \in \mathcal{A}$
 	2. $A \in \mathcal{A} \implies A^\complement \in \mathcal{A}$
 	3. $\forall (A_n)_{n \in \mathbb{N}} \in \mathcal{A}: \bigcup_{n \in \mathbb{N}} A_n \in \mathcal{A}$
@@ -119,7 +119,7 @@ Alle Voraussetzungen sind erfüllt, da
 
 ![[psets/muit/assignment 02#^7]]
 
-Da $\delta(\mathcal{E})$ ein [[Menge durchschnitsstabil|durchschnittsstabiles]] [[Dynkin-System]] bzw. eine $\sigma$-[[sigma-Algebra|Algebra]] auf $X$ ist, gilt
+Da $\delta(\mathcal{E})$ ein [[Menge durchschnitsstabil|durchschnittsstabiles]] [[Dynkin-System]] bzw. eine $\sigma$-[[σ-Algebra|Algebra]] auf $X$ ist, gilt
 - $X \in \delta(\mathcal{E})$
 - $A \in \delta(\mathcal{E}) \implies A^\complement \in \delta(\mathcal{E})$
 - $\forall (A_n)_{n \in \mathbb{N}} \in \delta(\mathcal{E}) : \bigcup_{n \in \mathbb{N}} A_n \in \delta(\mathcal{E})$

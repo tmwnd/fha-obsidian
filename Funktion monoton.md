@@ -1,3 +1,8 @@
+---
+title: monotone Funktion
+type: definition
+---
+
 Sei $A, B \in \mathcal{A}$ mit
 - $A \subseteq B$
 

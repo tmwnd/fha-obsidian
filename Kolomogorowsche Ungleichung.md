@@ -1,3 +1,8 @@
+---
+title: Kolomogorowsche Ungleichung
+type: definition
+---
+
 Sei $k, n \in \mathbb{N}$, $k \le n$, $(X_i)_{i \in \{ 1, \dots, n \}}$ [[Zufallsvariable unabhängig|unabhängige]] [[Zufallsvariable|Zufallsvariablen]] mit dem [[Zufallsvariable Erwartungswert|Erwartungswert]] $E$ und
 - $\forall i \in \{ 1, \dots, n \} : E[X_i] = 0$
 - $\forall i \in \{ 1, \dots, n \} : E[X_i^2] \lt \infty$

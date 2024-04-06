@@ -1,3 +1,8 @@
+---
+title: Produktmaß
+type: definition
+---
+
 Sei $n \in \mathbb{N}$, $\mu_1, \dots, \mu_n$ $\sigma$-endliche [[Maß|Maße]].
 
 Das *Produktmaß* $\mu$ ist definiert als

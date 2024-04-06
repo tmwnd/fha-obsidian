@@ -1,3 +1,8 @@
+---
+title: Hyperebene
+type: definition
+---
+
 Sei $x, v \in \mathbb{R}^m \setminus \{ 0 \}$, $v_0 \in \mathbb{R}$ mit
 - $w = (v, v_0)$
 - $g(x, w) = v^Tx - v_0$

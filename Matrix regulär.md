@@ -1,3 +1,8 @@
+---
+title: reguläre Matrix
+type: definition
+---
+
 Sei $A \in \mathbb{R}^{m \times n}$.
 
 $A$ heißt *regulär*, falls

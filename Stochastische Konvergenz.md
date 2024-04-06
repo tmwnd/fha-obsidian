@@ -1,3 +1,8 @@
+---
+title: Stochastische Konvergenz
+type: definition
+---
+
 Sei $(\Omega, \mathcal{A}, P)$ ein [[Wahrscheinlichkeitsraum]], $X, (X_n)_{n \in \mathbb{N}}$ [[Zufallsvariable|Zufallsvariablen]].
 
 Die Folge $(X_i)_{i \in \{ 1, \dots, n \}}$ *konvergiert stochastisch* bzw. *in Wahrscheinlichkeit* gegen $X$, falls

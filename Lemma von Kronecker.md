@@ -1,3 +1,8 @@
+---
+title: Lemma von Kronecker
+type: lemma
+---
+
 Seien $b, (a_n)_{n \in \mathbb{N}}$ reelle Zahlen mit
 
 $$

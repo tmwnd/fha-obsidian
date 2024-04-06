@@ -1,6 +1,6 @@
-![[mu-Nullmengen]]
+![[μ-Nullmengen]]
 ![[modules/sto1/Satz 3.9]]
 ![[modules/sto1/Korollar 3.10]]
-![[nu-Nullmenge]]
+![[υ-Nullmenge]]
 ![[Transformationssatz für Integrale]]
 ![[Integrale]]

@@ -1,3 +1,8 @@
+---
+title: komplexwertige Funktion
+type: definition
+---
+
 Sei $f: (\Omega, \mathcal{A}) \to (\mathbb{C}, \mathcal{L}(\mathbb{C}))$ eine [[Funktion]].
 
 Es gilt

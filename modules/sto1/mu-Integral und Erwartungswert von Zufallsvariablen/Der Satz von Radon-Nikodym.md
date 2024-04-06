@@ -1,2 +1,2 @@
-![[nu-Nullmenge]]
-![[Radon-Nikodym]]
+![[υ-Nullmenge]]
+![[Satz von Radon-Nikodym]]

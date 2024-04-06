@@ -1,3 +1,8 @@
+---
+title: Varianz
+type: definition
+---
+
 Sei $X$ eine reelle [[Zufallsvariable]] mit
 - $E[|X|^2] \lt \infty$
 

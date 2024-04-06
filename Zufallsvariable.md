@@ -1,3 +1,8 @@
+---
+title: Zufallsvariable
+type: definition
+---
+
 Sei $(\Omega, \mathcal{A}, P)$ ein [[Wahrscheinlichkeitsraum]], $(R, \mathscr{S})$ ein [[Messraum]].
 
 Eine $(\mathcal{A}, \mathscr{S})$-[[Funktion A-S-messbar|messbare]] [[Funktion]] $X : (\Omega, \mathcal{A}) \to (R, \mathscr{S})$ heißt *Zufallsvariable*.

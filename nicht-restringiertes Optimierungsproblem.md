@@ -1,3 +1,8 @@
+---
+title: nicht-restringiertes Optimierungsproblem
+type: definition
+---
+
 Sei $f : \mathbb{R}^d \to \mathbb{R}$.
 
 Minimiere das [[Optimierungsproblem]]

@@ -1,4 +1,9 @@
-Sei $\mathcal{L}^d$ die Borelsche $\sigma$-[[Borelsche sigma-Algebra|Algebra]], $P, (P_n)_{n \in \mathbb{N}}$ [[Wahrscheinlichkeitsmaß|Wahrscheinlichkeitsmaße]] auf $(\mathbb{R}^d, \mathcal{L}^d)$ mit den [[Verteilungsfunktion|Verteilungsfunktionen]] $F, (F_n)_{n \in \mathbb{N}}$.
+---
+title: Portmanteau-Theorem
+type: theorem
+---
+
+Sei $\mathcal{L}^d$ die Borelsche $\sigma$-[[Borelsche σ-Algebra|Algebra]], $P, (P_n)_{n \in \mathbb{N}}$ [[Wahrscheinlichkeitsmaß|Wahrscheinlichkeitsmaße]] auf $(\mathbb{R}^d, \mathcal{L}^d)$ mit den [[Verteilungsfunktion|Verteilungsfunktionen]] $F, (F_n)_{n \in \mathbb{N}}$.
 
 Wir betrachten folgende Aussagen
 - a) $\forall f : \mathbb{R}^d \to \mathbb{R}$ mit $f$ beschränkt, (gleichmäßig) stetig gilt

@@ -1,3 +1,8 @@
+---
+title: Hellyscher Auswahlsatz
+type: definition
+---
+
 Sei $(F_n)_{n \in \mathbb{N}}$ eine Folge $d$-dimensionaler [[Verteilungsfunktion|Verteilungsfunktionen]] mit
 - $\forall n \in \mathbb{R} : F_n : \mathbb{R}^d \to \mathbb{R}$
 

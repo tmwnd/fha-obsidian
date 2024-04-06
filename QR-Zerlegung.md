@@ -1,3 +1,8 @@
+---
+title: QR-Zerlegung
+type: definition
+---
+
 Sei $X \in \mathbb{R}^{m \times n}, y \in \mathbb{R}^m$, $w \in \mathbb{R}^n$ mit
 - $m \ge n$
 
@@ -7,7 +12,7 @@ Das zu lösende Normalgleichungssystem ist
 Zerlege $X$, sodass
 - $X = QR = Q\begin{pmatrix} \tilde{R} \\ 0 \end{pmatrix}$
 - $Q \in \mathbb{R}^{m \times m}$
-- $Q$ [[orthogonale Matrizen|orthogonal]]
+- $Q$ [[Matrix orthogonal|orthogonal]]
 - $R \in \mathbb{R}^{m \times n}$
 - $\tilde{R} \in \mathbb{R}^{n \times n}$
 - $\tilde{R}$ eine [[Matrix quadratisch|quadratische]] [[Dreiecksmatrix|obere Dreiecksmatrix]]
@@ -45,4 +50,4 @@ Vorteile:
 
 Nachteile:
 - Die Komplexität der Zerlegung von $X$ ist $\mathcal{O}(n^3)$
-- $X$ [[sparse]], $Q$, $R$ nicht [[sparse]]
+- $X$ [[Matrix sparse]], $Q$, $R$ nicht [[Matrix sparse]]

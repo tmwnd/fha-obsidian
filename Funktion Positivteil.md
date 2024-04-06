@@ -1,3 +1,8 @@
+---
+title: Positivteil
+type: definition
+---
+
 Sei $f$ eine [[Funktion]].
 
 Der *Positivteil* $f^+$ von $f$ ist definiert als

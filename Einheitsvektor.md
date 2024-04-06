@@ -1,3 +1,8 @@
+---
+title: Einheitsvektor
+type: definition
+---
+
 Der $i$-te Einheitsvektor des $\mathbb{R}^n$ ist definiert als
 
 $$

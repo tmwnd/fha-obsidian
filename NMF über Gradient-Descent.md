@@ -1,6 +1,11 @@
-Sei $V \in \mathbb{R}_+^{m \times n}$ [[sparse]], $A \star B$ die komponentenweise Multiplikation der Matrizen $A$ und $B$.
+---
+title: NMF über Gradient-Descent
+type: definition
+---
 
-Finde eine Lösung der [[NMF, Nonnegative-Matrix-Factorisation|NFM]] $V = EF$ über [[Gradientenverfahren, Gradient Descent, GD|GD]]  mit
+Sei $V \in \mathbb{R}_+^{m \times n}$ [[Matrix sparse]], $A \star B$ die komponentenweise Multiplikation der Matrizen $A$ und $B$.
+
+Finde eine Lösung der [[Nonnegative-Matrix-Factorisation|NFM]] $V = EF$ über [[Gradient Descent|GD]]  mit
 - der [[Loss-Funktion]] $l(E, F)$ definiert als
 
 $$

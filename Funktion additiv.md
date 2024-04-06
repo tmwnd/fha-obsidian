@@ -1,3 +1,8 @@
+---
+title: Additivität
+type: definition
+---
+
 Sei $n \in \mathbb{N}$.
 
 Eine nicht-negative [[Funktion]] $\mu : \mathcal{C} \to \overline{\mathbb{R}}_+$ heißt *(endlich) additiv*, falls

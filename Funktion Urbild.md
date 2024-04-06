@@ -1,3 +1,8 @@
+---
+title: Urbild
+type: definition
+---
+
 Sei $f : X \to Y$ eine [[Funktion]], $B \subseteq Y$.
 
 Das *Urbild* von $B$ unter $f$ ist definiert als

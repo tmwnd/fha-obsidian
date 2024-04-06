@@ -1,3 +1,8 @@
+---
+title: Unterraum-Iteration-Verfahren
+type: definition
+---
+
 Sei $X \in \mathbb{R}^{m \times n}$, $v^{(0)} \in \mathbb{R}^n$ mit
 - $A = X^TX$
 - $\| v^{(0)} \|_2 = 1$
@@ -18,7 +23,7 @@ Es gilt
 Sei $X \in \mathbb{R}^{m \times n}$, $(v_i^{(0)})_{i \in \{ 1, \dots, k \}} \in \mathbb{R}^n$ mit
 - $A = X^TX$
 - $V = (v_i^{(0)})_{i \in \{ 1, \dots, k \}}$
-- $V$ [[orthogonale Matrizen|orthogonal]]
+- $V$ [[Matrix orthogonal|orthogonal]]
 
 die $i$-te Iteration des *Unterraum-Iteration-Verfahrens* ist definiert als
 - $\tilde{U}^{(i+1)} = XV^{(i)}$

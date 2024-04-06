@@ -1,11 +1,11 @@
 ![[psets/muit/assignment 03#^1]]
 
-Da $\mathcal{A}$ eine $\sigma$-[[sigma-Algebra|Algebra]] auf $X$ ist, gilt
+Da $\mathcal{A}$ eine $\sigma$-[[σ-Algebra|Algebra]] auf $X$ ist, gilt
 - $X \in \mathcal{A}$
 - $A \in \mathcal{A} \implies A^\complement \in \mathcal{A}$
 - $\forall (A_n)_{n \in \mathbb{N}} \in \mathcal{A} : \bigcup_{n \in \mathbb{N}} A_n \in \mathcal{A}$
 
-$\mathcal{B}_f$ ist eine $\sigma$-[[sigma-Algebra|Algebra]] auf $Y$, falls
+$\mathcal{B}_f$ ist eine $\sigma$-[[σ-Algebra|Algebra]] auf $Y$, falls
 1. $Y \in \mathcal{B}_f$
 2. $B \in \mathcal{B}_f \implies B^\complement \in \mathcal{B}_f$
 3. $\forall (B_n)_{n \in \mathbb{N}} \in \mathcal{B}_f: \bigcup_{n \in \mathbb{N}} B_n \in \mathcal{B}_f$
@@ -79,12 +79,12 @@ $\sin^- = \max(-\sin, 0) = \begin{cases} -\sin(x), & \exists k \in \mathbb{N}_0 
 
 ![[psets/muit/assignment 03#^7]]
 
-1. Da $\mathcal{A}$ eine $\sigma$-[[sigma-Algebra|Algebra]] auf $X$ ist, gilt
+1. Da $\mathcal{A}$ eine $\sigma$-[[σ-Algebra|Algebra]] auf $X$ ist, gilt
 	- $X \in \mathcal{A}$
 	- $A \in \mathcal{A} \implies A^\complement \in \mathcal{A}$
 	- $\forall (A_n)_{n \in \mathbb{N}} \in \mathcal{A} : \bigcup_{n \in \mathbb{N}} A_n \in \mathcal{A}$
 	
-	$\mathcal{A}_C$ ist eine $\sigma$-[[sigma-Algebra|Algebra]] auf $C$, falls
+	$\mathcal{A}_C$ ist eine $\sigma$-[[σ-Algebra|Algebra]] auf $C$, falls
 	1. $C \in \mathcal{A}_C$
 	2. $A_C \in \mathcal{A}_C \implies A_C \in \mathcal{A}_C$
 	3. $\forall (A_{C_n})_{n \in \mathbb{N}} \in \mathcal{A}_C : \bigcup_{n \in \mathbb{N}} A_{C_n} \in \mathcal{A}_C$

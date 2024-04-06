@@ -1,3 +1,3 @@
-![[Spur-sigma-Algebra]]
-![[Dirac-Maß, Einpunktmaß]]
+![[Spur-σ-Algebra]]
+![[Dirac-Maß]]
 ![[Verteilungsfunktion]]

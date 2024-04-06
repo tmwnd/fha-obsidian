@@ -1,4 +1,9 @@
-Minimiere $w$ aus der [[Trennende Hyperebene von überlappenden Clustern, Support-Vector Klassifikation, SVC|SVC]]
+---
+title: Duales Optimierungsproblem bei SVC
+type: definition
+---
+
+Minimiere $w$ aus der [[Support-Vector Klassifikation überlappende Cluster|SVC]]
 
 $$
 	w = (v, v_0) = \min_{v \ne 0, v_0, \xi} \frac{1}{2} \| v \|_2^2 + C \sum_{i=1}^n \xi_i, \quad \forall i \in \{ 1, \dots, n \} : y_i(v^Tx_i + v_0) \ge 1 - \xi_i

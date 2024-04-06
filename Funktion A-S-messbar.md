@@ -1,3 +1,8 @@
+---
+title: A-S-Messbarkeit
+type: definition
+---
+
 Seien $(\Omega, \mathcal{A}), (R, \mathscr{S})$ [[Messraum|Messräume]].
 
 Die [[Funktion]] $f : \Omega \to R$ heißt *$(\mathcal{A}, \mathscr{S})$-messbar*, falls

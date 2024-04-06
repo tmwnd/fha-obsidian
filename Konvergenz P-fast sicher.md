@@ -1,8 +1,13 @@
+---
+title: Konvergenz P-fast sicher
+type: definition
+---
+
 Sei $(\Omega, \mathcal{A}, P)$ ein [[Wahrscheinlichkeitsraum]], $n \in \mathbb{N}$, $X, (X_i)_{i \in \{ 1, \dots, n \}}$ [[Zufallsvariable|Zufallsvektoren]] mit
 - $\forall n \in \{ 1, \dots, n \} : X_n : (\Omega, \mathcal{A}) \to (\mathbb{R}^d, \mathcal{L}^d)$ [[Funktion messbar|messbar]]
 
 Die Folge $(X_i)_{i \in \{ 1, \dots, n \}}$ *konvergiert $P$-fast sicher* gegen $X$, falls
-- $\exists N \in \mathcal{A}$ eine $P$-[[mu-Nullmengen|Nullmenge]] mit
+- $\exists N \in \mathcal{A}$ eine $P$-[[μ-Nullmengen|Nullmenge]] mit
 
 $$
 	\forall \omega \in N^\complement : \lim_{n \to \infty} X_n(\omega) = X(\omega)

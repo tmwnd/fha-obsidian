@@ -11,5 +11,5 @@ $$
 mit
 - $x_1 \in R_1$
 - $x_2 \in R_2$
-- $f_{X_1}(x_1) = \int_{R_2} f(x_1, x_2) d\mu_2(x_2)$ ist die $\mu_1$-[[mu-Dichte|Dichte]] von $X$
-- $f_{X_2}(x_2) = \int_{R_1} f(x_1, x_2) d\mu_1(x_1)$ ist die $\mu_2$-[[mu-Dichte|Dichte]] von $X$
+- $f_{X_1}(x_1) = \int_{R_2} f(x_1, x_2) d\mu_2(x_2)$ ist die $\mu_1$-[[μ-Dichte|Dichte]] von $X$
+- $f_{X_2}(x_2) = \int_{R_1} f(x_1, x_2) d\mu_1(x_1)$ ist die $\mu_2$-[[μ-Dichte|Dichte]] von $X$

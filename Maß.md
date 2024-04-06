@@ -1,6 +1,11 @@
-Sei $\mathcal{A}$ eine $\sigma$-[[sigma-Algebra|Algebra]] auf $\Omega$.
+---
+title: Maß
+type: definition
+---
 
-Eine $\sigma$-[[Funktion sigma-additiv|additive]] [[Funktion]] $\mu : \mathcal{A} \to \overline{\mathbb{R}}_+$ heißt *Maß* auf $\mathcal{A}$.
+Sei $\mathcal{A}$ eine $\sigma$-[[σ-Algebra|Algebra]] auf $\Omega$.
+
+Eine $\sigma$-[[Funktion σ-additiv|additive]] [[Funktion]] $\mu : \mathcal{A} \to \overline{\mathbb{R}}_+$ heißt *Maß* auf $\mathcal{A}$.
 
 ---
 
@@ -8,4 +13,4 @@ Eine $\sigma$-[[Funktion sigma-additiv|additive]] [[Funktion]] $\mu : \mathcal{A
 
 ---
 
-![[Maß sigma-endlich]]
+![[Maß σ-endlich]]

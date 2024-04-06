@@ -1,3 +1,8 @@
+---
+title: Binomialverteilung
+type: definition
+---
+
 Sei $n, k \in \mathbb{N}$, $p \in [0, 1]$, $x \in \mathbb{R}$.
 
 Die [[Verteilungsfunktion]] einer reelwertigen [[Zufallsvariable]] $X$ heißt *binomialverteilt*, falls

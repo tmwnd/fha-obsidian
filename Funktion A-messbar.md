@@ -1,3 +1,8 @@
+---
+title: A-Messbarkeit
+type: definition
+---
+
 Sei $(\Omega, \mathcal{A})$ ein [[Messraum]].
 
 Die [[Funktion]] $f : \Omega \to \mathbb{R}$ heißt *$\mathcal{A}$-messbar*, falls

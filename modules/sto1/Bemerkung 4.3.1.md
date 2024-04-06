@@ -1,6 +1,6 @@
 Sei $(\Omega, \mathcal{A}, P)$ ein [[Wahrscheinlichkeitsraum]], $\omega \in \Omega$, $n \in \mathbb{N}$, $((R_i, \mathscr{S}_i))_{i \in \{ 1, \dots, n \}}$ [[Messraum|Messräume]], $X : \Omega \to R$ eine [[Funktion]] mit
 - $R = \prod_{i=1}^n R_i$
-- $\mathscr{S} = \bigotimes_{i=1}^n \mathscr{S}_i$ eine Produkt-$\sigma$-[[Produkt-sigma-Algebra,  Kolmogorowsche sigma-Algebra|Algebra]] auf $((R_i, \mathscr{S}_i))_{i \in \{ 1, \dots, n \}}$
+- $\mathscr{S} = \bigotimes_{i=1}^n \mathscr{S}_i$ eine Produkt-$\sigma$-[[Produkt-σ-Algebra|Algebra]] auf $((R_i, \mathscr{S}_i))_{i \in \{ 1, \dots, n \}}$
 - $(x_1, \dots, x_n) \in R$
 - $\forall i \in \{ 1, \dots, n \} : \pi_i : R \to R_i$ mit
 	- $\pi_i(x_1, \dots, x_{i-1}, x_i, x_{i+1}, x_n) = x_i$

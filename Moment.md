@@ -1,3 +1,8 @@
+---
+title: Moment
+type: definition
+---
+
 Sei $r \in \mathbb{N}$, $X$ eine reelle [[Zufallsvariable]] mit
 - $E[|X|^r] \lt \infty$
 

@@ -1,3 +1,8 @@
+---
+title: konvexe Menge
+type: definition
+---
+
 Sei $C \subset \mathbb{R}^d$.
 
 $X$ heißt *konvex*, falls

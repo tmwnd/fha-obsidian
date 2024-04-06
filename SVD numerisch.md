@@ -1,3 +1,8 @@
+---
+title: SVD numerisch
+type: definition
+---
+
 Sei $X \in \mathbb{R}^{m \times n}$.
 
 Zerlege $X$, sodass
@@ -7,7 +12,7 @@ Zerlege $X$, sodass
 - $\sigma_1 \ge \dots \ge \sigma_r \gt 0$ die [[Matrix Singulärwert|Singulärwerte]] von $A$
 - $\Sigma = \text{diag}(\sigma_1, \dots, \sigma_r, 0 \dots, 0) \in \mathbb{R}^{m \times n}$
 - $V = \text{span}(v_1, \dots, v_n) \in \mathbb{R}^{n \times n}$
-- $U, V$ [[orthogonale Matrizen|orthogonal]], [[Matrix quadratisch|quadratisch]]
+- $U, V$ [[Matrix orthogonal|orthogonal]], [[Matrix quadratisch|quadratisch]]
 
 Es gilt
 - $X^TX = V\Sigma^T\Sigma V^T$

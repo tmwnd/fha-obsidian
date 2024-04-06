@@ -1,3 +1,8 @@
+---
+title: Coordinate Descent
+type: definition
+---
+
 Sei $w \in \mathbb{R}^n$, $f(w)$ eine nicht-differenzierbare Funktion.
 
 Der [[Subgradient]] von $f$ wird iterativ über alle $k$-Komponenten von $w$ bestimmt.

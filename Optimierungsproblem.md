@@ -1,3 +1,8 @@
+---
+title: Optimierungsproblem
+type: definition
+---
+
 Sei $X \subseteq \mathbb{R}^d$, $f : X \to \mathbb{R}$.
 
 Das Minimieren von $f$ ist

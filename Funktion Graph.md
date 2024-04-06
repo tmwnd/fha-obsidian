@@ -1,3 +1,8 @@
+---
+title: Graph
+type: definition
+---
+
 Sei $f : X \to Y$ eine [[Funktion]].
 
 Der *Graph* von $f$ $\text{graph}(f)$ ist definiert als

@@ -1,6 +1,11 @@
+---
+title: Lp-Raum
+type: definition
+---
+
 Sei $1 \le p \in \mathbb{R}$, $(\Omega, \mathcal{A}, \mu)$ ein [[Maßraum]].
 
-Der *$\mathcal{L}^p$-Raum* ist mit dem $\mu$-[[mu-Integral|Integral]] definiert als
+Der *$\mathcal{L}^p$-Raum* ist mit dem $\mu$-[[μ-Integral|Integral]] definiert als
 
 $$
 	\mathcal{L}^p = \mathcal{L}^p(\Omega, \mathcal{A}, \mu) = \left\{ f : (\Omega, \mathcal{A}) \to (\mathbb{R}, \mathcal{L}), \int |f|^p d\mu \lt \infty \right\}
@@ -9,8 +14,8 @@ $$
 ---
 
 Sei $L^p \subseteq \mathcal{L}^p$ ein normierter Vektorraum mit
-- $\forall f \in \mathcal{L}^p : [f]$ äquivalente [[Funktion|Funktionen]] nach $f \sim_{L_p} g \iff f = g$ $\mu$-[[mu-Nullmengen|f. ü.]]
-- $\forall f \in \mathcal{L}^p : \exists! [g] \in L^p : f = g$ $\mu$-[[mu-Nullmengen|f. ü.]]
+- $\forall f \in \mathcal{L}^p : [f]$ äquivalente [[Funktion|Funktionen]] nach $f \sim_{L_p} g \iff f = g$ $\mu$-[[μ-Nullmengen|f. ü.]]
+- $\forall f \in \mathcal{L}^p : \exists! [g] \in L^p : f = g$ $\mu$-[[μ-Nullmengen|f. ü.]]
 
 ---
 

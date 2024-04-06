@@ -1,5 +1,10 @@
+---
+title: unabhängige Zufallsvariablen
+type: definition
+---
+
 Sei $(\Omega, \mathcal{A}, P)$ ein [[Wahrscheinlichkeitsraum]], $n \in \mathbb{N}$, $((R_i, \mathscr{S}_i))_{i \in \{ 1, \dots, n \}}$ [[Messraum|Messräume]], $(X_i)_{i \in \{ 1, \dots, n \}}$ [[Zufallsvariable|Zufallsvariablen]] auf $((R_i, \mathscr{S}_i))_{i \in \{ 1, \dots, n \}}$ mit
-- $\mathscr{S} = \bigotimes_{i=1}^n \mathscr{S}_i$ eine Produkt-$\sigma$-[[Produkt-sigma-Algebra,  Kolmogorowsche sigma-Algebra|Algebra]] auf $((R_i, \mathscr{S}_i))_{i \in \{ 1, \dots, n \}}$
+- $\mathscr{S} = \bigotimes_{i=1}^n \mathscr{S}_i$ eine Produkt-$\sigma$-[[Produkt-σ-Algebra|Algebra]] auf $((R_i, \mathscr{S}_i))_{i \in \{ 1, \dots, n \}}$
 
 $(X_i)_{i \in \{ 1, \dots, n \}}$ heißen *(stochastisch) unabhängig*, falls
 - $P^{(X_1, \dots, X_n)} = P^{X_1} \otimes \dots \otimes P^{X_n}$
@@ -31,7 +36,7 @@ $$
 
 Sei $(\Omega, \mathcal{A}, P)$ ein [[Wahrscheinlichkeitsraum]], $n \in \mathbb{N}$, $((R_i, \mathscr{S}_i))_{i \in \{ 1, \dots, n \}}$ [[Messraum|Messräume]], $(X_i)_{i \in \{ 1, \dots, n \}}$ [[Zufallsvariable|Zufallsvariablen]] auf $((R_i, \mathscr{S}_i))_{i \in \{ 1, \dots, n \}}$, $\mu_1, \dots, \mu_n$ $\sigma$-[[Maß|endliche]] TODO [[Maß|Maße]] auf $(\mathscr{S})_{i \in \{ 1, \dots, n \}}$, $f_1, \dots, f_n$ nicht-negative [[Funktion|Funktionen]] mit
 - $R = \prod_{i=1}^n R_i$
-- $\mathscr{S} = \bigotimes_{i=1}^n \mathscr{S}_i$ eine Produkt-$\sigma$-[[Produkt-sigma-Algebra,  Kolmogorowsche sigma-Algebra|Algebra]] auf $((R_i, \mathscr{S}_i))_{i \in \{ 1, \dots, n \}}$
+- $\mathscr{S} = \bigotimes_{i=1}^n \mathscr{S}_i$ eine Produkt-$\sigma$-[[Produkt-σ-Algebra|Algebra]] auf $((R_i, \mathscr{S}_i))_{i \in \{ 1, \dots, n \}}$
 - $\mu = \bigotimes_{i=1}^n \mu_i$ das [[Produktmaß]] von $\mu_1, \dots, \mu_2$
 - $\forall i \in \{ 1, \dots, n \} : f_i : (R_i, \mathscr{S}_i) \to (\mathbb{R}, \mathcal{L})$ [[Funktion messbar|messbar]]
 - $\forall i \in \{ 1, \dots, n \} : \int f_i d\mu_1 = 1$
@@ -46,12 +51,12 @@ Sei $(\Omega, \mathcal{A}, P)$ ein [[Wahrscheinlichkeitsraum]], $n \in \mathbb{N
 - $\int f d\mu = 1$
 
 $(X_i)_{i \in \{ 1, \dots, n \}}$ sind unabhängig, falls
-- $P^X$ die $\mu$-[[mu-Dichte|Dichte]] $f$ hat
+- $P^X$ die $\mu$-[[μ-Dichte|Dichte]] $f$ hat
 
 Es gilt
-- $\forall i \in \{ 1, \dots, n \} : x_i$ hat die $\mu$-[[mu-Dichte|Dichte]] $f_i$
-- $X$ hat die $\mu$-[[mu-Dichte|Dichte]] $f$, falls
-	- $\forall i \in \{ 1, \dots, n \} : P^{X_i}$ die $\mu$-[[mu-Dichte|Dichte]] $\mu_i$ hat
+- $\forall i \in \{ 1, \dots, n \} : x_i$ hat die $\mu$-[[μ-Dichte|Dichte]] $f_i$
+- $X$ hat die $\mu$-[[μ-Dichte|Dichte]] $f$, falls
+	- $\forall i \in \{ 1, \dots, n \} : P^{X_i}$ die $\mu$-[[μ-Dichte|Dichte]] $\mu_i$ hat
 
 ---
 

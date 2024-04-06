@@ -1,3 +1,8 @@
+---
+title: Verteilungen
+type: definition
+---
+
 ![[Gleichverteilung]]
 ![[Normalverteilung]]
 ![[Exponentialverteilung]]

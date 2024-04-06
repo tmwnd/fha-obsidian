@@ -1,6 +1,11 @@
-Sei $V \in \mathbb{R}_+^{m \times n}$ [[sparse]].
+---
+title: NMF über Projected-Gradient-Descent
+type: definition
+---
 
-Finde eine Lösung der [[NMF, Nonnegative-Matrix-Factorisation|NFM]] $V = WH$ über über [[SVD mit Projected Gradient Descent]]  mit
+Sei $V \in \mathbb{R}_+^{m \times n}$ [[Matrix sparse]].
+
+Finde eine Lösung der [[Nonnegative-Matrix-Factorisation|NFM]] $V = WH$ über über [[SVD mit Projected Gradient Descent]]  mit
 - der [[Loss-Funktion]] $l(W, H)$ definiert als
 
 $$

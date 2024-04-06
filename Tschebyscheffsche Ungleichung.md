@@ -1,3 +1,8 @@
+---
+title: Tschebyscheffsche Ungleichung
+type: definition
+---
+
 Sei $\mu$ ein [[Maß]], $f : (\Omega, \mathcal{A}) \to (\overline{R}, \overline{\mathcal{L}})$ [[Funktion messbar|messbar]].
 
 Es gilt

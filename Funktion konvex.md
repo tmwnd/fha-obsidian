@@ -1,3 +1,8 @@
+---
+title: konvexe Funktion
+type: definition
+---
+
 Sei $C \subset \mathbb{R}^d$ [[Menge konvex|konvex]], $f : C \to \mathbb{R}$ eine [[Funktion]].
 
 $f$ heißt *konvex*, falls

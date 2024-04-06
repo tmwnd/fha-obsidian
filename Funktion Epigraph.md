@@ -1,3 +1,8 @@
+---
+title: Epigraph
+type: definition
+---
+
 Sei $f : X \to Y$ eine [[Funktion]].
 
 Der *Epigraph* von $f$ $\text{epi}(f)$ ist definiert als

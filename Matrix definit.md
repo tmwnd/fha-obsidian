@@ -1,3 +1,8 @@
+---
+title: definite Matrix
+type: definition
+---
+
 Sei $A \in \mathbb{R}^{n \times n}$.
 
 $A$ heißt *positiv definit*, falls

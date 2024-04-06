@@ -1,3 +1,8 @@
+---
+title: Lineares Ausgleichsproblem
+type: definition
+---
+
 Seien $(x_i, y_i)_{i \in \{ 1, \dots, m \}}$ Daten-Paare, $w \in \mathbb{R}^n$, $g$ eine [[Modellfunktion]] mit
 - $g$ [[Funktion lineare affin|linear affin]]
 - $l(w)$ die [[Loss-Funktion]] des [[Least-Square Problem|Least-Square Problems]]

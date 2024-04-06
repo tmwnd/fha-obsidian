@@ -24,7 +24,7 @@ $$
 - $\mathcal{O}(\Omega)$ ist das System der offenen Mengen von $\Omega$
 - $\mathcal{A}(\Omega)$ ist das System der abgeschlossenen Mengen von $\Omega$
 - $\mathcal{K}(\Omega)$ ist das System der kompakten Mengen von $\Omega$
-- $\mathcal{B}(\Omega) = \sigma(\mathcal{O}(\Omega))$ ist die $\sigma$-[[sigma-Algebra|Algebra]] der *Borelmengen* auf $\Omega$.
+- $\mathcal{B}(\Omega) = \sigma(\mathcal{O}(\Omega))$ ist die $\sigma$-[[σ-Algebra|Algebra]] der *Borelmengen* auf $\Omega$.
 
 ---
 

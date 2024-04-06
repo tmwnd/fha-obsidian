@@ -1,3 +1,8 @@
+---
+title: Semiring
+type: definition
+---
+
 $\mathscr{S} \subseteq \mathcal{P}(\Omega)$ heißt *Semiring* auf $\Omega$, falls
 - $\emptyset \in \mathscr{S}$
 - $A, B \in \mathscr{S} \implies A \cap B \in \mathscr{S}$

@@ -1,4 +1,4 @@
-![[Produkt-sigma-Algebra,  Kolmogorowsche sigma-Algebra]]
+![[Produkt-σ-Algebra]]
 ![[modules/sto1/Bemerkung 4.2.1]]
 ![[Produktraum]]
 ![[modules/sto1/Bemerkung 4.2.2]]

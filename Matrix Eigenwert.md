@@ -1,3 +1,8 @@
+---
+title: Eigenwert
+type: definition
+---
+
 Sei $A \in \mathbb{R}^{m \times n}$, $\lambda \in \mathbb{R}$.
 
 $\lambda$ ist ein *Eigenwert*, falls

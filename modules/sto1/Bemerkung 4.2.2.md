@@ -1,9 +1,9 @@
-Sei $(\Omega, \mathcal{A}, \mu)$ ein [[Maßraum]], $f : (\Omega, \mathcal{A}) \to (\overline{\mathbb{R}}, \overline{\mathcal{L}})$ eine $\mu$-[[mu-Integrierbarkeit|integrierbare]] [[Funktion messbar|messbare]] Funktion mit
+Sei $(\Omega, \mathcal{A}, \mu)$ ein [[Maßraum]], $f : (\Omega, \mathcal{A}) \to (\overline{\mathbb{R}}, \overline{\mathcal{L}})$ eine $\mu$-[[μ-Integrierbarkeit|integrierbare]] [[Funktion messbar|messbare]] Funktion mit
 - $\mu(|f| = \infty) = 0$
 
 Es gilt
 
-- $\mu$-[[mu-Integrierbarkeit|integrierbare]] [[Funktion|Funktionen]] sind $\mu$-[[mu-Nullmengen|f. ü.]] endlich.
+- $\mu$-[[μ-Integrierbarkeit|integrierbare]] [[Funktion|Funktionen]] sind $\mu$-[[μ-Nullmengen|f. ü.]] endlich.
 
 und
 

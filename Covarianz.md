@@ -1,3 +1,8 @@
+---
+title: Covarianz
+type: definition
+---
+
 Seien $X_1, X_2$ [[Zufallsvariable|Zufallsvariablen]] mit
 - $E[X_1 X_2] \lt \infty \iff \forall i \in \{ 1, 2 \} : E[X_i^2] \lt \infty$
 

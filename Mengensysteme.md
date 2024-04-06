@@ -1,10 +1,15 @@
+---
+title: Mengensysteme
+type: definition
+---
+
 ![[Ring]]
 ![[Algebra]]
-![[sigma-Algebra]]
+![[σ-Algebra]]
 ![[Dynkin-System]]
 ![[Semiring]]
-![[Spur-sigma-Algebra]]
-![[Produkt-sigma-Algebra,  Kolmogorowsche sigma-Algebra]]
+![[Spur-σ-Algebra]]
+![[Produkt-σ-Algebra]]
 
 ---
 

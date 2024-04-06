@@ -1,5 +1,5 @@
 ![[Kolomogorowsche Ungleichung]]
 ![[Lemma von Kronecker]]
 ![[Kolmogorowsches Kriterium]]
-![[Starkes Gesetz der großen Zahlen, Kolmogorow]]
+![[Starkes Gesetz der großen Zahlen]]
 ![[Schwaches Gesetz der großen Zahlen]]

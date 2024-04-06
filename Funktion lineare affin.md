@@ -1,3 +1,8 @@
+---
+title: lineare affine Funktion
+type: definition
+---
+
 Sei $g$ eine Modellfunktion, $w \in \mathbb{R}^n$.
 
 $g$ heißt *linear affin*, falls

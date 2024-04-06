@@ -1,3 +1,8 @@
+---
+title: vollständiger Maßraum
+type: definition
+---
+
 Sei $(\Omega, \mathcal{A}, \mu)$ ein [[Maßraum]].
 
 $(\Omega, \mathcal{A}, \mu)$ heißt *vollständig*, falls
