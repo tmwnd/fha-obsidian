@@ -24,7 +24,7 @@ Es gilt
 
 ---
 
-![[Funktion primitv]]
+![[Funktion elementar]]
 
 ---
 
