@@ -27,7 +27,7 @@ Es gilt
 
 ---
 
-Sei $n \in \mathbb{N}$, $(X_n)_{n \in \{ 1, \dots, n \}}$ [[zettel/Zufallsvariable unabhängig|unabhängige]] $d$-dimensionale [[zettel/Zufallsvariable|Zufallsvektoren]] mit den Fourier-Transformierten $(\varphi_n)_{n \in \{ 1, \dots, n \}}$, $z \in \mathbb{R}^d$ mit
+Sei $n \in \mathbb{N}$, $(X_n)_{n \in \{ 1, \dots, n \}}$ [[zettel/Zufallsvariable/Stochastische Unabhängigkeit|unabhängige]] $d$-dimensionale [[zettel/Zufallsvariable|Zufallsvektoren]] mit den Fourier-Transformierten $(\varphi_n)_{n \in \{ 1, \dots, n \}}$, $z \in \mathbb{R}^d$ mit
 - $X = \sum_{i=1}^n X_i$
 
 Die Fourier-Transformierte $\varphi_x$ ist definiert als

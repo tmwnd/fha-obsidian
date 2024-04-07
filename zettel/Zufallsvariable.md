@@ -5,7 +5,7 @@ type: definition
 
 Sei $(\Omega, \mathcal{A}, P)$ ein [[zettel/Wahrscheinlichkeitsraum|Wahrscheinlichkeitsraum]], $(R, \mathscr{S})$ ein [[zettel/Messraum|Messraum]].
 
-Eine $(\mathcal{A}, \mathscr{S})$-[[zettel/Funktion A-S-messbar|messbare]] [[zettel/Funktion|Funktion]] $X : (\Omega, \mathcal{A}) \to (R, \mathscr{S})$ heißt *Zufallsvariable*.
+Eine $(\mathcal{A}, \mathscr{S})$-[[zettel/Funktion/A-S-Messbarkeit|messbare]] [[zettel/Funktion|Funktion]] $X : (\Omega, \mathcal{A}) \to (R, \mathscr{S})$ heißt *Zufallsvariable*.
 
 ---
 

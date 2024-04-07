@@ -3,7 +3,7 @@ title: Satz von Eckart-Young-Mirsky
 type: theorem
 ---
 
-Sei $V \in \mathbb{R}_+^{m \times n}$ [[zettel/Matrix sparse|Matrix sparse]], $k \ll \min(m, n)$.
+Sei $V \in \mathbb{R}_+^{m \times n}$ [[zettel/Matrix/Dünnbesetztheit|Dünnbesetztheit]], $k \ll \min(m, n)$.
 
 Zerlege $V$, sodass
 - $V \approx WH$
@@ -39,5 +39,5 @@ bzw. durch
 
 Nachteile:
 - $W$, $H$ nicht eindeutig
-- $V$ [[zettel/Matrix sparse|Matrix sparse]], $W$, $H$ oft nicht [[zettel/Matrix sparse|Matrix sparse]]
+- $V$ [[zettel/Matrix/Dünnbesetztheit|Dünnbesetztheit]], $W$, $H$ oft nicht [[zettel/Matrix/Dünnbesetztheit|Dünnbesetztheit]]
 - $V \in \mathbb{R}$

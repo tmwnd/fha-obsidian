@@ -28,7 +28,7 @@ Falls $x_* \in \arg\min_{x \in X} f(x)$ gilt
 
 ---
 
-Seien $X$ [[zettel/Menge konvex|konvex]], $f$, $g$ [[zettel/Funktion konvex|konvex]], $h$ [[zettel/Funktion lineare affin|linear affin]]
+Seien $X$ [[zettel/Menge/Konvexität|konvex]], $f$, $g$ [[zettel/Funktion/Konvexität|konvex]], $h$ [[zettel/Funktion/Lineare Affinität|linear affin]]
 
 Es gilt
 - Als Regularisierungsbedingung muss nur [[zettel/Slater-Bedingung|Slater-Bedingung]] erfüllt sein
@@ -36,7 +36,7 @@ Es gilt
 
 ---
 
-Sei $x$ [[zettel/Menge konvex|konvex]], $f$ [[zettel/Funktion konvex|konvex]]
+Sei $x$ [[zettel/Menge/Konvexität|konvex]], $f$ [[zettel/Funktion/Konvexität|konvex]]
 
 Es gilt
 - $x_* \in X$ ist Minimierer $\iff$ $\forall x \in X : f'(x_*)(x - x_*) \ge 0$

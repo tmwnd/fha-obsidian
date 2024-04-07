@@ -4,7 +4,7 @@ type: definition
 ---
 
 Sei $(\Omega, \mathcal{A}, P)$ ein [[zettel/Wahrscheinlichkeitsraum|Wahrscheinlichkeitsraum]], $n \in \mathbb{N}$, $X, (X_i)_{i \in \{ 1, \dots, n \}}$ [[zettel/Zufallsvariable|Zufallsvektoren]] mit
-- $\forall n \in \{ 1, \dots, n \} : X_n : (\Omega, \mathcal{A}) \to (\mathbb{R}^d, \mathcal{L}^d)$ [[zettel/Funktion messbar|messbar]]
+- $\forall n \in \{ 1, \dots, n \} : X_n : (\Omega, \mathcal{A}) \to (\mathbb{R}^d, \mathcal{L}^d)$ [[zettel/Funktion/Messbarkeit|messbar]]
 
 Die Folge $(X_i)_{i \in \{ 1, \dots, n \}}$ *konvergiert $P$-fast sicher* gegen $X$, falls
 - $\exists N \in \mathcal{A}$ eine $P$-[[zettel/μ-Nullmengen|Nullmenge]] mit
@@ -40,7 +40,7 @@ $f \circ X_n \overset{P\text{-f. s.}}{\longrightarrow} f \circ X$ gilt falls
 
 ---
 
-Seien $(X_n)_{n \in \mathbb{N}}$ reelle [[zettel/Zufallsvariable|Zufallsvariablen]] mit dem [[zettel/Zufallsvariable Erwartungswert|Erwartungswert]] $E$, der [[zettel/Zufallsvariable Varianz|Varianz]] $\text{Var}$ und
+Seien $(X_n)_{n \in \mathbb{N}}$ reelle [[zettel/Zufallsvariable|Zufallsvariablen]] mit dem [[zettel/Erwartungswert|Erwartungswert]] $E$, der [[zettel/Varianz|Varianz]] $\text{Var}$ und
 - $\forall n \in \mathbb{N} : E[X_n]  = 0$
 - $\sum_{n=1}^\infty \text{Var}(X_n) \lt \infty$
 

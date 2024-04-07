@@ -31,12 +31,12 @@ Die [[zettel/Verteilungsfunktion|Verteilungsfunktion]] von $X$ heißt *standardn
 Sei $X \sim \mathcal{N}(\mu, \sigma^2)$ eine [[zettel/Zufallsvariable|Zufallsvariable]].
 
 Es gilt
-- Der [[zettel/Zufallsvariable Erwartungswert|Erwartungswert]] von $X$ ist $E[X] = \mu$
-- Die [[zettel/Zufallsvariable Varianz|Varianz]] von $X$ ist $\text{Var}(X) = \sigma^2$
+- Der [[zettel/Erwartungswert|Erwartungswert]] von $X$ ist $E[X] = \mu$
+- Die [[zettel/Varianz|Varianz]] von $X$ ist $\text{Var}(X) = \sigma^2$
 
 ---
 
-Sei $n \in \mathbb{N}$, $(X_i)_{i \in \{ 1, \dots, n \}}$ [[zettel/Zufallsvariable unabhängig|unabhängige]] [[zettel/Zufallsvariable|Zufallsvariablen]] mit
+Sei $n \in \mathbb{N}$, $(X_i)_{i \in \{ 1, \dots, n \}}$ [[zettel/Zufallsvariable/Stochastische Unabhängigkeit|unabhängige]] [[zettel/Zufallsvariable|Zufallsvariablen]] mit
 - $X = (X_1, \dots, X_n)$
 - $\forall i \in \{ 1, \dots, n \} : X_i \sim N(0, 1)$
 - $x \in \mathbb{R}^n$
@@ -57,7 +57,7 @@ Schreibe
 Sei $n \in \mathbb{N}$, $X \sim \mathcal{N}_n(\vec{0}, I_n)$ ein $n$-dimensional standardnormalverteilter [[zettel/Zufallsvariable|Zufallsvektor]], $A \in \mathbb{R}^{n \times n}$ regulär, $b \in \mathbb{R}^n$, $Y = AX + b$ mit
 - $y \in \mathbb{R}^n$
 
-Es gilt mit dem [[zettel/Zufallsvariable Erwartungswert|Erwartungswert]] $E$ und der [[zettel/Covarianz|Covarianz]] Cov
+Es gilt mit dem [[zettel/Erwartungswert|Erwartungswert]] $E$ und der [[zettel/Covarianz|Covarianz]] Cov
 - $E[Y] = b$
 - $\text{Cov}(Y) = \Sigma = AA^T$
 
@@ -67,7 +67,7 @@ $$
 	f(y) = \left( \frac{1}{2\pi} \right)^\frac{n}{2} \cdot \frac{1}{\sqrt{\text{det}(\Sigma)}} \cdot e^{-\frac{1}{2} \cdot (y-b) \cdot \Sigma^{-1}(y-b)}
 $$
 
-$Y$ ist [[zettel/Zufallsvariable unabhängig|unabhängig]], falls
+$Y$ ist [[zettel/Zufallsvariable/Stochastische Unabhängigkeit|unabhängig]], falls
 - $\Sigma$ eine Diagonalmatrix ist
 
 Schreibe
@@ -78,8 +78,8 @@ Schreibe
 Sei $n \in \mathbb{N}$, $X \sim \mathcal{N}_n(b, \Sigma)$ ein [[zettel/Zufallsvariable|Zufallsvektor]].
 
 Es gilt
-- Der [[zettel/Zufallsvariable Erwartungswert|Erwartungswert]] ist $E[X] = b$
-- Die [[zettel/Zufallsvariable Varianz|Varianz]] ist $\text{Var}(X) = \Sigma$
+- Der [[zettel/Erwartungswert|Erwartungswert]] ist $E[X] = b$
+- Die [[zettel/Varianz|Varianz]] ist $\text{Var}(X) = \Sigma$
 
 ---
 

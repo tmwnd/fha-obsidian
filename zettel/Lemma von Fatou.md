@@ -3,7 +3,7 @@ title: Lemma von Fatou
 type: lemma
 ---
 
-Sei $(f_n)_{n \in \mathbb{N}} \in \mathcal{M}_+$ [[zettel/Funktion messbar|messbare]] [[zettel/Funktion|Funktionen]].
+Sei $(f_n)_{n \in \mathbb{N}} \in \mathcal{M}_+$ [[zettel/Funktion/Messbarkeit|messbare]] [[zettel/Funktion|Funktionen]].
 
 Es gilt für das $\mu$-[[zettel/μ-Integral|Integral]]
 

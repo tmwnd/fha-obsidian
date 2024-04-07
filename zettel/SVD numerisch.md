@@ -9,19 +9,19 @@ Zerlege $X$, sodass
 - $X = U\Sigma V^T$
 - $U \in \mathbb{R}^{m \times m}$
 - $r \le \min(m, n)$
-- $\sigma_1 \ge \dots \ge \sigma_r \gt 0$ die [[zettel/Matrix Singulärwert|Singulärwerte]] von $A$
+- $\sigma_1 \ge \dots \ge \sigma_r \gt 0$ die [[zettel/Singulärwert|Singulärwerte]] von $A$
 - $\Sigma = \text{diag}(\sigma_1, \dots, \sigma_r, 0 \dots, 0) \in \mathbb{R}^{m \times n}$
 - $V = \text{span}(v_1, \dots, v_n) \in \mathbb{R}^{n \times n}$
-- $U, V$ [[zettel/Matrix orthogonal|orthogonal]], [[zettel/Matrix quadratisch|quadratisch]]
+- $U, V$ [[zettel/Matrix/Orthogonalität|orthogonal]], [[zettel/Matrix/Quadratische Matrix|quadratisch]]
 
 Es gilt
 - $X^TX = V\Sigma^T\Sigma V^T$
 - $XX^T = U\Sigma\Sigma^TU^T$
-- $\sigma_1^2 \ge \cdots \ge \sigma_r^2 \gt 0$, $\sigma_{r+1} = \dots = \sigma_n = 0$ die [[zettel/Matrix Eigenwert|Eigenwerte]] von $X^TX$ bzw. $XX^T$
-- Die Spalten von $V$ sind die [[zettel/Matrix Eigenvektor|Eigenvektoren]] von $X^TX$
-- Die Spalten von $U$ sind die [[zettel/Matrix Eigenvektor|Eigenvektoren]] von $XX^T$
+- $\sigma_1^2 \ge \cdots \ge \sigma_r^2 \gt 0$, $\sigma_{r+1} = \dots = \sigma_n = 0$ die [[zettel/Eigenwert|Eigenwerte]] von $X^TX$ bzw. $XX^T$
+- Die Spalten von $V$ sind die [[zettel/Eigenvektor|Eigenvektoren]] von $X^TX$
+- Die Spalten von $U$ sind die [[zettel/Eigenvektor|Eigenvektoren]] von $XX^T$
 
-Berechne die [[zettel/Matrix Eigenwert|Eigenwerte]] $\lambda_1 \ge \cdots \ge \lambda_r \ge 0$, $\lambda_{r+1} = \cdots = \lambda_n = 0$ bzw. die [[zettel/Matrix Eigenvektor|Eigenvektoren]] $(v_i)_{i \in \{ 1, \dots, n \}}$ von $X^TX$ mit
+Berechne die [[zettel/Eigenwert|Eigenwerte]] $\lambda_1 \ge \cdots \ge \lambda_r \ge 0$, $\lambda_{r+1} = \cdots = \lambda_n = 0$ bzw. die [[zettel/Eigenvektor|Eigenvektoren]] $(v_i)_{i \in \{ 1, \dots, n \}}$ von $X^TX$ mit
 - $\forall i \in \{ 1, \dots, n \} : \sigma_i = \sqrt{\lambda_i}$
 - $V = (v_1, \dots, v_n)$
 

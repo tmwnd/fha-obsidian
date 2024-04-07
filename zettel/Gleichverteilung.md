@@ -30,5 +30,5 @@ Schreibe
 Sei $X \sim \mathcal{R}(a, b)$ eine [[zettel/Zufallsvariable|Zufallsvariable]].
 
 Es gilt
-- Der [[zettel/Zufallsvariable Erwartungswert|Erwartungswert]] von $X$ ist $E[X] = \frac{a + b}{2}$
-- Die [[zettel/Zufallsvariable Varianz|Varianz]] von $X$ ist $\text{Var}(X) = \frac{(b - a)^2}{12}$
+- Der [[zettel/Erwartungswert|Erwartungswert]] von $X$ ist $E[X] = \frac{a + b}{2}$
+- Die [[zettel/Varianz|Varianz]] von $X$ ist $\text{Var}(X) = \frac{(b - a)^2}{12}$

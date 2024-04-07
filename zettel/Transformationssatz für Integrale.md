@@ -3,7 +3,7 @@ title: Transformationssatz f�r Integrale
 type: theorem
 ---
 
-Sei $T : (\Omega, \mathcal{A}) \to (R, \mathscr{S})$ eine $(\mathcal{A}, \mathscr{S})$-[[zettel/Funktion A-S-messbar|messbare]] [[zettel/Funktion|Funktion]], $\mu$ ein [[zettel/Maß|Maß]] auf $(\Omega, \mathcal{A})$.
+Sei $T : (\Omega, \mathcal{A}) \to (R, \mathscr{S})$ eine $(\mathcal{A}, \mathscr{S})$-[[zettel/Funktion/A-S-Messbarkeit|messbare]] [[zettel/Funktion|Funktion]], $\mu$ ein [[zettel/Maß|Maß]] auf $(\Omega, \mathcal{A})$.
 
 Es gilt für das $\mu$-[[zettel/μ-Integral|Integral]]
 
@@ -13,6 +13,6 @@ $$
 
 ---
 
-Sei $T : (\Omega, \mathcal{A}) \to (R, \mathscr{S})$ eine $(\mathcal{A}, \mathscr{S})$-[[zettel/Funktion A-S-messbar|messbare]] [[zettel/Funktion|Funktion]], $\mu$ ein [[zettel/Maß|Maß]] auf $(\Omega, \mathcal{A})$.
+Sei $T : (\Omega, \mathcal{A}) \to (R, \mathscr{S})$ eine $(\mathcal{A}, \mathscr{S})$-[[zettel/Funktion/A-S-Messbarkeit|messbare]] [[zettel/Funktion|Funktion]], $\mu$ ein [[zettel/Maß|Maß]] auf $(\Omega, \mathcal{A})$.
 
-Das $\mu$-Integral existiert für eine [[zettel/Funktion messbar|messbare]] [[zettel/Funktion|Funktion]] $f \in \mathcal{M}_+$ genau dann, wenn das $\mu^T$-Integral von $f$ existiert.
+Das $\mu$-Integral existiert für eine [[zettel/Funktion/Messbarkeit|messbare]] [[zettel/Funktion|Funktion]] $f \in \mathcal{M}_+$ genau dann, wenn das $\mu^T$-Integral von $f$ existiert.

@@ -38,7 +38,7 @@ $$
 $$
 
 bzw. durch
-- $L$ quadratisch in $v$, [[zettel/Funktion lineare affin|linear affin]] in $v_0$ und $\xi$, differenzierbar und [[zettel/Funktion konvex|konvex]]
+- $L$ quadratisch in $v$, [[zettel/Funktion/Lineare Affinität|linear affin]] in $v_0$ und $\xi$, differenzierbar und [[zettel/Funktion/Konvexität|konvex]]
 - $q(\alpha, \beta) \gt \infty$, falls
 	- $0 = \partial_{v_0} L(v, v_0, \xi, \alpha, \beta) = -\sum_{i=1}^n \alpha_iy_i$
 	- $\forall i \in \{ 1, \dots, n \} : \partial_{\xi_i} L(v, v_0 \xi, \alpha, \beta) = C - \alpha_i - \beta_i$

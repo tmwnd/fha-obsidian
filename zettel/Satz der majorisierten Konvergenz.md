@@ -5,7 +5,7 @@ aliases:
   - Satz von Henri Lebesgue
 ---
 
-Sei $f, g, (f_n)_{n \in \mathbb{N}} \in \mathcal{M}$ [[zettel/Funktion messbar|messbare]] [[zettel/Funktion|Funktionen]] mit
+Sei $f, g, (f_n)_{n \in \mathbb{N}} \in \mathcal{M}$ [[zettel/Funktion/Messbarkeit|messbare]] [[zettel/Funktion|Funktionen]] mit
 - $g \ge 0$
 - $\forall n \in \mathbb{N} : |f_n| \le g$
 - $lim_{n \to \infty} f_n = f$

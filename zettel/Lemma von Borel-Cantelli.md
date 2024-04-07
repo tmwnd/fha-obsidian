@@ -15,7 +15,7 @@ $$
 ---
 
 Sei $(\Omega, \mathcal{A}, P)$ ein [[zettel/Wahrscheinlichkeitsraum|Wahrscheinlichkeitsraum]], $(A_n)_{n \in \mathbb{N}}$ Ereignisse mit
-- $(A_n)_{n \in \mathbb{N}}$ [[zettel/Zufallsvariable unabhängig|unabhängig]]
+- $(A_n)_{n \in \mathbb{N}}$ [[zettel/Zufallsvariable/Stochastische Unabhängigkeit|unabhängig]]
 - $\sum_{n=1}^\infty P(A_n) = \infty$
 
 Es gilt

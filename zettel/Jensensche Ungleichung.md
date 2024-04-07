@@ -3,7 +3,7 @@ title: Jensensche Ungleichung
 type: definition
 ---
 
-Sei $-\infty \lt a \le b \lt +\infty$, $C = [a, b] \subset \mathbb{R}$, $f : C \to \mathbb{R}$ [[zettel/Funktion konvex|konvex]], $(\Omega, \mathcal{A}, P)$ ein [[zettel/Wahrscheinlichkeitsraum|Wahrscheinlichkeitsraum]], $X$ eine $C$-wertige [[zettel/Zufallsvariable|Zufallsvariable]] auf $(\Omega, \mathcal{A}, P)$ mit
+Sei $-\infty \lt a \le b \lt +\infty$, $C = [a, b] \subset \mathbb{R}$, $f : C \to \mathbb{R}$ [[zettel/Funktion/Konvexität|konvex]], $(\Omega, \mathcal{A}, P)$ ein [[zettel/Wahrscheinlichkeitsraum|Wahrscheinlichkeitsraum]], $X$ eine $C$-wertige [[zettel/Zufallsvariable|Zufallsvariable]] auf $(\Omega, \mathcal{A}, P)$ mit
 - $E[|X|] \lt \infty$
 - $E[|k \circ X|] \lt \infty$
 
@@ -13,7 +13,7 @@ Es gilt
 
 ---
 
-Sei $-\infty \lt a \le b \lt +\infty$, $C = [a, b] \subset \mathbb{R}$, $f : C \to \mathbb{R}$ [[zettel/Funktion konkav|konkav]], $(\Omega, \mathcal{A}, P)$ ein [[zettel/Wahrscheinlichkeitsraum|Wahrscheinlichkeitsraum]], $X$ eine $C$-wertige [[zettel/Zufallsvariable|Zufallsvariable]] auf $(\Omega, \mathcal{A}, P)$ mit
+Sei $-\infty \lt a \le b \lt +\infty$, $C = [a, b] \subset \mathbb{R}$, $f : C \to \mathbb{R}$ [[zettel/Funktion/Konkavität|konkav]], $(\Omega, \mathcal{A}, P)$ ein [[zettel/Wahrscheinlichkeitsraum|Wahrscheinlichkeitsraum]], $X$ eine $C$-wertige [[zettel/Zufallsvariable|Zufallsvariable]] auf $(\Omega, \mathcal{A}, P)$ mit
 - $E[|X|] \lt \infty$
 - $E[|k \circ X|] \lt \infty$
 

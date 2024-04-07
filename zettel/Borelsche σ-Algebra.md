@@ -1,6 +1,6 @@
 ---
 title: Borelsche σ-Algebra
-type: definition
+type: example
 ---
 
 Seien $\mathscr{S}, \mathcal{O}, \mathcal{A}, \mathcal{K}$ [[zettel/Semiring|Semiringe]] auf $\mathbb{R}$ mit

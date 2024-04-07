@@ -3,10 +3,10 @@ title: μ-konvexe Funktion
 type: definition
 ---
 
-Sei $C \subset \mathbb{R}^d$ [[zettel/Menge konvex|konvex]], $f : C \to \mathbb{R}$ eine [[zettel/Funktion|Funktion]].
+Sei $C \subset \mathbb{R}^d$ [[zettel/Menge/Konvexität|konvex]], $f : C \to \mathbb{R}$ eine [[zettel/Funktion|Funktion]].
 
 $f$ heißt *$\mu$-konvex*, falls
-- $\exists \mu \gt 0 : g(x) := f(x) - \frac{\mu}{2} \| x \|_2^2$ [[zettel/Funktion konvex|konvex]] ist
+- $\exists \mu \gt 0 : g(x) := f(x) - \frac{\mu}{2} \| x \|_2^2$ [[zettel/Funktion/Konvexität|konvex]] ist
 
 ---
 

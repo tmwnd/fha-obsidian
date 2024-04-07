@@ -6,7 +6,7 @@ type: definition
 Seien $X_1, X_2$ [[zettel/Zufallsvariable|Zufallsvariablen]] mit
 - $E[X_1 X_2] \lt \infty \iff \forall i \in \{ 1, 2 \} : E[X_i^2] \lt \infty$
 
-Die *Covarianz* ist mit dem [[zettel/Zufallsvariable Erwartungswert|Erwartungswert]] $E$ definiert als
+Die *Covarianz* ist mit dem [[zettel/Erwartungswert|Erwartungswert]] $E$ definiert als
 
 $$
 	\text{Cov}(X_1, X_2) = E[(X_1 - E[X_1]) \cdot (X_2 - E[X_2])]
@@ -17,7 +17,7 @@ $$
 Seien $X_1, X_2$ [[zettel/Zufallsvariable|Zufallsvariablen]] mit
 - $E[X_1 X_2] \lt \infty$
 
-Es gilt aus der [[zettel/Cauchy-Schwarze Ungleichung|Cauchy-Schwarzen Ungeleichung]] mit der [[zettel/Zufallsvariable Varianz|Varianz]] Var
+Es gilt aus der [[zettel/Cauchy-Schwarze Ungleichung|Cauchy-Schwarzen Ungeleichung]] mit der [[zettel/Varianz|Varianz]] Var
 
 $$
 	|\text{Cov}(X_1, X_2)| \le \sqrt{\text{Var}(X_1) \cdot \text{Var}(X_2)}
@@ -30,7 +30,7 @@ Seien $X_1, X_2$ [[zettel/Zufallsvariable|Zufallsvariablen]] mit
 
 $X_1, X_2$ heißen *unkorreliert*, falls
 - a) $\text{Cov}(X_1, X_2) = 0$
-- b) $X_1, X_2$ [[zettel/Zufallsvariable unabhängig|unabhängig]]
+- b) $X_1, X_2$ [[zettel/Zufallsvariable/Stochastische Unabhängigkeit|unabhängig]]
 
 a) $\iff$ b).
 

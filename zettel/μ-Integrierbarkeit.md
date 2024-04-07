@@ -3,7 +3,7 @@ title: μ-Integrierbarkeit
 type: definition
 ---
 
-Sei $f \in \mathcal{M}$ eine [[zettel/Funktion messbar|messbare]] [[zettel/Funktion|Funktion]].
+Sei $f \in \mathcal{M}$ eine [[zettel/Funktion/Messbarkeit|messbare]] [[zettel/Funktion|Funktion]].
 
 $f$ hat ein *existierendes* $\mu$-[[zettel/μ-Integral|Integral]], falls
 - $\int f^+ d\mu \lt \infty$ oder
@@ -20,7 +20,7 @@ Es gilt
 
 ---
 
-Sei $f \in \mathcal{M}$ eine [[zettel/Funktion messbar|messbare]] [[zettel/Funktion|Funktion]].
+Sei $f \in \mathcal{M}$ eine [[zettel/Funktion/Messbarkeit|messbare]] [[zettel/Funktion|Funktion]].
 
 $f$ heißt *$\mu$-integrierbar*, falls
 - $\int f^+ d\mu \lt \infty$ und
@@ -34,14 +34,14 @@ $$
 
 ---
 
-Sei $f \in \mathcal{M}$ eine [[zettel/Funktion messbar|messbare]] [[zettel/Funktion|Funktion]].
+Sei $f \in \mathcal{M}$ eine [[zettel/Funktion/Messbarkeit|messbare]] [[zettel/Funktion|Funktion]].
 
 Es gilt
 - $f$ $\mu$-integrierbar $\iff$ $|f|$ $\mu$-integrierbar.
 
 ---
 
-Sie $f, g \in \mathcal{M}$ [[zettel/Funktion messbar|messbare]] [[zettel/Funktion|Funktionen]] mit
+Sie $f, g \in \mathcal{M}$ [[zettel/Funktion/Messbarkeit|messbare]] [[zettel/Funktion|Funktionen]] mit
 - $|f| \le |g|$
 
 Es gilt

@@ -4,7 +4,7 @@ type: definition
 ---
 
 Seien $(x_i, y_i)_{i \in \{ 1, \dots, m \}}$ Daten-Paare, $w \in \mathbb{R}^n$, $g$ eine [[zettel/Modellfunktion|Modellfunktion]] mit
-- $g$ [[zettel/Funktion lineare affin|linear affin]]
+- $g$ [[zettel/Funktion/Lineare Affinität|linear affin]]
 - $l(w)$ die [[zettel/Loss-Funktion|Loss-Funktion]] des [[zettel/Least-Square Problem|Least-Square Problems]]
 
 Es gilt bzgl. des [[zettel/Residuenvektor|Residuenvektors]]
@@ -40,9 +40,9 @@ $$
 $$
 
 und
-- $l$ [[zettel/Funktion konvex|konvex]] $\implies$ jedes lokale Minimum ist ein globales Minimum
+- $l$ [[zettel/Funktion/Konvexität|konvex]] $\implies$ jedes lokale Minimum ist ein globales Minimum
 - $l'(w) = 0 \iff A^TAw = A^Tb$
-- $l''(w)$ [[zettel/Matrix definit|positiv semidefinit]] $\implies$ $w$ ist ein lokales Minimum
+- $l''(w)$ [[zettel/Matrix/Definitheit|positiv semidefinit]] $\implies$ $w$ ist ein lokales Minimum
 
 Das zu lösende Normalgleichungssystem ist
 - $\underbrace{w^* = \arg\min_{w \in \mathbb{R}^n} l(w)}_\text{numerisches Optimierungsproblem} \equiv \underbrace{A^TAw = A^Tb}_\text{linesares Gleichungssystem}$^[$w$ nicht eindeutig, da $g$ mehrere globale Minima enthalten kann]

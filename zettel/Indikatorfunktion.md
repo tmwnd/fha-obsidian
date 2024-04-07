@@ -23,7 +23,7 @@ $I_A$ ist genau dann [[zettel/Funktion|messbar]] TODO, falls
 
 ---
 
-Sei $f : (\Omega, \mathcal{A}) \to (\overline{\mathbb{R}}, \overline{\mathcal{L}})$ [[zettel/Funktion messbar|messbar]] mit existierendem $\mu$-[[zettel/μ-Integral|Integral]], $A \in \mathcal{A}$.
+Sei $f : (\Omega, \mathcal{A}) \to (\overline{\mathbb{R}}, \overline{\mathcal{L}})$ [[zettel/Funktion/Messbarkeit|messbar]] mit existierendem $\mu$-[[zettel/μ-Integral|Integral]], $A \in \mathcal{A}$.
 
 Schreibe
 

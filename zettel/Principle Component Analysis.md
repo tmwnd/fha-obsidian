@@ -22,8 +22,8 @@ $$
 $$
 
 Sei
-- $f(z) = V_1(z)$ [[zettel/Funktion konvex|konvex]]
-- $g(z) = \| z \|_2^2 - 1$ [[zettel/Funktion konvex|konvex]]
+- $f(z) = V_1(z)$ [[zettel/Funktion/Konvexität|konvex]]
+- $g(z) = \| z \|_2^2 - 1$ [[zettel/Funktion/Konvexität|konvex]]
 - $L(z, \lambda) = f(z) - \lambda g(z)$ die zu lösende [[zettel/Lagrange-Funktion|Lagrange-Funktion]]
 
 Es gilt
@@ -35,7 +35,7 @@ Sei $\hat{z}$ eine Maximalstelle.
 Es gilt
 - $\exists \hat{\lambda} \in \mathbb{R} : \partial_z L(\hat{z}, \hat{\lambda}) = \partial_\lambda L(\hat{z}, \hat{\lambda}) = 0$
 - $\| z \|_2 = 1$
-- $\Sigma\Sigma^T\hat{z} = \hat{\lambda}\hat{z}$ $\implies$ $\hat{z}$ sind die [[zettel/Matrix Eigenvektor|Eigenvektoren]] bzw. $\hat{\lambda}$ sind die [[zettel/Matrix Eigenwert|Eigenwerte]] von $\Sigma\Sigma^T$
+- $\Sigma\Sigma^T\hat{z} = \hat{\lambda}\hat{z}$ $\implies$ $\hat{z}$ sind die [[zettel/Eigenvektor|Eigenvektoren]] bzw. $\hat{\lambda}$ sind die [[zettel/Eigenwert|Eigenwerte]] von $\Sigma\Sigma^T$
 
 Da
 
@@ -56,7 +56,7 @@ gilt offensichtlich
 - $f(\hat{z}) = \| \Sigma^T e_i \|_2^2 = \sigma_i^2 \implies \arg\max_i f(\hat{z}_i) = 1$
 
 Für unser Ausgangsproblem erhalten wir
-- $\hat{u} = Ue_i = u_i$ den $i$-ten [[zettel/Matrix Singulärvektor|Singulärvektor]] von $X$ als Richtung mit der $i$-t größten Varianz
+- $\hat{u} = Ue_i = u_i$ den $i$-ten [[zettel/Singulärvektor|Singulärvektor]] von $X$ als Richtung mit der $i$-t größten Varianz
 - $V_1(\hat{u}) = V_1(u_i) = \frac{\sigma_i^2}{n-1} = \frac{\lambda_i}{n-1}$
 
 Die $u_j$ heißen *Hauptkomponenten* bzw. *Karhunen-Loeve-Richtungen* zum Datensatz $X$.

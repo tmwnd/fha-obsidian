@@ -6,7 +6,7 @@ aliases:
   - GD
 ---
 
-Sei $f \in C^1(\mathbb{R}^d)$ [[zettel/Funktion konvex|konvex]], $f_* = \inf f$, $(f_t)_{t \in \mathbb{N}} \in C^1(\mathbb{R}^d)$, $(x_t)_{t \in \mathbb{N}} \in \mathbb{R}^d$, $(\gamma_t)_{t \in \mathbb{N}} \in \mathbb{R}^d$ mit
+Sei $f \in C^1(\mathbb{R}^d)$ [[zettel/Funktion/Konvexität|konvex]], $f_* = \inf f$, $(f_t)_{t \in \mathbb{N}} \in C^1(\mathbb{R}^d)$, $(x_t)_{t \in \mathbb{N}} \in \mathbb{R}^d$, $(\gamma_t)_{t \in \mathbb{N}} \in \mathbb{R}^d$ mit
 - $\lim_{t \to \infty} f_t - f_* = 0$
 - $\exists x_* \in \mathbb{R^d} : \lim_{t \to \infty} \| x_t - x_* \| = 0$
 
@@ -18,7 +18,7 @@ $$
 
 ---
 
-| $f$ [[zettel/Funktion konvex|konvex]] | $f$ [[zettel/Funktion Libschitz-stetig|L-stetig]] | $f$ [[zettel/Funktion L-glatt|L-glatt]] | $f$ $\mu$-[[zettel/μ-Stetigkeit|konvex]] | $\gamma$ | $T$ |
+| $f$ [[zettel/Funktion/Konvexität\|konvex]] | $f$ [[zettel/Funktion/Libschitz-Stetigkeit\|L-stetig]] | $f$ [[zettel/Funktion/L-Glattheit\|L-glatt]] | $f$ $\mu$-[[zettel/μ-Stetigkeit\|stetig]] | $\gamma$ | $T$ |
 |--|--|--|--|--|--|
 | x | x ||| $\gamma = \frac{c}{\sqrt{T}}$ | $T \in \mathcal{O}(\frac{1}{\varepsilon^2})$
 | x || x || $0 \lt \gamma \lt \frac{2}{L}$ | $T \in \mathcal{O}(\frac{1}{\varepsilon})$
@@ -26,7 +26,7 @@ $$
 
 ---
 
-Sei $f \in C^1(\mathbb{R}^d)$ [[zettel/Funktion konvex|konvex]], $f_* = \inf f$, $T \in \mathbb{N}$, $(f_t)_{t \in \{ 0, \dots, T-1\}} \in C^1(\mathbb{R}^d)$, $(x_t)_{t \in \{ 0, \dots, T-1\}} \in \mathbb{R}^d$, $\gamma \in \mathbb{R}$ mit
+Sei $f \in C^1(\mathbb{R}^d)$ [[zettel/Funktion/Konvexität|konvex]], $f_* = \inf f$, $T \in \mathbb{N}$, $(f_t)_{t \in \{ 0, \dots, T-1\}} \in C^1(\mathbb{R}^d)$, $(x_t)_{t \in \{ 0, \dots, T-1\}} \in \mathbb{R}^d$, $\gamma \in \mathbb{R}$ mit
 - $\lim_{t \to \infty} f_t - f_* = 0$
 - $\exists x_* \in \mathbb{R^d} : \lim_{t \to \infty} \| x_t - x_* \| = 0$
 - $\hat{t} = \arg\min_{t \in \{ 0, \dots, T-1 \}} (f_t - f_*)$.
@@ -39,7 +39,7 @@ $$
 
 ---
 
-Sei $f \in C^1(\mathbb{R}^d)$ [[zettel/Funktion konvex|konvex]] und [[zettel/Funktion Libschitz-stetig|L-stetig]], $f_* = \inf f$, $T \in \mathbb{N}$, $(f_t)_{t \in \{ 0, \dots, T-1\}} \in C^1(\mathbb{R}^d)$, $(x_t)_{t \in \{ 0, \dots, T-1\}} \in \mathbb{R}^d$, $c \gt 0$, $\omega \in (0, 1)$, $\gamma = \frac{c}{T^\omega}$ mit
+Sei $f \in C^1(\mathbb{R}^d)$ [[zettel/Funktion/Konvexität|konvex]] und [[zettel/Funktion/Libschitz-Stetigkeit|L-stetig]], $f_* = \inf f$, $T \in \mathbb{N}$, $(f_t)_{t \in \{ 0, \dots, T-1\}} \in C^1(\mathbb{R}^d)$, $(x_t)_{t \in \{ 0, \dots, T-1\}} \in \mathbb{R}^d$, $c \gt 0$, $\omega \in (0, 1)$, $\gamma = \frac{c}{T^\omega}$ mit
 - $\lim_{t \to \infty} f_t - f_* = 0$
 - $\exists x_* \in \mathbb{R^d} : \lim_{t \to \infty} \| x_t - x_* \| = 0$
 - $\hat{t} = \arg\min_{t \in \{ 0, \dots, T-1 \}} (f_t - f_*)$.
@@ -68,7 +68,7 @@ mit $\mathcal{O}(\frac{1}{\varepsilon^2})$
 
 ---
 
-Sei $f \in C^1(\mathbb{R}^d)$ [[zettel/Funktion konvex|konvex]] und [[zettel/Funktion L-glatt|L-glatt]], $f_* = \inf f$, $T \in \mathbb{N}$, $(f_t)_{t \in \{ 0, \dots, T-1\}} \in C^1(\mathbb{R}^d)$, $(x_t)_{t \in \{ 0, \dots, T-1\}} \in \mathbb{R}^d$, $c \gt 0$, $\omega \in (0, 1)$, $0 \lt \gamma \lt \frac{2}{L}$ mit
+Sei $f \in C^1(\mathbb{R}^d)$ [[zettel/Funktion/Konvexität|konvex]] und [[zettel/Funktion/L-Glattheit|L-glatt]], $f_* = \inf f$, $T \in \mathbb{N}$, $(f_t)_{t \in \{ 0, \dots, T-1\}} \in C^1(\mathbb{R}^d)$, $(x_t)_{t \in \{ 0, \dots, T-1\}} \in \mathbb{R}^d$, $c \gt 0$, $\omega \in (0, 1)$, $0 \lt \gamma \lt \frac{2}{L}$ mit
 - $\lim_{t \to \infty} f_t - f_* = 0$
 - $\exists x_* \in \mathbb{R^d} : \lim_{t \to \infty} \| x_t - x_* \| = 0$
 - $\hat{t} = \arg\min_{t \in \{ 0, \dots, T-1 \}} (f_t - f_*)$
@@ -89,7 +89,7 @@ mit $\mathcal{O}(\frac{1}{\varepsilon})$
 
 ---
 
-Sei $f \in C^1(\mathbb{R}^d)$ [[zettel/Funktion konvex|konvex]], [[zettel/Funktion L-glatt|L-glatt]] und $\mu$-[[zettel/μ-konvexe Funktion|konvex]], $f_* = \inf f$, $T \in \mathbb{N}$, $(f_t)_{t \in \{ 0, \dots, T-1\}} \in C^1(\mathbb{R}^d)$, $(x_t)_{t \in \{ 0, \dots, T-1\}} \in \mathbb{R}^d$, $c \gt 0$, $\omega \in (0, 1)$, $0 \lt \gamma \lt \frac{1}{L}$ mit
+Sei $f \in C^1(\mathbb{R}^d)$ [[zettel/Funktion/Konvexität|konvex]], [[zettel/Funktion/L-Glattheit|L-glatt]] und $\mu$-[[zettel/μ-konvexe Funktion|konvex]], $f_* = \inf f$, $T \in \mathbb{N}$, $(f_t)_{t \in \{ 0, \dots, T-1\}} \in C^1(\mathbb{R}^d)$, $(x_t)_{t \in \{ 0, \dots, T-1\}} \in \mathbb{R}^d$, $c \gt 0$, $\omega \in (0, 1)$, $0 \lt \gamma \lt \frac{1}{L}$ mit
 - $\lim_{t \to \infty} f_t - f_* = 0$
 - $\exists x_* \in \mathbb{R^d} : \lim_{t \to \infty} \| x_t - x_* \| = 0$
 - $\hat{t} = \arg\min_{t \in \{ 0, \dots, T-1 \}} (f_t - f_*)$

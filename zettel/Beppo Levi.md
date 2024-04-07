@@ -5,7 +5,7 @@ aliases:
   - Satz der monotonen Konvergenz
 ---
 
-Sei $f, (f_n)_{n \in \mathbb{N}} \in \mathcal{M}_+$ [[zettel/Funktion messbar|messbare]] [[zettel/Funktion|Funktionen]] mit
+Sei $f, (f_n)_{n \in \mathbb{N}} \in \mathcal{M}_+$ [[zettel/Funktion/Messbarkeit|messbare]] [[zettel/Funktion|Funktionen]] mit
 - $f_n \uparrow f$
 
 Es gilt für das $\mu$-[[zettel/μ-Integral|Integral]]

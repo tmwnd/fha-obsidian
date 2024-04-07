@@ -1,7 +1,9 @@
 ---
-title: Lebesgue-Borelsches Ma�
-type: definition
+title: Lebesgue-Borelsches Maß
+type: example
 ---
+
+TODO stiejltjes
 
 Das zu $F(x) = x, x \in \mathbb{R}$ gehörende [[zettel/Maß|Maß]] $\lambda$ heißt *Lebesgue-Borelsches Maß* auf der Borelschen $\sigma$-[[zettel/Borelsche σ-Algebra|Algebra]] $\mathcal{L}$
 
@@ -18,7 +20,7 @@ Zu jeder [[modules/sto1/Korollar 1.17|Verteilungsfunktion]] $F : \mathbb{R} \to 
 
 ---
 
-Das Lebesgue Borelsche Maß ist [[sigma-Algebra Invarianzen|translations-]] und [[sigma-Algebra Invarianzen|spiegelungsinvariant]].
+Das Lebesgue Borelsche Maß ist [[zettel/σ-Algebra translationsinvariant|translations-]] und [[zettel/σ-Algebra spiegelungsinvariant|spiegelungsinvariant]].
 
 ---
 
@@ -48,11 +50,11 @@ $$
 
 ---
 
-Jede stetige [[zettel/Funktion|Funktion]] $f : \mathbb{R}^d \to \mathbb{R}^p$ ist $(\mathcal{L}^d, \mathcal{L}^p)$-[[zettel/Funktion A-S-messbar|messbar]].
+Jede stetige [[zettel/Funktion|Funktion]] $f : \mathbb{R}^d \to \mathbb{R}^p$ ist $(\mathcal{L}^d, \mathcal{L}^p)$-[[zettel/Funktion/A-S-Messbarkeit|messbar]].
 
 ---
 
-$f : \Omega \to \overline{\mathbb{R}}$ ist genau dann $(\mathcal{A}, \overline{\mathcal{L}})$-[[zettel/Funktion A-S-messbar|messbar]], falls
+$f : \Omega \to \overline{\mathbb{R}}$ ist genau dann $(\mathcal{A}, \overline{\mathcal{L}})$-[[zettel/Funktion/A-S-Messbarkeit|messbar]], falls
 - a) $\forall a \in \mathbb{R} : \{ f \gt a \} = \{ \omega \in \Omega, f(\omega) \gt a \}$ = $f^{-1}((a, +\infty]) \in \mathcal{A}$
 - b) $\forall a \in \mathbb{R} : \{ f \ge a \} = \{ \omega \in \Omega, f(\omega) \ge a \}$ = $f^{-1}([a, +\infty]) \in \mathcal{A}$
 - c) $\forall b \in \mathbb{R} : \{ f \lt b \} = \{ \omega \in \Omega, f(\omega) \lt b \}$ = $f^{-1}([-\infty, b)) \in \mathcal{A}$

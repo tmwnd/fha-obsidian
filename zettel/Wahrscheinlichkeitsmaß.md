@@ -12,4 +12,4 @@ $P$ heißt *Wahrscheinlichkeitsmaß*, falls
 
 ---
 
-![[zettel/Wahrscheinlichkeitsmaß diskret|Wahrscheinlichkeitsmaß diskret]]
+![[zettel/Wahrscheinlichkeitsmaß/Diskretes Wahrscheinlichkeitsmaß|Diskretes Wahrscheinlichkeitsmaß]]

@@ -3,7 +3,7 @@ title: Schwaches Gesetz der gro�en Zahlen
 type: definition
 ---
 
-Sei $(\Omega, \mathcal{A}, P)$ ein [[zettel/Wahrscheinlichkeitsraum|Wahrscheinlichkeitsraum]]. $(X_n)_{n \in \mathbb{N}}$ reelle, [[zettel/Zufallsvariable unabhängig|unabhängige]] und identisch verteilte [[zettel/Zufallsvariable|Zufallsvariablen]], $\mu \in \mathbb{R}$ mit dem [[zettel/Zufallsvariable Erwartungswert|Erwartungswert]] $E$ mit
+Sei $(\Omega, \mathcal{A}, P)$ ein [[zettel/Wahrscheinlichkeitsraum|Wahrscheinlichkeitsraum]]. $(X_n)_{n \in \mathbb{N}}$ reelle, [[zettel/Zufallsvariable/Stochastische Unabhängigkeit|unabhängige]] und identisch verteilte [[zettel/Zufallsvariable|Zufallsvariablen]], $\mu \in \mathbb{R}$ mit dem [[zettel/Erwartungswert|Erwartungswert]] $E$ mit
 - $\forall n \in \mathbb{N} : E[X_n]$ existiert und ist endlich
 - $\forall n \in \mathbb{N} : E[X_n] = \mu$
 

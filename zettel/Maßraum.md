@@ -7,8 +7,8 @@ Ein Tripel $(\Omega, \mathcal{A}, \mu)$ aus der Menge $\Omega$, der $\sigma$-[[z
 
 ---
 
-![[zettel/Maßraum σ-finit|Maßraum σ-finit]]
+![[zettel/Maßraum/σ-Finitheit|σ-Finitheit]]
 
 ---
 
-![[zettel/Maßraum vollständig|Maßraum vollständig]]
+![[zettel/Maßraum/Vollständigkeit|Vollständigkeit]]

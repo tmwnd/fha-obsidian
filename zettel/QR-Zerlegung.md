@@ -12,10 +12,10 @@ Das zu lösende Normalgleichungssystem ist
 Zerlege $X$, sodass
 - $X = QR = Q\begin{pmatrix} \tilde{R} \\ 0 \end{pmatrix}$
 - $Q \in \mathbb{R}^{m \times m}$
-- $Q$ [[zettel/Matrix orthogonal|orthogonal]]
+- $Q$ [[zettel/Matrix/Orthogonalität|orthogonal]]
 - $R \in \mathbb{R}^{m \times n}$
 - $\tilde{R} \in \mathbb{R}^{n \times n}$
-- $\tilde{R}$ eine [[zettel/Matrix quadratisch|quadratische]] [[zettel/Dreiecksmatrix|obere Dreiecksmatrix]]
+- $\tilde{R}$ eine [[zettel/Matrix/Quadratische Matrix|quadratische]] [[zettel/Dreiecksmatrix|obere Dreiecksmatrix]]
 
 Es gilt
 
@@ -50,4 +50,4 @@ Vorteile:
 
 Nachteile:
 - Die Komplexität der Zerlegung von $X$ ist $\mathcal{O}(n^3)$
-- $X$ [[zettel/Matrix sparse|Matrix sparse]], $Q$, $R$ nicht [[zettel/Matrix sparse|Matrix sparse]]
+- $X$ [[zettel/Matrix/Dünnbesetztheit|Dünnbesetztheit]], $Q$, $R$ nicht [[zettel/Matrix/Dünnbesetztheit|Dünnbesetztheit]]

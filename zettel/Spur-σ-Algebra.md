@@ -1,6 +1,6 @@
 ---
 title: Spur-σ-Algebra
-type: definition
+type: example
 ---
 
 Sei $\mathcal{A}$ eine $\sigma$-[[zettel/σ-Algebra|Algebra]] auf $\Omega$, $B \subseteq \Omega$.

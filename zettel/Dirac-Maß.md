@@ -1,6 +1,6 @@
 ---
 title: Dirac-Maß
-type: definition
+type: example
 aliases:
   - Einpunktmaß
 ---

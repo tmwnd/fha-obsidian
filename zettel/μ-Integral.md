@@ -26,7 +26,7 @@ Das $\mu$-Integral ist ein *positives* *lineares* *Funktional* auf dem reellen V
 
 ---
 
-Sei $f \in \mathcal{M}_+$ eine [[zettel/Funktion messbar|messbare]] [[zettel/Funktion|Funktion]], $(f_n)_{n \in \mathbb{N}} \in \mathcal{P}_+$ [[zettel/Funktion|primitive]] [[zettel/Funktion|Funktionen]] mit
+Sei $f \in \mathcal{M}_+$ eine [[zettel/Funktion/Messbarkeit|messbare]] [[zettel/Funktion|Funktion]], $(f_n)_{n \in \mathbb{N}} \in \mathcal{P}_+$ [[zettel/Funktion|primitive]] [[zettel/Funktion|Funktionen]] mit
 - $f_n \uparrow f$
 
 Das $\mu$-[[mu-Integral|Integral]] auf $f$ ist definiert als

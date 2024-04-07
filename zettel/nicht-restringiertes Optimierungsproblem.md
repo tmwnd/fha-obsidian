@@ -24,13 +24,13 @@ Sei $f \in C^2(\mathbb{R}^d)$.
 
 Falls $x_* \in \arg\min_{x \in \mathbb{R^d}} f(x)$ gilt
 - $f'(x_*) = 0$
-- $f''(x_*)$ ist [[zettel/Matrix definit|positiv semidefinit]]
+- $f''(x_*)$ ist [[zettel/Matrix/Definitheit|positiv semidefinit]]
 
 ---
 
 Sei $f \in C^2(\mathbb{R}^d)$.
 
-Falls $f'(\tilde{x}) = 0 \land f''(\tilde{x})$ [[zettel/Matrix definit|positiv semidefinit]] gilt
+Falls $f'(\tilde{x}) = 0 \land f''(\tilde{x})$ [[zettel/Matrix/Definitheit|positiv semidefinit]] gilt
 - $\tilde{x} \in \arg\min_{x \in \mathbb{R^d}} f(x)$
 
 Schreibe

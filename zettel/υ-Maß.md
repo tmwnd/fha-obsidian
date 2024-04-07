@@ -1,9 +1,9 @@
 ---
 title: υ-Maß
-type: definition
+type: example
 ---
 
-Sei $f \in \mathcal{M}_+$ eine [[zettel/Funktion messbar|messbare]] [[zettel/Funktion|Funktion]], $A \in \mathcal{A}$.
+Sei $f \in \mathcal{M}_+$ eine [[zettel/Funktion/Messbarkeit|messbare]] [[zettel/Funktion|Funktion]], $A \in \mathcal{A}$.
 
 Das [[zettel/Maß|Maß]] $\nu$ ist auf $(\Omega, \mathcal{A})$ mit dem $\mu$-[[zettel/μ-Integral|Integral]] definiert als
 

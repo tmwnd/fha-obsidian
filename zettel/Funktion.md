@@ -3,28 +3,28 @@ title: Funktion
 type: definition
 ---
 
-![[zettel/Funktion Positivteil|Funktion Positivteil]]
+![[modules/sto1/Verteilungskonvergenz, Fourier-Transformierte, der zentrale Grenzwertsatz/Positivteil|Positivteil]]
 
 ---
 
-![[zettel/Funktion Negativteil|Funktion Negativteil]]
+![[modules/sto1/Verteilungskonvergenz, Fourier-Transformierte, der zentrale Grenzwertsatz/Negativteil|Negativteil]]
 
 ---
 
 Sei $f$ eine Funktion mit
-- dem [[zettel/Funktion Positivteil|Positivteil]] $f^+$
-- dem [[zettel/Funktion Negativteil|Negativteil]] $f^-$
+- dem [[modules/sto1/Verteilungskonvergenz, Fourier-Transformierte, der zentrale Grenzwertsatz/Positivteil|Positivteil]] $f^+$
+- dem [[modules/sto1/Verteilungskonvergenz, Fourier-Transformierte, der zentrale Grenzwertsatz/Negativteil|Negativteil]] $f^-$
 
 Es gilt
 - $f = f^+ - f^-$
 
 ---
 
-![[zettel/Funktion messbar|Funktion messbar]]
+![[zettel/Funktion/Messbarkeit|Messbarkeit]]
 
 ---
 
-![[zettel/Funktion elementar|Funktion elementar]]
+![[zettel/Funktion/Elementarfunktion|Elementarfunktion]]
 
 ---
 
@@ -36,20 +36,20 @@ Eine Funktion $g$ ist *$\mu$-[[zettel/μ-Nullmengen|f. ü.]] definiert*, falls
 
 ---
 
-![[zettel/Funktion monoton|Funktion monoton]]
+![[zettel/Funktion/Monotonie|Monotonie]]
 
 ---
 
-![[zettel/Funktion additiv|Funktion additiv]]
+![[zettel/Funktion/Additivität|Additivität]]
 
 ---
 
-![[zettel/Funktion subadditiv|Funktion subadditiv]]
+![[zettel/Funktion/Subadditivität|Subadditivität]]
 
 ---
 
-![[zettel/Funktion σ-additiv|Funktion σ-additiv]]
+![[zettel/Funktion/σ-Additivität|σ-Additivität]]
 
 ---
 
-![[zettel/Funktion σ-subadditiv|Funktion σ-subadditiv]]
+![[zettel/Funktion/σ-Subadditivität|σ-Subadditivität]]

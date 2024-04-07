@@ -7,7 +7,7 @@ aliases:
 
 Sei $X \in \mathbb{R}^{m \times n}, y \in \mathbb{R}^m$, $w^{(0)} \in \mathbb{R}^n$ mit
 - $\underbrace{X^TX}_Aw = \underbrace{X^Ty}_b$
-- $A$ ist [[zettel/Matrix symmetrisch positiv definit|spd]]
+- $A$ ist [[zettel/Matrix/Symmetrisch positiv Definitheit|spd]]
 - $s^{(0)} = y - Xw^{(0)}$
 - $p^{(0)} = r^{(0)} = X^Ts^{(0)}$
 

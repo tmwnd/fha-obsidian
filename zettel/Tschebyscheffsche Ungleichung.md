@@ -3,7 +3,7 @@ title: Tschebyscheffsche Ungleichung
 type: definition
 ---
 
-Sei $\mu$ ein [[zettel/Maß|Maß]], $f : (\Omega, \mathcal{A}) \to (\overline{R}, \overline{\mathcal{L}})$ [[zettel/Funktion messbar|messbar]].
+Sei $\mu$ ein [[zettel/Maß|Maß]], $f : (\Omega, \mathcal{A}) \to (\overline{R}, \overline{\mathcal{L}})$ [[zettel/Funktion/Messbarkeit|messbar]].
 
 Es gilt
 

@@ -1,6 +1,6 @@
 ---
 title: tau-Maß
-type: definition
+type: example
 aliases:
   - Zählmaß
 ---

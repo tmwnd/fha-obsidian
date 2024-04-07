@@ -1,6 +1,6 @@
 ---
 title: Produkt-σ-Algebra
-type: definition
+type: example
 aliases:
   - Kolmogorowsche σ-Algebra
 ---

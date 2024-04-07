@@ -38,8 +38,8 @@ $$
 $$
 
 Es gilt
-- $\text{dom}_q$ ist [[zettel/Funktion konvex|konvex]]
-- $-q$ ist [[zettel/Funktion konvex|konvex]]
+- $\text{dom}_q$ ist [[zettel/Funktion/Konvexität|konvex]]
+- $-q$ ist [[zettel/Funktion/Konvexität|konvex]]
 - $\sup_{\text{dom}_q} q(\lambda, \mu) \le \inf_{R_p} f(x)$
 
 Sei $x_*$ eine Lösung von $\inf_{R_p} f(x)$, $\lambda_*, \mu_*$ die Lösung von $\sup_{\text{dom}_q} q(\lambda, \mu)$.
@@ -50,7 +50,7 @@ Falls $f(x_*) - q(\lambda_*, \mu_*) \ge 0$
 Falls $f(x_*) - q(\lambda_*, \mu_*) = 0$ gilt
 - *starke Dualität*
 
-Falls $f$, $g$ [[zettel/Funktion konvex|konvex]], $h$ [[zettel/Funktion lineare affin|linear affin]] gilt
+Falls $f$, $g$ [[zettel/Funktion/Konvexität|konvex]], $h$ [[zettel/Funktion/Lineare Affinität|linear affin]] gilt
 - *starke Dualität*
 
 ---
