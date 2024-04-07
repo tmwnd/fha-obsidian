@@ -1,8 +1,9 @@
 ---
 title: Mengensysteme
-type: definition
+type: bonus
 ---
 
+![[zettel/Mengensystem|Mengensystem]]
 ![[zettel/Semiring|Semiring]]
 ![[zettel/Ring|Ring]]
 ![[zettel/Dynkin-System|Dynkin-System]]

@@ -9,7 +9,7 @@ Eine $\sigma$-[[zettel/Funktion/σ-Additivität|additive]] [[zettel/Funktion|Fun
 
 ---
 
-![[zettel/Maß/Endlichkeit|Endlichkeit]]
+![[zettel/Maß/Finitheit|Finitheit]]
 
 ---
 

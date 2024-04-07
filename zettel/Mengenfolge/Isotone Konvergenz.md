@@ -3,7 +3,9 @@ title: Isoton konvergente Folge
 type: property
 ---
 
-Die Folge $(A_n)_{n \in \mathbb{N}} \subseteq \Omega$ heißt *isoton konvergent* gegen $A \subseteq \Omega$, falls
+Sei $(A_n)_{n \in \mathbb{N}} \subseteq \Omega$.
+
+$(A_n)_{n \in \mathbb{N}}$ heißt *isoton konvergent* gegen $A \subseteq \Omega$, falls
 - $\forall n \in \mathbb{N} : A_n \subseteq A_{n + 1}$
 - $A = \bigcup_{n \in \mathbb{N}}  A_n$
 

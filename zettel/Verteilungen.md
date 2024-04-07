@@ -1,6 +1,6 @@
 ---
 title: Verteilungen
-type: definition
+type: bonus
 ---
 
 ![[zettel/Gleichverteilung|Gleichverteilung]]

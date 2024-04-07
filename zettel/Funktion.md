@@ -3,17 +3,17 @@ title: Funktion
 type: definition
 ---
 
-![[zettel/Maß/Positivteil|Positivteil]]
+![[zettel/Positivteil|Positivteil]]
 
 ---
 
-![[zettel/Maß/Negativteil|Negativteil]]
+![[zettel/Negativteil|Negativteil]]
 
 ---
 
 Sei $f$ eine Funktion mit
-- dem [[zettel/Maß/Positivteil|Positivteil]] $f^+$
-- dem [[zettel/Maß/Negativteil|Negativteil]] $f^-$
+- dem [[zettel/Positivteil|Positivteil]] $f^+$
+- dem [[zettel/Negativteil|Negativteil]] $f^-$
 
 Es gilt
 - $f = f^+ - f^-$

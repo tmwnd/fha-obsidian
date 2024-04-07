@@ -1,6 +1,6 @@
 ---
 title: Integrale
-type: definition
+type: bonus
 ---
 
 ![[zettel/μ-Integral|μ-Integral]]
@@ -10,3 +10,4 @@ type: definition
 ![[zettel/λ-a-b-Integral|λ-a-b-Integral]]
 ![[zettel/λ-Integral|λ-Integral]]
 ![[zettel/P-Integral|P-Integral]]
+![[zettel/PX-Integral|PX-Integral]]

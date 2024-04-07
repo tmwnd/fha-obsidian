@@ -1,6 +1,8 @@
 ---
 title: Algebra
 type: definition
+aliases:
+  - Mengenalgebra
 ---
 
 $\mathcal{A} \subseteq \mathcal{P}(\Omega)$ heißt *Algebra* auf $\Omega$, falls
