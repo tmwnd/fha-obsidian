@@ -13,7 +13,7 @@ $$
 
 ---
 
-Sei $1 \le p \lt d$, $Z \sim \mathcal{N}(\mu, \Sigma)$ ein $d$-dimensionaler [[zettel/Normalverteilung|normalverteilter]] [[zettel/Zufallsvariable|Zufallsvektor]] mit der [[zettel/Covarianz|Kovarianzmatrix]] Cov und
+Sei $1 \le p \lt d$, $Z \sim \mathcal{N}(\mu, \Sigma)$ ein $d$-dimensionaler [[zettel/Normalverteilung|normalverteilter]] [[zettel/Zufallsvariable|Zufallsvektor]] mit der [[zettel/Kovarianz|Kovarianzmatrix]] Cov und
 - $X = (Z_1, \dots, Z_p)$
 - $Y = (Z_{p+1}, \dots, Z_d)$
 - $\Sigma_X = \text{Cov}(X)$

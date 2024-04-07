@@ -1,12 +1,14 @@
 ---
-title: Covarianz
+title: Kovarianz
 type: definition
+aliases:
+  - Covarianz
 ---
 
 Seien $X_1, X_2$ [[zettel/Zufallsvariable|Zufallsvariablen]] mit
 - $E[X_1 X_2] \lt \infty \iff \forall i \in \{ 1, 2 \} : E[X_i^2] \lt \infty$
 
-Die *Covarianz* ist mit dem [[zettel/Erwartungswert|Erwartungswert]] $E$ definiert als
+Die *Kovarianz* ist mit dem [[zettel/Erwartungswert|Erwartungswert]] $E$ definiert als
 
 $$
 	\text{Cov}(X_1, X_2) = E[(X_1 - E[X_1]) \cdot (X_2 - E[X_2])]

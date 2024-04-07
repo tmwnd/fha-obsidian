@@ -3,7 +3,7 @@ title: Residuenvektor
 type: definition
 ---
 
-Seien $(x_i, y_i)_{i \in \{ 1, \dots, m \}}$ Daten-Paare, $w \in \mathbb{R}^n$, $g$ eine [[zettel/Modellfunktion|Modellfunktion]].
+Seien $(x_i, y_i)_{i \in \{ 1, \dots, m \}}$ Datenpaare, $w \in \mathbb{R}^n$, $g$ eine [[zettel/Modellfunktion|Modellfunktion]].
 
 Der *Residuenvektor *$L$ ist definiert als
 $$

@@ -4,7 +4,7 @@ type: subsection
 ---
 
 ![[zettel/Satze der monotonen Konvergenz|Satze der monotonen Konvergenz]]
-![[modules/sto1/Korollar 3.5|Korollar 3.5]]
+![[zettel/_corollaries/Korollar 3.5|Korollar 3.5]]
 ![[zettel/Lemma von Fatou|Lemma von Fatou]]
 ![[zettel/Satz der majorisierten Konvergenz|Satz der majorisierten Konvergenz]]
 ![[zettel/Pratts Version des Satzes von der majorisierten Konvergenz|Pratts Version des Satzes von der majorisierten Konvergenz]]

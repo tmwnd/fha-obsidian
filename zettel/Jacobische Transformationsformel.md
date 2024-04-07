@@ -9,12 +9,12 @@ Die $\lambda^d$-[[zettel/λ-Dichte|Dichte]] des [[zettel/Zufallsvariable|Zufallv
 
 ---
 
-![[modules/sto1/Satz 3.20|Satz 3.20]]
+![[zettel/_theorems/Satz 3.20|Satz 3.20]]
 
 ---
 
-![[modules/sto1/Satz 3.21|Satz 3.21]]
+![[zettel/_theorems/Satz 3.21|Satz 3.21]]
 
 ---
 
-![[modules/sto1/Satz 3.22|Satz 3.22]]
+![[zettel/_theorems/Satz 3.22|Satz 3.22]]

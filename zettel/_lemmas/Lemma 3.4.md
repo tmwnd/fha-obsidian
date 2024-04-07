@@ -1,6 +1,6 @@
 ---
-title: Bemerkung 3.4
-type: TODO
+title: Lemma 3.4
+type: lemma
 ---
 
 Sei $(\Omega, \mathcal{A}, P)$ ein [[zettel/Wahrscheinlichkeitsraum|Wahrscheinlichkeitsraum]], $\mathcal{L}$ die Borelsche $\sigma$-[[zettel/Borelsche σ-Algebra|Algebra]], $X : (\Omega, \mathcal{A}) \to (\overline{R}, \overline{\mathcal{L}})$ eine diskret verteilte [[zettel/Zufallsvariable|Zufallsvariable]], $\delta_a$ das [[zettel/Dirac-Maß|Dirac-Maß]] und $(R, \mathscr{S})$ ein [[zettel/Messraum|Messraum]] mit

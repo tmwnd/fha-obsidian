@@ -18,7 +18,7 @@ $$
 
 ---
 
-| $f$ [[zettel/Funktion/Konvexität\|konvex]] | $f$ [[zettel/Funktion/Libschitz-Stetigkeit\|L-stetig]] | $f$ [[zettel/Funktion/L-Glattheit\|L-glatt]] | $f$ $\mu$-[[zettel/μ-Stetigkeit\|stetig]] | $\gamma$ | $T$ |
+| $f$ [[zettel/Funktion/Konvexität\|konvex]] | $f$ [[zettel/Funktion/Libschitz-Stetigkeit\|L-stetig]] | $f$ [[zettel/Funktion/L-Glattheit\|L-glatt]] | $f$ $\mu$-[[zettel/Funktion/μ-Stetigkeit|stetig]] | $\gamma$ | $T$ |
 |--|--|--|--|--|--|
 | x | x ||| $\gamma = \frac{c}{\sqrt{T}}$ | $T \in \mathcal{O}(\frac{1}{\varepsilon^2})$
 | x || x || $0 \lt \gamma \lt \frac{2}{L}$ | $T \in \mathcal{O}(\frac{1}{\varepsilon})$
@@ -89,7 +89,7 @@ mit $\mathcal{O}(\frac{1}{\varepsilon})$
 
 ---
 
-Sei $f \in C^1(\mathbb{R}^d)$ [[zettel/Funktion/Konvexität|konvex]], [[zettel/Funktion/L-Glattheit|L-glatt]] und $\mu$-[[zettel/μ-konvexe Funktion|konvex]], $f_* = \inf f$, $T \in \mathbb{N}$, $(f_t)_{t \in \{ 0, \dots, T-1\}} \in C^1(\mathbb{R}^d)$, $(x_t)_{t \in \{ 0, \dots, T-1\}} \in \mathbb{R}^d$, $c \gt 0$, $\omega \in (0, 1)$, $0 \lt \gamma \lt \frac{1}{L}$ mit
+Sei $f \in C^1(\mathbb{R}^d)$ [[zettel/Funktion/Konvexität|konvex]], [[zettel/Funktion/L-Glattheit|L-glatt]] und $\mu$-[[zettel/Funktion/μ-Konvexität|konvex]], $f_* = \inf f$, $T \in \mathbb{N}$, $(f_t)_{t \in \{ 0, \dots, T-1\}} \in C^1(\mathbb{R}^d)$, $(x_t)_{t \in \{ 0, \dots, T-1\}} \in \mathbb{R}^d$, $c \gt 0$, $\omega \in (0, 1)$, $0 \lt \gamma \lt \frac{1}{L}$ mit
 - $\lim_{t \to \infty} f_t - f_* = 0$
 - $\exists x_* \in \mathbb{R^d} : \lim_{t \to \infty} \| x_t - x_* \| = 0$
 - $\hat{t} = \arg\min_{t \in \{ 0, \dots, T-1 \}} (f_t - f_*)$
@@ -111,7 +111,7 @@ mit $\mathcal{O}(\log(\frac{1}{\varepsilon}))$
 
 ---
 
-Seien $(x_i, y_i)_{i \in \{ 1, \dots, m \}}$ Daten-Paare, $l$ eine differenzierbare [[zettel/Loss-Funktion|Loss-Funktion]], $w^{(0)} \in \mathbb{R}^n$, $\gamma^{(k)} \ge 0$ die Schrittlänge.
+Seien $(x_i, y_i)_{i \in \{ 1, \dots, m \}}$ Datenpaare, $l$ eine differenzierbare [[zettel/Loss-Funktion|Loss-Funktion]], $w^{(0)} \in \mathbb{R}^n$, $\gamma^{(k)} \ge 0$ die Schrittlänge.
 
 Die $k$-te Iteration des *Gradientenverfahrens* ist definiert als
 

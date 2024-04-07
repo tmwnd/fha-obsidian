@@ -3,11 +3,11 @@ title: Unabhängige Zufallsvariablen
 type: subsection
 ---
 
-![[modules/sto1/Bemerkung 4.3.1|Bemerkung 4.3.1]]
-![[modules/sto1/Bemerkung 4.3.2|Bemerkung 4.3.2]]
+![[zettel/_lemmas/Lemma 4.3.1|Lemma 4.3.1]]
+![[zettel/_lemmas/Lemma 4.3.2|Lemma 4.3.2]]
 ![[zettel/Randverteilung|Randverteilung]]
 ![[zettel/μ-Dichte|μ-Dichte]]
 ![[zettel/Zufallsvariable/Stochastische Unabhängigkeit|Stochastische Unabhängigkeit]]
-![[zettel/Covarianz|Covarianz]]
+![[zettel/Kovarianz|Kovarianz]]
 ![[zettel/Korrelationskoeffizient|Korrelationskoeffizient]]
-![[modules/sto1/Satz 4.7|Satz 4.7]]
+![[zettel/_theorems/Satz 4.7|Satz 4.7]]

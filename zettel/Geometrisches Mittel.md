@@ -5,7 +5,7 @@ aliases:
   - Proportionale
 ---
 
-Seien $(x_i, y_i)_{i \in \{ 1, \dots, n \}}$ Daten-Paare.
+Seien $(x_i, y_i)_{i \in \{ 1, \dots, n \}}$ Datenpaare.
 
 Das *geometrische Mittel* $\overline{X}_\text{geom}$ ist definiert als
 

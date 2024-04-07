@@ -1,6 +1,6 @@
 ---
 title: Eindeutigkeitssatz für die Fourier-Transformierte
-type: definition
+type: theorem
 ---
 
 Seien $X_1, X_2$ $d$-dimensionale [[zettel/Zufallsvariable|Zufallsvektoren]] mit den [[zettel/Fourier-Transformierte|Fourier-Transformierten]] $\varphi_1, \varphi_2$.

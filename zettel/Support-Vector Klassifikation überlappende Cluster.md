@@ -6,7 +6,7 @@ aliases:
   - SVC überlappende Cluster
 ---
 
-Seien $(x_i, y_i)_{i \in \{ 1, \dots, n \}}$ Daten-Paare, $w \in \mathbb{R}^{m+1}$, $H(w)$ eine [[zettel/Hyperebene|Hyperebene]], $g(x, w)$ die Funktion aus $H(w)$, $M \in \mathbb{R}$ der  Mindestabstand aller Punkte $x_i$ zu $H(w)$, $\xi$ der erlaubte relative Fehler, $C \ge 0$ die Gewichtung von $\xi$ mit
+Seien $(x_i, y_i)_{i \in \{ 1, \dots, n \}}$ Datenpaare, $w \in \mathbb{R}^{m+1}$, $H(w)$ eine [[zettel/Hyperebene|Hyperebene]], $g(x, w)$ die Funktion aus $H(w)$, $M \in \mathbb{R}$ der  Mindestabstand aller Punkte $x_i$ zu $H(w)$, $\xi$ der erlaubte relative Fehler, $C \ge 0$ die Gewichtung von $\xi$ mit
 - $\forall i \in \{ 1, \dots, n \} : x_i \in \mathbb{R}^n$
 - $\forall i \in \{ 1, \dots, n \} : y_i \in \{ -1, 1 \}$
 - $\forall i \in \{ 1, \dots, n \} : y_ig(x_i, w) \ge M \gt 0$

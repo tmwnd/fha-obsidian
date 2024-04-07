@@ -1,6 +1,6 @@
 ---
-title: Bemerkung 4.2.1
-type: TODO
+title: Lemma 4.2.1
+type: lemma
 ---
 
 Seien $((\Omega_i, \mathcal{A}_i))_{i \in \{ 1, 2 \}}$ [[zettel/Messraum|Messräume]] mit

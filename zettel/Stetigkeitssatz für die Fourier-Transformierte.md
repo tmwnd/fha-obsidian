@@ -1,6 +1,6 @@
 ---
 title: Stetigkeitssatz für die Fourier-Transformierte
-type: definition
+type: theorem
 ---
 
 Seien $X, (X_n)_{n \in \mathbb{N}}$ $d$-dimensionale [[zettel/Zufallsvariable|Zufallsvektoren]] mit den [[zettel/Fourier-Transformierte|Fourier-Transformierten]] $\varphi, (\varphi_n)_{n \in \mathbb{N}}$ mit

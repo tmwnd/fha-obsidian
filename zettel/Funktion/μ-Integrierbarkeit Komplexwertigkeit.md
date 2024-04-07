@@ -1,13 +1,13 @@
 ---
 title: μ-Integrierbarkeit einer komplexwertigen Funktion
-type: definition
+type: property
 ---
 
 Sei $(\Omega, \mathcal{A}, \mu)$ ein [[zettel/Maßraum|Maßraum]], $f: (\Omega, \mathcal{A}) \to (\mathbb{C}, \mathcal{L}(\mathbb{C}))$ eine [[zettel/Funktion/Komplexwertigkeit|komplexwertige]], [[zettel/Funktion/Komplexwertigkeit A-S-Messbarkeit|messbare]] [[zettel/Funktion|Funktion]].
 
 $f$ heißt *$\mu$-integrierbar*, falls
-- $\text{Re}(f)$ $\mu$-[[zettel/μ-Integrierbarkeit|integrierbare]] ist
-- $\text{Im}(f)$ $\mu$-[[zettel/μ-Integrierbarkeit|integrierbare]] ist
+- $\text{Re}(f)$ $\mu$-[[zettel/Funktion/μ-Integrierbarkeit|integrierbare]] ist
+- $\text{Im}(f)$ $\mu$-[[zettel/Funktion/μ-Integrierbarkeit|integrierbare]] ist
 
 Das $\mu$-[[zettel/μ-Integral|Integral]] von $f$ ist definiert als
 

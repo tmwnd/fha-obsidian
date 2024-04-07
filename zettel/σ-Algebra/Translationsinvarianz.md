@@ -1,6 +1,6 @@
 ---
-title: σ-Algebra translationsinvariant
-type: definition
+title: Translationsinvariante σ-Algebra
+type: property
 ---
 
 Sei $\mathcal{A}$ eine $\sigma$-[[zettel/σ-Algebra|Algebra]] auf $\Omega$.

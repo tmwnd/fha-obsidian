@@ -57,7 +57,7 @@ Schreibe
 Sei $n \in \mathbb{N}$, $X \sim \mathcal{N}_n(\vec{0}, I_n)$ ein $n$-dimensional standardnormalverteilter [[zettel/Zufallsvariable|Zufallsvektor]], $A \in \mathbb{R}^{n \times n}$ regulär, $b \in \mathbb{R}^n$, $Y = AX + b$ mit
 - $y \in \mathbb{R}^n$
 
-Es gilt mit dem [[zettel/Erwartungswert|Erwartungswert]] $E$ und der [[zettel/Covarianz|Covarianz]] Cov
+Es gilt mit dem [[zettel/Erwartungswert|Erwartungswert]] $E$ und der [[zettel/Kovarianz|Kovarianz]] Cov
 - $E[Y] = b$
 - $\text{Cov}(Y) = \Sigma = AA^T$
 

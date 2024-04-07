@@ -1,6 +1,6 @@
 ---
-title: Bemerkung 4.3.2
-type: TODO
+title: Lemma 4.3.2
+type: lemma
 ---
 
 Seien $((R_i, \mathscr{S}_i))_{i \in \{ 1, \dots, n \}}$ [[zettel/Messraum|Messräume]], $X = (X_1, X_2)$ eine $2$-dimensionale [[zettel/Zufallsvariable|Zufallsvariable]], $\mu_1, \mu_2$ $\sigma$-[[zettel/Maß|endliche]] TODO [[zettel/Maß|Maße]] auf $(R_1, \mathscr{S}_1)$ bzw. $(R_2, \mathscr{S}_2)$ mit

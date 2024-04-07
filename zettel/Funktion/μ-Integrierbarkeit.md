@@ -1,6 +1,6 @@
 ---
-title: μ-Integrierbarkeit
-type: definition
+title: μ-Integrierbarkeit einer Funktion
+type: property
 ---
 
 Sei $f \in \mathcal{M}$ eine [[zettel/Funktion/Messbarkeit|messbare]] [[zettel/Funktion|Funktion]].

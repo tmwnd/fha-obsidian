@@ -1,5 +1,5 @@
 ---
-title: Definition 1.0.3
+title: Mengenoperationen
 type: definition
 ---
 

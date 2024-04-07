@@ -1,6 +1,6 @@
 ---
-title: Bemerkung 2.4.8
-type: TODO
+title: Lemma 2.4.8
+type: lemma
 ---
 
 Es gilt

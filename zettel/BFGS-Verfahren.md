@@ -5,7 +5,7 @@ aliases:
   - Broyden-Fletcher-Goldfarb-Shanno-Verfahren
 ---
 
-Seien $(x_i, y_i)_{i \in \{ 1, \dots, m \}}$ Daten-Paare, $w^{(0)} \in \mathbb{R}^n$, $B^{(0)} \in \mathbb{R}^{n \times n}$, $l$ eine zweifach differenzierbare [[zettel/Loss-Funktion|Loss-Funktion]], $\gamma^{(k)} \ge 0$ die durch Liniensuche bestimmte Schrittlänge, $p^{(k)}$ die Suchrichtung mit
+Seien $(x_i, y_i)_{i \in \{ 1, \dots, m \}}$ Datenpaare, $w^{(0)} \in \mathbb{R}^n$, $B^{(0)} \in \mathbb{R}^{n \times n}$, $l$ eine zweifach differenzierbare [[zettel/Loss-Funktion|Loss-Funktion]], $\gamma^{(k)} \ge 0$ die durch Liniensuche bestimmte Schrittlänge, $p^{(k)}$ die Suchrichtung mit
 - $l''$ [[zettel/Matrix/Singularität|singulär]]
 
 Die $k$-te Iteration von *BFGS* ist definiert als

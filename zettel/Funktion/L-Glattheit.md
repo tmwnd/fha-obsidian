@@ -44,4 +44,4 @@ Es gilt
 Sei $f$ L-glatt
 
 Es gilt
-- $\forall \mu \gt 0 : f_R(x) = f(x) + \mu \| x \|_2^2$ $\mu$-[[zettel/μ-konvexe Funktion|konvex]]
+- $\forall \mu \gt 0 : f_R(x) = f(x) + \mu \| x \|_2^2$ $\mu$-[[zettel/Funktion/μ-Konvexität|konvex]]

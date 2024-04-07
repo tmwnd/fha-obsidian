@@ -30,4 +30,4 @@ $$
 Sei $(\Omega, \mathcal{A})$ ein [[zettel/Messraum|Messraum]], $\mu$ ein $\sigma$-[[zettel/Maß|finites]] TODO [[zettel/Maß|Maß]] auf $(\Omega, \mathcal{A})$, $\nu$ ein [[zettel/Maß|Maß]] auf $(\Omega, \mathcal{A})$.
 
 $\nu$ hat eine $\mu$-Dichte, falls
-- $\nu$ $\mu$-[[zettel/μ-Stetigkeit|stetig]] ist
+- $\nu$ $\mu$-[[zettel/Maß/μ-Stetigkeit|stetig]] ist

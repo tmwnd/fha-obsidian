@@ -4,7 +4,8 @@ type: subsection
 ---
 
 ![[zettel/Produkt-σ-Algebra|Produkt-σ-Algebra]]
-![[modules/sto1/Bemerkung 4.2.1|Bemerkung 4.2.1]]
+![[zettel/Produktmaß|Produktmaß]]
 ![[zettel/Produktraum|Produktraum]]
-![[modules/sto1/Bemerkung 4.2.2|Bemerkung 4.2.2]]
+![[zettel/_lemmas/Lemma 4.2.1|Lemma 4.2.1]]
+![[zettel/_lemmas/Lemma 4.2.2|Lemma 4.2.2]]
 ![[zettel/Satz von Fubini|Satz von Fubini]]

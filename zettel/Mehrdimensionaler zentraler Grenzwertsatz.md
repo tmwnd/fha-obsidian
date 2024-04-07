@@ -5,7 +5,7 @@ type: definition
 
 Seien $(X_n)_{n \in \mathbb{N}}$ [[zettel/Zufallsvariable/Stochastische Unabhängigkeit|unabhängige]], identisch verteilte, $d$-dimensionale [[zettel/Zufallsvariable|Zufallsvektoren]] mit
 - dem [[zettel/Erwartungswert|Erwartungswert]] $\mu$
-- der symmetrisch, postitv definiten [[zettel/Covarianz|Kovarianzmatrix]] $\Sigma$
+- der symmetrisch, postitv definiten [[zettel/Kovarianz|Kovarianzmatrix]] $\Sigma$
 - $\forall n \in \mathbb{N} : \overline{X}_n = \frac{1}{n} \sum_{i=1}^n X_i$
 
 Es gilt bzgl. der [[zettel/Verteilungskonvergenz|Verteilungskonvergenz]] und der [[zettel/Normalverteilung|Normalverteilung]]

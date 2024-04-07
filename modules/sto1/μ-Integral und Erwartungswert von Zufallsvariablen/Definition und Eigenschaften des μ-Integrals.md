@@ -5,6 +5,6 @@ type: subsection
 
 ![[zettel/Funktion/Elementarfunktion|primitive Funktion]]
 ![[zettel/μ-Integral|μ-Integral]]
-![[modules/sto1/Lemma 3.1|Lemma 3.1]]
-![[modules/sto1/Lemma 3.2|Lemma 3.2]]
-![[zettel/μ-Integrierbarkeit|μ-Integrierbarkeit]]
+![[zettel/_lemmas/Lemma 3.1|Lemma 3.1]]
+![[zettel/_lemmas/Lemma 3.2|Lemma 3.2]]
+![[zettel/Funktion/μ-Integrierbarkeit|μ-Integrierbarkeit]]

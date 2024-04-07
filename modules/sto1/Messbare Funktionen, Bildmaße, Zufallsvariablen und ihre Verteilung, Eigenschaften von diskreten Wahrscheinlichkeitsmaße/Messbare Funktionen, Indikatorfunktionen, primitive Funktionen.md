@@ -7,4 +7,4 @@ type: subsection
 ![[zettel/Funktion/A-S-Messbarkeit|A-S-Messbarkeit]]
 ![[zettel/Funktion|Funktion]] TODO
 ![[zettel/Indikatorfunktion|Indikatorfunktion]]
-![[modules/sto1/Satz 2.7|Satz 2.7]]
+![[zettel/_theorems/Satz 2.7|Satz 2.7]]
