@@ -3,7 +3,7 @@ title: Rényisches Prinzip
 type: definition
 ---
 
-Sei $n \in \mathbb{N}$, $(A_i)_{i \in \{ 1, \dots, n \}} \subseteq \Omega \ne \emptyset$, $(a_i)_{i \in \{ 1, \dots, n \}} \in \mathbb{R}$ und $\mathscr{P}_d$ die Menge der [[Wahrscheinlichkeitsmaß diskret|diskreten]] [[Wahrscheinlichkeitsmaß|Wahrscheinlichkeitsmaße]] auf $(\Omega, \mathcal{P}(\Omega))$.
+Sei $n \in \mathbb{N}$, $(A_i)_{i \in \{ 1, \dots, n \}} \subseteq \Omega \ne \emptyset$, $(a_i)_{i \in \{ 1, \dots, n \}} \in \mathbb{R}$ und $\mathscr{P}_d$ die Menge der [[zettel/Wahrscheinlichkeitsmaß diskret|diskreten]] [[zettel/Wahrscheinlichkeitsmaß|Wahrscheinlichkeitsmaße]] auf $(\Omega, \mathcal{P}(\Omega))$.
 
 Wir betrachten die Folgenden Aussagen
 - a) $\forall P \in \mathscr{P}_d : \sum_{k=1}^n a_k P(A_k) \ge 0$

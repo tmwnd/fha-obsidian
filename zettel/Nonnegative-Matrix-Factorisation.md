@@ -5,7 +5,7 @@ aliases:
   - NMF
 ---
 
-Sei $V \in \mathbb{R}_+^{m \times n}$ [[Matrix sparse]], $k \ll \min(m, n)$.
+Sei $V \in \mathbb{R}_+^{m \times n}$ [[zettel/Matrix sparse|Matrix sparse]], $k \ll \min(m, n)$.
 
 Zerlege $V$, sodass
 - $V \approx WH$

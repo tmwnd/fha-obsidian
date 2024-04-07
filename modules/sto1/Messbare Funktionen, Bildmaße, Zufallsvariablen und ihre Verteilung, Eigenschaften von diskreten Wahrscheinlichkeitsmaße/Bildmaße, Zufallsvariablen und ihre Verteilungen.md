@@ -3,6 +3,6 @@ title: Bildmaße, Zufallsvariablen und ihre Verteilungen
 type: subsection
 ---
 
-![[Bildmaß]]
-![[Zufallsvariable]]
-![[Verteilungen]]
+![[zettel/Bildmaß|Bildmaß]]
+![[zettel/Zufallsvariable|Zufallsvariable]]
+![[zettel/Verteilungen|Verteilungen]]

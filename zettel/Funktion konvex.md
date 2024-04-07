@@ -3,7 +3,7 @@ title: konvexe Funktion
 type: definition
 ---
 
-Sei $C \subset \mathbb{R}^d$ [[Menge konvex|konvex]], $f : C \to \mathbb{R}$ eine [[Funktion]].
+Sei $C \subset \mathbb{R}^d$ [[zettel/Menge konvex|konvex]], $f : C \to \mathbb{R}$ eine [[zettel/Funktion|Funktion]].
 
 $f$ heißt *konvex*, falls
 - $\forall x, y \in C, \lambda \in [0, 1] : f((1 - \lambda)x + \lambda y) \le (1 - \lambda)f(x) + \alpha f(y)$
@@ -15,9 +15,9 @@ $f$ heißt *strikt konvex*, falls
 
 Es gilt
 - Jede Norm $\| \cdot \|$ konvex
-- $f$ [[Funktion lineare affin|linear affin]] $\implies$ $f$ konvex
+- $f$ [[zettel/Funktion lineare affin|linear affin]] $\implies$ $f$ konvex
 - $f$ konvex $\iff$ $f$ differenzierbar $\land$ $\forall x, y \in X : f(y) \ge f(x) + f'(x)(y - x)$
-- $f$ konvex und differenzierbar $\iff$ $X$ [[Menge konvex|konvex]] $\land$ $\forall x, y \in X : (f'(y) - f'(x))(y - x) \ge 0$ bzw. $f'$ monoton wachsend
+- $f$ konvex und differenzierbar $\iff$ $X$ [[zettel/Menge konvex|konvex]] $\land$ $\forall x, y \in X : (f'(y) - f'(x))(y - x) \ge 0$ bzw. $f'$ monoton wachsend
 
 ---
 
@@ -29,7 +29,7 @@ Es gilt
 - $\forall A \in \mathbb{R}^{n \times d}, c \in \mathbb{R}^d : f(Ax + b)$ konvex
 - $h(x) := \max(f(x), g(x))$ konvex
 - $f \circ g$ oft nicht konvex
-- $f : X \to \mathbb{R}$ konvex $\iff$ $\text{epi}(f)$ [[Menge konvex|konvex]]
+- $f : X \to \mathbb{R}$ konvex $\iff$ $\text{epi}(f)$ [[zettel/Menge konvex|konvex]]
 
 ---
 

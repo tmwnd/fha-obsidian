@@ -3,7 +3,7 @@ title: Bedingte Wahrscheinlichkeit
 type: definition
 ---
 
-Sei $\mathcal{A}$ eine $\sigma$-[[σ-Algebra|Algebra]] auf $\Omega$, $A, B \in \mathcal{A}$, $P$ ein [[Wahrscheinlichkeitsmaß]] mit
+Sei $\mathcal{A}$ eine $\sigma$-[[zettel/σ-Algebra|Algebra]] auf $\Omega$, $A, B \in \mathcal{A}$, $P$ ein [[zettel/Wahrscheinlichkeitsmaß|Wahrscheinlichkeitsmaß]] mit
 - $P(B) \gt 0$
 
 Die *bedingte Wahrscheinlichkeit* von $A$ unter $B$ ist definiert als

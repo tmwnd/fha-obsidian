@@ -2,7 +2,7 @@
 type: solution
 ---
 
-![[psets/muit/assignment 01#^1]]
+![[psets/muit/assignment 01#^1|assignment 01#^1]]
 
 1. 
 
@@ -32,7 +32,7 @@ $$
 
 ---
 
-![[psets/muit/assignment 01#^2]]
+![[psets/muit/assignment 01#^2|assignment 01#^2]]
 
 $$
 	\liminf_{n \to \infty} A_n = \bigcup_{m \in \mathbb{N}}\bigcap_{n \ge m} A_n
@@ -44,7 +44,7 @@ $$
 
 ---
 
-![[psets/muit/assignment 01#^3]]
+![[psets/muit/assignment 01#^3|assignment 01#^3]]
 
 $$
 	\liminf_{n \to \infty} A_n = \bigcup_{m \in \mathbb{N}}\bigcap_{n \ge m} A_n = \bigcup_{m \in \mathbb{N}} \left\{ a \mid \forall n \ge m : a \in \left[ 0, 1 + \frac{1}{n} \right)\right\} = \bigcup_{m \in \mathbb{N}} \left\{ a \mid a \in \lim_{n \to \infty} \left[ 0, 1 + \frac{1}{n} \right)\right\} = \bigcup_{m \in \mathbb{N}} \{ a \mid a \in [0, 1] \} = \bigcup_{m \in \mathbb{N}} [0, 1] = [0, 1]
@@ -64,7 +64,7 @@ $$
 
 ---
 
-![[psets/muit/assignment 01#^4]]
+![[psets/muit/assignment 01#^4|assignment 01#^4]]
 
 1. 
 
@@ -92,7 +92,7 @@ $$
 
 ---
 
-![[psets/muit/assignment 01#^5]]
+![[psets/muit/assignment 01#^5|assignment 01#^5]]
 
 1. 
 
@@ -120,7 +120,7 @@ $$
 
 ---
 
-![[psets/muit/assignment 01#^6]]
+![[psets/muit/assignment 01#^6|assignment 01#^6]]
 
 1. 
 
@@ -136,7 +136,7 @@ $$
 
 ---
 
-![[psets/muit/assignment 01#^7]]
+![[psets/muit/assignment 01#^7|assignment 01#^7]]
 
 $$
 	f(f^{-1}(B)) = f(\{ x \in X \mid f(x) \in B \}) = B \setminus \underbrace{\{ y \in B \mid \forall x \in f^{-1}(B) : f(x) \ne y \}}_\emptyset = B
@@ -144,7 +144,7 @@ $$
 
 ---
 
-![[psets/muit/assignment 01#^8]]
+![[psets/muit/assignment 01#^8|assignment 01#^8]]
 
 1. $A \sim B \implies \exists \varphi : A \to B$ bijektiv
 
@@ -163,7 +163,7 @@ $$
 	- $\exists \varphi : \prod_{i=1}^n A_n \to \mathbb{N}$ injektiv z. B. $\varphi(x) = \sum_{i=1}^n (\varphi_i(x_i) - 1) \cdot \sum_{k=i+1}^n \tau(A_k) + 1$
 
 	$\varphi(\prod_{i=1}^n A_n) \subseteq \mathbb{N} \implies \prod_{i=1}^n A_n \sim \mathbb{N}$
-4. Sei $(A_n)_{n \in \mathbb{N}} \sim \mathbb{N}$, $(\varphi_n)_{n \in \mathbb{N}}$, $I_{A_n}$ die [[Indikatorfunktion]] auf $A_n$, $p_n$ die $n$-te Primzahl mit
+4. Sei $(A_n)_{n \in \mathbb{N}} \sim \mathbb{N}$, $(\varphi_n)_{n \in \mathbb{N}}$, $I_{A_n}$ die [[zettel/Indikatorfunktion|Indikatorfunktion]] auf $A_n$, $p_n$ die $n$-te Primzahl mit
 	- $\forall n \in \mathbb{N} : \varphi_n : A_n \to \mathbb{N}$
 	- $\exists \varphi : \bigcup_{n \in \mathbb{N}} A_n \to \mathbb{N}$ injektiv z. B. $\varphi(x) = \sup_{n \in \mathbb{N}} (p_n^{\varphi_n(x)} \cdot I_{A_n}(x))$
 
@@ -171,7 +171,7 @@ $$
 
 ---
 
-![[psets/muit/assignment 01#^9]]
+![[psets/muit/assignment 01#^9|assignment 01#^9]]
 
 1. 
 

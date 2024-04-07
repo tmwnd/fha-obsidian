@@ -6,8 +6,8 @@ aliases:
 ---
 
 Sei $X = (x_1, \dots, x_n) \in \mathbb{R}^{m \times n}$ mit
-- $X$ [[zentrierter Datensatz|zentriert]]
-- $U\Sigma V^T$ die [[Singulärwertzerlegung|SVD]] von $X$
+- $X$ [[zettel/zentrierter Datensatz|zentriert]]
+- $U\Sigma V^T$ die [[zettel/Singulärwertzerlegung|SVD]] von $X$
 - $s \in \mathbb{R}$
 
 Suche
@@ -22,9 +22,9 @@ $$
 $$
 
 Sei
-- $f(z) = V_1(z)$ [[Funktion konvex|konvex]]
-- $g(z) = \| z \|_2^2 - 1$ [[Funktion konvex|konvex]]
-- $L(z, \lambda) = f(z) - \lambda g(z)$ die zu lösende [[Lagrange-Funktion]]
+- $f(z) = V_1(z)$ [[zettel/Funktion konvex|konvex]]
+- $g(z) = \| z \|_2^2 - 1$ [[zettel/Funktion konvex|konvex]]
+- $L(z, \lambda) = f(z) - \lambda g(z)$ die zu lösende [[zettel/Lagrange-Funktion|Lagrange-Funktion]]
 
 Es gilt
 - $\partial_z L(z, \lambda) = 2(\Sigma\Sigma^Tz - \lambda z)$
@@ -35,7 +35,7 @@ Sei $\hat{z}$ eine Maximalstelle.
 Es gilt
 - $\exists \hat{\lambda} \in \mathbb{R} : \partial_z L(\hat{z}, \hat{\lambda}) = \partial_\lambda L(\hat{z}, \hat{\lambda}) = 0$
 - $\| z \|_2 = 1$
-- $\Sigma\Sigma^T\hat{z} = \hat{\lambda}\hat{z}$ $\implies$ $\hat{z}$ sind die [[Matrix Eigenvektor|Eigenvektoren]] bzw. $\hat{\lambda}$ sind die [[Matrix Eigenwert|Eigenwerte]] von $\Sigma\Sigma^T$
+- $\Sigma\Sigma^T\hat{z} = \hat{\lambda}\hat{z}$ $\implies$ $\hat{z}$ sind die [[zettel/Matrix Eigenvektor|Eigenvektoren]] bzw. $\hat{\lambda}$ sind die [[zettel/Matrix Eigenwert|Eigenwerte]] von $\Sigma\Sigma^T$
 
 Da
 
@@ -51,12 +51,12 @@ $$
 $$
 
 gilt offensichtlich
-- $\hat{z} = e_i$ der $i$-te [[Einheitsvektor]]
+- $\hat{z} = e_i$ der $i$-te [[zettel/Einheitsvektor|Einheitsvektor]]
 - $\hat{\lambda}_i = \begin{cases} \sigma_i^2, & i \in \{ 1, \dots, r \} \\ 0, & i \gt r \end{cases}$
 - $f(\hat{z}) = \| \Sigma^T e_i \|_2^2 = \sigma_i^2 \implies \arg\max_i f(\hat{z}_i) = 1$
 
 Für unser Ausgangsproblem erhalten wir
-- $\hat{u} = Ue_i = u_i$ den $i$-ten [[Matrix Singulärvektor|Singulärvektor]] von $X$ als Richtung mit der $i$-t größten Varianz
+- $\hat{u} = Ue_i = u_i$ den $i$-ten [[zettel/Matrix Singulärvektor|Singulärvektor]] von $X$ als Richtung mit der $i$-t größten Varianz
 - $V_1(\hat{u}) = V_1(u_i) = \frac{\sigma_i^2}{n-1} = \frac{\lambda_i}{n-1}$
 
 Die $u_j$ heißen *Hauptkomponenten* bzw. *Karhunen-Loeve-Richtungen* zum Datensatz $X$.

@@ -14,17 +14,17 @@ $$
 ---
 
 Es gilt
-- $f'$ [[Funktion Libschitz-stetig|L-stetig]] $\implies$ $f$ L-glatt
+- $f'$ [[zettel/Funktion Libschitz-stetig|L-stetig]] $\implies$ $f$ L-glatt
 
-Falls $f \in C^1$ [[Funktion konvex|konvex]], $\text{dom}(f) = \mathbb{R}^d$ und $\exists x_* \in \text{dom}(f) : f(x_*) = \inf_x f(x)$ gilt
-- $f'$ [[Funktion Libschitz-stetig|L-stetig]] $\iff$ $f$ L-glatt
+Falls $f \in C^1$ [[zettel/Funktion konvex|konvex]], $\text{dom}(f) = \mathbb{R}^d$ und $\exists x_* \in \text{dom}(f) : f(x_*) = \inf_x f(x)$ gilt
+- $f'$ [[zettel/Funktion Libschitz-stetig|L-stetig]] $\iff$ $f$ L-glatt
 
 ---
 
-Sei $f : \mathbb{R}^d \to \mathbb{R}$ [[Funktion konvex|konvex]] und differenziebar, $\exists x_* \in \text{dom}(f) : f(x_*) = \inf_x f(x)$.
+Sei $f : \mathbb{R}^d \to \mathbb{R}$ [[zettel/Funktion konvex|konvex]] und differenziebar, $\exists x_* \in \text{dom}(f) : f(x_*) = \inf_x f(x)$.
 
 Falls $f$ L-glatt mit $L$ gilt
-- $f'$ ist [[Funktion Libschitz-stetig|L-stetig]]
+- $f'$ ist [[zettel/Funktion Libschitz-stetig|L-stetig]]
 
 und
 
@@ -44,4 +44,4 @@ Es gilt
 Sei $f$ L-glatt
 
 Es gilt
-- $\forall \mu \gt 0 : f_R(x) = f(x) + \mu \| x \|_2^2$ $\mu$-[[μ-konvexe Funktion|konvex]]
+- $\forall \mu \gt 0 : f_R(x) = f(x) + \mu \| x \|_2^2$ $\mu$-[[zettel/μ-konvexe Funktion|konvex]]

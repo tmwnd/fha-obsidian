@@ -3,9 +3,9 @@ title: Satz 6.20
 type: theorem
 ---
 
-Sei $(\Omega, \mathcal{A}, P)$ ein [[Wahrscheinlichkeitsraum]], $X$ ein $p$-dimensionaler [[Zufallsvariable|Zufallsvektor]] auf $(\Omega, \mathcal{A}, P)$, $Y$ ein $q$-dimensionaler [[Zufallsvariable|Zufallsvektor]] auf $(\Omega, \mathcal{A}, P)$.
+Sei $(\Omega, \mathcal{A}, P)$ ein [[zettel/Wahrscheinlichkeitsraum|Wahrscheinlichkeitsraum]], $X$ ein $p$-dimensionaler [[zettel/Zufallsvariable|Zufallsvektor]] auf $(\Omega, \mathcal{A}, P)$, $Y$ ein $q$-dimensionaler [[zettel/Zufallsvariable|Zufallsvektor]] auf $(\Omega, \mathcal{A}, P)$.
 
-$X$ und $Y$ sind [[Zufallsvariable unabhängig|unabhängig]], falls mit dem [[Zufallsvariable Erwartungswert|Erwartungswert]] $E$ gilt
+$X$ und $Y$ sind [[zettel/Zufallsvariable unabhängig|unabhängig]], falls mit dem [[zettel/Zufallsvariable Erwartungswert|Erwartungswert]] $E$ gilt
 
 $$
 	\forall (w, z) \in \mathbb{R}^p \times \mathbb{R}^q : E[e^{iw^T+iz^TY}] = E[e^{iw^TX}] \cdot E[e^{iz^TY}]
@@ -13,13 +13,13 @@ $$
 
 ---
 
-Sei $1 \le p \lt d$, $Z \sim \mathcal{N}(\mu, \Sigma)$ ein $d$-dimensionaler [[Normalverteilung|normalverteilter]] [[Zufallsvariable|Zufallsvektor]] mit der [[Covarianz|Kovarianzmatrix]] Cov und
+Sei $1 \le p \lt d$, $Z \sim \mathcal{N}(\mu, \Sigma)$ ein $d$-dimensionaler [[zettel/Normalverteilung|normalverteilter]] [[zettel/Zufallsvariable|Zufallsvektor]] mit der [[zettel/Covarianz|Kovarianzmatrix]] Cov und
 - $X = (Z_1, \dots, Z_p)$
 - $Y = (Z_{p+1}, \dots, Z_d)$
 - $\Sigma_X = \text{Cov}(X)$
 - $\Sigma_Y = \text{Cov}(Y)$
 
-$X$ und $Y$ sind [[Zufallsvariable unabhängig|unabhängig]], falls
+$X$ und $Y$ sind [[zettel/Zufallsvariable unabhängig|unabhängig]], falls
 
 $$
 	\Sigma = \begin{pmatrix} \Sigma_X & 0 \\ 0 & \Sigma_Y \end{pmatrix}

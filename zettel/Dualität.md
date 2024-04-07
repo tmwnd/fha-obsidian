@@ -3,17 +3,17 @@ title: Dualität
 type: definition
 ---
 
-Sei $f$ ein [[restringiertes Optimierungsproblem]] mit den Nebenbedingungen
+Sei $f$ ein [[zettel/restringiertes Optimierungsproblem|restringiertes Optimierungsproblem]] mit den Nebenbedingungen
 - $g(x) \le 0$
 - $h(x) = 0$
 
-mit der [[Lagrange-Funktion]]
+mit der [[zettel/Lagrange-Funktion|Lagrange-Funktion]]
 
 $$
 	L(x, \lambda, \mu) = f(x) + \lambda^Tg(x) + \mu^Th(x)
 $$
 
-Sei $q$ eine duale [[Funktion]] definiert als
+Sei $q$ eine duale [[zettel/Funktion|Funktion]] definiert als
 
 $$
 	q(\lambda, \mu) = \inf_{x \in X} L(x, \lambda, \mu)
@@ -25,7 +25,7 @@ $$
 	\text{dom}_{q} = \{ (\lambda, \mu) \mid \lambda \ge 0 \land q(\lambda, \mu) \gt -\infty \}
 $$
 
-Maximiere das [[Optimierungsproblem]]
+Maximiere das [[zettel/Optimierungsproblem|Optimierungsproblem]]
 
 $$
 	\max_{\lambda \ge 0, \mu} q(\lambda, \mu)
@@ -38,8 +38,8 @@ $$
 $$
 
 Es gilt
-- $\text{dom}_q$ ist [[Funktion konvex|konvex]]
-- $-q$ ist [[Funktion konvex|konvex]]
+- $\text{dom}_q$ ist [[zettel/Funktion konvex|konvex]]
+- $-q$ ist [[zettel/Funktion konvex|konvex]]
 - $\sup_{\text{dom}_q} q(\lambda, \mu) \le \inf_{R_p} f(x)$
 
 Sei $x_*$ eine Lösung von $\inf_{R_p} f(x)$, $\lambda_*, \mu_*$ die Lösung von $\sup_{\text{dom}_q} q(\lambda, \mu)$.
@@ -50,7 +50,7 @@ Falls $f(x_*) - q(\lambda_*, \mu_*) \ge 0$
 Falls $f(x_*) - q(\lambda_*, \mu_*) = 0$ gilt
 - *starke Dualität*
 
-Falls $f$, $g$ [[Funktion konvex|konvex]], $h$ [[Funktion lineare affin|linear affin]] gilt
+Falls $f$, $g$ [[zettel/Funktion konvex|konvex]], $h$ [[zettel/Funktion lineare affin|linear affin]] gilt
 - *starke Dualität*
 
 ---

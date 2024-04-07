@@ -3,7 +3,7 @@ title: Unabhängige Ereignisse
 type: definition
 ---
 
-Sei $\mathcal{A}$ eine $\sigma$-[[σ-Algebra|Algebra]] auf $\Omega$, $A, B \in \mathcal{A}$, $P$ ein [[Wahrscheinlichkeitsmaß]].
+Sei $\mathcal{A}$ eine $\sigma$-[[zettel/σ-Algebra|Algebra]] auf $\Omega$, $A, B \in \mathcal{A}$, $P$ ein [[zettel/Wahrscheinlichkeitsmaß|Wahrscheinlichkeitsmaß]].
 
 $A, B$ sind *(stochastisch) unabhängig*, falls
 - $P(A \cap B) = P(A) \cdot P(B)$
@@ -16,7 +16,7 @@ Es gilt
 
 ---
 
-Sei $\mathcal{A}$ eine $\sigma$-[[σ-Algebra|Algebra]] auf $\Omega$ ,$(A_n)_{n \in \mathbb{N}} \in \mathcal{A}$.
+Sei $\mathcal{A}$ eine $\sigma$-[[zettel/σ-Algebra|Algebra]] auf $\Omega$ ,$(A_n)_{n \in \mathbb{N}} \in \mathcal{A}$.
 
 $(A_n)_{n \in \mathbb{N}}$ heißt *(stochastisch) unabhängig*, falls
 

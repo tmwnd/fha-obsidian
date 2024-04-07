@@ -3,7 +3,7 @@ title: α-Sublevel-Menge
 type: definition
 ---
 
-Sei $f : \mathbb{R}^d \to \mathbb{R}$ [[Funktion konvex|konvex]], $\alpha \in \mathbb{R}$.
+Sei $f : \mathbb{R}^d \to \mathbb{R}$ [[zettel/Funktion konvex|konvex]], $\alpha \in \mathbb{R}$.
 
 Die *$\alpha$-Sublevel-Menge* von $f$ ist definiert als
 
@@ -13,7 +13,7 @@ $$
 
 ---
 
-Sei $f : \mathbb{R}^d \to \mathbb{R}$ [[Funktion konvex|konvex]].
+Sei $f : \mathbb{R}^d \to \mathbb{R}$ [[zettel/Funktion konvex|konvex]].
 
 Es gilt
 - $\exists \alpha \in \mathbb{R} : f^{\le \alpha} \ne \emptyset$ und beschränkt $\implies$ $\exists x_* \in X : x_*$ globaler Minimierer

@@ -3,11 +3,11 @@ title: Lineares Ausgleichsproblem
 type: definition
 ---
 
-Seien $(x_i, y_i)_{i \in \{ 1, \dots, m \}}$ Daten-Paare, $w \in \mathbb{R}^n$, $g$ eine [[Modellfunktion]] mit
-- $g$ [[Funktion lineare affin|linear affin]]
-- $l(w)$ die [[Loss-Funktion]] des [[Least-Square Problem|Least-Square Problems]]
+Seien $(x_i, y_i)_{i \in \{ 1, \dots, m \}}$ Daten-Paare, $w \in \mathbb{R}^n$, $g$ eine [[zettel/Modellfunktion|Modellfunktion]] mit
+- $g$ [[zettel/Funktion lineare affin|linear affin]]
+- $l(w)$ die [[zettel/Loss-Funktion|Loss-Funktion]] des [[zettel/Least-Square Problem|Least-Square Problems]]
 
-Es gilt bzgl. des [[Residuenvektor|Residuenvektors]]
+Es gilt bzgl. des [[zettel/Residuenvektor|Residuenvektors]]
 
 $$
 	L(w) = \begin{pmatrix}
@@ -29,7 +29,7 @@ $$
 	\end{pmatrix}}_b = Aw - b
 $$
 
-und bzgl. der [[Loss-Funktion]]
+und bzgl. der [[zettel/Loss-Funktion|Loss-Funktion]]
 
 $$
 	\begin{aligned}
@@ -40,9 +40,9 @@ $$
 $$
 
 und
-- $l$ [[Funktion konvex|konvex]] $\implies$ jedes lokale Minimum ist ein globales Minimum
+- $l$ [[zettel/Funktion konvex|konvex]] $\implies$ jedes lokale Minimum ist ein globales Minimum
 - $l'(w) = 0 \iff A^TAw = A^Tb$
-- $l''(w)$ [[Matrix definit|positiv semidefinit]] $\implies$ $w$ ist ein lokales Minimum
+- $l''(w)$ [[zettel/Matrix definit|positiv semidefinit]] $\implies$ $w$ ist ein lokales Minimum
 
 Das zu lösende Normalgleichungssystem ist
 - $\underbrace{w^* = \arg\min_{w \in \mathbb{R}^n} l(w)}_\text{numerisches Optimierungsproblem} \equiv \underbrace{A^TAw = A^Tb}_\text{linesares Gleichungssystem}$^[$w$ nicht eindeutig, da $g$ mehrere globale Minima enthalten kann]

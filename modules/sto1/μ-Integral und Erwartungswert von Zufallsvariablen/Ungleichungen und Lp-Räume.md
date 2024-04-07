@@ -3,13 +3,13 @@ title: Ungleichungen und Lp-Räume
 type: subsection
 ---
 
-![[Tschebyscheffsche Ungleichung]]
-![[modules/sto1/Lemma 3.24]]
-![[Höldersche Ungleichung]]
-![[Cauchy-Schwarze Ungleichung]]
-![[Minkowskische Ungleichung]]
-![[Lp-Raum]]
-![[modules/sto1/Lemma 3.30]]
-![[Funktion konvex]]
-![[Funktion konkav]]
-![[Jensensche Ungleichung]]
+![[zettel/Tschebyscheffsche Ungleichung|Tschebyscheffsche Ungleichung]]
+![[modules/sto1/Lemma 3.24|Lemma 3.24]]
+![[zettel/Höldersche Ungleichung|Höldersche Ungleichung]]
+![[zettel/Cauchy-Schwarze Ungleichung|Cauchy-Schwarze Ungleichung]]
+![[zettel/Minkowskische Ungleichung|Minkowskische Ungleichung]]
+![[zettel/Lp-Raum|Lp-Raum]]
+![[modules/sto1/Lemma 3.30|Lemma 3.30]]
+![[zettel/Funktion konvex|Funktion konvex]]
+![[zettel/Funktion konkav|Funktion konkav]]
+![[zettel/Jensensche Ungleichung|Jensensche Ungleichung]]

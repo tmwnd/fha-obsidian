@@ -3,12 +3,12 @@ title: Maßraum
 type: definition
 ---
 
-Ein Tripel $(\Omega, \mathcal{A}, \mu)$ aus der Menge $\Omega$, der $\sigma$-[[σ-Algebra|Algebra]] $\mathcal{A}$ und dem [[Maß]] $\mu$ heißt *Maßraum*.
+Ein Tripel $(\Omega, \mathcal{A}, \mu)$ aus der Menge $\Omega$, der $\sigma$-[[zettel/σ-Algebra|Algebra]] $\mathcal{A}$ und dem [[zettel/Maß|Maß]] $\mu$ heißt *Maßraum*.
 
 ---
 
-![[Maßraum σ-finit]]
+![[zettel/Maßraum σ-finit|Maßraum σ-finit]]
 
 ---
 
-![[Maßraum vollständig]]
+![[zettel/Maßraum vollständig|Maßraum vollständig]]

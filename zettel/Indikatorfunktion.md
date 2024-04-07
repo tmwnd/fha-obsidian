@@ -16,14 +16,14 @@ $$
 
 ---
 
-Sei $A \subseteq \Omega$, $\mathcal{A}$ die $\sigma$-[[σ-Algebra|Algebra]] auf $\Omega$.
+Sei $A \subseteq \Omega$, $\mathcal{A}$ die $\sigma$-[[zettel/σ-Algebra|Algebra]] auf $\Omega$.
 
-$I_A$ ist genau dann [[Funktion|messbar]] TODO, falls
+$I_A$ ist genau dann [[zettel/Funktion|messbar]] TODO, falls
 - $A \in \mathcal{A}$
 
 ---
 
-Sei $f : (\Omega, \mathcal{A}) \to (\overline{\mathbb{R}}, \overline{\mathcal{L}})$ [[Funktion messbar|messbar]] mit existierendem $\mu$-[[μ-Integral|Integral]], $A \in \mathcal{A}$.
+Sei $f : (\Omega, \mathcal{A}) \to (\overline{\mathbb{R}}, \overline{\mathcal{L}})$ [[zettel/Funktion messbar|messbar]] mit existierendem $\mu$-[[zettel/μ-Integral|Integral]], $A \in \mathcal{A}$.
 
 Schreibe
 

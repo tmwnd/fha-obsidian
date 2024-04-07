@@ -12,10 +12,10 @@ Das zu lösende Normalgleichungssystem ist
 Zerlege $X$, sodass
 - $X = QR = Q\begin{pmatrix} \tilde{R} \\ 0 \end{pmatrix}$
 - $Q \in \mathbb{R}^{m \times m}$
-- $Q$ [[Matrix orthogonal|orthogonal]]
+- $Q$ [[zettel/Matrix orthogonal|orthogonal]]
 - $R \in \mathbb{R}^{m \times n}$
 - $\tilde{R} \in \mathbb{R}^{n \times n}$
-- $\tilde{R}$ eine [[Matrix quadratisch|quadratische]] [[Dreiecksmatrix|obere Dreiecksmatrix]]
+- $\tilde{R}$ eine [[zettel/Matrix quadratisch|quadratische]] [[zettel/Dreiecksmatrix|obere Dreiecksmatrix]]
 
 Es gilt
 
@@ -26,7 +26,7 @@ $$
 ---
 
 Sei $X \in \mathbb{R}^{m \times n}$ $QR$-zerlegt, $w \in \mathbb{R}^n$ mit
-- $l(w) = \frac{1}{2m} \| xw - y \|_2^2$ eine [[Loss-Funktion]]
+- $l(w) = \frac{1}{2m} \| xw - y \|_2^2$ eine [[zettel/Loss-Funktion|Loss-Funktion]]
 
 Es gilt
 
@@ -46,8 +46,8 @@ und
 ---
 
 Vorteile:
-- Die [[Kondition]] bleibt $\kappa(X)$
+- Die [[zettel/Kondition|Kondition]] bleibt $\kappa(X)$
 
 Nachteile:
 - Die Komplexität der Zerlegung von $X$ ist $\mathcal{O}(n^3)$
-- $X$ [[Matrix sparse]], $Q$, $R$ nicht [[Matrix sparse]]
+- $X$ [[zettel/Matrix sparse|Matrix sparse]], $Q$, $R$ nicht [[zettel/Matrix sparse|Matrix sparse]]

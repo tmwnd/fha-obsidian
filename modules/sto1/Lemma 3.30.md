@@ -3,7 +3,7 @@ title: Lemma 3.30
 type: lemma
 ---
 
-Sei $-\infty \lt a \le b \lt +\infty$, $C = [a, b] \subset \mathbb{R}$, $\overset{\circ}{C}$ die Menge der [[innere Punkte|inneren Punkte]] von $C$, $f : C \to \mathbb{R}$ [[Funktion konvex|konvex]].
+Sei $-\infty \lt a \le b \lt +\infty$, $C = [a, b] \subset \mathbb{R}$, $\overset{\circ}{C}$ die Menge der [[zettel/innere Punkte|inneren Punkte]] von $C$, $f : C \to \mathbb{R}$ [[zettel/Funktion konvex|konvex]].
 
 Es gilt
 

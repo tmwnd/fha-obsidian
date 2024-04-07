@@ -6,8 +6,8 @@ aliases:
 ---
 
 Sei $A \in \mathbb{R}^{m \times n}$ mit
-- $U\Sigma V^T$ die [[Singulärwertzerlegung|SVD]] von $A$
+- $U\Sigma V^T$ die [[zettel/Singulärwertzerlegung|SVD]] von $A$
 
 Die $k$-te Iteration der *Krylov Raum Verfahrens* ist definiert als
-- $v_k = \sigma_k = \Sigma_{kk}$ der $k$-te [[Matrix Singulärwert|Singulärwert]]
+- $v_k = \sigma_k = \Sigma_{kk}$ der $k$-te [[zettel/Matrix Singulärwert|Singulärwert]]
 - $V_k = \text{span}(v_1, \dots, v_k) \in \mathbb{R}^{n \times k}$ der $k$-te Krylov-Raum

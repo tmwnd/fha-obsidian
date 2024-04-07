@@ -3,7 +3,7 @@ title: Quantil
 type: definition
 ---
 
-Sei $p \in [0, 1]$ und $X$ eine reelle [[Zufallsvariable]].
+Sei $p \in [0, 1]$ und $X$ eine reelle [[zettel/Zufallsvariable|Zufallsvariable]].
 
 $\xi_p \in \mathbb{R}$ heißt *$p$-Quantil*  von $X$ bzw. $P^X$, falls
 
@@ -13,13 +13,13 @@ $$
 
 ---
 
-Sei $p \in [0, 1]$ und $X$ eine reelle [[Zufallsvariable]].
+Sei $p \in [0, 1]$ und $X$ eine reelle [[zettel/Zufallsvariable|Zufallsvariable]].
 
 Die Menge der $p$-Quantile von $X$ ist definiert als das Interval $[\xi_p^-, \xi_P^+]$ mit
 - $\xi_p^- = \inf\{ x \in \mathbb{R} : P(X \le x) \ge p \}$
 - $\xi_p^+ = \sup\{ x \in \mathbb{R} : P(X \ge x) \ge 1 - p \} = \sup\{ x \in \mathbb{R} : P(X \lt x) \le p \}$
 
-$\xi_p$ ist eindeutig bestimmt, falls die [[Verteilungsfunktion]] $F(X)$ den Wert $p$ höchstens einmal annimt.
+$\xi_p$ ist eindeutig bestimmt, falls die [[zettel/Verteilungsfunktion|Verteilungsfunktion]] $F(X)$ den Wert $p$ höchstens einmal annimt.
 
 ---
 

@@ -3,12 +3,12 @@ title: Mehrdimensionaler zentraler Grenzwertsatz
 type: definition
 ---
 
-Seien $(X_n)_{n \in \mathbb{N}}$ [[Zufallsvariable unabhängig|unabhängige]], identisch verteilte, $d$-dimensionale [[Zufallsvariable|Zufallsvektoren]] mit
-- dem [[Zufallsvariable Erwartungswert|Erwartungswert]] $\mu$
-- der symmetrisch, postitv definiten [[Covarianz|Kovarianzmatrix]] $\Sigma$
+Seien $(X_n)_{n \in \mathbb{N}}$ [[zettel/Zufallsvariable unabhängig|unabhängige]], identisch verteilte, $d$-dimensionale [[zettel/Zufallsvariable|Zufallsvektoren]] mit
+- dem [[zettel/Zufallsvariable Erwartungswert|Erwartungswert]] $\mu$
+- der symmetrisch, postitv definiten [[zettel/Covarianz|Kovarianzmatrix]] $\Sigma$
 - $\forall n \in \mathbb{N} : \overline{X}_n = \frac{1}{n} \sum_{i=1}^n X_i$
 
-Es gilt bzgl. der [[Verteilungskonvergenz]] und der [[Normalverteilung]]
+Es gilt bzgl. der [[zettel/Verteilungskonvergenz|Verteilungskonvergenz]] und der [[zettel/Normalverteilung|Normalverteilung]]
 
 $$
 	\forall n \in \mathbb{N} : \sqrt{n} (\overline{X}_n - \mu) \overset{V}{\longrightarrow} \mathcal{N}_d(\vec{0}, \Sigma)

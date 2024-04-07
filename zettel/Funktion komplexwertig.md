@@ -3,7 +3,7 @@ title: komplexwertige Funktion
 type: definition
 ---
 
-Sei $f: (\Omega, \mathcal{A}) \to (\mathbb{C}, \mathcal{L}(\mathbb{C}))$ eine [[Funktion]].
+Sei $f: (\Omega, \mathcal{A}) \to (\mathbb{C}, \mathcal{L}(\mathbb{C}))$ eine [[zettel/Funktion|Funktion]].
 
 Es gilt
 - $\text{Re}(f)$ ist der Realteil von $f$

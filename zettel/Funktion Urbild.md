@@ -3,7 +3,7 @@ title: Urbild
 type: definition
 ---
 
-Sei $f : X \to Y$ eine [[Funktion]], $B \subseteq Y$.
+Sei $f : X \to Y$ eine [[zettel/Funktion|Funktion]], $B \subseteq Y$.
 
 Das *Urbild* von $B$ unter $f$ ist definiert als
 
@@ -13,7 +13,7 @@ $$
 
 ---
 
-Sei $f : X \to Y$ eine [[Funktion]], $\mathcal{B} \subseteq \mathcal{P}(Y)$.
+Sei $f : X \to Y$ eine [[zettel/Funktion|Funktion]], $\mathcal{B} \subseteq \mathcal{P}(Y)$.
 
 Das *Urbild* von $\mathcal{B}$ unter $f$ ist definiert als
 

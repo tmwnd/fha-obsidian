@@ -3,6 +3,6 @@ title: Eigenschaften von diskreten Wahrscheinlichkeitsmaßen
 type: subsection
 ---
 
-![[Wahrscheinlichkeitsmassefunktion]]
-![[Laplacesches Wahrscheinlichkeitsmaß]]
-![[Rényisches Prinzip]]
+![[zettel/Wahrscheinlichkeitsmassefunktion|Wahrscheinlichkeitsmassefunktion]]
+![[zettel/Laplacesches Wahrscheinlichkeitsmaß|Laplacesches Wahrscheinlichkeitsmaß]]
+![[zettel/Rényisches Prinzip|Rényisches Prinzip]]

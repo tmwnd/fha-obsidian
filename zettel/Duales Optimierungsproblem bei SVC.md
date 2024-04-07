@@ -3,13 +3,13 @@ title: Duales Optimierungsproblem bei SVC
 type: definition
 ---
 
-Minimiere $w$ aus der [[Support-Vector Klassifikation überlappende Cluster|SVC]]
+Minimiere $w$ aus der [[zettel/Support-Vector Klassifikation überlappende Cluster|SVC]]
 
 $$
 	w = (v, v_0) = \min_{v \ne 0, v_0, \xi} \frac{1}{2} \| v \|_2^2 + C \sum_{i=1}^n \xi_i, \quad \forall i \in \{ 1, \dots, n \} : y_i(v^Tx_i + v_0) \ge 1 - \xi_i
 $$
 
-Ersetze das [[restringiertes Optimierungsproblem|restringierte Optimierungsproblem]] durch ein [[Dualität|duales Optimiertungsproblem]] mit
+Ersetze das [[zettel/restringiertes Optimierungsproblem|restringierte Optimierungsproblem]] durch ein [[zettel/Dualität|duales Optimiertungsproblem]] mit
 - $w = (v, v_0, \xi) \in X = \mathbb{R}^{m+1+n}$
 - $f(w) = \frac{1}{2} \| v \|_2^2 + C \sum_{i=1}^n \xi_i$
 - $g_i(w) = \begin{cases} -(y_i(\sum_{j=1}^n v_jx_{ij} + v_0) - 1 + \xi_i), & i \in \{ 1, \dots, n \} \\ -\xi_i & i \in \{ n+1, \dots, 2n \} \end{cases}$
@@ -25,7 +25,7 @@ mit
 - $\beta \ge 0$
 - $\lambda = (\alpha, \beta)$
 
-Mit der [[Lagrange-Funktion]]
+Mit der [[zettel/Lagrange-Funktion|Lagrange-Funktion]]
 
 $$
 	L(w, \lambda) = L(v, v_0, \xi, \alpha, \beta) = \frac{1}{2} \| v \|_2^2 + C \sum_{i=1}^n \xi - \sum_{i=1}^n \alpha_i \left( y_i \left( \sum_{j=1}^m v_ix_{ij} + v_ü \right) - 1 + \xi_i \right) = \frac{1}{2} \| v \|_2^2 - \sum_{i=1}^n \alpha_iy_i \sum_{j=1}^m v_jx_{ij} - v_0\sum_{i=1}^n \alpha_iy_i + \sum_{i=1}^n (C - \alpha_i - \beta_i)\xi_i + \sum_{i=1}^n \alpha_i
@@ -38,7 +38,7 @@ $$
 $$
 
 bzw. durch
-- $L$ quadratisch in $v$, [[Funktion lineare affin|linear affin]] in $v_0$ und $\xi$, differenzierbar und [[Funktion konvex|konvex]]
+- $L$ quadratisch in $v$, [[zettel/Funktion lineare affin|linear affin]] in $v_0$ und $\xi$, differenzierbar und [[zettel/Funktion konvex|konvex]]
 - $q(\alpha, \beta) \gt \infty$, falls
 	- $0 = \partial_{v_0} L(v, v_0, \xi, \alpha, \beta) = -\sum_{i=1}^n \alpha_iy_i$
 	- $\forall i \in \{ 1, \dots, n \} : \partial_{\xi_i} L(v, v_0 \xi, \alpha, \beta) = C - \alpha_i - \beta_i$
@@ -80,7 +80,7 @@ mit den Nebenbedingungen
 - $y^T\alpha = 0$
 - $\forall i \in \{ 1, \dots, n \} : \alpha_i + \beta_i = c$
 
- Das optimale $w$ kann durch die Lösung des [[restringiertes Optimierungsproblem|restringiertes Optimierungsproblems]] bestimmt werden mit
+ Das optimale $w$ kann durch die Lösung des [[zettel/restringiertes Optimierungsproblem|restringiertes Optimierungsproblems]] bestimmt werden mit
 - $\beta_i \ge 0$
 
 $$

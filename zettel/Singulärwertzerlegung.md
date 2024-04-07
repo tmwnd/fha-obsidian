@@ -11,7 +11,7 @@ Zerlege $A$, sodass
 - $A = U\Sigma V^T$
 - $U \in \mathbb{R}^{m \times m}$
 - $r \le \min(m, n)$
-- $\sigma_1 \ge \dots \ge \sigma_r \gt 0$ die [[Matrix Singulärwert|Singulärwerte]] von $A$
+- $\sigma_1 \ge \dots \ge \sigma_r \gt 0$ die [[zettel/Matrix Singulärwert|Singulärwerte]] von $A$
 - $\Sigma = \text{diag}(\sigma_1, \dots, \sigma_r, 0 \dots, 0) \in \mathbb{R}^{m \times n}$
 - $V = \text{span}(v_1, \dots, v_n) \in \mathbb{R}^{n \times n}$
-- $U, V$ [[Matrix orthogonal|orthogonal]]
+- $U, V$ [[zettel/Matrix orthogonal|orthogonal]]

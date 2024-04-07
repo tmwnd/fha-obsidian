@@ -3,14 +3,14 @@ title: Satz 2.7
 type: theorem
 ---
 
-Sei $f \ge 0$ [[Funktion messbar|messbar]], $\mathcal{A}$ die $\sigma$-[[σ-Algebra|Algebra]] auf $\Omega$, $\mathcal{P}_+$ der nicht-negative, reelle Vektorraum der [[Funktion|primitiven]] [[Funktion|Funktionen]] auf dem [[Messraum]] $(\Omega, \mathcal{A})$.
+Sei $f \ge 0$ [[zettel/Funktion messbar|messbar]], $\mathcal{A}$ die $\sigma$-[[zettel/σ-Algebra|Algebra]] auf $\Omega$, $\mathcal{P}_+$ der nicht-negative, reelle Vektorraum der [[zettel/Funktion|primitiven]] [[zettel/Funktion|Funktionen]] auf dem [[zettel/Messraum|Messraum]] $(\Omega, \mathcal{A})$.
 
 Es existiert eine Folge $(f_n)_{n \in \mathbb{N}} \in \mathcal{P}_+$ mit
 - $f_n \uparrow f$
 
 ---
 
-Sei $f \ge 0$ [[Funktion messbar|messbar]], $\mathcal{A}$ die $\sigma$-[[σ-Algebra|Algebra]] auf $\Omega$, $\mathcal{P}$ der reelle Vektorraum der [[Funktion|primitiven]] [[Funktion|Funktionen]] auf dem [[Messraum]] $(\Omega, \mathcal{A})$.
+Sei $f \ge 0$ [[zettel/Funktion messbar|messbar]], $\mathcal{A}$ die $\sigma$-[[zettel/σ-Algebra|Algebra]] auf $\Omega$, $\mathcal{P}$ der reelle Vektorraum der [[zettel/Funktion|primitiven]] [[zettel/Funktion|Funktionen]] auf dem [[zettel/Messraum|Messraum]] $(\Omega, \mathcal{A})$.
 
 Es existiert eine Folge $(f_n)_{n \in \mathbb{N}} \in \mathcal{P}$ mit
 - $\forall n \in \mathbb{N} : |f_n| \le |f|$

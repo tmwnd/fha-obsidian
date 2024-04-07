@@ -3,6 +3,6 @@ title: Beispiele
 type: subsection
 ---
 
-![[Spur-σ-Algebra]]
-![[Dirac-Maß]]
-![[Verteilungsfunktion]]
+![[zettel/Spur-σ-Algebra|Spur-σ-Algebra]]
+![[zettel/Dirac-Maß|Dirac-Maß]]
+![[zettel/Verteilungsfunktion|Verteilungsfunktion]]

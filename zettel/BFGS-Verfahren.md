@@ -5,8 +5,8 @@ aliases:
   - Broyden-Fletcher-Goldfarb-Shanno-Verfahren
 ---
 
-Seien $(x_i, y_i)_{i \in \{ 1, \dots, m \}}$ Daten-Paare, $w^{(0)} \in \mathbb{R}^n$, $B^{(0)} \in \mathbb{R}^{n \times n}$, $l$ eine zweifach differenzierbare [[Loss-Funktion]], $\gamma^{(k)} \ge 0$ die durch Liniensuche bestimmte Schrittlänge, $p^{(k)}$ die Suchrichtung mit
-- $l''$ [[Matrix singulär|singulär]]
+Seien $(x_i, y_i)_{i \in \{ 1, \dots, m \}}$ Daten-Paare, $w^{(0)} \in \mathbb{R}^n$, $B^{(0)} \in \mathbb{R}^{n \times n}$, $l$ eine zweifach differenzierbare [[zettel/Loss-Funktion|Loss-Funktion]], $\gamma^{(k)} \ge 0$ die durch Liniensuche bestimmte Schrittlänge, $p^{(k)}$ die Suchrichtung mit
+- $l''$ [[zettel/Matrix singulär|singulär]]
 
 Die $k$-te Iteration von *BFGS* ist definiert als
 - $B^{(k)}p^{(k)} = -l'(w^{(k)})$
@@ -18,4 +18,4 @@ Die $k$-te Iteration von *BFGS* ist definiert als
 
 ---
 
-BFGS ist ein Quasi-[[Newton-Verfahren]]
+BFGS ist ein Quasi-[[zettel/Newton-Verfahren|Newton-Verfahren]]

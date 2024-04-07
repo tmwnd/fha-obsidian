@@ -3,5 +3,5 @@ title: Gesetze der großen Zahlen
 type: section
 ---
 
-![[modules/sto1/Gesetze der großen Zahlen/Konvergenzbegriffe für Zufallsvektoren]]
-![[modules/sto1/Gesetze der großen Zahlen/Das starke Gesetz der großen Zahlen]]
+![[modules/sto1/Gesetze der großen Zahlen/Konvergenzbegriffe für Zufallsvektoren|Konvergenzbegriffe für Zufallsvektoren]]
+![[modules/sto1/Gesetze der großen Zahlen/Das starke Gesetz der großen Zahlen|Das starke Gesetz der großen Zahlen]]

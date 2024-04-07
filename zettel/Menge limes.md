@@ -4,8 +4,8 @@ type: definition
 ---
 
 Sei $(A_n)_{n \in \mathbb{N}}$ eine Mengenfolge, $A$ eine Menge mit
-- $A = \liminf_{n \to \infty} A_n$ der [[Menge limes inferior|limes inferior]]
-- $A = \limsup_{n \to \infty} A_n$ der [[Menge limes superior|limes superior]]
+- $A = \liminf_{n \to \infty} A_n$ der [[zettel/Menge limes inferior|limes inferior]]
+- $A = \limsup_{n \to \infty} A_n$ der [[zettel/Menge limes superior|limes superior]]
 
 Es gilt
 

@@ -3,5 +3,5 @@ title: Bedingte Wahrscheinlichkeit und unabhängige Ereignisse
 type: subsection
 ---
 
-![[Bedingte Wahrscheinlichkeit]]
-![[Ereignisse unabhängig]]
+![[zettel/Bedingte Wahrscheinlichkeit|Bedingte Wahrscheinlichkeit]]
+![[zettel/Ereignisse unabhängig|Ereignisse unabhängig]]

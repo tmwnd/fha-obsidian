@@ -3,7 +3,7 @@ title: Korollar 3.5
 type: corollary
 ---
 
-Sei $(f_n)_{n \in \mathbb{N}} \in \mathcal{M}_+$ [[Funktion messbar|messbare]] [[Funktion|Funktionen]].
+Sei $(f_n)_{n \in \mathbb{N}} \in \mathcal{M}_+$ [[zettel/Funktion messbar|messbare]] [[zettel/Funktion|Funktionen]].
 
 Es gilt
 

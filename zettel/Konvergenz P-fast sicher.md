@@ -3,11 +3,11 @@ title: Konvergenz P-fast sicher
 type: definition
 ---
 
-Sei $(\Omega, \mathcal{A}, P)$ ein [[Wahrscheinlichkeitsraum]], $n \in \mathbb{N}$, $X, (X_i)_{i \in \{ 1, \dots, n \}}$ [[Zufallsvariable|Zufallsvektoren]] mit
-- $\forall n \in \{ 1, \dots, n \} : X_n : (\Omega, \mathcal{A}) \to (\mathbb{R}^d, \mathcal{L}^d)$ [[Funktion messbar|messbar]]
+Sei $(\Omega, \mathcal{A}, P)$ ein [[zettel/Wahrscheinlichkeitsraum|Wahrscheinlichkeitsraum]], $n \in \mathbb{N}$, $X, (X_i)_{i \in \{ 1, \dots, n \}}$ [[zettel/Zufallsvariable|Zufallsvektoren]] mit
+- $\forall n \in \{ 1, \dots, n \} : X_n : (\Omega, \mathcal{A}) \to (\mathbb{R}^d, \mathcal{L}^d)$ [[zettel/Funktion messbar|messbar]]
 
 Die Folge $(X_i)_{i \in \{ 1, \dots, n \}}$ *konvergiert $P$-fast sicher* gegen $X$, falls
-- $\exists N \in \mathcal{A}$ eine $P$-[[μ-Nullmengen|Nullmenge]] mit
+- $\exists N \in \mathcal{A}$ eine $P$-[[zettel/μ-Nullmengen|Nullmenge]] mit
 
 $$
 	\forall \omega \in N^\complement : \lim_{n \to \infty} X_n(\omega) = X(\omega)
@@ -18,14 +18,14 @@ Schreibe
 
 ---
 
-Seien $X, (X_n)_{n \in \mathbb{N}}$ [[Zufallsvariable|Zufallsvariablen]].
+Seien $X, (X_n)_{n \in \mathbb{N}}$ [[zettel/Zufallsvariable|Zufallsvariablen]].
 
 $X_n \overset{P\text{-f. s.}}{\longrightarrow} X$ gilt falls
 - $P(\lim_{n \to \infty} X_n = X) = 1$
 
 ---
 
-Seien $X, X', (X_n)_{n \in \mathbb{N}}$ [[Zufallsvariable|Zufallsvariablen]].
+Seien $X, X', (X_n)_{n \in \mathbb{N}}$ [[zettel/Zufallsvariable|Zufallsvariablen]].
 
 $X \overset{P\text{-f. s.}}{=} X'$ gilt, falls
 - $X_n \overset{P\text{-f. s.}}{\longrightarrow} X$
@@ -33,15 +33,15 @@ $X \overset{P\text{-f. s.}}{=} X'$ gilt, falls
 
 ---
 
-Sei $d, m \in \mathbb{N}$, $X, (X_n)_{n \in \mathbb{N}}$ [[Zufallsvariable|Zufallsvariablen]], $f : \mathbb{R}^d \to \mathbb{R}^m$ $P$-fast sicher stetig.
+Sei $d, m \in \mathbb{N}$, $X, (X_n)_{n \in \mathbb{N}}$ [[zettel/Zufallsvariable|Zufallsvariablen]], $f : \mathbb{R}^d \to \mathbb{R}^m$ $P$-fast sicher stetig.
 
 $f \circ X_n \overset{P\text{-f. s.}}{\longrightarrow} f \circ X$ gilt falls
 - $X_n \overset{P\text{-f. s.}}{\longrightarrow} X$
 
 ---
 
-Seien $(X_n)_{n \in \mathbb{N}}$ reelle [[Zufallsvariable|Zufallsvariablen]] mit dem [[Zufallsvariable Erwartungswert|Erwartungswert]] $E$, der [[Zufallsvariable Varianz|Varianz]] $\text{Var}$ und
+Seien $(X_n)_{n \in \mathbb{N}}$ reelle [[zettel/Zufallsvariable|Zufallsvariablen]] mit dem [[zettel/Zufallsvariable Erwartungswert|Erwartungswert]] $E$, der [[zettel/Zufallsvariable Varianz|Varianz]] $\text{Var}$ und
 - $\forall n \in \mathbb{N} : E[X_n]  = 0$
 - $\sum_{n=1}^\infty \text{Var}(X_n) \lt \infty$
 
-$\sum_{n=1}^\infty X_k$ konvergiert $P$-f. s. gegen eine reelle [[Zufallsvariable]]
+$\sum_{n=1}^\infty X_k$ konvergiert $P$-f. s. gegen eine reelle [[zettel/Zufallsvariable|Zufallsvariable]]

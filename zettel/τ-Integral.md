@@ -3,7 +3,7 @@ title: τ-Integral
 type: definition
 ---
 
-Sei $\tau$ das [[τ-Maß|Zählmaß]], $f : \mathbb{N} \to \overline{\mathbb{R}}$ eine nicht-negative [[Funktion]].
+Sei $\tau$ das [[zettel/τ-Maß|Zählmaß]], $f : \mathbb{N} \to \overline{\mathbb{R}}$ eine nicht-negative [[zettel/Funktion|Funktion]].
 
 Das *$\tau$-Integral* ist definiert als
 
@@ -13,7 +13,7 @@ $$
 
 ---
 
-Sei $f : \mathbb{N} \to \overline{\mathbb{R}}$ eine nicht-negative [[Funktion]].
+Sei $f : \mathbb{N} \to \overline{\mathbb{R}}$ eine nicht-negative [[zettel/Funktion|Funktion]].
 
 $f$ ist genau dann $\tau$-integrierbar, falls
 - $\sum_{n \in \mathbb{N}} |f(n)| \le \infty$

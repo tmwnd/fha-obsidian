@@ -3,10 +3,10 @@ title: Hellyscher Auswahlsatz
 type: definition
 ---
 
-Sei $(F_n)_{n \in \mathbb{N}}$ eine Folge $d$-dimensionaler [[Verteilungsfunktion|Verteilungsfunktionen]] mit
+Sei $(F_n)_{n \in \mathbb{N}}$ eine Folge $d$-dimensionaler [[zettel/Verteilungsfunktion|Verteilungsfunktionen]] mit
 - $\forall n \in \mathbb{R} : F_n : \mathbb{R}^d \to \mathbb{R}$
 
-Es existiert eine Teilfolge $(f_{n_k})_{k \in \mathbb{N}}$ und eine [[Funktion]] $F: \mathbb{R}^d \to \mathbb{R}$ mit
+Es existiert eine Teilfolge $(f_{n_k})_{k \in \mathbb{N}}$ und eine [[zettel/Funktion|Funktion]] $F: \mathbb{R}^d \to \mathbb{R}$ mit
 - $0 \le F \le 1$
 - $F$ ist stetig von oben
 - $\forall a, b \in \mathbb{R}^d:$

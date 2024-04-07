@@ -14,8 +14,8 @@ $$
 $$
 
 mit
-- $\alpha \to 0$ Gewichtung von kleinen [[Residuenvektor|Residuen]]
-- $\alpha \to \infty$ Gewichtung des Entgegenwirkens von [[Overfitting]]
+- $\alpha \to 0$ Gewichtung von kleinen [[zettel/Residuenvektor|Residuen]]
+- $\alpha \to \infty$ Gewichtung des Entgegenwirkens von [[zettel/Overfitting|Overfitting]]
 
 Es gilt
 

@@ -3,9 +3,9 @@ title: Lp-Raum
 type: definition
 ---
 
-Sei $1 \le p \in \mathbb{R}$, $(\Omega, \mathcal{A}, \mu)$ ein [[Maßraum]].
+Sei $1 \le p \in \mathbb{R}$, $(\Omega, \mathcal{A}, \mu)$ ein [[zettel/Maßraum|Maßraum]].
 
-Der *$\mathcal{L}^p$-Raum* ist mit dem $\mu$-[[μ-Integral|Integral]] definiert als
+Der *$\mathcal{L}^p$-Raum* ist mit dem $\mu$-[[zettel/μ-Integral|Integral]] definiert als
 
 $$
 	\mathcal{L}^p = \mathcal{L}^p(\Omega, \mathcal{A}, \mu) = \left\{ f : (\Omega, \mathcal{A}) \to (\mathbb{R}, \mathcal{L}), \int |f|^p d\mu \lt \infty \right\}
@@ -14,16 +14,16 @@ $$
 ---
 
 Sei $L^p \subseteq \mathcal{L}^p$ ein normierter Vektorraum mit
-- $\forall f \in \mathcal{L}^p : [f]$ äquivalente [[Funktion|Funktionen]] nach $f \sim_{L_p} g \iff f = g$ $\mu$-[[μ-Nullmengen|f. ü.]]
-- $\forall f \in \mathcal{L}^p : \exists! [g] \in L^p : f = g$ $\mu$-[[μ-Nullmengen|f. ü.]]
+- $\forall f \in \mathcal{L}^p : [f]$ äquivalente [[zettel/Funktion|Funktionen]] nach $f \sim_{L_p} g \iff f = g$ $\mu$-[[zettel/μ-Nullmengen|f. ü.]]
+- $\forall f \in \mathcal{L}^p : \exists! [g] \in L^p : f = g$ $\mu$-[[zettel/μ-Nullmengen|f. ü.]]
 
 ---
 
-Ein $\mathcal{L}^p$-Raum besteht aus allen $p$-fach integrierbaren [[Funktion|messbaren]] [[Funktion|Funktionen]].
+Ein $\mathcal{L}^p$-Raum besteht aus allen $p$-fach integrierbaren [[zettel/Funktion|messbaren]] [[zettel/Funktion|Funktionen]].
 
 ---
 
-$L^p$ ist ein [[Banachraum]].
+$L^p$ ist ein [[zettel/Banachraum|Banachraum]].
 
 ---
 

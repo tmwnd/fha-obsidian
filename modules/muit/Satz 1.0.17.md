@@ -7,8 +7,8 @@ Alle echten offenen, abgeschlossenen und halboffenen Intervalle^[z. B. $\mathbb{
 
 ---
 
-Sei $M$ eine [[Menge Kardinalitäten|unendliche]] Menge, $M' \subseteq M$.
+Sei $M$ eine [[zettel/Menge Kardinalitäten|unendliche]] Menge, $M' \subseteq M$.
 
 Es gilt
-- $M'$ ist [[Menge Kardinalitäten|endlich]] oder
+- $M'$ ist [[zettel/Menge Kardinalitäten|endlich]] oder
 - $M \sim M'$

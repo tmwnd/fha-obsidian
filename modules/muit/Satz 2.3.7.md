@@ -3,9 +3,9 @@ title: Satz 2.3.7
 type: theorem
 ---
 
-Sei $(\Omega, \mathcal{A}, \mu)$ ein [[Maßraum]], $(A_n)_{n \in \mathbb{N}} \subseteq \mathcal{A}$.
+Sei $(\Omega, \mathcal{A}, \mu)$ ein [[zettel/Maßraum|Maßraum]], $(A_n)_{n \in \mathbb{N}} \subseteq \mathcal{A}$.
 
-Es gelten folgende [[Konvergenz|Konvergenzaussagen]]
+Es gelten folgende [[zettel/Konvergenz|Konvergenzaussagen]]
 - Falls $A_n \uparrow A$ gilt die *$\sigma$-Stetigkeit von unten*
 
 $$

@@ -3,7 +3,7 @@ title: μ-Integral
 type: definition
 ---
 
-Sei $(\Omega, \mathcal{A})$ ein [[Messraum]], $\mu$ ein [[Maß]] auf $\mathcal{A}$, $f \in \mathcal{P}_+$ eine [[Funktion|primitive]] [[Funktion]] in [[Funktion|Normalendarstellung]] mit $(\alpha_i)_{i \in \{ 1, \dots, n \}} \in \mathbb{R}_+$.
+Sei $(\Omega, \mathcal{A})$ ein [[zettel/Messraum|Messraum]], $\mu$ ein [[zettel/Maß|Maß]] auf $\mathcal{A}$, $f \in \mathcal{P}_+$ eine [[zettel/Funktion|primitive]] [[zettel/Funktion|Funktion]] in [[zettel/Funktion|Normalendarstellung]] mit $(\alpha_i)_{i \in \{ 1, \dots, n \}} \in \mathbb{R}_+$.
 
 Das *$\mu$-Integral* ist wohldefiniert als
 
@@ -26,7 +26,7 @@ Das $\mu$-Integral ist ein *positives* *lineares* *Funktional* auf dem reellen V
 
 ---
 
-Sei $f \in \mathcal{M}_+$ eine [[Funktion messbar|messbare]] [[Funktion]], $(f_n)_{n \in \mathbb{N}} \in \mathcal{P}_+$ [[Funktion|primitive]] [[Funktion|Funktionen]] mit
+Sei $f \in \mathcal{M}_+$ eine [[zettel/Funktion messbar|messbare]] [[zettel/Funktion|Funktion]], $(f_n)_{n \in \mathbb{N}} \in \mathcal{P}_+$ [[zettel/Funktion|primitive]] [[zettel/Funktion|Funktionen]] mit
 - $f_n \uparrow f$
 
 Das $\mu$-[[mu-Integral|Integral]] auf $f$ ist definiert als

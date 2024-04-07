@@ -3,11 +3,11 @@ title: Erwartungswert
 type: definition
 ---
 
-Sei $(\Omega, \mathcal{A}, P)$ ein [[Wahrscheinlichkeitsraum]], $\overline{\mathcal{L}}$ die Borelsche $\sigma$-[[Borelsche σ-Algebra|Algebra]] , $X : (\Omega, \mathcal{A}) \to (\overline{R}, \overline{\mathcal{L}})$ eine [[Zufallsvariable]] mit
+Sei $(\Omega, \mathcal{A}, P)$ ein [[zettel/Wahrscheinlichkeitsraum|Wahrscheinlichkeitsraum]], $\overline{\mathcal{L}}$ die Borelsche $\sigma$-[[zettel/Borelsche σ-Algebra|Algebra]] , $X : (\Omega, \mathcal{A}) \to (\overline{R}, \overline{\mathcal{L}})$ eine [[zettel/Zufallsvariable|Zufallsvariable]] mit
 - $\int X^+ dP \lt \infty$ oder
 - $\int X^- dP \lt \infty$
 
-Der *Erwartungswert* von $X$ bzw. $P^X$ ist mit dem $P$-[[P-Integral|Integral]] definiert als
+Der *Erwartungswert* von $X$ bzw. $P^X$ ist mit dem $P$-[[zettel/P-Integral|Integral]] definiert als
 
 $$
 	E[X] = \int X dP = \int X^+ dP - \int X^- dP
@@ -15,9 +15,9 @@ $$
 
 ---
 
-Sei $(\Omega, \mathcal{A}, P)$ ein [[Wahrscheinlichkeitsraum]], $\mathcal{L}$ die Borelsche $\sigma$-[[Borelsche σ-Algebra|Algebra]] , $X : (\Omega, \mathcal{A}) \to (\overline{R}, \overline{\mathcal{L}})$ eine [[Zufallsvariable]] mit der $\lambda$-[[λ-Dichte|Dichte]] $f : (\mathbb{R}, \mathcal{L}) \to (\mathbb{R}, \mathcal{L})$, $g : (\mathbb{R}, \mathcal{L}) \to (\mathbb{R}, \mathcal{L})$ eine nicht-negative [[Funktion]].
+Sei $(\Omega, \mathcal{A}, P)$ ein [[zettel/Wahrscheinlichkeitsraum|Wahrscheinlichkeitsraum]], $\mathcal{L}$ die Borelsche $\sigma$-[[zettel/Borelsche σ-Algebra|Algebra]] , $X : (\Omega, \mathcal{A}) \to (\overline{R}, \overline{\mathcal{L}})$ eine [[zettel/Zufallsvariable|Zufallsvariable]] mit der $\lambda$-[[zettel/λ-Dichte|Dichte]] $f : (\mathbb{R}, \mathcal{L}) \to (\mathbb{R}, \mathcal{L})$, $g : (\mathbb{R}, \mathcal{L}) \to (\mathbb{R}, \mathcal{L})$ eine nicht-negative [[zettel/Funktion|Funktion]].
 
-Es gilt mit dem $P$-[[P-Integral|Integral]] 
+Es gilt mit dem $P$-[[zettel/P-Integral|Integral]] 
 
 $$
 	E[g \circ X] = \int g \circ X dP = \int_{-\infty}^{+\infty} g(x)f(x) dx
@@ -25,11 +25,11 @@ $$
 
 ---
 
-Sei $(\Omega, \mathcal{A}, P)$ ein [[Wahrscheinlichkeitsraum]], $\mathcal{L}$ die Borelsche $\sigma$-[[Borelsche σ-Algebra|Algebra]] , $X : (\Omega, \mathcal{A}) \to (\overline{R}, \overline{\mathcal{L}})$ eine diskret verteilte [[Zufallsvariable]], $\delta_a$ das [[Dirac-Maß|Dirac-Maß]], $g : (R, \mathscr{S}) \to (\overline{\mathbb{R}}, \overline{\mathcal{L}})$ eine nicht-negative [[Funktion]] und $(R, \mathscr{S})$ ein [[Messraum]] mit
+Sei $(\Omega, \mathcal{A}, P)$ ein [[zettel/Wahrscheinlichkeitsraum|Wahrscheinlichkeitsraum]], $\mathcal{L}$ die Borelsche $\sigma$-[[zettel/Borelsche σ-Algebra|Algebra]] , $X : (\Omega, \mathcal{A}) \to (\overline{R}, \overline{\mathcal{L}})$ eine diskret verteilte [[zettel/Zufallsvariable|Zufallsvariable]], $\delta_a$ das [[zettel/Dirac-Maß|Dirac-Maß]], $g : (R, \mathscr{S}) \to (\overline{\mathbb{R}}, \overline{\mathcal{L}})$ eine nicht-negative [[zettel/Funktion|Funktion]] und $(R, \mathscr{S})$ ein [[zettel/Messraum|Messraum]] mit
 - $\forall x \in R : \{ x \} \in \mathscr{S}$
 - $\exists S \in \mathscr{S} : P^X(S) = P(X \in S) = 1$
 
-Es gilt mit dem $P^X$-[[PX-Integral|Integral]]
+Es gilt mit dem $P^X$-[[zettel/PX-Integral|Integral]]
 
 $$
 	E[g \circ X] = \int g dP^X = \sum_{a \in S} g(y)P(X = a) = \sum_{a \in R} g(a) P(X = a)
@@ -37,7 +37,7 @@ $$
 
 ---
 
-Sie $X$ ein $d$-dimensionaler [[Zufallsvariable|Zufallsvektor]] mit
+Sie $X$ ein $d$-dimensionaler [[zettel/Zufallsvariable|Zufallsvektor]] mit
 - $\forall i \in \{ 1, \dots, d \} : E[X_i] \lt \infty$ bzw. $E[|X_i|] \lt \infty$
 
 Der *Erwartungswertvekotor* von $X$ ist definiert als

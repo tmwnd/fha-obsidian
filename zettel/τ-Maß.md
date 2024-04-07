@@ -18,7 +18,7 @@ $$
 
 ---
 
-Sei $\delta_n$ das [[Dirac-Maß|Dirac-Maß]], $A \subseteq{\mathbb{R}}$.
+Sei $\delta_n$ das [[zettel/Dirac-Maß|Dirac-Maß]], $A \subseteq{\mathbb{R}}$.
 
 $\tau$ heißt *Zählmaß* auf $(\mathbb{N}, \mathcal{P}(\mathbb{N}))$ und ist definiert als
 

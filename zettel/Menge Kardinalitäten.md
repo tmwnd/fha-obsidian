@@ -8,7 +8,7 @@ aliases:
 Seien $A, B$ Mengen.
 
 Es gilt
-- $A, B$ heißen *gleichmächtig*, falls es eine bijektive [[Funktion|Abbildung]] von $A$ nach $B$ gibt.
+- $A, B$ heißen *gleichmächtig*, falls es eine bijektive [[zettel/Funktion|Abbildung]] von $A$ nach $B$ gibt.
 	Schreibe
 	- $A \sim B$.
 - $A$ heißt *abzählbar endlich*, falls $A$ endlich viele Elemente hat

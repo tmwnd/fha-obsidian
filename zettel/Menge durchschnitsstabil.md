@@ -10,4 +10,4 @@ Eine beliebige Menge $\mathcal{C} \subseteq \mathcal{P}(\Omega)$ ist $\cap$-stab
 
 Sei $\mathcal{A}$ ein $\cap$-stabiles Mengensystem.
 
-Das [[erweitertes Mengensystem|erweiterte Mengensystem]] $A^+$ ist ebenfalls $\cap$-stabil.
+Das [[zettel/erweitertes Mengensystem|erweiterte Mengensystem]] $A^+$ ist ebenfalls $\cap$-stabil.

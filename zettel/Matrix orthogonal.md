@@ -13,4 +13,4 @@ $A$ heißt *orthogonal*, falls
 Sei $X \in \mathbb{R}^{m \times n}$, $T$, $S$ orthonormal.
 
 Es gilt
-- Die [[Matrix Singulärwert|Singulärwerte]] von $X$ sind identisch zu den [[Matrix Singulärwert|Singulärwerten]] von $TXS$
+- Die [[zettel/Matrix Singulärwert|Singulärwerte]] von $X$ sind identisch zu den [[zettel/Matrix Singulärwert|Singulärwerten]] von $TXS$

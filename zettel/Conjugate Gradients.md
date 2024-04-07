@@ -7,7 +7,7 @@ aliases:
 
 Sei $X \in \mathbb{R}^{m \times n}, y \in \mathbb{R}^m$, $w^{(0)} \in \mathbb{R}^n$ mit
 - $\underbrace{X^TX}_Aw = \underbrace{X^Ty}_b$
-- $A$ ist [[Matrix symmetrisch positiv definit|spd]]
+- $A$ ist [[zettel/Matrix symmetrisch positiv definit|spd]]
 - $p^{(0)} = r^{(0)} = b - Aw^{(0)}$
 
 Der $k$-te Schritt von *CG* ist definiert als
@@ -20,8 +20,8 @@ Der $k$-te Schritt von *CG* ist definiert als
 ---
 
 Interpretation
-- CG als verbessertes [[Gradient Descent|Gradientenverfahren]]:
-	- CG kann nicht langsamer als das [[Gradient Descent|Gradientenverfahren]] sein
+- CG als verbessertes [[zettel/Gradient Descent|Gradientenverfahren]]:
+	- CG kann nicht langsamer als das [[zettel/Gradient Descent|Gradientenverfahren]] sein
 	- CG greift im $k$-ten Schritt zusätzlich zu auf die vorherige Suchrichtung zu
 	- CG ist keine stationäre Iteration
 - CG als Projektionsverfahren

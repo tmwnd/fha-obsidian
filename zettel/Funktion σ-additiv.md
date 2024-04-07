@@ -3,7 +3,7 @@ title: σ-additive Funktion
 type: definition
 ---
 
-Eine nicht-negative [[Funktion]] $\mu : \mathcal{C} \to \overline{\mathbb{R}}_+$ heißt *$\sigma$-additiv*, falls
+Eine nicht-negative [[zettel/Funktion|Funktion]] $\mu : \mathcal{C} \to \overline{\mathbb{R}}_+$ heißt *$\sigma$-additiv*, falls
 - $\mu(\emptyset) = 0$
 - $(A_n)_{n \in \mathbb{N}} \text{ p. d.} \in \mathcal{C} \implies$
 

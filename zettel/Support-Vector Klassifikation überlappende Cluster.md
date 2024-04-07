@@ -6,14 +6,14 @@ aliases:
   - SVC überlappende Cluster
 ---
 
-Seien $(x_i, y_i)_{i \in \{ 1, \dots, n \}}$ Daten-Paare, $w \in \mathbb{R}^{m+1}$, $H(w)$ eine [[Hyperebene]], $g(x, w)$ die Funktion aus $H(w)$, $M \in \mathbb{R}$ der  Mindestabstand aller Punkte $x_i$ zu $H(w)$, $\xi$ der erlaubte relative Fehler, $C \ge 0$ die Gewichtung von $\xi$ mit
+Seien $(x_i, y_i)_{i \in \{ 1, \dots, n \}}$ Daten-Paare, $w \in \mathbb{R}^{m+1}$, $H(w)$ eine [[zettel/Hyperebene|Hyperebene]], $g(x, w)$ die Funktion aus $H(w)$, $M \in \mathbb{R}$ der  Mindestabstand aller Punkte $x_i$ zu $H(w)$, $\xi$ der erlaubte relative Fehler, $C \ge 0$ die Gewichtung von $\xi$ mit
 - $\forall i \in \{ 1, \dots, n \} : x_i \in \mathbb{R}^n$
 - $\forall i \in \{ 1, \dots, n \} : y_i \in \{ -1, 1 \}$
 - $\forall i \in \{ 1, \dots, n \} : y_ig(x_i, w) \ge M \gt 0$
 - $\forall i \in \{ 1, \dots, n \} : \xi_i \ge 0$
 
 Es gilt
-- $\not\exists H(w) : \forall i \in \{ 1, \dots, n \} : y_i = \text{sign}(g(x_i, w))$ bzw. es lässt sich keine [[Support-Vector Klassifikation|optimal trennende Hyperebenene]] finden
+- $\not\exists H(w) : \forall i \in \{ 1, \dots, n \} : y_i = \text{sign}(g(x_i, w))$ bzw. es lässt sich keine [[zettel/Support-Vector Klassifikation|optimal trennende Hyperebenene]] finden
 
 Bestimme
 - $M$ maximal
@@ -51,7 +51,7 @@ und
 - $C \to 0$ Fehler dürfen beliebig groß werden
 - $C \to \infty$ Summe der Fehler muss verschwinden, Problem eventuell nicht mehr lösbar
 
-Das optimale $\hat{w}$ kann durch die Lösung des [[restringiertes Optimierungsproblem|restringiertes Optimierungsproblems]] $L(v, v_0, \alpha)$ über [[KKT-Bedingungen|KKT]] bestimmt werden.
+Das optimale $\hat{w}$ kann durch die Lösung des [[zettel/restringiertes Optimierungsproblem|restringiertes Optimierungsproblems]] $L(v, v_0, \alpha)$ über [[zettel/KKT-Bedingungen|KKT]] bestimmt werden.
 
 $$
 	L(v, v_0, \xi, \alpha, \beta) = \left( \frac{1}{2} \| v \|_2^2 + C \sum_{i=1}^n \xi_i \right) - \sum_{i=1}^n \alpha_i\left(\left( y_i \sum_{j=1}^m v_jx_{ij} + v_0 \right) - 1 + \xi_i \right)

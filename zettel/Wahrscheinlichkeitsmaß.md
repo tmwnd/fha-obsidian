@@ -5,11 +5,11 @@ aliases:
   - W-Maß
 ---
 
-Sei $P : \mathcal{A} \to \overline{\mathbb{R}}_+$ ein [[Maß]].
+Sei $P : \mathcal{A} \to \overline{\mathbb{R}}_+$ ein [[zettel/Maß|Maß]].
 
 $P$ heißt *Wahrscheinlichkeitsmaß*, falls
 - $P(\Omega) = 1$
 
 ---
 
-![[Wahrscheinlichkeitsmaß diskret]]
+![[zettel/Wahrscheinlichkeitsmaß diskret|Wahrscheinlichkeitsmaß diskret]]

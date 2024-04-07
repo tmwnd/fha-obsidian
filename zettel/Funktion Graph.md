@@ -3,7 +3,7 @@ title: Graph
 type: definition
 ---
 
-Sei $f : X \to Y$ eine [[Funktion]].
+Sei $f : X \to Y$ eine [[zettel/Funktion|Funktion]].
 
 Der *Graph* von $f$ $\text{graph}(f)$ ist definiert als
 

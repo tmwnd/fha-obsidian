@@ -3,7 +3,7 @@ title: Portmanteau-Theorem
 type: theorem
 ---
 
-Sei $\mathcal{L}^d$ die Borelsche $\sigma$-[[Borelsche σ-Algebra|Algebra]], $P, (P_n)_{n \in \mathbb{N}}$ [[Wahrscheinlichkeitsmaß|Wahrscheinlichkeitsmaße]] auf $(\mathbb{R}^d, \mathcal{L}^d)$ mit den [[Verteilungsfunktion|Verteilungsfunktionen]] $F, (F_n)_{n \in \mathbb{N}}$.
+Sei $\mathcal{L}^d$ die Borelsche $\sigma$-[[zettel/Borelsche σ-Algebra|Algebra]], $P, (P_n)_{n \in \mathbb{N}}$ [[zettel/Wahrscheinlichkeitsmaß|Wahrscheinlichkeitsmaße]] auf $(\mathbb{R}^d, \mathcal{L}^d)$ mit den [[zettel/Verteilungsfunktion|Verteilungsfunktionen]] $F, (F_n)_{n \in \mathbb{N}}$.
 
 Wir betrachten folgende Aussagen
 - a) $\forall f : \mathbb{R}^d \to \mathbb{R}$ mit $f$ beschränkt, (gleichmäßig) stetig gilt
@@ -24,7 +24,7 @@ $$
 	\limsup_{n \to \infty} P_n(A) \le P(A)
 $$
 
-- d) $\forall C \in \mathcal{L}^d$ mit $C$ $P$-[[Topologischer Rand|randlos]] gilt
+- d) $\forall C \in \mathcal{L}^d$ mit $C$ $P$-[[zettel/Topologischer Rand|randlos]] gilt
 
 $$
 	\lim_{n \to \infty} P_n(C) = P(C)

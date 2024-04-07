@@ -3,8 +3,8 @@ title: Satz 6.8
 type: theorem
 ---
 
-Sei $(\Omega, \mathcal{A}, P)$ ein [[Wahrscheinlichkeitsraum]], $(X_n)_{n \in \mathbb{N}_0}$ reelle [[Zufallsvariable|Zufallsvariablen]] auf $(\Omega, \mathcal{A}, P)$ mit den [[Verteilungsfunktion|Verteilungsfunktionen]] $(F_n)_{n \in \mathbb{N}_0}$ mit
-- $X_n \overset{V}{\longrightarrow} X_0$ [[Verteilungskonvergenz|verteilungskonvergent]]
+Sei $(\Omega, \mathcal{A}, P)$ ein [[zettel/Wahrscheinlichkeitsraum|Wahrscheinlichkeitsraum]], $(X_n)_{n \in \mathbb{N}_0}$ reelle [[zettel/Zufallsvariable|Zufallsvariablen]] auf $(\Omega, \mathcal{A}, P)$ mit den [[zettel/Verteilungsfunktion|Verteilungsfunktionen]] $(F_n)_{n \in \mathbb{N}_0}$ mit
+- $X_n \overset{V}{\longrightarrow} X_0$ [[zettel/Verteilungskonvergenz|verteilungskonvergent]]
 - $C(F_0^{-1})$ der Menge der Stetigkeitspunkte von $F_0^{-1}$
 
 Es gilt
@@ -15,18 +15,18 @@ $$
 
 ---
 
-Sei $(\Omega, \mathcal{A}, P)$ ein [[Wahrscheinlichkeitsraum]], $(X_n)_{n \in \mathbb{N}_0}$ reelle [[Zufallsvariable|Zufallsvariablen]] auf $(\Omega, \mathcal{A}, P)$, $(\tilde{\Omega}, \tilde{\mathcal{A}}, \tilde{P})$ ein beliebiger [[Wahrscheinlichkeitsraum]], $U \sim \mathcal{R}(0, 1)$ eine [[Gleichverteilung|gleichverteilte]] [[Zufallsvariable]] auf $(\tilde{\Omega}, \tilde{\mathcal{A}}, \tilde{P})$ mit
-- $X_n \overset{V}{\longrightarrow} X_0$ [[Verteilungskonvergenz|verteilungskonvergent]]
+Sei $(\Omega, \mathcal{A}, P)$ ein [[zettel/Wahrscheinlichkeitsraum|Wahrscheinlichkeitsraum]], $(X_n)_{n \in \mathbb{N}_0}$ reelle [[zettel/Zufallsvariable|Zufallsvariablen]] auf $(\Omega, \mathcal{A}, P)$, $(\tilde{\Omega}, \tilde{\mathcal{A}}, \tilde{P})$ ein beliebiger [[zettel/Wahrscheinlichkeitsraum|Wahrscheinlichkeitsraum]], $U \sim \mathcal{R}(0, 1)$ eine [[zettel/Gleichverteilung|gleichverteilte]] [[zettel/Zufallsvariable|Zufallsvariable]] auf $(\tilde{\Omega}, \tilde{\mathcal{A}}, \tilde{P})$ mit
+- $X_n \overset{V}{\longrightarrow} X_0$ [[zettel/Verteilungskonvergenz|verteilungskonvergent]]
 
 Es gilt
-- $F_n^{-1}(U) \overset{\tilde{P}\text{-f. s.}}{\longrightarrow} F_0^{-1}(U)$ $P$-[[Konvergenz P-fast sicher|f. s.]]
+- $F_n^{-1}(U) \overset{\tilde{P}\text{-f. s.}}{\longrightarrow} F_0^{-1}(U)$ $P$-[[zettel/Konvergenz P-fast sicher|f. s.]]
 - $\forall n \in \mathbb{N}_0 : \tilde{P}^{F_n^{-1}(U)} = P^{X_n}$
 
 ---
 
-Sei $(\Omega, \mathcal{A}, P)$ ein [[Wahrscheinlichkeitsraum]], $(X_n)_{n \in \mathbb{N}_0}$ reelle [[Zufallsvariable|Zufallsvariablen]] auf $(\Omega, \mathcal{A}, P)$, $(\tilde{\Omega}, \tilde{\mathcal{A}}, \tilde{P})$ ein beliebiger [[Wahrscheinlichkeitsraum]] mit
-- $X_n \overset{V}{\longrightarrow} X_0$ [[Verteilungskonvergenz|verteilungskonvergent]]
+Sei $(\Omega, \mathcal{A}, P)$ ein [[zettel/Wahrscheinlichkeitsraum|Wahrscheinlichkeitsraum]], $(X_n)_{n \in \mathbb{N}_0}$ reelle [[zettel/Zufallsvariable|Zufallsvariablen]] auf $(\Omega, \mathcal{A}, P)$, $(\tilde{\Omega}, \tilde{\mathcal{A}}, \tilde{P})$ ein beliebiger [[zettel/Wahrscheinlichkeitsraum|Wahrscheinlichkeitsraum]] mit
+- $X_n \overset{V}{\longrightarrow} X_0$ [[zettel/Verteilungskonvergenz|verteilungskonvergent]]
 
-Es existieren $(Y_n)_{n \in \mathbb{N}}$ [[Zufallsvariable|Zufallsvariablen]] auf $(\tilde{\Omega}, \tilde{\mathcal{A}}, \tilde{P})$ mit
+Es existieren $(Y_n)_{n \in \mathbb{N}}$ [[zettel/Zufallsvariable|Zufallsvariablen]] auf $(\tilde{\Omega}, \tilde{\mathcal{A}}, \tilde{P})$ mit
 - $\forall n \in \mathbb{N}_0 : \tilde{P}^{Y_n} = P^{X_n}$
-- $Y_n \overset{\tilde{P}\text{-f. s.}}{\longrightarrow} Y_0$ $P$-[[Konvergenz P-fast sicher|f. s.]]
+- $Y_n \overset{\tilde{P}\text{-f. s.}}{\longrightarrow} Y_0$ $P$-[[zettel/Konvergenz P-fast sicher|f. s.]]

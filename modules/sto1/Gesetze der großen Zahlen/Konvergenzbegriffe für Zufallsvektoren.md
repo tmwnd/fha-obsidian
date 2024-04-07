@@ -3,6 +3,6 @@ title: Konvergenzbegriffe für Zufallsvektoren
 type: subsection
 ---
 
-![[Konvergenz P-fast sicher]]
-![[Stochastische Konvergenz]]
-![[Lemma von Borel-Cantelli]]
+![[zettel/Konvergenz P-fast sicher|Konvergenz P-fast sicher]]
+![[zettel/Stochastische Konvergenz|Stochastische Konvergenz]]
+![[zettel/Lemma von Borel-Cantelli|Lemma von Borel-Cantelli]]

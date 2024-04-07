@@ -3,13 +3,13 @@ title: Gammaverteilung
 type: example
 ---
 
-Sei $\alpha \gt 0$, $\lambda \gt 0$, $t \in (0, \infty)$ , die Gamma-[[Funktion]] $\Gamma$ mit
+Sei $\alpha \gt 0$, $\lambda \gt 0$, $t \in (0, \infty)$ , die Gamma-[[zettel/Funktion|Funktion]] $\Gamma$ mit
 
 $$
 	\Gamma(z) = \int_0^\infty t^{z-1}e^{-t} dt
 $$
 
-und die $\lambda$-[[λ-Dichte|Dichte]] $g_{a, \lambda}$ definiert als 
+und die $\lambda$-[[zettel/λ-Dichte|Dichte]] $g_{a, \lambda}$ definiert als 
 
 $$
 	g_{a, \lambda}(t) = \frac{\lambda^\alpha}{\Gamma(\alpha)}t^{\alpha-1}e^{-\lambda t}
@@ -17,7 +17,7 @@ $$
 
 Sei $x \in \mathbb{R}$.
 
-Die [[Verteilungsfunktion]] einer reelwertigen [[Zufallsvariable]] $X$ heißt *gammaverteilt*, falls
+Die [[zettel/Verteilungsfunktion|Verteilungsfunktion]] einer reelwertigen [[zettel/Zufallsvariable|Zufallsvariable]] $X$ heißt *gammaverteilt*, falls
 
 $$
 	F(x) = P(X \le x) = \begin{cases}

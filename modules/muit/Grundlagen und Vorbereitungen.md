@@ -5,6 +5,6 @@ type: section
 
 ![[modules/muit/Definition 1.0.3|Definition 1.0.3]]
 ![[modules/muit/Lemma 1.0.4|Lemma 1.0.4]]
-![[Menge limes]]
-![[Konvergenz]]
-![[Zerlegung]]
+![[zettel/Menge limes|Menge limes]]
+![[zettel/Konvergenz|Konvergenz]]
+![[zettel/Zerlegung|Zerlegung]]

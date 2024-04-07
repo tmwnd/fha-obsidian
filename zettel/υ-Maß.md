@@ -3,13 +3,13 @@ title: υ-Maß
 type: definition
 ---
 
-Sei $f \in \mathcal{M}_+$ eine [[Funktion messbar|messbare]] [[Funktion]], $A \in \mathcal{A}$.
+Sei $f \in \mathcal{M}_+$ eine [[zettel/Funktion messbar|messbare]] [[zettel/Funktion|Funktion]], $A \in \mathcal{A}$.
 
-Das [[Maß]] $\nu$ ist auf $(\Omega, \mathcal{A})$ mit dem $\mu$-[[μ-Integral|Integral]] definiert als
+Das [[zettel/Maß|Maß]] $\nu$ ist auf $(\Omega, \mathcal{A})$ mit dem $\mu$-[[zettel/μ-Integral|Integral]] definiert als
 
 $$
 	\nu(A) = \int_A f d\mu
 $$
 
-$f$ heißt *$\mu$-[[μ-Dichte|Dichte]]* mit
+$f$ heißt *$\mu$-[[zettel/μ-Dichte|Dichte]]* mit
 - $d\nu = f d\mu$

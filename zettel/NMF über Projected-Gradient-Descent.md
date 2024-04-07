@@ -3,10 +3,10 @@ title: NMF über Projected-Gradient-Descent
 type: definition
 ---
 
-Sei $V \in \mathbb{R}_+^{m \times n}$ [[Matrix sparse]].
+Sei $V \in \mathbb{R}_+^{m \times n}$ [[zettel/Matrix sparse|Matrix sparse]].
 
-Finde eine Lösung der [[Nonnegative-Matrix-Factorisation|NFM]] $V = WH$ über über [[SVD mit Projected Gradient Descent]]  mit
-- der [[Loss-Funktion]] $l(W, H)$ definiert als
+Finde eine Lösung der [[zettel/Nonnegative-Matrix-Factorisation|NFM]] $V = WH$ über über [[zettel/SVD mit Projected Gradient Descent|SVD mit Projected Gradient Descent]]  mit
+- der [[zettel/Loss-Funktion|Loss-Funktion]] $l(W, H)$ definiert als
 
 $$
 	l(W, H) = \| V - WH \|_\text{Fro}^2

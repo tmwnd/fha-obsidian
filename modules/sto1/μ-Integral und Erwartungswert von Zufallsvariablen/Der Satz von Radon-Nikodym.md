@@ -3,5 +3,5 @@ title: Der Satz von Radon-Nikodym
 type: subsection
 ---
 
-![[υ-Nullmenge]]
-![[Satz von Radon-Nikodym]]
+![[zettel/υ-Nullmenge|υ-Nullmenge]]
+![[zettel/Satz von Radon-Nikodym|Satz von Radon-Nikodym]]

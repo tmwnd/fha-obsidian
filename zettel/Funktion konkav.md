@@ -3,7 +3,7 @@ title: konkave Funktion
 type: definition
 ---
 
-Sei $f : C \to \mathbb{R}$ eine [[Funktion]].
+Sei $f : C \to \mathbb{R}$ eine [[zettel/Funktion|Funktion]].
 
 $f$ heißt *konkav*, falls
-- $-f$ [[Funktion konvex|konvex]] ist
+- $-f$ [[zettel/Funktion konvex|konvex]] ist

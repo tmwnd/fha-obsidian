@@ -2,7 +2,7 @@
 type: solution
 ---
 
-![[psets/muit/assignment 02#^1]]
+![[psets/muit/assignment 02#^1|assignment 02#^1]]
 
 Sei $A = \left( \pmatrix{a_1 \\ a_2}, \pmatrix{b_1 \\ b_2} \right], B = \left( \pmatrix{c_1 \\ c_2}, \pmatrix{d_1 \\ d_2} \right] \in \mathcal{I}^2$
 
@@ -26,9 +26,9 @@ $$
 
 ---
 
-![[psets/muit/assignment 02#^2]]
+![[psets/muit/assignment 02#^2|assignment 02#^2]]
 
-Da $\mathcal{A}$ eine $\sigma$-[[σ-Algebra|Algebra]] auf $X$ ist, gilt
+Da $\mathcal{A}$ eine $\sigma$-[[zettel/σ-Algebra|Algebra]] auf $X$ ist, gilt
 - $X \in \mathcal{A}$
 - $A \in \mathcal{A} \implies A^\complement \in \mathcal{A}$
 - $\forall (A_n)_{n \in \mathbb{N}} \in \mathcal{A} : \bigcup_{n \in \mathbb{N}} A_n \in \mathcal{A}$
@@ -39,9 +39,9 @@ $$
 
 ---
 
-![[psets/muit/assignment 02#^3]]
+![[psets/muit/assignment 02#^3|assignment 02#^3]]
 
-$\mathcal{A}$ ist eine $\sigma$-[[σ-Algebra|Algebra]] auf $X$, falls
+$\mathcal{A}$ ist eine $\sigma$-[[zettel/σ-Algebra|Algebra]] auf $X$, falls
 1. $X \in \mathcal{A}$
 2. $A \in \mathcal{A} \implies A^\complement \in \mathcal{A}$
 3. $\forall (A_n)_{n \in \mathbb{N}} \in \mathcal{A}: \bigcup_{n \in \mathbb{N}} A_n \in \mathcal{A}$
@@ -55,9 +55,9 @@ Alle Voraussetzungen sind erfüllt, da
 
 ---
 
-![[psets/muit/assignment 02#^4]]
+![[psets/muit/assignment 02#^4|assignment 02#^4]]
 
-Da $\mathcal{D}$ ein [[Dynkin-System]] auf $X$ ist, gilt
+Da $\mathcal{D}$ ein [[zettel/Dynkin-System|Dynkin-System]] auf $X$ ist, gilt
 - $X \in \mathcal{D}$
 - $A \in \mathcal{D} \implies A^\complement \in \mathcal{D}$
 - $\forall (A_n)_{n \in \mathbb{N}} \text{ p. d.} \in \mathcal{D} : \bigcup_{n \in \mathbb{N}} A_n \in \mathcal{D}$
@@ -68,14 +68,14 @@ $$
 
 ---
 
-![[psets/muit/assignment 02#^5]]
+![[psets/muit/assignment 02#^5|assignment 02#^5]]
 
-Da $\mathcal{B}$ eine $\sigma$-[[σ-Algebra|Algebra]] auf $Y$ ist, gilt
+Da $\mathcal{B}$ eine $\sigma$-[[zettel/σ-Algebra|Algebra]] auf $Y$ ist, gilt
 - $Y \in \mathcal{B}$
 - $B \in \mathcal{B} \implies B^\complement \in \mathcal{B}$
 - $\forall (B_n)_{n \in \mathbb{N}} \in \mathcal{B}: \bigcup_{n \in \mathbb{N}} B_n \in \mathcal{B}$
 
-$\mathcal{A}$ ist eine $\sigma$-[[σ-Algebra|Algebra]] auf $X$, falls
+$\mathcal{A}$ ist eine $\sigma$-[[zettel/σ-Algebra|Algebra]] auf $X$, falls
 1. $X \in \mathcal{A}$
 2. $A \in \mathcal{A} \implies A^\complement \in \mathcal{A}$
 3. $\forall (A_n)_{n \in \mathbb{N}} \in \mathcal{A}: \bigcup_{n \in \mathbb{N}} A_n \in \mathcal{A}$
@@ -88,14 +88,14 @@ Alle Voraussetzungen sind erfüllt, da
 
 ---
 
-![[psets/muit/assignment 02#^6]]
+![[psets/muit/assignment 02#^6|assignment 02#^6]]
 
-1. Falls $\forall i \in I : \mathcal{A}_i$ eine $\sigma$-[[σ-Algebra|Algebra]] auf $X$ ist, gilt
+1. Falls $\forall i \in I : \mathcal{A}_i$ eine $\sigma$-[[zettel/σ-Algebra|Algebra]] auf $X$ ist, gilt
 	- $\forall i \in I : X \in \mathcal{A}_i$
 	- $\forall i \in I : A \in \mathcal{A}_i \implies A^\complement \in \mathcal{A}_i$
 	- $\forall i \in I, (A_n)_{n \in \mathbb{N}} \in \mathcal{A_i}: \bigcup_{n \in \mathbb{N}} A_n \in \mathcal{A_i}$
 	
-	$\mathcal{A}$ ist eine $\sigma$-[[σ-Algebra|Algebra]] auf $X$, falls
+	$\mathcal{A}$ ist eine $\sigma$-[[zettel/σ-Algebra|Algebra]] auf $X$, falls
 	1. $X \in \mathcal{A}$
 	2. $A \in \mathcal{A} \implies A^\complement \in \mathcal{A}$
 	3. $\forall (A_n)_{n \in \mathbb{N}} \in \mathcal{A}: \bigcup_{n \in \mathbb{N}} A_n \in \mathcal{A}$
@@ -104,12 +104,12 @@ Alle Voraussetzungen sind erfüllt, da
 	1. $\forall i \in I : X \in \mathcal{A}_i \implies X \in \bigcap_{i \in I} \mathcal{A}_i = \mathcal{A}$
 	2. $A \in \mathcal{A} \implies \forall i \in I : A \in \mathcal{A}_i \implies \forall i \in I : A^\complement \in \mathcal{A}_i \implies A^\complement \in \bigcap_{i \in I} \mathcal{A}_i = \mathcal{A}$
 	3. $(A_n)_{n \in \mathbb{N}} \in \mathcal{A} \implies \forall i \in I : (A_n)_{n \in \mathbb{N}} \in \mathcal{A}_i \implies \forall i \in I : \bigcup_{n \in \mathbb{N}} A_n \in \mathcal{A}_i \implies \bigcup_{n \in \mathbb{N}} A_n \in \bigcap_{i \in I} \mathcal{A}_i = \mathcal{A}$
-2. Falls $\forall i \in I : \mathcal{A}_i$ ein [[Dynkin-System]] auf $X$ ist, gilt
+2. Falls $\forall i \in I : \mathcal{A}_i$ ein [[zettel/Dynkin-System|Dynkin-System]] auf $X$ ist, gilt
 	- $\forall i \in I : X \in \mathcal{A}_i$
 	- $\forall i \in I : A \in \mathcal{A}_i \implies A^\complement \in \mathcal{A}_i$
 	- $\forall i \in I, (A_n)_{n \in \mathbb{N}} \text{ p. d.} \in \mathcal{A}_i : \bigcup_{n \in \mathbb{N}} A_n \in \mathcal{A}_i$
 	
-	$\mathcal{A}$ ist eine [[Dynkin-System]] auf $X$, falls
+	$\mathcal{A}$ ist eine [[zettel/Dynkin-System|Dynkin-System]] auf $X$, falls
 	1. $X \in \mathcal{A}$
 	2. $A \in \mathcal{A} \implies A^\complement \in \mathcal{A}$
 	3. $\forall (A_n)_{n \in \mathbb{N}} \text{ p. d.} \in \mathcal{A} : \bigcup_{n \in \mathbb{N}} A_n \in \mathcal{A}$
@@ -121,14 +121,14 @@ Alle Voraussetzungen sind erfüllt, da
 
 ---
 
-![[psets/muit/assignment 02#^7]]
+![[psets/muit/assignment 02#^7|assignment 02#^7]]
 
-Da $\delta(\mathcal{E})$ ein [[Menge durchschnitsstabil|durchschnittsstabiles]] [[Dynkin-System]] bzw. eine $\sigma$-[[σ-Algebra|Algebra]] auf $X$ ist, gilt
+Da $\delta(\mathcal{E})$ ein [[zettel/Menge durchschnitsstabil|durchschnittsstabiles]] [[zettel/Dynkin-System|Dynkin-System]] bzw. eine $\sigma$-[[zettel/σ-Algebra|Algebra]] auf $X$ ist, gilt
 - $X \in \delta(\mathcal{E})$
 - $A \in \delta(\mathcal{E}) \implies A^\complement \in \delta(\mathcal{E})$
 - $\forall (A_n)_{n \in \mathbb{N}} \in \delta(\mathcal{E}) : \bigcup_{n \in \mathbb{N}} A_n \in \delta(\mathcal{E})$
 
-$\mathcal{D}_D$ ist eine [[Dynkin-System]] auf $X$, falls
+$\mathcal{D}_D$ ist eine [[zettel/Dynkin-System|Dynkin-System]] auf $X$, falls
 1. $X \in \mathcal{D}_D$
 2. $A \in \mathcal{D}_D \implies A^\complement \in \mathcal{D}_D$
 3. $\forall (A_n)_{n \in \mathbb{N}} \text{ p. d.} \in \mathcal{D}_D : \bigcup_{n \in \mathbb{N}} A_n \in \mathcal{D}_D$
@@ -140,11 +140,11 @@ Alle Voraussetzungen sind erfüllt, da
 
 ---
 
-![[psets/muit/assignment 02#^8]]
+![[psets/muit/assignment 02#^8|assignment 02#^8]]
 
 ---
 
-![[psets/muit/assignment 02#^9]]
+![[psets/muit/assignment 02#^9|assignment 02#^9]]
 
 $$
 	B = \underbrace{(B \setminus A) \cup A}_\text{p. d.} \overset{\mu \ \sigma\text{-additiv}}{\implies} \mu(B) = \mu(B \setminus A) + \mu(A) \implies \mu(B \setminus A) = \mu(B) - \mu(A)
@@ -156,9 +156,9 @@ $$
 
 ---
 
-![[psets/muit/assignment 02#^10]]
+![[psets/muit/assignment 02#^10|assignment 02#^10]]
 
-$\mathcal{D}_n$ ist ein [[Dynkin-System]], falls
+$\mathcal{D}_n$ ist ein [[zettel/Dynkin-System|Dynkin-System]], falls
 1. $X \in \mathcal{D}_n$
 2. $A \in \mathcal{D}_n \implies A^\complement \in \mathcal{D}_n$
 3. $\forall (A_n)_{n \in \mathbb{N}} \text{ p. d.} \in \mathcal{D}_n : \bigcup_{n \in \mathbb{N}} A_n \in \mathcal{D}_n$
@@ -170,7 +170,7 @@ Alle Voraussetzungen sind erfüllt, da
 
 ---
 
-![[psets/muit/assignment 02#^11]]
+![[psets/muit/assignment 02#^11|assignment 02#^11]]
 
 1. 
 
@@ -200,7 +200,7 @@ $$
 
 ---
 
-![[psets/muit/assignment 02#^12]]
+![[psets/muit/assignment 02#^12|assignment 02#^12]]
 
 Es gilt
 - $A \bigtriangleup \emptyset = (A \setminus \emptyset) \cup (\emptyset \setminus A) = A \cup \emptyset = A$
@@ -213,20 +213,20 @@ Alle Voraussetzungen sind erfüllt, da
 
 ---
 
-![[psets/muit/assignment 02#^13]]
+![[psets/muit/assignment 02#^13|assignment 02#^13]]
 
 ---
 
-![[psets/muit/assignment 02#^14]]
+![[psets/muit/assignment 02#^14|assignment 02#^14]]
 
-Da $\mu$ ein [[Maß]] auf $\mathcal{A}$ ist, gilt
+Da $\mu$ ein [[zettel/Maß|Maß]] auf $\mathcal{A}$ ist, gilt
 - $\mu(\emptyset) = 0$
 - $(A_n)_{n \in \mathbb{N}} \text{ p. d.} \in \mathcal{A} \implies \mu( \bigcup_{n \in \mathbb{N}} A_n) = \sum_{n \in \mathbb{N}} \mu(A_n)$
 
-$(X, \mathcal{A}, \nu)$ ist ein [[Maßraum]], falls
-1. $\nu$ ist ein [[Maß]] auf $\mathcal{A}$ ist
+$(X, \mathcal{A}, \nu)$ ist ein [[zettel/Maßraum|Maßraum]], falls
+1. $\nu$ ist ein [[zettel/Maß|Maß]] auf $\mathcal{A}$ ist
 
-$\nu$ ist ein [[Maß]] auf $\mathcal{A}$, falls
+$\nu$ ist ein [[zettel/Maß|Maß]] auf $\mathcal{A}$, falls
 1. $\nu(\emptyset) = 0$
 2. $(A_n)_{n \in \mathbb{N}} \text{ p. d.} \in \mathcal{A} \implies \nu( \bigcup_{n \in \mathbb{N}} A_n) = \sum_{n \in \mathbb{N}} \nu(A_n)$
 
@@ -237,16 +237,16 @@ Alle Voraussetzungen sind erfüllt, da
 
 ---
 
-![[psets/muit/assignment 02#^15]]
+![[psets/muit/assignment 02#^15|assignment 02#^15]]
 
-Da $\mu$ ein [[Maß]] auf $\mathcal{A}$ ist, gilt
+Da $\mu$ ein [[zettel/Maß|Maß]] auf $\mathcal{A}$ ist, gilt
 - $\mu(\emptyset) = 0$
 - $(A_k)_{k \in \mathbb{N}} \text{ p. d.} \in \mathcal{A} \implies \mu( \bigcup_{k \in \mathbb{N}} A_k) = \sum_{k \in \mathbb{N}} \mu(A_k)$
 
-$(X, \mathcal{A}, \nu)$ ist ein [[Maßraum]], falls
-1. $\nu$ ist ein [[Maß]] auf $\mathcal{A}$ ist
+$(X, \mathcal{A}, \nu)$ ist ein [[zettel/Maßraum|Maßraum]], falls
+1. $\nu$ ist ein [[zettel/Maß|Maß]] auf $\mathcal{A}$ ist
 
-$\nu$ ist ein [[Maß]] auf $\mathcal{A}$, falls
+$\nu$ ist ein [[zettel/Maß|Maß]] auf $\mathcal{A}$, falls
 1. $\nu(\emptyset) = 0$
 2. $(A_k)_{k \in \mathbb{N}} \text{ p. d.} \in \mathcal{A} \implies \nu( \bigcup_{k \in \mathbb{N}} A_k) = \sum_{k \in \mathbb{N}} \nu(A_k)$
 
@@ -257,9 +257,9 @@ Alle Voraussetzungen sind erfüllt, da
 
 ---
 
-![[psets/muit/assignment 02#^16]]
+![[psets/muit/assignment 02#^16|assignment 02#^16]]
 
-$\nu$ ist ein [[Wahrscheinlichkeitsmaß]] auf $\mathcal{A}$, falls
+$\nu$ ist ein [[zettel/Wahrscheinlichkeitsmaß|Wahrscheinlichkeitsmaß]] auf $\mathcal{A}$, falls
 1. $\nu(\emptyset) = 0$
 2. $(A_k)_{k \in \mathbb{N}} \text{ p. d.} \in \mathcal{A} \implies \nu( \bigcup_{k \in \mathbb{N}} A_k) = \sum_{k \in \mathbb{N}} \nu(A_k)$
 3. $\nu(X) = 1$
@@ -271,9 +271,9 @@ Alle Voraussetzungen sind erfüllt, da
 
 ---
 
-![[psets/muit/assignment 02#^17]]
+![[psets/muit/assignment 02#^17|assignment 02#^17]]
 
-$\mu$ ist ein [[Maß]] auf $\mathcal{P}(\mathbb{N})$, falls
+$\mu$ ist ein [[zettel/Maß|Maß]] auf $\mathcal{P}(\mathbb{N})$, falls
 1. $\mu(\emptyset) = 0$
 2. $(A_n)_{k \in \mathbb{N}} \text{ p. d.} \in \mathcal{A} \implies \mu( \bigcup_{k \in \mathbb{N}} A_k) = \sum_{k \in \mathbb{N}} \mu(A_k)$
 

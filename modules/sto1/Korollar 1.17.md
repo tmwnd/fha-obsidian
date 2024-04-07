@@ -3,9 +3,9 @@ title: Korollar 1.17
 type: corollary
 ---
 
-Sei $P$ ein [[Wahrscheinlichkeitsmaß]] auf der Borelschen $\sigma$-[[Borelsche σ-Algebra|Algebra]] $\mathcal{L}$
+Sei $P$ ein [[zettel/Wahrscheinlichkeitsmaß|Wahrscheinlichkeitsmaß]] auf der Borelschen $\sigma$-[[zettel/Borelsche σ-Algebra|Algebra]] $\mathcal{L}$
 
-Die [[Verteilungsfunktion]] $F : \mathbb{R} \to \mathbb{R}$ sei definiert durch
+Die [[zettel/Verteilungsfunktion|Verteilungsfunktion]] $F : \mathbb{R} \to \mathbb{R}$ sei definiert durch
 
 $$
 	F(x) = P((-\infty, x], x \in \mathbb{R})
@@ -15,11 +15,11 @@ $P$ ist eindeutig auf $\mathcal{L}$ bestimmt.
 
 ---
 
-Sei $\mu$ ein [[Maß|endliches]] TODO [[Maß]] auf der Borelschen $\sigma$-[[Borelsche σ-Algebra|Algebra]] $\mathcal{L}^d$ mit
+Sei $\mu$ ein [[zettel/Maß|endliches]] TODO [[zettel/Maß|Maß]] auf der Borelschen $\sigma$-[[zettel/Borelsche σ-Algebra|Algebra]] $\mathcal{L}^d$ mit
 - $S = \prod_{i = 1}^d (a_1, b_1]$
 - $S_{(x_1, \dots, x_d)} = \prod_{i = 1}^d (-\infty, x]$
 
-Die [[Verteilungsfunktion]] $F$ sei definiert durch
+Die [[zettel/Verteilungsfunktion|Verteilungsfunktion]] $F$ sei definiert durch
 
 $$
 	F(x_1, \dots, x_d) = \mu(S_{(x_1, \dots, x_d)})

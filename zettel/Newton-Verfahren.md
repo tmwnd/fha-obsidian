@@ -3,8 +3,8 @@ title: Newton-Verfahren
 type: definition
 ---
 
-Seien $(x_i, y_i)_{i \in \{ 1, \dots, m \}}$ Daten-Paare, $w^{(0)} \in \mathbb{R}^n$, $l$ eine zweifach differenzierbare [[Loss-Funktion]] mit
-- $l''$ [[Matrix regulär|regulär]]
+Seien $(x_i, y_i)_{i \in \{ 1, \dots, m \}}$ Daten-Paare, $w^{(0)} \in \mathbb{R}^n$, $l$ eine zweifach differenzierbare [[zettel/Loss-Funktion|Loss-Funktion]] mit
+- $l''$ [[zettel/Matrix regulär|regulär]]
 
 Die $k$-te Iteration des *Newton Verfahrens* ist definiert als
 

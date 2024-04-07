@@ -3,12 +3,12 @@ title: Bemerkung 4.2.2
 type: TODO
 ---
 
-Sei $(\Omega, \mathcal{A}, \mu)$ ein [[Maßraum]], $f : (\Omega, \mathcal{A}) \to (\overline{\mathbb{R}}, \overline{\mathcal{L}})$ eine $\mu$-[[μ-Integrierbarkeit|integrierbare]] [[Funktion messbar|messbare]] Funktion mit
+Sei $(\Omega, \mathcal{A}, \mu)$ ein [[zettel/Maßraum|Maßraum]], $f : (\Omega, \mathcal{A}) \to (\overline{\mathbb{R}}, \overline{\mathcal{L}})$ eine $\mu$-[[zettel/μ-Integrierbarkeit|integrierbare]] [[zettel/Funktion messbar|messbare]] Funktion mit
 - $\mu(|f| = \infty) = 0$
 
 Es gilt
 
-- $\mu$-[[μ-Integrierbarkeit|integrierbare]] [[Funktion|Funktionen]] sind $\mu$-[[μ-Nullmengen|f. ü.]] endlich.
+- $\mu$-[[zettel/μ-Integrierbarkeit|integrierbare]] [[zettel/Funktion|Funktionen]] sind $\mu$-[[zettel/μ-Nullmengen|f. ü.]] endlich.
 
 und
 

@@ -5,7 +5,7 @@ aliase:
   - L-stetige Funktion
 ---
 
-Sei $f : \mathbb{R}^d \to \mathbb{R}$ eine [[Funktion]].
+Sei $f : \mathbb{R}^d \to \mathbb{R}$ eine [[zettel/Funktion|Funktion]].
 
 $f$ heißt *Libschitz-stetig* bzw. *L-stetig*, falls
 
@@ -15,7 +15,7 @@ $$
 
 ---
 
-Sei $f : \text{dom}(f) \to \mathbb{R}$ eine [[Funktion]], $X \subseteq \text{dom}(f)$ [[Menge offen|offen]] und [[Menge konvex|konvex]].
+Sei $f : \text{dom}(f) \to \mathbb{R}$ eine [[zettel/Funktion|Funktion]], $X \subseteq \text{dom}(f)$ [[zettel/Menge offen|offen]] und [[zettel/Menge konvex|konvex]].
 
 Es gilt
 - $f$ L-stetig $\iff$ $\forall x \in X : \| f'(x) \| \le L_f$

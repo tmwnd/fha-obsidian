@@ -3,9 +3,9 @@ title: A-Messbarkeit
 type: definition
 ---
 
-Sei $(\Omega, \mathcal{A})$ ein [[Messraum]].
+Sei $(\Omega, \mathcal{A})$ ein [[zettel/Messraum|Messraum]].
 
-Die [[Funktion]] $f : \Omega \to \mathbb{R}$ heißt *$\mathcal{A}$-messbar*, falls
+Die [[zettel/Funktion|Funktion]] $f : \Omega \to \mathbb{R}$ heißt *$\mathcal{A}$-messbar*, falls
 - $\forall r \in \mathbb{R} : \{ \omega \in \Omega \mid f(\omega) \le r \} \in \mathcal{A}$
 
 Schreibe
@@ -13,7 +13,7 @@ Schreibe
 
 ---
 
-Sei $(\Omega, \mathcal{A})$ ein [[Messraum]].
+Sei $(\Omega, \mathcal{A})$ ein [[zettel/Messraum|Messraum]].
 
 Die Mengen der $\mathcal{A}$-messbaren Funktionen ist definiert als
 - $Z(\Omega, \mathcal{A}) := \{ f : (X, \mathcal{A}) \to (\mathbb{R}, \mathcal{L}) \mid f (\mathcal{A}, \mathcal{L})\text{-messbar} \}$

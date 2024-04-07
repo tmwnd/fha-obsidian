@@ -3,7 +3,7 @@ title: Verteilungsfunktion
 type: definition
 ---
 
-Eine [[Funktion]] $F : \mathbb{R} \to \mathbb{R}$ heißt *Verteilungsfunktion* gemäß des korerspondierenden [[Wahrscheinlichkeitsmaß|Wahrscheinlichkeitsmaßes]] $P$, falls
+Eine [[zettel/Funktion|Funktion]] $F : \mathbb{R} \to \mathbb{R}$ heißt *Verteilungsfunktion* gemäß des korerspondierenden [[zettel/Wahrscheinlichkeitsmaß|Wahrscheinlichkeitsmaßes]] $P$, falls
 - $F$ monoton wachend ist
 - $F$ rechtsseitig stetig ist
 

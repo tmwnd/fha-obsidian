@@ -8,9 +8,9 @@ authors:
   - tmwnd
 ---
 
-![[psets/muit/solution 01]]
-![[psets/muit/solution 02]]
-![[psets/muit/solution 03]]
-![[psets/muit/solution 04]]
-![[psets/muit/solution 05]]
-![[psets/muit/solution 06]]
+![[psets/muit/solution 01|solution 01]]
+![[psets/muit/solution 02|solution 02]]
+![[psets/muit/solution 03|solution 03]]
+![[psets/muit/solution 04|solution 04]]
+![[psets/muit/solution 05|solution 05]]
+![[psets/muit/solution 06|solution 06]]

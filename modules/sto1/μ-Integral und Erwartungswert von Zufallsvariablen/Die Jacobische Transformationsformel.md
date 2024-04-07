@@ -3,4 +3,4 @@ title: Die Jacobische Transformationsformel
 type: subsection
 ---
 
-![[Jacobische Transformationsformel]]
+![[zettel/Jacobische Transformationsformel|Jacobische Transformationsformel]]

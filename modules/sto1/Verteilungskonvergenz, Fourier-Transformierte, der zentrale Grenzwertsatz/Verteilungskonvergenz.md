@@ -3,12 +3,12 @@ title: Verteilungskonvergenz
 type: subsection
 ---
 
-![[Topologischer Rand]]
-![[Portmanteau-Theorem]]
-![[Schwache Konvergenz]]
-![[Verteilungskonvergenz]]
-![[Satz von der stetigen Abbildung]]
-![[modules/sto1/Satz 6.5]]
-![[Lemma von Slutsky]]
-![[modules/sto1/Korollar 6.7]]
-![[modules/sto1/Satz 6.8]]
+![[zettel/Topologischer Rand|Topologischer Rand]]
+![[zettel/Portmanteau-Theorem|Portmanteau-Theorem]]
+![[zettel/Schwache Konvergenz|Schwache Konvergenz]]
+![[zettel/Verteilungskonvergenz|Verteilungskonvergenz]]
+![[zettel/Satz von der stetigen Abbildung|Satz von der stetigen Abbildung]]
+![[modules/sto1/Satz 6.5|Satz 6.5]]
+![[zettel/Lemma von Slutsky|Lemma von Slutsky]]
+![[modules/sto1/Korollar 6.7|Korollar 6.7]]
+![[modules/sto1/Satz 6.8|Satz 6.8]]

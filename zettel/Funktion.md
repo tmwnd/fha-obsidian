@@ -3,53 +3,53 @@ title: Funktion
 type: definition
 ---
 
-![[Funktion Positivteil]]
+![[zettel/Funktion Positivteil|Funktion Positivteil]]
 
 ---
 
-![[Funktion Negativteil]]
+![[zettel/Funktion Negativteil|Funktion Negativteil]]
 
 ---
 
 Sei $f$ eine Funktion mit
-- dem [[Funktion Positivteil|Positivteil]] $f^+$
-- dem [[Funktion Negativteil|Negativteil]] $f^-$
+- dem [[zettel/Funktion Positivteil|Positivteil]] $f^+$
+- dem [[zettel/Funktion Negativteil|Negativteil]] $f^-$
 
 Es gilt
 - $f = f^+ - f^-$
 
 ---
 
-![[Funktion messbar]]
+![[zettel/Funktion messbar|Funktion messbar]]
 
 ---
 
-![[Funktion elementar]]
+![[zettel/Funktion elementar|Funktion elementar]]
 
 ---
 
-Sei $(\Omega, \mathcal{A}, \mu)$ ein [[Maßraum]], $N \in \mathcal{A}$ eine $\mu$-[[μ-Nullmengen|Nullmenge]], $\mathcal{L}$ die Borelsche $\sigma$-[[Borelsche σ-Algebra|Algebra]]  mit
+Sei $(\Omega, \mathcal{A}, \mu)$ ein [[zettel/Maßraum|Maßraum]], $N \in \mathcal{A}$ eine $\mu$-[[zettel/μ-Nullmengen|Nullmenge]], $\mathcal{L}$ die Borelsche $\sigma$-[[zettel/Borelsche σ-Algebra|Algebra]]  mit
 
-Eine Funktion $g$ ist *$\mu$-[[μ-Nullmengen|f. ü.]] definiert*, falls
-- $g : (N^\complement, \mathcal{A}_{N^\complement}) \to (\overline{\mathbb{R}}, \overline{\mathcal{L}})$ $\mu$-[[μ-Integrierbarkeit|integrierbare]] ist
-- $\tilde{g}(\omega) = \begin{cases} g(w), & \omega \in N^\complement \\ 0, & \omega \in N \end{cases}$ $\mu$-[[μ-Integrierbarkeit|integrierbare]] ist
-
----
-
-![[Funktion monoton]]
+Eine Funktion $g$ ist *$\mu$-[[zettel/μ-Nullmengen|f. ü.]] definiert*, falls
+- $g : (N^\complement, \mathcal{A}_{N^\complement}) \to (\overline{\mathbb{R}}, \overline{\mathcal{L}})$ $\mu$-[[zettel/μ-Integrierbarkeit|integrierbare]] ist
+- $\tilde{g}(\omega) = \begin{cases} g(w), & \omega \in N^\complement \\ 0, & \omega \in N \end{cases}$ $\mu$-[[zettel/μ-Integrierbarkeit|integrierbare]] ist
 
 ---
 
-![[Funktion additiv]]
+![[zettel/Funktion monoton|Funktion monoton]]
 
 ---
 
-![[Funktion subadditiv]]
+![[zettel/Funktion additiv|Funktion additiv]]
 
 ---
 
-![[Funktion σ-additiv]]
+![[zettel/Funktion subadditiv|Funktion subadditiv]]
 
 ---
 
-![[Funktion σ-subadditiv]]
+![[zettel/Funktion σ-additiv|Funktion σ-additiv]]
+
+---
+
+![[zettel/Funktion σ-subadditiv|Funktion σ-subadditiv]]

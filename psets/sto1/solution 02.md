@@ -2,17 +2,17 @@
 type: solution
 ---
 
-![[psets/sto1/assignment 02#^1]]
+![[psets/sto1/assignment 02#^1|assignment 02#^1]]
 
 ---
 
-![[psets/sto1/assignment 02#^2]]
+![[psets/sto1/assignment 02#^2|assignment 02#^2]]
 
 ---
 
-![[psets/sto1/assignment 02#^3]]
+![[psets/sto1/assignment 02#^3|assignment 02#^3]]
 
-$G$ ist eine [[Verteilungsfunktion]], falls
+$G$ ist eine [[zettel/Verteilungsfunktion|Verteilungsfunktion]], falls
 1. $G$ monoton wachend ist
 2. $G$ rechtsseitig stetig ist
 3. $\lim_{x \to -\infty} G(x) = 0$
@@ -27,4 +27,4 @@ Alle Voraussetzungen sind erfüllt, da
 
 ---
 
-![[psets/sto1/assignment 02#^4]]
+![[psets/sto1/assignment 02#^4|assignment 02#^4]]

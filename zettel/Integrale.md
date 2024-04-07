@@ -3,10 +3,10 @@ title: Integrale
 type: definition
 ---
 
-![[μ-Integral]]
-![[υ-Integral]]
-![[τ-Integral]]
-![[δ-a-Integral]]
-![[λ-a-b-Integral]]
-![[λ-Integral]]
-![[P-Integral]]
+![[zettel/μ-Integral|μ-Integral]]
+![[zettel/υ-Integral|υ-Integral]]
+![[zettel/τ-Integral|τ-Integral]]
+![[zettel/δ-a-Integral|δ-a-Integral]]
+![[zettel/λ-a-b-Integral|λ-a-b-Integral]]
+![[zettel/λ-Integral|λ-Integral]]
+![[zettel/P-Integral|P-Integral]]

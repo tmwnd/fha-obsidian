@@ -3,7 +3,7 @@ title: μ-Nullmengen
 type: definition
 ---
 
-Sei $\mathcal{A}$ eine $\sigma$-[[σ-Algebra|Algebra]] auf $\Omega$, $N \in \mathcal{A}$, $\mu$ ein [[Maß]].
+Sei $\mathcal{A}$ eine $\sigma$-[[zettel/σ-Algebra|Algebra]] auf $\Omega$, $N \in \mathcal{A}$, $\mu$ ein [[zettel/Maß|Maß]].
 
 $N$ ist eine *$\mu$-Nullmenge*, falls
 - $\mu(N) = 0$

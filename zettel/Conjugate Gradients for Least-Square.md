@@ -7,7 +7,7 @@ aliases:
 
 Sei $X \in \mathbb{R}^{m \times n}, y \in \mathbb{R}^m$, $w^{(0)} \in \mathbb{R}^n$ mit
 - $\underbrace{X^TX}_Aw = \underbrace{X^Ty}_b$
-- $A$ ist [[Matrix symmetrisch positiv definit|spd]]
+- $A$ ist [[zettel/Matrix symmetrisch positiv definit|spd]]
 - $s^{(0)} = y - Xw^{(0)}$
 - $p^{(0)} = r^{(0)} = X^Ts^{(0)}$
 
@@ -21,4 +21,4 @@ Der $k$-te Schritt von *CGLS* ist definiert als
 
 ---
 
-CGLS optimiert [[Conjugate Gradients|Conjugate Gradients]] für [[Least-Square Problem|Least-Square Probleme]].
+CGLS optimiert [[zettel/Conjugate Gradients|Conjugate Gradients]] für [[zettel/Least-Square Problem|Least-Square Probleme]].

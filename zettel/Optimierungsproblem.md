@@ -6,8 +6,8 @@ type: definition
 Sei $X \subseteq \mathbb{R}^d$, $f : X \to \mathbb{R}$.
 
 Das Minimieren von $f$ ist
-- [[nicht-restringiertes Optimierungsproblem|nicht-restringiert]], falls $X = \mathbb{R}^d$ bzw.
-- [[restringiertes Optimierungsproblem|restringiert]], falls $X \subset \mathbb{R}^d$
+- [[zettel/nicht-restringiertes Optimierungsproblem|nicht-restringiert]], falls $X = \mathbb{R}^d$ bzw.
+- [[zettel/restringiertes Optimierungsproblem|restringiert]], falls $X \subset \mathbb{R}^d$
 
 ---
 

@@ -3,4 +3,4 @@ title: Quantile
 type: subsection
 ---
 
-![[Quantil]]
+![[zettel/Quantil|Quantil]]

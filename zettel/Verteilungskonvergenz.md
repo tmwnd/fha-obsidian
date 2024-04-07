@@ -3,18 +3,18 @@ title: Verteilungskonvergenz
 type: definition
 ---
 
-Seien $X, (X_n)_{n \in \mathbb{N}}$ $d$-dimensionale [[Zufallsvariable|Zufallsvektoren]].
+Seien $X, (X_n)_{n \in \mathbb{N}}$ $d$-dimensionale [[zettel/Zufallsvariable|Zufallsvektoren]].
 
 $(X_n)_{n \in \mathbb{N}}$ heißt *verteilungskonvergent* gegen $X$, falls
-- Die [[Verteilungsfunktion|Verteilungen]] von $(X_n)_{n \in \mathbb{N}}$ [[Schwache Konvergenz|schwach]] gegen die [[Verteilungsfunktion|Verteilung]] von $X$ konvergiert.
+- Die [[zettel/Verteilungsfunktion|Verteilungen]] von $(X_n)_{n \in \mathbb{N}}$ [[zettel/Schwache Konvergenz|schwach]] gegen die [[zettel/Verteilungsfunktion|Verteilung]] von $X$ konvergiert.
 
 Schreibe
 - $X_n \overset{V}{\longrightarrow} X$.
 
 ---
 
-Sei $X, (X_n)_{n \in \mathbb{N}}$ $d$-dimensionale [[Zufallsvariable|Zufallsvektoren]].
-- $X \sim \mathcal{N}_d(\vec{0}, I_d)$ [[Normalverteilung|standardnormalverteilt]]
+Sei $X, (X_n)_{n \in \mathbb{N}}$ $d$-dimensionale [[zettel/Zufallsvariable|Zufallsvektoren]].
+- $X \sim \mathcal{N}_d(\vec{0}, I_d)$ [[zettel/Normalverteilung|standardnormalverteilt]]
 - $X_n \overset{V}{\longrightarrow} X$
 
 Schreibe
@@ -22,6 +22,6 @@ Schreibe
 
 ---
 
-Sei $(\Omega, \mathcal{A}, P)$ ein [[Wahrscheinlichkeitsraum]], $X, (X_n)_{n \in \mathbb{N}}$ $d$-dimensionale [[Zufallsvariable|Zufallsvektoren]].
+Sei $(\Omega, \mathcal{A}, P)$ ein [[zettel/Wahrscheinlichkeitsraum|Wahrscheinlichkeitsraum]], $X, (X_n)_{n \in \mathbb{N}}$ $d$-dimensionale [[zettel/Zufallsvariable|Zufallsvektoren]].
 
-Aus $X_n \overset{P}{\longrightarrow} X$ konvergiert [[Stochastische Konvergenz|stochastisch]] folgt $X_n \overset{V}{\longrightarrow} X$.
+Aus $X_n \overset{P}{\longrightarrow} X$ konvergiert [[zettel/Stochastische Konvergenz|stochastisch]] folgt $X_n \overset{V}{\longrightarrow} X$.

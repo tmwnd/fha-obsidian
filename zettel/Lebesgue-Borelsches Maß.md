@@ -3,7 +3,7 @@ title: Lebesgue-Borelsches Ma�
 type: definition
 ---
 
-Das zu $F(x) = x, x \in \mathbb{R}$ gehörende [[Maß]] $\lambda$ heißt *Lebesgue-Borelsches Maß* auf der Borelschen $\sigma$-[[Borelsche σ-Algebra|Algebra]] $\mathcal{L}$
+Das zu $F(x) = x, x \in \mathbb{R}$ gehörende [[zettel/Maß|Maß]] $\lambda$ heißt *Lebesgue-Borelsches Maß* auf der Borelschen $\sigma$-[[zettel/Borelsche σ-Algebra|Algebra]] $\mathcal{L}$
 
 Es gilt
 - $\forall x \in \mathbb{R} : \lambda(\{ x \}) = 0$
@@ -11,7 +11,7 @@ Es gilt
 
 ---
 
-Zu jeder [[modules/sto1/Korollar 1.17|Verteilungsfunktion]] $F : \mathbb{R} \to \mathbb{R}$ auf der Borelschen $\sigma$-[[Borelsche σ-Algebra|Algebra]] $\mathcal{L}^d$ gibt es genau ein [[Maß]] $\lambda^d$, sodass
+Zu jeder [[modules/sto1/Korollar 1.17|Verteilungsfunktion]] $F : \mathbb{R} \to \mathbb{R}$ auf der Borelschen $\sigma$-[[zettel/Borelsche σ-Algebra|Algebra]] $\mathcal{L}^d$ gibt es genau ein [[zettel/Maß|Maß]] $\lambda^d$, sodass
 - $\lambda^d(S) = \Delta_S F = \prod_{k = 1}^d (b_k - a_k)$ mit
 - $S = \prod_{i = 1}^d (a_1, b_1]$
 - $\forall k \in {1, \dots, d} : -\infty \lt a_k \le b_k \lt +\infty$
@@ -22,10 +22,10 @@ Das Lebesgue Borelsche Maß ist [[sigma-Algebra Invarianzen|translations-]] und 
 
 ---
 
-Sei $-\infty \lt a \le b \lt +\infty$, $x \in \mathbb{R}$, $f : [a, b] \to \mathbb{R}_+$ eine Riemann-integrierbare [[Funktion]] mit
+Sei $-\infty \lt a \le b \lt +\infty$, $x \in \mathbb{R}$, $f : [a, b] \to \mathbb{R}_+$ eine Riemann-integrierbare [[zettel/Funktion|Funktion]] mit
 - $\int_a^b f(t) dt = 1$
 
-Die [[Verteilungsfunktion]] $F : \mathbb{R} \to \mathbb{R}$ eines [[Wahrscheinlichkeitsmaß|Wahrscheinlichkeitsmaßes]] $P$ auf der Borelschen $\sigma$-[[Borelsche σ-Algebra|Algebra]] $\mathcal{L}$ ist definiert als
+Die [[zettel/Verteilungsfunktion|Verteilungsfunktion]] $F : \mathbb{R} \to \mathbb{R}$ eines [[zettel/Wahrscheinlichkeitsmaß|Wahrscheinlichkeitsmaßes]] $P$ auf der Borelschen $\sigma$-[[zettel/Borelsche σ-Algebra|Algebra]] $\mathcal{L}$ ist definiert als
 
 $$
 	F(x) = \begin{cases}
@@ -37,10 +37,10 @@ $$
 
 ---
 
-Sei $x \in \mathbb{R}$, $f : \mathbb{R} \to \mathbb{R}_+$ eine uneigentlich Riemann-integrierbare [[Funktion]] mit
+Sei $x \in \mathbb{R}$, $f : \mathbb{R} \to \mathbb{R}_+$ eine uneigentlich Riemann-integrierbare [[zettel/Funktion|Funktion]] mit
 - $\int_{-\infty}^{+\infty} f(t) dt = 1$
 
-Die [[Verteilungsfunktion]] $F : \mathbb{R} \to \mathbb{R}$ eines [[Wahrscheinlichkeitsmaß|Wahrscheinlichkeitsmaßes]] $P$ auf der Borelschen $\sigma$-[[Borelsche σ-Algebra|Algebra]] $\mathcal{L}$ ist definiert als
+Die [[zettel/Verteilungsfunktion|Verteilungsfunktion]] $F : \mathbb{R} \to \mathbb{R}$ eines [[zettel/Wahrscheinlichkeitsmaß|Wahrscheinlichkeitsmaßes]] $P$ auf der Borelschen $\sigma$-[[zettel/Borelsche σ-Algebra|Algebra]] $\mathcal{L}$ ist definiert als
 
 $$
 	F(x) = \int_{-\infty}^x f(t) dtcd
@@ -48,11 +48,11 @@ $$
 
 ---
 
-Jede stetige [[Funktion]] $f : \mathbb{R}^d \to \mathbb{R}^p$ ist $(\mathcal{L}^d, \mathcal{L}^p)$-[[Funktion A-S-messbar|messbar]].
+Jede stetige [[zettel/Funktion|Funktion]] $f : \mathbb{R}^d \to \mathbb{R}^p$ ist $(\mathcal{L}^d, \mathcal{L}^p)$-[[zettel/Funktion A-S-messbar|messbar]].
 
 ---
 
-$f : \Omega \to \overline{\mathbb{R}}$ ist genau dann $(\mathcal{A}, \overline{\mathcal{L}})$-[[Funktion A-S-messbar|messbar]], falls
+$f : \Omega \to \overline{\mathbb{R}}$ ist genau dann $(\mathcal{A}, \overline{\mathcal{L}})$-[[zettel/Funktion A-S-messbar|messbar]], falls
 - a) $\forall a \in \mathbb{R} : \{ f \gt a \} = \{ \omega \in \Omega, f(\omega) \gt a \}$ = $f^{-1}((a, +\infty]) \in \mathcal{A}$
 - b) $\forall a \in \mathbb{R} : \{ f \ge a \} = \{ \omega \in \Omega, f(\omega) \ge a \}$ = $f^{-1}([a, +\infty]) \in \mathcal{A}$
 - c) $\forall b \in \mathbb{R} : \{ f \lt b \} = \{ \omega \in \Omega, f(\omega) \lt b \}$ = $f^{-1}([-\infty, b)) \in \mathcal{A}$
