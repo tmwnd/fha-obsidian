@@ -10,7 +10,7 @@ $N$ ist eine *$\nu$-Nullmenge*, falls
 
 ---
 
-Jede $\mu$-[[zettel/μ-Nullmengen|Nullmenge]] ist ein $\nu$-Nullmenge bzw. $\nu$ ist $\mu$-stetig.
+Jede $\mu$-[[zettel/μ-Nullmenge|Nullmenge]] ist ein $\nu$-Nullmenge bzw. $\nu$ ist $\mu$-stetig.
 
 Schreibe
 - $\nu \ll \mu$.

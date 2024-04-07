@@ -3,7 +3,7 @@ title: Weitere Eigenschaften von μ-Integralen und Beispiele
 type: subsection
 ---
 
-![[zettel/μ-Nullmengen|μ-Nullmengen]]
+![[zettel/μ-Nullmenge|μ-Nullmenge]]
 ![[modules/sto1/Satz 3.9|Satz 3.9]]
 ![[modules/sto1/Korollar 3.10|Korollar 3.10]]
 ![[zettel/υ-Nullmenge|υ-Nullmenge]]

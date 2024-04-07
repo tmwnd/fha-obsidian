@@ -1,8 +1,8 @@
 ---
-title: Beppo Levi
-type: definition
+title: Satz der monotonen Konvergenz
+type: theorem
 aliases:
-  - Satz der monotonen Konvergenz
+  - Satz von Beppo Levi
 ---
 
 Sei $f, (f_n)_{n \in \mathbb{N}} \in \mathcal{M}_+$ [[zettel/Funktion/Messbarkeit|messbare]] [[zettel/Funktion|Funktionen]] mit

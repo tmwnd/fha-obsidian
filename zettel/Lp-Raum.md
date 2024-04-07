@@ -14,8 +14,8 @@ $$
 ---
 
 Sei $L^p \subseteq \mathcal{L}^p$ ein normierter Vektorraum mit
-- $\forall f \in \mathcal{L}^p : [f]$ äquivalente [[zettel/Funktion|Funktionen]] nach $f \sim_{L_p} g \iff f = g$ $\mu$-[[zettel/μ-Nullmengen|f. ü.]]
-- $\forall f \in \mathcal{L}^p : \exists! [g] \in L^p : f = g$ $\mu$-[[zettel/μ-Nullmengen|f. ü.]]
+- $\forall f \in \mathcal{L}^p : [f]$ äquivalente [[zettel/Funktion|Funktionen]] nach $f \sim_{L_p} g \iff f = g$ $\mu$-[[zettel/μ-Nullmenge|f. ü.]]
+- $\forall f \in \mathcal{L}^p : \exists! [g] \in L^p : f = g$ $\mu$-[[zettel/μ-Nullmenge|f. ü.]]
 
 ---
 

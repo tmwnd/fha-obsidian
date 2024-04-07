@@ -1,6 +1,8 @@
 ---
 title: Tschebyscheffsche Ungleichung
 type: definition
+aliases:
+  - Chebyshevsche Ungleichung
 ---
 
 Sei $\mu$ ein [[zettel/Maß|Maß]], $f : (\Omega, \mathcal{A}) \to (\overline{R}, \overline{\mathcal{L}})$ [[zettel/Funktion/Messbarkeit|messbar]].

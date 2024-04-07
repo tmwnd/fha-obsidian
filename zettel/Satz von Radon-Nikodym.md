@@ -15,4 +15,4 @@ Sei $(\Omega, \mathcal{A})$ ein [[zettel/Messraum|Messraum]], $\mu, \nu$ [[zette
 - $\mu$ $\sigma$-[[zettel/Funktion|endlich]] TODO
 
 Es gilt
-- $f = g$ $\mu$-[[zettel/μ-Nullmengen|f. ü.]]
+- $f = g$ $\mu$-[[zettel/μ-Nullmenge|f. ü.]]

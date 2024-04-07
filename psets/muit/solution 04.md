@@ -4,7 +4,7 @@ type: solution
 
 ![[psets/muit/assignment 04#^1|assignment 04#^1]]
 
-Sei $\lambda$ das $\sigma$-[[zettel/Maß|endliche]] TODO [[zettel/Lebesgue-Borelsches Maß|Lebesgue-Borelsches Maß]], $\epsilon_x$ das [[zettel/Dirac-Maß|Einpunktmaß]], $\mathcal{N}_\lambda$ das [[zettel/μ-Nullmengen|System der Nullmengen]] auf $\lambda$, $\mathcal{N}_{\epsilon_x}$ das [[zettel/μ-Nullmengen|System der Nullmengen]] auf $\epsilon_x$.
+Sei $\lambda$ das $\sigma$-[[zettel/Maß|endliche]] TODO [[zettel/Lebesgue-Borelsches Maß|Lebesgue-Borelsches Maß]], $\epsilon_x$ das [[zettel/Dirac-Maß|Einpunktmaß]], $\mathcal{N}_\lambda$ das [[zettel/μ-Nullmenge|System der Nullmengen]] auf $\lambda$, $\mathcal{N}_{\epsilon_x}$ das [[zettel/μ-Nullmenge|System der Nullmengen]] auf $\epsilon_x$.
 
 $\epsilon_x$ hat eine $\lambda$-[[zettel/μ-Dichte|Dichte]], falls
 - $\epsilon_x$ $\lambda$-[[zettel/μ-Stetigkeit|stetig]] ist
@@ -34,7 +34,7 @@ $\unicode{x21af}$: $\{ x \} \in \mathcal{N}_\lambda \land \{ x \} \notin \mathca
 
 ![[psets/muit/assignment 04#^3|assignment 04#^3]]
 
-Sei $\lambda$ das [[zettel/Lebesgue-Borelsches Maß|Lebesgue-Borelsches Maß]], $\mathcal{N}_\lambda$ das [[zettel/μ-Nullmengen|System der Nullmengen]] auf $\lambda$, $\mathcal{N}_\nu$ das [[zettel/μ-Nullmengen|System der Nullmengen]] auf $\nu$.
+Sei $\lambda$ das [[zettel/Lebesgue-Borelsches Maß|Lebesgue-Borelsches Maß]], $\mathcal{N}_\lambda$ das [[zettel/μ-Nullmenge|System der Nullmengen]] auf $\lambda$, $\mathcal{N}_\nu$ das [[zettel/μ-Nullmenge|System der Nullmengen]] auf $\nu$.
 
 1. $\nu$ ist $\lambda$-[[zettel/μ-Stetigkeit|stetig]], falls
 	1. $\forall N \in \mathcal{N}_\lambda : N \in \mathcal{N}_\nu$

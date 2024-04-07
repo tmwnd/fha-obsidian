@@ -7,8 +7,8 @@ Alle echten offenen, abgeschlossenen und halboffenen Intervalle^[z. B. $\mathbb{
 
 ---
 
-Sei $M$ eine [[Durchschnittsstabilität/Kardinalitäten|unendliche]] Menge, $M' \subseteq M$.
+Sei $M$ eine [[zettel/Kardinalitäten|unendliche]] Menge, $M' \subseteq M$.
 
 Es gilt
-- $M'$ ist [[Durchschnittsstabilität/Kardinalitäten|endlich]] oder
+- $M'$ ist [[zettel/Kardinalitäten|endlich]] oder
 - $M \sim M'$

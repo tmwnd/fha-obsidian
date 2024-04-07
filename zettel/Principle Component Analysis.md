@@ -6,7 +6,7 @@ aliases:
 ---
 
 Sei $X = (x_1, \dots, x_n) \in \mathbb{R}^{m \times n}$ mit
-- $X$ [[zettel/zentrierter Datensatz|zentriert]]
+- $X$ [[zettel/Zentrierter Datensatz|zentriert]]
 - $U\Sigma V^T$ die [[zettel/Singulärwertzerlegung|SVD]] von $X$
 - $s \in \mathbb{R}$
 

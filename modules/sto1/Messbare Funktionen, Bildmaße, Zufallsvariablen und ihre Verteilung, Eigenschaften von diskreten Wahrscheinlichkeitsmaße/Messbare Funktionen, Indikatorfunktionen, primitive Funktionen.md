@@ -5,6 +5,6 @@ type: subsection
 
 ![[zettel/Messraum|Messraum]]
 ![[zettel/Funktion/A-S-Messbarkeit|A-S-Messbarkeit]]
-![[zettel/Funktion|Funktion]]
+![[zettel/Funktion|Funktion]] TODO
 ![[zettel/Indikatorfunktion|Indikatorfunktion]]
 ![[modules/sto1/Satz 2.7|Satz 2.7]]

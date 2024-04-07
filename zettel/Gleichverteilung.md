@@ -1,6 +1,8 @@
 ---
 title: Gleichverteilung
 type: example
+aliases:
+  - Rechteck-Verteilung
 ---
 
 Seien $-\infty \lt a \lt b \lt +\infty$ und die $\lambda$-[[zettel/λ-Dichte|Dichte]] $r : [a, b] \to \mathbb{R}_+$ konstant mit

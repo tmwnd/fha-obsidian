@@ -3,7 +3,7 @@ title: Bemerkung 2.4.13
 type: TODO
 ---
 
-Sei $(\Omega, \mathcal{A}, \mu)$ ein [[zettel/Maßraum|Maßraum]], $\mathcal{M}_\mu$ das Systen der $\mu$-[[zettel/μ-Nullmengen|Nullmengen]].
+Sei $(\Omega, \mathcal{A}, \mu)$ ein [[zettel/Maßraum|Maßraum]], $\mathcal{M}_\mu$ das Systen der $\mu$-[[zettel/μ-Nullmenge|Nullmengen]].
 
 Es gilt
 - $\emptyset \in \mathcal{N}_\mu$

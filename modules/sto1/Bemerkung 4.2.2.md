@@ -8,7 +8,7 @@ Sei $(\Omega, \mathcal{A}, \mu)$ ein [[zettel/Maßraum|Maßraum]], $f : (\Omega,
 
 Es gilt
 
-- $\mu$-[[zettel/μ-Integrierbarkeit|integrierbare]] [[zettel/Funktion|Funktionen]] sind $\mu$-[[zettel/μ-Nullmengen|f. ü.]] endlich.
+- $\mu$-[[zettel/μ-Integrierbarkeit|integrierbare]] [[zettel/Funktion|Funktionen]] sind $\mu$-[[zettel/μ-Nullmenge|f. ü.]] endlich.
 
 und
 

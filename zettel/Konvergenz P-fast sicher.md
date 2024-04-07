@@ -7,7 +7,7 @@ Sei $(\Omega, \mathcal{A}, P)$ ein [[zettel/Wahrscheinlichkeitsraum|Wahrscheinli
 - $\forall n \in \{ 1, \dots, n \} : X_n : (\Omega, \mathcal{A}) \to (\mathbb{R}^d, \mathcal{L}^d)$ [[zettel/Funktion/Messbarkeit|messbar]]
 
 Die Folge $(X_i)_{i \in \{ 1, \dots, n \}}$ *konvergiert $P$-fast sicher* gegen $X$, falls
-- $\exists N \in \mathcal{A}$ eine $P$-[[zettel/μ-Nullmengen|Nullmenge]] mit
+- $\exists N \in \mathcal{A}$ eine $P$-[[zettel/μ-Nullmenge|Nullmenge]] mit
 
 $$
 	\forall \omega \in N^\complement : \lim_{n \to \infty} X_n(\omega) = X(\omega)

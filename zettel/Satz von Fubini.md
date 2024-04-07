@@ -22,8 +22,8 @@ Seien $((\Omega_i, \mathcal{A}_i, \mu_i))_{i \in \{ 1, 2 \}}$ [[zettel/Maßraum|
 - $f$ $\mu_1 \otimes \mu_2$-[[zettel/μ-Integrierbarkeit|integrierbar]]
 
 Es gilt
-- $f_{\omega_1}$ ist für $\mu_1$-[[zettel/μ-Nullmengen|fast alle]] $\omega_1 \in \Omega_1$ $\mu_2$-[[zettel/μ-Integrierbarkeit|integrierbare]]
-- $f_{\omega_2}$ ist für $\mu_2$-[[zettel/μ-Nullmengen|fast alle]] $\omega_2 \in \Omega_2$ $\mu_1$-[[zettel/μ-Integrierbarkeit|integrierbare]]
+- $f_{\omega_1}$ ist für $\mu_1$-[[zettel/μ-Nullmenge|fast alle]] $\omega_1 \in \Omega_1$ $\mu_2$-[[zettel/μ-Integrierbarkeit|integrierbare]]
+- $f_{\omega_2}$ ist für $\mu_2$-[[zettel/μ-Nullmenge|fast alle]] $\omega_2 \in \Omega_2$ $\mu_1$-[[zettel/μ-Integrierbarkeit|integrierbare]]
 
 Die $\mu_1$-[[zettel/Funktion|f. ü. definierte]] [[zettel/Funktion|Funktion]] bzw. $\mu_2$-[[zettel/Funktion|f. ü. definierte]] [[zettel/Funktion|Funktion]] ist definiert als
 - $\omega_1 \mapsto \int f_{\omega_1} d\mu_2$

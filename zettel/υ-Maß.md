@@ -1,6 +1,8 @@
 ---
 title: υ-Maß
 type: example
+aliases:
+ - Maß mit der μ-Dichte
 ---
 
 Sei $f \in \mathcal{M}_+$ eine [[zettel/Funktion/Messbarkeit|messbare]] [[zettel/Funktion|Funktion]], $A \in \mathcal{A}$.
