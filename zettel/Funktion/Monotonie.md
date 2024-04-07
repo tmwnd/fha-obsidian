@@ -1,6 +1,6 @@
 ---
 title: Monotone Funktion
-type: definition
+type: property
 ---
 
 Sei $A, B \in \mathcal{A}$ mit

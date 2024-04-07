@@ -1,6 +1,6 @@
 ---
 title: Libschitz-stetige Funktion
-type: definition
+type: property
 aliase:
   - L-stetige Funktion
 ---

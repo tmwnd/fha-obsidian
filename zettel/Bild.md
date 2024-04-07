@@ -1,6 +1,8 @@
 ---
 title: Bild
 type: definition
+tags:
+  - Funktion
 ---
 
 Sei $f : X \to Y$ eine [[zettel/Funktion|Funktion]], $A \subseteq X$.

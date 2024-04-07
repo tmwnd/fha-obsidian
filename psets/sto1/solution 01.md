@@ -16,8 +16,8 @@ type: solution
 	3.  
 		1. $\forall n \in \mathbb{N} : A_n$ abzählbar $\implies$ $\bigcup_{n \in \mathbb{N}} A_n$ abzählbar
 		2. $\exists k \in \mathbb{N} : A_k$  überabzählbar $\implies$ $A_k^\complement$ abzählbar $\implies$ $( \bigcup_{n \in \mathbb{N}} A_n)^\complement = \bigcap_{n \in \mathbb{N}} A_n^\complement$ abzählbar
-2. $m$ ist ein [[zettel/Maß|Maß]], falls $m$ eine $\sigma$-[[zettel/Funktion σ-additiv|additive]] [[zettel/Funktion|Funktion]] ist.
-	$m$ ist eine $\sigma$-[[zettel/Funktion σ-additiv|additive]] [[zettel/Funktion|Funktion]], falls
+2. $m$ ist ein [[zettel/Maß|Maß]], falls $m$ eine $\sigma$-[[zettel/Funktion/σ-Additivität|additive]] [[zettel/Funktion|Funktion]] ist.
+	$m$ ist eine $\sigma$-[[zettel/Funktion/σ-Additivität|additive]] [[zettel/Funktion|Funktion]], falls
 	1. $m(\emptyset) = 0$
 	2. p. d. $(A_n)_{n \in \mathbb{N}} \in \mathfrak{A} \implies$
 	

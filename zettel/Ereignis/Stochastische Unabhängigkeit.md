@@ -1,6 +1,6 @@
 ---
 title: Stochastisch unabhängige Ereignisse
-type: definition
+type: property
 aliase:
   - Unabhängige Ereignisse
 ---

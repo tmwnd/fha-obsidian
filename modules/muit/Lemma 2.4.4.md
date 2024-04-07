@@ -16,6 +16,6 @@ und
 - $(\mathbb{R}, \mathcal{L}^*, \lambda^*)$ ist ein [[zettel/Maßraum|Maßraum]]
 - $(\mathbb{R}, \mathcal{M}_{\lambda^*}, \lambda^*)$ ist ein [[zettel/Maßraum|Maßraum]]
 - $\lambda^*$ ist eine Erweiterung von $\lambda$, da $\forall I \in \mathcal{I}^1 : \lambda(I) = \lambda^*(I)$
-- $\lambda^*$ ist auf $\mathcal{L}^*$ eindeutig, da $\mathcal{I}^1$ ein $\cap$-[[zettel/Menge durchschnitsstabil|stabiler]] Erzeuger von $\mathcal{L}^*$ ist.
+- $\lambda^*$ ist auf $\mathcal{L}^*$ eindeutig, da $\mathcal{I}^1$ ein $\cap$-[[zettel/Menge/Durchschnittsstabilität|stabiler]] Erzeuger von $\mathcal{L}^*$ ist.
 
 Schreibe für das [[zettel/Lebesgue-Borelsches Maß|Lebesgue-Borelsches Maß]] $\lambda$ statt $\lambda^+$

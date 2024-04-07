@@ -1,6 +1,6 @@
 ---
 title: Elementarfunktion
-type: definition
+type: property
 aliases:
   - elementare Funktion
   - primitive Funktion

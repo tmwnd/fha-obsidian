@@ -42,7 +42,7 @@ $$
 und
 - $l$ [[zettel/Funktion/Konvexität|konvex]] $\implies$ jedes lokale Minimum ist ein globales Minimum
 - $l'(w) = 0 \iff A^TAw = A^Tb$
-- $l''(w)$ [[zettel/Matrix/Definitheit|positiv semidefinit]] $\implies$ $w$ ist ein lokales Minimum
+- $l''(w)$ [[zettel/Matrix/Indefinitheit|positiv semidefinit]] $\implies$ $w$ ist ein lokales Minimum
 
 Das zu lösende Normalgleichungssystem ist
 - $\underbrace{w^* = \arg\min_{w \in \mathbb{R}^n} l(w)}_\text{numerisches Optimierungsproblem} \equiv \underbrace{A^TAw = A^Tb}_\text{linesares Gleichungssystem}$^[$w$ nicht eindeutig, da $g$ mehrere globale Minima enthalten kann]

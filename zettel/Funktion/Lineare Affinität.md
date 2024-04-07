@@ -1,6 +1,6 @@
 ---
 title: Linear affine Funktion
-type: definition
+type: property
 ---
 
 Sei $g$ eine Modellfunktion, $w \in \mathbb{R}^n$.

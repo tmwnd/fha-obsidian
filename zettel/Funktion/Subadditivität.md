@@ -1,6 +1,6 @@
 ---
 title: Subadditive Funktion
-type: definition
+type: property
 ---
 
 Sei $n \in \mathbb{N}$.

@@ -1,6 +1,6 @@
 ---
 title: Numerische Funktion
-type: definition
+type: property
 ---
 
 Sei $f : A \to B$ eine [[zettel/Funktion|Funktion]].

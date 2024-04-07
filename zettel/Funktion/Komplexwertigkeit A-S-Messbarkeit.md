@@ -1,6 +1,6 @@
 ---
 title: Komplexwertige A-S-messbare Funktion
-type: definition
+type: property
 ---
 
 Sei $(\Omega, \mathcal{A}, \mu)$ ein [[zettel/Maßraum|Maßraum]], $f: (\Omega, \mathcal{A}) \to (\mathbb{C}, \mathcal{L}(\mathbb{C}))$ eine [[zettel/Funktion/Komplexwertigkeit|komplexwertige]] [[zettel/Funktion|Funktion]].

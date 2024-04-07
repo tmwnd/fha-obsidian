@@ -1,6 +1,6 @@
 ---
 title: A-messbare Funktion
-type: definition
+type: property
 ---
 
 Sei $(\Omega, \mathcal{A})$ ein [[zettel/Messraum|Messraum]].

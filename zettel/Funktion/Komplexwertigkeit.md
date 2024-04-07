@@ -1,6 +1,6 @@
 ---
 title: Komplexwertige Funktion
-type: definition
+type: property
 ---
 
 Sei $f: (\Omega, \mathcal{A}) \to (\mathbb{C}, \mathcal{L}(\mathbb{C}))$ eine [[zettel/Funktion|Funktion]].

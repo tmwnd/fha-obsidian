@@ -1,6 +1,6 @@
 ---
 title: Konkave Funktion
-type: definition
+type: property
 ---
 
 Sei $f : C \to \mathbb{R}$ eine [[zettel/Funktion|Funktion]].

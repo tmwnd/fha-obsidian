@@ -1,6 +1,6 @@
 ---
 title: σ-endliches Maß
-type: definition
+type: property
 ---
 
 Ein [[zettel/Maß|Maß]] $\mu : \mathcal{A} \to \overline{\mathbb{R}}_+$ heißt $\sigma$-*endlich*, falls eine Folge $(A_n)_{n \in \mathbb{N}} \subseteq \mathcal{A}$ existiert mit

@@ -1,6 +1,6 @@
 ---
 title: Dünnbesetzte Matrix
-type: definition
+type: property
 aliase:
   - sparse
 ---

@@ -10,6 +10,6 @@ type: subsection
 ![[zettel/Minkowskische Ungleichung|Minkowskische Ungleichung]]
 ![[zettel/Lp-Raum|Lp-Raum]]
 ![[modules/sto1/Lemma 3.30|Lemma 3.30]]
-![[zettel/Funktion konvex|Funktion konvex]]
-![[zettel/Funktion konkav|Funktion konkav]]
+![[zettel/Funktion/Konvexität|Konvexität]]
+![[zettel/Funktion/Konkavität|Konkavität]]
 ![[zettel/Jensensche Ungleichung|Jensensche Ungleichung]]

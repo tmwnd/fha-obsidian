@@ -1,6 +1,6 @@
 ---
 title: Additive Funktion
-type: definition
+type: property
 ---
 
 Sei $n \in \mathbb{N}$.

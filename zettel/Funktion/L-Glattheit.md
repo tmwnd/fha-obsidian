@@ -1,6 +1,6 @@
 ---
 title: L-glatte Funktion
-type: definition
+type: property
 ---
 
 Sei $f : \text{dom}(f) \to \mathbb{R}$, $X \subseteq \text{dom}(f)$.

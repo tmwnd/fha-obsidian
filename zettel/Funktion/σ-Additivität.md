@@ -1,6 +1,6 @@
 ---
 title: σ-additive Funktion
-type: definition
+type: property
 ---
 
 Eine nicht-negative [[zettel/Funktion|Funktion]] $\mu : \mathcal{C} \to \overline{\mathbb{R}}_+$ heißt *$\sigma$-additiv*, falls

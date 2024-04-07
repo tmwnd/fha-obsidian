@@ -18,5 +18,5 @@ $$
 Sei weiterhin $g : (S, \mathscr{S}) \to (\Omega, \mathcal{A})$ eine [[zettel/Funktion|Funktion]].
 
 Folgende Aussagen sind äquivalent
-- $g$ ist $\mathscr{S}$-$\mathcal{A}$-[[zettel/Funktion A-S-messbar|messbar]]
-- $\forall i \in I : (f_i \circ g)$ ist $\mathscr{S}$-$\mathcal{R}_i$-[[zettel/Funktion A-S-messbar|messbar]]
+- $g$ ist $\mathscr{S}$-$\mathcal{A}$-[[zettel/Funktion/A-S-Messbarkeit|messbar]]
+- $\forall i \in I : (f_i \circ g)$ ist $\mathscr{S}$-$\mathcal{R}_i$-[[zettel/Funktion/A-S-Messbarkeit|messbar]]

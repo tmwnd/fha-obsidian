@@ -123,7 +123,7 @@ Alle Voraussetzungen sind erfüllt, da
 
 ![[psets/muit/assignment 02#^7|assignment 02#^7]]
 
-Da $\delta(\mathcal{E})$ ein [[zettel/Menge durchschnitsstabil|durchschnittsstabiles]] [[zettel/Dynkin-System|Dynkin-System]] bzw. eine $\sigma$-[[zettel/σ-Algebra|Algebra]] auf $X$ ist, gilt
+Da $\delta(\mathcal{E})$ ein [[zettel/Menge/Durchschnittsstabilität|durchschnittsstabiles]] [[zettel/Dynkin-System|Dynkin-System]] bzw. eine $\sigma$-[[zettel/σ-Algebra|Algebra]] auf $X$ ist, gilt
 - $X \in \delta(\mathcal{E})$
 - $A \in \delta(\mathcal{E}) \implies A^\complement \in \delta(\mathcal{E})$
 - $\forall (A_n)_{n \in \mathbb{N}} \in \delta(\mathcal{E}) : \bigcup_{n \in \mathbb{N}} A_n \in \delta(\mathcal{E})$

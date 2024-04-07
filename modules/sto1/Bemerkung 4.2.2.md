@@ -3,7 +3,7 @@ title: Bemerkung 4.2.2
 type: TODO
 ---
 
-Sei $(\Omega, \mathcal{A}, \mu)$ ein [[zettel/Maßraum|Maßraum]], $f : (\Omega, \mathcal{A}) \to (\overline{\mathbb{R}}, \overline{\mathcal{L}})$ eine $\mu$-[[zettel/μ-Integrierbarkeit|integrierbare]] [[zettel/Funktion messbar|messbare]] Funktion mit
+Sei $(\Omega, \mathcal{A}, \mu)$ ein [[zettel/Maßraum|Maßraum]], $f : (\Omega, \mathcal{A}) \to (\overline{\mathbb{R}}, \overline{\mathcal{L}})$ eine $\mu$-[[zettel/μ-Integrierbarkeit|integrierbare]] [[zettel/Funktion/Messbarkeit|messbare]] Funktion mit
 - $\mu(|f| = \infty) = 0$
 
 Es gilt

@@ -15,8 +15,8 @@ Sei $(R, \mathscr{S})$ ein [[zettel/Messraum|Messraum]], $f : (\Omega, \mathcal{
 Es gilt
 - $\forall \omega_1 \in \Omega_1 : f_{\omega_1}(\omega_2) = f(\omega_1, \omega_2)$
 - $\forall \omega_2 \in \Omega_2 : f_{\omega_2}(\omega_1) = f(\omega_1, \omega_2)$
-- $\forall \omega_1 \in \Omega_1 : f_{\omega_1} : \Omega_2 \to R$ ist eine $(\mathcal{A}_2, \mathscr{S})$-[[zettel/Funktion A-S-messbar|messbare]] [[zettel/Funktion|Funktion]]
-- $\forall \omega_2 \in \Omega_2 : f_{\omega_2} : \Omega_1 \to R$ ist eine $(\mathcal{A}_1, \mathscr{S})$-[[zettel/Funktion A-S-messbar|messbare]] [[zettel/Funktion|Funktion]]
+- $\forall \omega_1 \in \Omega_1 : f_{\omega_1} : \Omega_2 \to R$ ist eine $(\mathcal{A}_2, \mathscr{S})$-[[zettel/Funktion/A-S-Messbarkeit|messbare]] [[zettel/Funktion|Funktion]]
+- $\forall \omega_2 \in \Omega_2 : f_{\omega_2} : \Omega_1 \to R$ ist eine $(\mathcal{A}_1, \mathscr{S})$-[[zettel/Funktion/A-S-Messbarkeit|messbare]] [[zettel/Funktion|Funktion]]
 
 ---
 
@@ -27,7 +27,7 @@ Seien $((\Omega_i, \mathcal{A}_i))_{i \in \{ 1, 2 \}}$ [[zettel/Messraum|Messrä
 
 Sie $\mu_1$ ein [[zettel/Maß|Maß]] auf $\mathcal{A}_1$, $\mu_2$ ein [[zettel/Maß|Maß]] auf $\mathcal{A}_2$, $A_1 \in \mathcal{A}_1$, $A_2 \in \mathcal{A}_2$ mit
 - $S = A_1 \times A_2 \in \mathscr{S}$
-- $\tilde{\mu}$ dem $\sigma$-[[zettel/Funktion σ-additiv|additiven]] [[zettel/Produktmaß|Produktmaß]] von $\mu_1$ und $\mu_2$ auf $\mathscr{S}$
+- $\tilde{\mu}$ dem $\sigma$-[[zettel/Funktion/σ-Additivität|additiven]] [[zettel/Produktmaß|Produktmaß]] von $\mu_1$ und $\mu_2$ auf $\mathscr{S}$
 
 $\tilde{\mu}$ ist definiert als
 

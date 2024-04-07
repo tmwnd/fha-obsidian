@@ -1,6 +1,6 @@
 ---
 title: Orthogonale Matrizen
-type: definition
+type: property
 ---
 
 Sei $A \in \mathbb{R}^{m \times n}$.

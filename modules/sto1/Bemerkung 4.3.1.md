@@ -21,7 +21,7 @@ $$
 $$
 
 $X$ ist eine [[zettel/Zufallsvariable|Zufallsvariable]], falls
-- a) $X$ $(\mathcal{A}, \mathscr{S})$-[[zettel/Funktion A-S-messbar|messbar]] ist
-- b) $\forall i \in \{ 1, \dots, n \} : X_i$ $(\mathcal{A}, \mathscr{S})$-[[zettel/Funktion A-S-messbar|messbar]] ist
+- a) $X$ $(\mathcal{A}, \mathscr{S})$-[[zettel/Funktion/A-S-Messbarkeit|messbar]] ist
+- b) $\forall i \in \{ 1, \dots, n \} : X_i$ $(\mathcal{A}, \mathscr{S})$-[[zettel/Funktion/A-S-Messbarkeit|messbar]] ist
 
 a) $\iff$ b).

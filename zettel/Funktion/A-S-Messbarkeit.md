@@ -1,6 +1,6 @@
 ---
 title: A-S-messbare Funktion
-type: definition
+type: property
 ---
 
 Seien $(\Omega, \mathcal{A}), (R, \mathscr{S})$ [[zettel/Messraum|Messräume]].

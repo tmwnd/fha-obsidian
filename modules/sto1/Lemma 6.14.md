@@ -10,7 +10,7 @@ Sei $(\Omega, \mathcal{A}, \mu)$ ein [[zettel/Maßraum|Maßraum]], $\omega \in \
 - $\exists k : (\Omega, \mathcal{A}) \to (\mathbb{R}, \mathcal{L})$ mit
 	- $k$ nicht-negativ
 	- $k$ $\mu$-[[zettel/μ-Integrierbarkeit einer komplexwertigen Funktion|integrierbar]]
-	- $k$ [[zettel/Funktion messbar|messbar]]
+	- $k$ [[zettel/Funktion/Messbarkeit|messbar]]
 	- $\forall \omega \in \Omega, z \in U : |f(\omega, z) - f(\omega, z_0)| \le |z - z_0|k(\omega)$
 
 Es gilt mit dem $\mu$-[[zettel/μ-Integral|μ-Integral]]
@@ -20,7 +20,7 @@ $$
 	\varphi(z) = \int f(\omega, z) d\mu(\omega)
 $$
 
-- $\omega \mapsto \frac{d}{dz} f(\omega, z)|_{z = z_0}$ ist [[zettel/Funktion komplexwertig|komeplexwertig]], $(\mathcal{A}, \mathcal{L}(\mathbb{C}))$-[[zettel/Funktion komplexwertig A-S-messbar|messbar]] und $\mu$-[[zettel/μ-Integrierbarkeit einer komplexwertigen Funktion|integrierbar]]
+- $\omega \mapsto \frac{d}{dz} f(\omega, z)|_{z = z_0}$ ist [[zettel/Funktion/Komplexwertigkeit|komeplexwertig]], $(\mathcal{A}, \mathcal{L}(\mathbb{C}))$-[[zettel/Funktion/Komplexwertigkeit A-S-Messbarkeit|messbar]] und $\mu$-[[zettel/μ-Integrierbarkeit einer komplexwertigen Funktion|integrierbar]]
 
 und 
 

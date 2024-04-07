@@ -1,6 +1,6 @@
 ---
 title: Antiton konvergente Folge
-type: definition
+type: property
 ---
 
 Die Folge $(A_n)_{n \in \mathbb{N}} \subseteq \Omega$ heißt *antiton konvergent* gegen $A \subseteq \Omega$, falls

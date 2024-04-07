@@ -4,4 +4,4 @@ type: subsection
 ---
 
 ![[zettel/Bedingte Wahrscheinlichkeit|Bedingte Wahrscheinlichkeit]]
-![[zettel/Ereignisse unabhängig|Ereignisse unabhängig]]
+![[zettel/Ereignis/Stochastische Unabhängigkeit|Stochastische Unabhängigkeit]]

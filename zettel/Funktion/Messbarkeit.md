@@ -1,6 +1,6 @@
 ---
 title: Messbare Funktion
-type: definition
+type: property
 ---
 
 Eine [[zettel/Funktion|Funktion]] $f : \mathcal{A} \to \mathcal{L}$ heißt *messbar*, falls

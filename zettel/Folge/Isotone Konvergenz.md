@@ -1,6 +1,6 @@
 ---
 title: Isoton konvergente Folge
-type: definition
+type: property
 ---
 
 Die Folge $(A_n)_{n \in \mathbb{N}} \subseteq \Omega$ heißt *isoton konvergent* gegen $A \subseteq \Omega$, falls

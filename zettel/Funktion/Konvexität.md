@@ -1,6 +1,6 @@
 ---
 title: Konvexe Funktion
-type: definition
+type: property
 ---
 
 Sei $C \subset \mathbb{R}^d$ [[zettel/Menge/Konvexität|konvex]], $f : C \to \mathbb{R}$ eine [[zettel/Funktion|Funktion]].

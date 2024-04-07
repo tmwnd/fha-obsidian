@@ -1,6 +1,6 @@
 ---
 title: Halbnorm auf Lp-Raum
-type: definition
+type: property
 ---
 
 Sei $1 \le p \in \mathbb{R}$, $\mathcal{L}^p$ ein $\mathcal{L}^p$-[[zettel/Lp-Raum|Raum]], $f \in \mathcal{L}^p$.

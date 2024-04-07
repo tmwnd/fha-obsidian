@@ -1,6 +1,6 @@
 ---
 title: Komplexwertiger Lp-Raum
-type: definition
+type: property
 ---
 
 Sei  $(\Omega, \mathcal{A}, \mu)$ ein [[zettel/Maßraum|Maßraum]].

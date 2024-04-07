@@ -1,6 +1,6 @@
 ---
 title: σ-finiter Maßraum
-type: definition
+type: property
 ---
 
 Sei $(\Omega, \mathcal{A}, \mu)$ ein [[zettel/Maßraum|Maßraum]].
