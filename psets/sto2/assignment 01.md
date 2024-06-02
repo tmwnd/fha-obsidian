@@ -1,3 +1,7 @@
+---
+type: assignment
+---
+
 1. Es seien $X_n$, $n \in \mathbb{N}$, reelle unabhängige Zufallsvariablen, je mit derselben Poissonverteilung $\mathfrak{P}(\lambda)$-Verteilung, $\lambda \gt 0$.
 	Bestimmen Sie mit Hilfe des Fehlerfortpflanzungsgesetztes eine Funktion $f : \mathbb{R} \to \mathbb{R}$, so dass für alle $\lambda \gt 0$ gilt:
 	

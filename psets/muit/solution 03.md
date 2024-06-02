@@ -1,6 +1,8 @@
-![[psets/muit/assignment 03#^1|assignment 03]]
+---
+type: solution
+---
 
-![[psets/muit/assignment 03#^1|assignment 03#^1]]
+![[psets/muit/assignment 03#^1|assignment 03]]
 
 Da $\mathcal{A}$ eine $\sigma$-[[zettel/σ-Algebra|Algebra]] auf $X$ ist, gilt
 - $X \in \mathcal{A}$

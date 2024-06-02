@@ -1,3 +1,7 @@
+---
+type: assignmment
+---
+
 1. Seien $X_j : (\Omega, \mathfrak{A}) \to (R, \mathfrak{S})$, $j = 1, \dots, n$, unter jedem $P_\vartheta \in \mathfrak{P}$ unabhängig und identisch verteilte Zufallsvariablen, deren zugrunde liegende Verteilung, die in der Vorlesung genannten Voraussetzungen zur Definition der Informationsmatrix $X_{X_1}(\vartheta)$ aus $X = (X_1, \dots, X_n)$ int $\vartheta \in \Theta$.
 
 ^1

@@ -1,3 +1,7 @@
+---
+type: assignment
+---
+
 1. Für jedes $n \in \mathbb{N}$ seien $X_{n1}, \dots, X_{nn}$ unabhängig und identisch verteilte reelle Zufallsvariablen, je mit derselben Verteilung $Q_n$ mit $\int x^2 dQ_n(x) \lt \infty$ und $\int x dQ_n(x) = 0$ sowie $\sigma_n^2 = \int x^2 dQ_n(x) \gt 0$.
 	Es sei $Q$ ein Wahrscheinlichkeitsmaß auf $(\mathbb{R}, \mathcal{B})$ mit $\int x^2 dQ(x) \lt \infty$ unt $\int x dQ(x) = 0$ sowie $\sigma^2 = \int x^2 dQ(x) \gt 0$.
 	Es gelte $Q_n \leadsto Q$ und $\lim_{n \to \infty} \int x^2 dQ_n(x) = \int x^2 dQ(x) \lt \infty$.

@@ -1,3 +1,7 @@
+---
+type: solution
+---
+
 ![[psets/muit/assignment 01#^1|assignment 01]]
 
 1. 
