@@ -1,6 +1,4 @@
----
-type: solution
----
+![[psets/muit/assignment 03#^1|assignment 03]]
 
 ![[psets/muit/assignment 03#^1|assignment 03#^1]]
 
@@ -21,7 +19,7 @@ Alle Voraussetzungen sind erfüllt, da
 
 ---
 
-![[psets/muit/assignment 03#^2|assignment 03#^2]]
+![[psets/muit/assignment 03#^2|assignment 03]]
 
 Da $f$ $(\mathcal{A}, \mathcal{B})$-[[zettel/Funktion/A-S-Messbarkeit|messbar]] ist, gilt
 - $\forall B \in \mathcal{B} : f^{-1}(B) \in \mathcal{A}$
@@ -35,14 +33,14 @@ Alle Voraussetzungen sind erfüllt, da
 
 ---
 
-![[psets/muit/assignment 03#^3|assignment 03#^3]]
+![[psets/muit/assignment 03#^3|assignment 03]]
 
 $f$ ist $(\mathcal{A}, \mathcal{B})$-[[zettel/Funktion/A-S-Messbarkeit|messbar]], falls
 - $f \in \{ f_B \mid B \in \mathcal{B} \land \forall x \in X : f_B(x) := B \}\}$
 
 ---
 
-![[psets/muit/assignment 03#^4|assignment 03#^4]]
+![[psets/muit/assignment 03#^4|assignment 03]]
 
 $$
 	\begin{aligned}
@@ -55,7 +53,7 @@ $$
 
 ---
 
-![[psets/muit/assignment 03#^5|assignment 03#^5]]
+![[psets/muit/assignment 03#^5|assignment 03]]
 
 $f$ ist $\mathcal{B}^*$-[[zettel/Funktion/A-Messbarkeit|messbar]], falls
 1. $\forall r \in \mathbb{R} : \{ x \in \mathbb{R} \mid f(x) \le r \} \in \mathcal{B}^*$
@@ -74,14 +72,14 @@ Alle Voraussetzungen sind erfüllt, da
 
 ---
 
-![[psets/muit/assignment 03#^6|assignment 03#^6]]
+![[psets/muit/assignment 03#^6|assignment 03]]
 
 $\sin^+ = \max(+\sin, 0) = \begin{cases} +\sin(x), & \exists k \in \mathbb{N}_0 : x \in (2k\pi, (2k+1)\pi) \\ 0, & \text{sonst} \end{cases}$
 $\sin^- = \max(-\sin, 0) = \begin{cases} -\sin(x), & \exists k \in \mathbb{N}_0 : x \notin (2k\pi, (2k+1)\pi) \\ 0, & \text{sonst} \end{cases}$
 
 ---
 
-![[psets/muit/assignment 03#^7|assignment 03#^7]]
+![[psets/muit/assignment 03#^7|assignment 03]]
 
 1. Da $\mathcal{A}$ eine $\sigma$-[[zettel/σ-Algebra|Algebra]] auf $X$ ist, gilt
 	- $X \in \mathcal{A}$
@@ -108,18 +106,18 @@ $\sin^- = \max(-\sin, 0) = \begin{cases} -\sin(x), & \exists k \in \mathbb{N}_0 
 
 ---
 
-![[psets/muit/assignment 03#^8|assignment 03#^8]]
+![[psets/muit/assignment 03#^8|assignment 03]]
 
 $\frac{f}{g}$ ist [[zettel/Funktion/A-Messbarkeit|messbar]], falls
 1. $\forall r, \alpha \in \mathbb{R} : \{ \alpha \cdot f \le r \} \in \mathcal{A} \land \{ f \le \alpha \cdot g \} \in \mathcal{A} \implies \left\{ \frac{f}{g} \le r \right\} = \{ f \le r \cdot g \} \in \mathcal{A}$
 
 ---
 
-![[psets/muit/assignment 03#^9|assignment 03#^9]]
+![[psets/muit/assignment 03#^9|assignment 03]]
 
 ---
 
-![[psets/muit/assignment 03#^10|assignment 03#^10]]
+![[psets/muit/assignment 03#^10|assignment 03]]
 
 $$
 	f \in E(X, \mathcal{A}) \implies \exists (a_i)_{i \in \mathbb{N}} \in \mathbb{R}, (A_i)_{i \in \mathbb{N}} \in \mathcal{A} : f = \sum_{i=1}^n a_i \cdot I_{A_i} \implies \alpha \cdot f = \alpha \sum_{i=1}^n a_i \cdot I_{A_i} = \sum_{i=1}^n \underbrace{(\alpha \cdot a_i)}_{\beta_i} \cdot I_{A_i} = \sum_{i=1}^n \beta_i \cdot I_{A_i} \implies \alpha \cdot f \in E(X, \mathcal{A})
@@ -131,7 +129,7 @@ $$
 
 ---
 
-![[psets/muit/assignment 03#^11|assignment 03#^11]]
+![[psets/muit/assignment 03#^11|assignment 03]]
 
 1. 
 
@@ -147,7 +145,7 @@ $$
 
 ---
 
-![[psets/muit/assignment 03#^12|assignment 03#^12]]
+![[psets/muit/assignment 03#^12|assignment 03]]
 
 Es gilt
 - $f^+ = \sum_{n \in 2\mathbb{N}} n \cdot (n + 1) \cdot I_{(\frac{1}{n+1}, \frac{1}{n}]}$
@@ -163,36 +161,36 @@ Alle Voraussetzungen sind erfüllt, da
 
 ---
 
-![[psets/muit/assignment 03#^13|assignment 03#^13]]
+![[psets/muit/assignment 03#^13|assignment 03]]
 
 ---
 
-![[psets/muit/assignment 03#^14|assignment 03#^14]]
+![[psets/muit/assignment 03#^14|assignment 03]]
 
 ---
 
-![[psets/muit/assignment 03#^15|assignment 03#^15]]
+![[psets/muit/assignment 03#^15|assignment 03]]
 
 ---
 
-![[psets/muit/assignment 03#^16|assignment 03#^16]]
+![[psets/muit/assignment 03#^16|assignment 03]]
 
 ---
 
-![[psets/muit/assignment 03#^17|assignment 03#^17]]
+![[psets/muit/assignment 03#^17|assignment 03]]
 
 ---
 
-![[psets/muit/assignment 03#^18|assignment 03#^18]]
+![[psets/muit/assignment 03#^18|assignment 03]]
 
 ---
 
-![[psets/muit/assignment 03#^19|assignment 03#^19]]
+![[psets/muit/assignment 03#^19|assignment 03]]
 
 ---
 
-![[psets/muit/assignment 03#^20|assignment 03#^20]]
+![[psets/muit/assignment 03#^20|assignment 03]]
 
 ---
 
-![[psets/muit/assignment 03#^21|assignment 03#^21]]
+![[psets/muit/assignment 03#^21|assignment 03]]

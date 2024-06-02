@@ -1,17 +1,13 @@
----
-type: solution
----
-
-![[assignment 14#^1|assignment 14#^1]]
+![[psets/sto1/assignment 14#^1|assignment 14]]
 
 ---
 
-![[assignment 14#^2|assignment 14#^2]]
+![[psets/sto1/assignment 14#^2|assignment 14]]
 
 ---
 
-![[assignment 14#^3|assignment 14#^3]]
+![[psets/sto1/assignment 14#^3|assignment 14]]
 
 ---
 
-![[assignment 14#^4|assignment 14#^4]]
+![[psets/sto1/assignment 14#^4|assignment 14]]

@@ -1,17 +1,13 @@
----
-type: solution
----
-
-![[assignment 10#^1|assignment 10#^1]]
+![[psets/sto1/assignment 10#^1|assignment 10]]
 
 ---
 
-![[assignment 10#^2|assignment 10#^2]]
+![[psets/sto1/assignment 10#^2|assignment 10]]
 
 ---
 
-![[assignment 10#^3|assignment 10#^3]]
+![[psets/sto1/assignment 10#^3|assignment 10]]
 
 ---
 
-![[assignment 10#^4|assignment 10#^4]]
+![[psets/sto1/assignment 10#^4|assignment 10]]

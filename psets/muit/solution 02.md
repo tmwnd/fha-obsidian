@@ -1,8 +1,4 @@
----
-type: solution
----
-
-![[psets/muit/assignment 02#^1|assignment 02#^1]]
+![[psets/muit/assignment 02#^1|assignment 02]]
 
 Sei $A = \left( \pmatrix{a_1 \\ a_2}, \pmatrix{b_1 \\ b_2} \right], B = \left( \pmatrix{c_1 \\ c_2}, \pmatrix{d_1 \\ d_2} \right] \in \mathcal{I}^2$
 
@@ -26,7 +22,7 @@ $$
 
 ---
 
-![[psets/muit/assignment 02#^2|assignment 02#^2]]
+![[psets/muit/assignment 02#^2|assignment 02]]
 
 Da $\mathcal{A}$ eine $\sigma$-[[zettel/σ-Algebra|Algebra]] auf $X$ ist, gilt
 - $X \in \mathcal{A}$
@@ -39,7 +35,7 @@ $$
 
 ---
 
-![[psets/muit/assignment 02#^3|assignment 02#^3]]
+![[psets/muit/assignment 02#^3|assignment 02]]
 
 $\mathcal{A}$ ist eine $\sigma$-[[zettel/σ-Algebra|Algebra]] auf $X$, falls
 1. $X \in \mathcal{A}$
@@ -55,11 +51,8 @@ Alle Voraussetzungen sind erfüllt, da
 
 ---
 
-![[psets/muit/assignment 02#^4|assignment 02#^4]]
-
-Da $\mathcal{D}$ ein [[zettel/Dynkin-System|Dynkin-System]] auf $X$ ist, gilt
+![[psets/muit/assignment 02#^4|assignment 02]]
 - $X \in \mathcal{D}$
-- $A \in \mathcal{D} \implies A^\complement \in \mathcal{D}$
 - $\forall (A_n)_{n \in \mathbb{N}} \text{ p. d.} \in \mathcal{D} : \bigcup_{n \in \mathbb{N}} A_n \in \mathcal{D}$
 
 $$
@@ -68,7 +61,7 @@ $$
 
 ---
 
-![[psets/muit/assignment 02#^5|assignment 02#^5]]
+![[psets/muit/assignment 02#^5|assignment 02]]
 
 Da $\mathcal{B}$ eine $\sigma$-[[zettel/σ-Algebra|Algebra]] auf $Y$ ist, gilt
 - $Y \in \mathcal{B}$
@@ -88,7 +81,7 @@ Alle Voraussetzungen sind erfüllt, da
 
 ---
 
-![[psets/muit/assignment 02#^6|assignment 02#^6]]
+![[psets/muit/assignment 02#^6|assignment 02]]
 
 1. Falls $\forall i \in I : \mathcal{A}_i$ eine $\sigma$-[[zettel/σ-Algebra|Algebra]] auf $X$ ist, gilt
 	- $\forall i \in I : X \in \mathcal{A}_i$
@@ -121,7 +114,7 @@ Alle Voraussetzungen sind erfüllt, da
 
 ---
 
-![[psets/muit/assignment 02#^7|assignment 02#^7]]
+![[psets/muit/assignment 02#^7|assignment 02]]
 
 Da $\delta(\mathcal{E})$ ein [[zettel/Menge/Durchschnittsstabilität|durchschnittsstabiles]] [[zettel/Dynkin-System|Dynkin-System]] bzw. eine $\sigma$-[[zettel/σ-Algebra|Algebra]] auf $X$ ist, gilt
 - $X \in \delta(\mathcal{E})$
@@ -140,11 +133,11 @@ Alle Voraussetzungen sind erfüllt, da
 
 ---
 
-![[psets/muit/assignment 02#^8|assignment 02#^8]]
+![[psets/muit/assignment 02#^8|assignment 02]]
 
 ---
 
-![[psets/muit/assignment 02#^9|assignment 02#^9]]
+![[psets/muit/assignment 02#^9|assignment 02]]
 
 $$
 	B = \underbrace{(B \setminus A) \cup A}_\text{p. d.} \overset{\mu \ \sigma\text{-additiv}}{\implies} \mu(B) = \mu(B \setminus A) + \mu(A) \implies \mu(B \setminus A) = \mu(B) - \mu(A)
@@ -156,7 +149,7 @@ $$
 
 ---
 
-![[psets/muit/assignment 02#^10|assignment 02#^10]]
+![[psets/muit/assignment 02#^10|assignment 02]]
 
 $\mathcal{D}_n$ ist ein [[zettel/Dynkin-System|Dynkin-System]], falls
 1. $X \in \mathcal{D}_n$
@@ -170,7 +163,7 @@ Alle Voraussetzungen sind erfüllt, da
 
 ---
 
-![[psets/muit/assignment 02#^11|assignment 02#^11]]
+![[psets/muit/assignment 02#^11|assignment 02]]
 
 1. 
 
@@ -200,7 +193,7 @@ $$
 
 ---
 
-![[psets/muit/assignment 02#^12|assignment 02#^12]]
+![[psets/muit/assignment 02#^12|assignment 02]]
 
 Es gilt
 - $A \bigtriangleup \emptyset = (A \setminus \emptyset) \cup (\emptyset \setminus A) = A \cup \emptyset = A$
@@ -213,11 +206,11 @@ Alle Voraussetzungen sind erfüllt, da
 
 ---
 
-![[psets/muit/assignment 02#^13|assignment 02#^13]]
+![[psets/muit/assignment 02#^13|assignment 02]]
 
 ---
 
-![[psets/muit/assignment 02#^14|assignment 02#^14]]
+![[psets/muit/assignment 02#^14|assignment 02]]
 
 Da $\mu$ ein [[zettel/Maß|Maß]] auf $\mathcal{A}$ ist, gilt
 - $\mu(\emptyset) = 0$
@@ -237,7 +230,7 @@ Alle Voraussetzungen sind erfüllt, da
 
 ---
 
-![[psets/muit/assignment 02#^15|assignment 02#^15]]
+![[psets/muit/assignment 02#^15|assignment 02]]
 
 Da $\mu$ ein [[zettel/Maß|Maß]] auf $\mathcal{A}$ ist, gilt
 - $\mu(\emptyset) = 0$
@@ -257,7 +250,7 @@ Alle Voraussetzungen sind erfüllt, da
 
 ---
 
-![[psets/muit/assignment 02#^16|assignment 02#^16]]
+![[psets/muit/assignment 02#^16|assignment 02]]
 
 $\nu$ ist ein [[zettel/Wahrscheinlichkeitsmaß|Wahrscheinlichkeitsmaß]] auf $\mathcal{A}$, falls
 1. $\nu(\emptyset) = 0$
@@ -271,7 +264,7 @@ Alle Voraussetzungen sind erfüllt, da
 
 ---
 
-![[psets/muit/assignment 02#^17|assignment 02#^17]]
+![[psets/muit/assignment 02#^17|assignment 02]]
 
 $\mu$ ist ein [[zettel/Maß|Maß]] auf $\mathcal{P}(\mathbb{N})$, falls
 1. $\mu(\emptyset) = 0$

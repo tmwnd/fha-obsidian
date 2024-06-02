@@ -1,6 +1,4 @@
----
-type: solution
----
+![[psets/muit/assignment 04#^1|assignment 04]]
 
 ![[psets/muit/assignment 04#^1|assignment 04#^1]]
 
@@ -16,7 +14,7 @@ $\unicode{x21af}$: $\{ x \} \in \mathcal{N}_\lambda \land \{ x \} \notin \mathca
 
 ---
 
-![[psets/muit/assignment 04#^2|assignment 04#^2]]
+![[psets/muit/assignment 04#^2|assignment 04]]
 
 1. $\sim$ ist eine Äquivalenzrelation, falls
 	1. $\mu = \mu \implies \mu \sim \mu$ (Reflexivität)
@@ -32,7 +30,7 @@ $\unicode{x21af}$: $\{ x \} \in \mathcal{N}_\lambda \land \{ x \} \notin \mathca
 
 ---
 
-![[psets/muit/assignment 04#^3|assignment 04#^3]]
+![[psets/muit/assignment 04#^3|assignment 04]]
 
 Sei $\lambda$ das [[zettel/Lebesgue-Borelsches Maß|Lebesgue-Borelsches Maß]], $\mathcal{N}_\lambda$ das [[zettel/μ-Nullmenge|System der Nullmengen]] auf $\lambda$, $\mathcal{N}_\nu$ das [[zettel/μ-Nullmenge|System der Nullmengen]] auf $\nu$.
 

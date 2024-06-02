@@ -33,8 +33,8 @@ type: solution
 
 ---
 
-![[psets/sto1/assignment 01#^2|assignment 01#^2]]
+![[psets/sto1/assignment 01#^2|assignment 01]]
 
 ---
 
-![[psets/sto1/assignment 01#^3|assignment 01#^3]]
+![[psets/sto1/assignment 01#^3|assignment 01]]

@@ -1,8 +1,4 @@
----
-type: solution
----
-
-![[psets/muit/assignment 01#^1|assignment 01#^1]]
+![[psets/muit/assignment 01#^1|assignment 01]]
 
 1. 
 
@@ -32,7 +28,7 @@ $$
 
 ---
 
-![[psets/muit/assignment 01#^2|assignment 01#^2]]
+![[psets/muit/assignment 01#^2|assignment 01]]
 
 $$
 	\liminf_{n \to \infty} A_n = \bigcup_{m \in \mathbb{N}}\bigcap_{n \ge m} A_n
@@ -44,7 +40,7 @@ $$
 
 ---
 
-![[psets/muit/assignment 01#^3|assignment 01#^3]]
+![[psets/muit/assignment 01#^3|assignment 01]]
 
 $$
 	\liminf_{n \to \infty} A_n = \bigcup_{m \in \mathbb{N}}\bigcap_{n \ge m} A_n = \bigcup_{m \in \mathbb{N}} \left\{ a \mid \forall n \ge m : a \in \left[ 0, 1 + \frac{1}{n} \right)\right\} = \bigcup_{m \in \mathbb{N}} \left\{ a \mid a \in \lim_{n \to \infty} \left[ 0, 1 + \frac{1}{n} \right)\right\} = \bigcup_{m \in \mathbb{N}} \{ a \mid a \in [0, 1] \} = \bigcup_{m \in \mathbb{N}} [0, 1] = [0, 1]
@@ -64,7 +60,7 @@ $$
 
 ---
 
-![[psets/muit/assignment 01#^4|assignment 01#^4]]
+![[psets/muit/assignment 01#^4|assignment 01]]
 
 1. 
 
@@ -92,7 +88,7 @@ $$
 
 ---
 
-![[psets/muit/assignment 01#^5|assignment 01#^5]]
+![[psets/muit/assignment 01#^5|assignment 01]]
 
 1. 
 
@@ -120,7 +116,7 @@ $$
 
 ---
 
-![[psets/muit/assignment 01#^6|assignment 01#^6]]
+![[psets/muit/assignment 01#^6|assignment 01]]
 
 1. 
 
@@ -136,7 +132,7 @@ $$
 
 ---
 
-![[psets/muit/assignment 01#^7|assignment 01#^7]]
+![[psets/muit/assignment 01#^7|assignment 01]]
 
 $$
 	f(f^{-1}(B)) = f(\{ x \in X \mid f(x) \in B \}) = B \setminus \underbrace{\{ y \in B \mid \forall x \in f^{-1}(B) : f(x) \ne y \}}_\emptyset = B
@@ -144,7 +140,7 @@ $$
 
 ---
 
-![[psets/muit/assignment 01#^8|assignment 01#^8]]
+![[psets/muit/assignment 01#^8|assignment 01]]
 
 1. $A \sim B \implies \exists \varphi : A \to B$ bijektiv
 
@@ -171,7 +167,7 @@ $$
 
 ---
 
-![[psets/muit/assignment 01#^9|assignment 01#^9]]
+![[psets/muit/assignment 01#^9|assignment 01]]
 
 1. 
 
