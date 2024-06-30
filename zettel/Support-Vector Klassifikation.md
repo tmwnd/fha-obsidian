@@ -1,11 +1,3 @@
----
-title: Support-Vector Klassifikation
-type: definition
-aliases:
-  - SVC
-  - Optimal trennende Hyperebene von nicht-überlappenden Clustern
----
-
 Seien $(x_i, y_i)_{i \in \{ 1, \dots, n \}}$ Datenpaare, $w \in \mathbb{R}^{m+1}$, $H(w)$ eine [[zettel/Hyperebene|Hyperebene]], $g(x, w)$ die Funktion aus $H(w)$, $M \in \mathbb{R}$ der Mindestabstand aller Punkte $x_i$ zu $H(w)$ mit
 - $\forall i \in \{ 1, \dots, n \} : x_i \in \mathbb{R}^n$
 - $\forall i \in \{ 1, \dots, n \} : y_i \in \{ -1, 1 \}$
@@ -40,7 +32,7 @@ $$
 	w = (v, v_0) = \min_{v \ne 0, v_0} \frac{1}{2} \| v \|_2^2, \quad \forall i \in \{ 1, \dots, n \} : y_i(v^Tx_i + v_0) - 1 \ge 0
 $$
 
-Das optimale $\hat{w}$ kann durch die Lösung des [[zettel/restringiertes Optimierungsproblem|restringiertes Optimierungsproblems]] $L(v, v_0, \alpha)$ über [[zettel/KKT-Bedingungen|KKT]] bestimmt werden.
+Das optimale $\hat{w}$ kann durch die Lösung des [[zettel/restringiertes Optimierungsproblem|restringiertes Optimierungsproblems]] $L(v, v_0, \alpha)$ über [[zettel/Karush-Kuhn-Tucker-Bedingungen|KKT]] bestimmt werden.
 
 $$
 	L(v, v_0, \alpha) = \frac{1}{2} \| v \|_2^2 - \sum_{i=1}^n \alpha_i(y_i(v^Tx_i + v_0) - 1) = \frac{1}{2} \sum_{i=1}^n v_i^2 - \sum_{i=1}^n \alpha_i\left(y_i\left( \sum_{j=1}^m v_kx_{ij} + v_0 \right) - 1 \right)

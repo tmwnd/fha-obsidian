@@ -1,7 +1,3 @@
----
-type: solution
----
-
 ![[assignment 07#^1|assignment 07]]
 
 ---

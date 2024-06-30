@@ -1,7 +1,3 @@
----
-type: assignment
----
-
 1. Es sei $X = (X_1, \dots, X_n)$ mit unabhängigen Zufallsvariablen $X_1, \dots, X_n$, je mit derselben Verteilung
 	
 	$$

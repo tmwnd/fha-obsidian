@@ -1,8 +1,3 @@
----
-title: Slater-Bedingung
-type: definition
----
-
 Sei $f$ ein [[zettel/restringiertes Optimierungsproblem|restringiertes Optimierungsproblem]] mit den Nebenbedingunen
 - $g(x) \le 0$
 - $h(x) = 0$

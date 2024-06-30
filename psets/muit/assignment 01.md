@@ -1,7 +1,3 @@
----
-type: assignment
----
-
 1. Beweisen Sie.
 	
 	Gegeben Sei $X \ne \emptyset$ und $\mathcal{A}, \mathcal{B} \subseteq \mathcal{P}(X)$ zwei indizierte Mengensysteme mit $\mathcal{A} = (A_i)_{i \in I}$ bzw. $\mathcal{B} = (B_i)_{j \in J}$.

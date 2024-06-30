@@ -1,10 +1,3 @@
----
-title: Stochastisch unabhängige Ereignisse
-type: property
-aliase:
-  - Unabhängige Ereignisse
----
-
 Sei $\mathcal{A}$ eine $\sigma$-[[zettel/σ-Algebra|Algebra]] auf $\Omega$, $A, B \in \mathcal{A}$, $P$ ein [[zettel/Wahrscheinlichkeitsmaß|Wahrscheinlichkeitsmaß]].
 
 $A, B$ sind *(stochastisch) unabhängig*, falls

@@ -1,7 +1,3 @@
----
-type: solution
----
-
 ![[psets/muit/assignment 04#^1|assignment 04]]
 
 Sei $\lambda$ das $\sigma$-[[zettel/Maß|endliche]] TODO [[zettel/Lebesgue-Borelsches Maß|Lebesgue-Borelsches Maß]], $\epsilon_x$ das [[zettel/Dirac-Maß|Einpunktmaß]], $\mathcal{N}_\lambda$ das [[zettel/μ-Nullmenge|System der Nullmengen]] auf $\lambda$, $\mathcal{N}_{\epsilon_x}$ das [[zettel/μ-Nullmenge|System der Nullmengen]] auf $\epsilon_x$.

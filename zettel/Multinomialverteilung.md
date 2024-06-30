@@ -1,8 +1,3 @@
----
-title: Multinomialverteilung
-type: example
----
-
 Sei $n \in \mathbb{N}$, $(k_i)_{i \in \mathbb{N}} \in \mathbb{N}_0$, $p_i \in [0, 1]$ mit
 - $\sum_{i=1}^n k_i = n$
 

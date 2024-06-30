@@ -1,10 +1,4 @@
----
-title: Gradient Descent
-type: definition
-aliases:
-  - Gradientenverfahren
-  - GD
----
+
 
 Sei $f \in C^1(\mathbb{R}^d)$ [[zettel/Funktion/Konvexität|konvex]], $f_* = \inf f$, $(f_t)_{t \in \mathbb{N}} \in C^1(\mathbb{R}^d)$, $(x_t)_{t \in \mathbb{N}} \in \mathbb{R}^d$, $(\gamma_t)_{t \in \mathbb{N}} \in \mathbb{R}^d$ mit
 - $\lim_{t \to \infty} f_t - f_* = 0$

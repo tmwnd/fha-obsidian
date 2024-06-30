@@ -1,10 +1,3 @@
----
-title: Singulärwertzerlegung
-type: definition
-aliases:
-  - SVD
----
-
 Sei $A \in \mathbb{R}^{m \times n}$.
 
 Zerlege $A$, sodass

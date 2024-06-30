@@ -1,8 +1,3 @@
----
-title: Zufallsvariable
-type: definition
----
-
 Sei $(\Omega, \mathcal{A}, P)$ ein [[zettel/Wahrscheinlichkeitsraum|Wahrscheinlichkeitsraum]], $(R, \mathscr{S})$ ein [[zettel/Messraum|Messraum]].
 
 Eine $(\mathcal{A}, \mathscr{S})$-[[zettel/Funktion/A-S-Messbarkeit|messbare]] [[zettel/Funktion|Funktion]] $X : (\Omega, \mathcal{A}) \to (R, \mathscr{S})$ heißt *Zufallsvariable*.
@@ -17,7 +12,7 @@ Sei $x \in \mathbb{R}$.
 $F(X)$ ist definiert als
 
 $$
-	F(X) = P(X \le x) = P(X \in (-\infty, x))
+	F(X) := P(X \le x) = P(X \in (-\infty, x))
 $$
 
 ---

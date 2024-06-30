@@ -1,8 +1,3 @@
----
-title: Produktraum
-type: definition
----
-
 Sei $n \in \mathbb{N}$, $((R_i, \mathscr{S}_i))_{i \in \{ 1, \dots, n \}}$ [[zettel/Messraum|Messräume]], $(X_i)_{i \in \{ 1, \dots, n \}}$ [[zettel/Zufallsvariable/Stochastische Unabhängigkeit|unabhängige]] [[zettel/Zufallsvariable|Zufallsvariablen]] auf $((R_i, \mathscr{S}_i))_{i \in \{ 1, \dots, n \}}$.
 
 Der *Produktraum* $(R, \mathscr{S}, P)$ ist definiert als [[zettel/Wahrscheinlichkeitsraum|Wahrscheinlichkeitsraum]] mit

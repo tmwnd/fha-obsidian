@@ -1,8 +1,3 @@
----
-title: Strukturierte Mengensysteme
-type: subsection
----
-
 ![[zettel/Menge/Durchschnittsstabilität|Durchschnittsstabilität]]
 ![[zettel/Menge/Vereinigungsstabilität|Vereinigungsstabilität]]
 ![[zettel/Erweitertes Mengensystem|Erweitertes Mengensystem]]

@@ -1,8 +1,3 @@
----
-title: Numerische Funktion
-type: property
----
-
 Sei $f : A \to B$ eine [[zettel/Funktion|Funktion]].
 
 $f$ heißt *numerisch*, falls

@@ -1,8 +1,3 @@
----
-title: L-glatte Funktion
-type: property
----
-
 Sei $f : \text{dom}(f) \to \mathbb{R}$, $X \subseteq \text{dom}(f)$.
 
 $f$ heißt *L-glatt* auf $X$, falls

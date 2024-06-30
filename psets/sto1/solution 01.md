@@ -1,7 +1,3 @@
----
-type: solution
----
-
 ![[psets/sto1/assignment 01#^1|assignment 01#^1]]
 
 1. $\mathfrak{A}$ ist eine $\sigma$-[[zettel/σ-Algebra|Algebra]] auf $\Omega$, falls

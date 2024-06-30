@@ -1,10 +1,3 @@
----
-title: Kardinalitäten
-type: definition
-aliases:
-  - Mächtigkeiten
----
-
 Seien $A, B$ Mengen.
 
 Es gilt

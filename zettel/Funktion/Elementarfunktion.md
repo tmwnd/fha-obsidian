@@ -1,12 +1,3 @@
----
-title: Elementarfunktion
-type: property
-aliases:
-  - elementare Funktion
-  - primitive Funktion
-  - einfache Funktion
----
-
 Eine [[zettel/Funktion|Funktion]] $f : \Omega \to \mathbb{R}$ heißt *elementar*, falls
 - endlich viele, paarweise verschiedene Werte $\alpha_1, \dots, \alpha_n$ angenommen werden
 

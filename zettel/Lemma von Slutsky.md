@@ -1,8 +1,3 @@
----
-title: Lemma von Slutsky
-type: lemma
----
-
 Seien $X, (X_n)_{n \in \mathbb{N}}$ $r$-dimensionale [[zettel/Zufallsvariable|Zufallsvektoren]], $(Y_n)_{n \in \mathbb{N}}$ $s$-dimensionale
 [[zettel/Zufallsvariable|Zufallsvektoren]], $c \in \mathbb{R}^s$ mit
 - $X_n \overset{V}{\longrightarrow} X$ [[zettel/Verteilungskonvergenz|verteilungskonvergent]]

@@ -1,7 +1,3 @@
----
-type: assignment
----
-
 1. Sei für $x \in \mathbb{R}$ das *DIrac-Maß* $\epsilon_x$ auf $\mathcal{B}(\mathbb{R})$ definiert durch $\epsilon_x(A) := I_A(x)$.
 	Zeigen Sie: Das Maß $\epsilon_x$ besitzt keine Lebesgue-Dichte, d. h. keine $\lambda$-Dichte.
 

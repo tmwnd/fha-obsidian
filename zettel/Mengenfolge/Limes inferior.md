@@ -1,8 +1,3 @@
----
-title: Limes inferior einer Mengenfolge
-type: definition
----
-
 Sei $(A_n)_{n \in \mathbb{N}}$ eine Mengenfolge.
 
 Es gilt

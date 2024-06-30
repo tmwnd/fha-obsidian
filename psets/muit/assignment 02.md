@@ -1,7 +1,3 @@
----
-type: assignment
----
-
 1. Beweisen Sie für das Mengensystem $\mathcal{I}^2$ folgende Aussagen:
 	1. $\emptyset \in \mathcal{I}^2$
 	2. $\mathcal{I}^2$ ist $\cap$-stabil

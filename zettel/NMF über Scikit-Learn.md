@@ -1,8 +1,3 @@
----
-title: NMF über Scikit-Learn
-type: definition
----
-
 Sei $V \in \mathbb{R}_+^{m \times n}$ [[zettel/Matrix/Dünnbesetztheit|Dünnbesetztheit]], $\alpha, \gamma \ge 0$.
 
 Finde eine Lösung der [[zettel/Nonnegative-Matrix-Factorisation|NFM]] $V = WH$ über das Minimum

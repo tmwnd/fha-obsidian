@@ -1,11 +1,6 @@
----
-title: Schwaches Gesetz der gro�en Zahlen
-type: definition
----
-
-Sei $(\Omega, \mathcal{A}, P)$ ein [[zettel/Wahrscheinlichkeitsraum|Wahrscheinlichkeitsraum]]. $(X_n)_{n \in \mathbb{N}}$ reelle, [[zettel/Zufallsvariable/Stochastische Unabhängigkeit|unabhängige]] und identisch verteilte [[zettel/Zufallsvariable|Zufallsvariablen]], $\mu \in \mathbb{R}$ mit dem [[zettel/Erwartungswert|Erwartungswert]] $E$ mit
-- $\forall n \in \mathbb{N} : E[X_n]$ existiert und ist endlich
-- $\forall n \in \mathbb{N} : E[X_n] = \mu$
+Sei $(\Omega, \mathcal{A}, P)$ ein [[zettel/Wahrscheinlichkeitsraum|Wahrscheinlichkeitsraum]]. $(X_n)_{n \in \mathbb{N}}$ reelle, [[zettel/Zufallsvariable/Stochastische Unabhängigkeit|unabhängige]] und identisch verteilte [[zettel/Zufallsvariable|Zufallsvariablen]], $\mu \in \mathbb{R}$ mit
+- $\forall n \in \mathbb{N} : \text{E}[X_n] \lt \infty$ existiert
+- $\forall n \in \mathbb{N} : \text{E}[X_n] = \mu$
 
 Das *schwache Gesetz der großen Zahlen* gilt und es folgt bzgl. der [[zettel/Stochastische Konvergenz|stochastischen Konvergenz]]
 

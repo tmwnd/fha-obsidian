@@ -1,7 +1,3 @@
----
-type: assignment
----
-
 1. Es seien $X_n$, $n \in \mathbb{N}$, reelle unabhängige Zufallsvariablen, je mit derselben Poissonverteilung $\mathfrak{P}(\lambda)$-Verteilung, $\lambda \gt 0$.
 	Bestimmen Sie mit Hilfe des Fehlerfortpflanzungsgesetztes eine Funktion $f : \mathbb{R} \to \mathbb{R}$, so dass für alle $\lambda \gt 0$ gilt:
 	
@@ -20,7 +16,7 @@ type: assignment
 
 ^2
 
-3. Es seien $X_n$, $n \in \mathbb{N}$, reelle unabhängige und identisch verteilte Zufallsvariablen mit $E(X_n) = a \in \mathbb{R}$, $0 \lt \sigma^2 = \text{Var}(X_n) \lt \infty$.
+3. Es seien $X_n$, $n \in \mathbb{N}$, reelle unabhängige und identisch verteilte Zufallsvariablen mit $E(X_n) = a \in \mathbb{R}$, $0 \lt \sigma^2 = \text{Var}[X_n] \lt \infty$.
 	Es sei $\overline{X}_n = \frac{1}{n} \sum_{i=1}^n X_i$, $S_n^2 = \frac{1}{n} \sum_{i=1}^n (X_i - \overline{X}_n)^2$, $n = 1, 2, \dots$.
 	Zeigen Sie:
 	1. $S_n^2 \overset{P}{\longrightarrow} \sigma^2$

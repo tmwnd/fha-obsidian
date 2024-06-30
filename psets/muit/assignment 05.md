@@ -1,7 +1,3 @@
----
-type: assignment
----
-
 1. Für Beliebige $y \in Y$ (bzw. $z \in Z$) gilt für den $y$-Schnitt (bzw. $z$-Schnitt) einer Menge $A \in \mathcal{B} \otimes \mathcal{C} : A_y \in \mathcal{C}$ (bzw. $A_z \in \mathcal{B}$).
 	
 	Sei $y \in Y$ beliebig.

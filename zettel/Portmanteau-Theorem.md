@@ -1,8 +1,3 @@
----
-title: Portmanteau-Theorem
-type: theorem
----
-
 Sei $\mathcal{L}^d$ die Borelsche $\sigma$-[[zettel/Borelsche σ-Algebra|Algebra]], $P, (P_n)_{n \in \mathbb{N}}$ [[zettel/Wahrscheinlichkeitsmaß|Wahrscheinlichkeitsmaße]] auf $(\mathbb{R}^d, \mathcal{L}^d)$ mit den [[zettel/Verteilungsfunktion|Verteilungsfunktionen]] $F, (F_n)_{n \in \mathbb{N}}$.
 
 Wir betrachten folgende Aussagen
@@ -36,4 +31,5 @@ $$
 	\lim_{n \to \infty} F_n(x) = F(x)
 $$
 
-a) $\iff$ b) $\iff$ c) $\iff$ d) $\iff$ e).
+Es gilt
+- a) $\iff$ b) $\iff$ c) $\iff$ d) $\iff$ e).

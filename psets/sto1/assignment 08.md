@@ -1,7 +1,3 @@
----
-type: assignment
----
-
 1. Es sei $\alpha$ eine reelle Zahl. $f : \mathbb{R} \to \mathbb{R}$ eine durch
 	
 	$$
@@ -18,7 +14,7 @@ type: assignment
 ^1
 
 2. Die reelle Zufallsvariable $X$  habe die Dichte $f(x) = 1 - |1 - x|$ für $0 \le x \le 2$ und $0$ sonst.
-	Bestimmen Sie $\text{Var}(X)$.
+	Bestimmen Sie $\text{Var}[X]$.
 
 ^2
 

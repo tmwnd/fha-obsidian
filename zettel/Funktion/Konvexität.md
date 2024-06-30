@@ -1,8 +1,3 @@
----
-title: Konvexe Funktion
-type: property
----
-
 Sei $C \subset \mathbb{R}^d$ [[zettel/Menge/Konvexität|konvex]], $f : C \to \mathbb{R}$ eine [[zettel/Funktion|Funktion]].
 
 $f$ heißt *konvex*, falls

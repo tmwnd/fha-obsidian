@@ -1,8 +1,3 @@
----
-title: μ-Integrierbarkeit einer Funktion
-type: property
----
-
 Sei $f \in \mathcal{M}$ eine [[zettel/Funktion/Messbarkeit|messbare]] [[zettel/Funktion|Funktion]].
 
 $f$ hat ein *existierendes* $\mu$-[[zettel/μ-Integral|Integral]], falls
@@ -12,7 +7,7 @@ $f$ hat ein *existierendes* $\mu$-[[zettel/μ-Integral|Integral]], falls
 Das $\mu$-[[zettel/μ-Integral|Integral]] auf $f$ ist definiert als
 
 $$
-	\int f d\mu = \int f^+ d\mu - \int f^- d\mu
+	\int f d\mu := \int f^+ d\mu - \int f^- d\mu
 $$
 
 Es gilt
@@ -29,7 +24,7 @@ $f$ heißt *$\mu$-integrierbar*, falls
 Das $\mu$-[[zettel/μ-Integral|Integral]] auf $f$ ist definiert als
 
 $$
-	\int f d\mu = \int f^+ d\mu - \int f^- d\mu
+	\int f d\mu := \int f^+ d\mu - \int f^- d\mu
 $$
 
 ---

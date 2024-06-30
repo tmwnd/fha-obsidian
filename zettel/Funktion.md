@@ -1,8 +1,3 @@
----
-title: Funktion
-type: definition
----
-
 ![[zettel/Positivteil|Positivteil]]
 
 ---

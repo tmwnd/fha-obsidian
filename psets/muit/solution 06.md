@@ -1,7 +1,3 @@
----
-type: solution
----
-
 ![[psets/muit/assignment 06#^1|assignment 06]]
 
 ---

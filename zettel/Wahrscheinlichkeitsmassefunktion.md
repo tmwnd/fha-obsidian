@@ -1,8 +1,3 @@
----
-title: Wahrscheinlichkeitsmassefunktion
-type: definition
----
-
 Sei $\Omega_0 \subseteq \Omega$  mit
 - $\Omega_0$ abzählbar
 - $\Omega_0 \ne \emptyset$

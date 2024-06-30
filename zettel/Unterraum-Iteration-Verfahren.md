@@ -1,8 +1,3 @@
----
-title: Unterraum-Iteration-Verfahren
-type: definition
----
-
 Sei $X \in \mathbb{R}^{m \times n}$, $v^{(0)} \in \mathbb{R}^n$ mit
 - $A = X^TX$
 - $\| v^{(0)} \|_2 = 1$

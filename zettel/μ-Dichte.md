@@ -1,16 +1,11 @@
----
-title: μ-Dichte
-type: definition
----
-
 Sei $(X, \mathcal{A}, \mu)$ ein [[zettel/Maßraum|Maßraum]], $A \in \mathcal{A}$.
 
 Die *$\mu$-Dichte* $f$ ist definiert als die Dichtefunktion von $\mu$.
 
-Es gilt mit dem $\mu$-[[zettel/μ-Integral|Integral]]
+Es gilt
 
 $$
-	\mu(A) = \int_A f d\mu
+	\mu(A) := \int_A f d\mu
 $$
 
 ---
@@ -19,7 +14,7 @@ Sei $(X, \mathcal{A}, P)$ ein [[zettel/Wahrscheinlichkeitsraum|Wahrscheinlichkei
 
 Die *$\mu$-Dichte* $f$ von $X$ ist definiert als [[zettel/Verteilungsfunktion|Verteilungsfunktion]] von $X$ bzw. Dichtefunktion von $P$.
 
-Es gilt mit dem $\mu$-[[zettel/μ-Integral|Integral]]
+Es gilt
 
 $$
 	P(X \in A) = \int_A f d\mu

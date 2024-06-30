@@ -1,8 +1,3 @@
----
-title: Lemma 2.4.4
-type: lemma
----
-
 Sei $\lambda : \mathcal{I}^1 \to [0, \infty]$ eine Mengenfunktion, $\lambda^*$ das [[zettel/Äußeres Maß|äußere Maß]], $\mathcal{M}_{\lambda^*}$ das [[zettel/Äußeres Maß|System der]] $\lambda^*$-[[zettel/Äußeres Maß|messbaren Mengen]] mit
 - $\lambda((a, b]) = b - a$
 

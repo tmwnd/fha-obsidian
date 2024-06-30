@@ -1,10 +1,3 @@
----
-title: Nonnegative-Matrix-Factorisation
-type: definition
-aliases:
-  - NMF
----
-
 Sei $V \in \mathbb{R}_+^{m \times n}$ [[zettel/Matrix/Dünnbesetztheit|Dünnbesetztheit]], $k \ll \min(m, n)$.
 
 Zerlege $V$, sodass

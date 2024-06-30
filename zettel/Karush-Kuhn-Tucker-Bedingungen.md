@@ -1,15 +1,8 @@
----
-title: KKT-Bedingungen
-type: definition
-aliases:
-  - Karush-Kuhn-Tucker-Bedingungen
----
-
 Sei $f$ ein [[zettel/restringiertes Optimierungsproblem|restringiertes Optimierungsproblem]] mit den Nebenbedingungen
 - $g(x) \le 0$
 - $h(x) = 0$
 
-$x_*, \lambda_*, \mu_*$ heißt *KKT-Punkt*, falls
+$x_*, \lambda_*, \mu_*$ heißt *Karush-Kuhn-Tucker (KKT)-Punkt*, falls
 - $\partial_x L(x_*, \lambda_*, \mu_*) = 0$
 - $g(x_*) \le 0$
 - $h(x_*) = 0$

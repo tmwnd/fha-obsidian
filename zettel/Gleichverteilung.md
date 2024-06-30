@@ -1,10 +1,3 @@
----
-title: Gleichverteilung
-type: example
-aliases:
-  - Rechteck-Verteilung
----
-
 Seien $-\infty \lt a \lt b \lt +\infty$ und die $\lambda$-[[zettel/λ-Dichte|Dichte]] $r : [a, b] \to \mathbb{R}_+$ konstant mit
 - $r \equiv \frac{1}{b - a}$ auf $[a, b]$
 
@@ -32,5 +25,5 @@ Schreibe
 Sei $X \sim \mathcal{R}(a, b)$ eine [[zettel/Zufallsvariable|Zufallsvariable]].
 
 Es gilt
-- Der [[zettel/Erwartungswert|Erwartungswert]] von $X$ ist $E[X] = \frac{a + b}{2}$
-- Die [[zettel/Varianz|Varianz]] von $X$ ist $\text{Var}(X) = \frac{(b - a)^2}{12}$
+- $\text{E}[X] = \frac{a + b}{2}$
+- $\text{Var}[X] = \frac{(b - a)^2}{12}$

@@ -1,8 +1,3 @@
----
-title: Satz von Radon-Nikodym
-type: theorem
----
-
 Sei $(\Omega, \mathcal{A})$ ein [[zettel/Messraum|Messraum]], $\mu, \nu$ [[zettel/Maß|Maße]] auf $(\Omega, \mathcal{A})$ mit
 - $\mu$ $\sigma$-[[zettel/Funktion|endlich]] TODO -> Maß
 

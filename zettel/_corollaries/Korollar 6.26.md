@@ -1,10 +1,5 @@
----
-title: Korollar 6.26
-type: corollary
----
-
 Sie $n \in \mathbb{N}$, $(z_n)_{n \in \mathbb{N}} \in \mathbb{R}$, $X$ eine reelle [[zettel/Zufallsvariable|Zufallsvariable]] mit der [[zettel/Fourier-Transformierte|Fourier-Transformierten]] $\varphi$ und
-- dem [[zettel/Erwartungswert|Erwartungswert]] $E[|X|^n] \lt \infty$
+- $\text{E}[|X|^n] \lt \infty$
 - $z \to 0$
 
 Es gilt

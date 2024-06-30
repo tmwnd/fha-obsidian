@@ -1,8 +1,3 @@
----
-title: Duales Optimierungsproblem bei SVC
-type: definition
----
-
 Minimiere $w$ aus der [[zettel/Support-Vector Klassifikation überlappende Cluster|SVC]]
 
 $$

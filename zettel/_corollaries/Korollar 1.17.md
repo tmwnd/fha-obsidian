@@ -1,8 +1,3 @@
----
-title: Korollar 1.17
-type: corollary
----
-
 Sei $P$ ein [[zettel/Wahrscheinlichkeitsmaß|Wahrscheinlichkeitsmaß]] auf der Borelschen $\sigma$-[[zettel/Borelsche σ-Algebra|Algebra]] $\mathcal{L}$
 
 Die [[zettel/Verteilungsfunktion|Verteilungsfunktion]] $F : \mathbb{R} \to \mathbb{R}$ sei definiert durch

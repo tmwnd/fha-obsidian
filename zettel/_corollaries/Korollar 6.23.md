@@ -1,8 +1,3 @@
----
-title: Korollar 6.23
-type: corollary
----
-
 Seien $X, (X_n)_{n \in \mathbb{N}}$ $d$-dimensionale [[zettel/Zufallsvariable|Zufallsvektoren]]
 
 $X_n \overset{V}{\longrightarrow} X$ gilt, falls

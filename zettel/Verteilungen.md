@@ -1,8 +1,3 @@
----
-title: Verteilungen
-type: bonus
----
-
 ![[zettel/Gleichverteilung|Gleichverteilung]]
 ![[zettel/Normalverteilung|Normalverteilung]]
 ![[zettel/Exponentialverteilung|Exponentialverteilung]]
@@ -10,6 +5,7 @@ type: bonus
 ![[zettel/Cauchy-Verteilung|Cauchy-Verteilung]]
 ![[zettel/Binomialverteilung|Binomialverteilung]]
 ![[zettel/Multinomialverteilung|Multinomialverteilung]]
+![[zettel/Poisson-Verteilung|Poisson-Verteilung]]
 
 Sei $X$ ein $d$-dimensionaler Zufallsvektor, $P^X$ eine diskrete Verteiltung.
 

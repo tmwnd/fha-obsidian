@@ -1,8 +1,3 @@
----
-title: Lemma 6.14
-type: lemma
----
-
 Sei $(\Omega, \mathcal{A}, \mu)$ ein [[zettel/Maßraum|Maßraum]], $\omega \in \Omega$, $U \subseteq \mathbb{C}$, $z_0, z \in U$, $f : \Omega \times U \to \mathbb{C}$ mit
 - $U$ offen
 - $\forall \omega \in \Omega, z \in U : \omega \mapsto f(\omega, z)$ $\mu$-[[zettel/Funktion/μ-Integrierbarkeit Komplexwertigkeit|integrierbar]]
@@ -13,7 +8,7 @@ Sei $(\Omega, \mathcal{A}, \mu)$ ein [[zettel/Maßraum|Maßraum]], $\omega \in \
 	- $k$ [[zettel/Funktion/Messbarkeit|messbar]]
 	- $\forall \omega \in \Omega, z \in U : |f(\omega, z) - f(\omega, z_0)| \le |z - z_0|k(\omega)$
 
-Es gilt mit dem $\mu$-[[zettel/μ-Integral|μ-Integral]]
+Es gilt
 - $\varphi : U \to \mathbb{C}$ differenzierbar in $z_0$ mit
 
 $$

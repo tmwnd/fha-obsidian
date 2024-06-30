@@ -1,8 +1,3 @@
----
-title: Zerlegung
-type: definition
----
-
 Sei $\mathcal{A} \subset \mathcal{P}(\Omega)$ mit
 - $\mathcal{A}$ p. d.
 - $\emptyset \notin \mathcal{A}$

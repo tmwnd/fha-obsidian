@@ -1,8 +1,3 @@
----
-title: Borelsche σ-Algebra
-type: example
----
-
 Seien $\mathscr{S}, \mathcal{O}, \mathcal{A}, \mathcal{K}$ [[zettel/Semiring|Semiringe]] auf $\mathbb{R}$ mit
 - $\mathscr{S} = \{ (a, b], -\infty \lt a \le b \lt +\infty \}$
 - $\mathcal{O} = \{ O, O \subseteq \mathbb{R} \text{ offen } \}$
@@ -44,7 +39,7 @@ Sei $\mathcal{L}$ eine Borelsche $\sigma$-Algebra auf $\mathbb{R}$.
 Die Borelsche $\sigma$-Algebra $\overline{\mathcal{L}}$ auf $\overline{\mathbb{R}}$ ist definiert als
 
 $$
-	\overline{\mathcal{L}} = \mathcal{L} \cup \{ B \cup \{ -\infty \}, B \in \mathcal{L} \} \cup \{ B \cup \{ +\infty \}, B \in \mathcal{L} \}
+	\overline{\mathcal{L}} := \mathcal{L} \cup \{ B \cup \{ -\infty \}, B \in \mathcal{L} \} \cup \{ B \cup \{ +\infty \}, B \in \mathcal{L} \}
 $$
 
 Es gilt für die Spur-$\sigma$-[[zettel/Spur-σ-Algebra|Algebra]] $\overline{\mathcal{L}}_\mathbb{R}$

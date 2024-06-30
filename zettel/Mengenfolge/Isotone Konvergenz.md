@@ -1,8 +1,3 @@
----
-title: Isoton konvergente Folge
-type: property
----
-
 Sei $(A_n)_{n \in \mathbb{N}} \subseteq \Omega$.
 
 $(A_n)_{n \in \mathbb{N}}$ heißt *isoton konvergent* gegen $A \subseteq \Omega$, falls

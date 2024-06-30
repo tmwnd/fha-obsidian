@@ -1,13 +1,8 @@
----
-title: Korrelationskoeffizient
-type: definition
----
-
 Seien $X_1, X_2$ [[zettel/Zufallsvariable|Zufallsvariablen]] mit
-- $E[X_1 X_2] \lt \infty$
+- $\text{E}[X_1 X_2] \lt \infty$
 
-Der *Korrelationskoeffizient* ist mit der [[zettel/Varianz|Varianz]] $\text{Var}$ und der [[zettel/Kovarianz|Kovarianz]] Cov definiert als
+Der *Korrelationskoeffizient* ist definiert als
 
 $$
-	\varrho(X_1, X_2) = \frac{\text{Cov}(X_1, X_2)}{\sqrt{\text{Var}(X_1) \cdot \text{Var}(X_2)}} \le 1
+	\rho(X_1, X_2) := \frac{\text{Cov}[X_1, X_2]}{\sqrt{\text{Var}[X_1] \cdot \text{Var}[X_2]}} \le 1
 $$

@@ -1,10 +1,3 @@
----
-title: Abgeschnittene Singulärwertzerlegung
-type: definition
-aliases:
-  - TSVD
----
-
 Sei $X \in \mathbb{R}^{m \times n}$ mit
 - $U\Sigma V^T$ die [[zettel/Singulärwertzerlegung|SVD]] von $X$
 - $\sigma_r \gt \sigma_{r+1} = 0$

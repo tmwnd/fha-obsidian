@@ -1,8 +1,3 @@
----
-title: Lemma 4.3.1
-type: lemma
----
-
 Sei $(\Omega, \mathcal{A}, P)$ ein [[zettel/Wahrscheinlichkeitsraum|Wahrscheinlichkeitsraum]], $\omega \in \Omega$, $n \in \mathbb{N}$, $((R_i, \mathscr{S}_i))_{i \in \{ 1, \dots, n \}}$ [[zettel/Messraum|Messräume]], $X : \Omega \to R$ eine [[zettel/Funktion|Funktion]] mit
 - $R = \prod_{i=1}^n R_i$
 - $\mathscr{S} = \bigotimes_{i=1}^n \mathscr{S}_i$ eine Produkt-$\sigma$-[[zettel/Produkt-σ-Algebra|Algebra]] auf $((R_i, \mathscr{S}_i))_{i \in \{ 1, \dots, n \}}$

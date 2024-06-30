@@ -1,8 +1,3 @@
----
-title: Lemma 2.4.13
-type: lemma
----
-
 Sei $(\Omega, \mathcal{A}, \mu)$ ein [[zettel/Maßraum|Maßraum]], $\mathcal{M}_\mu$ das Systen der $\mu$-[[zettel/μ-Nullmenge|Nullmengen]].
 
 Es gilt

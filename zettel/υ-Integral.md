@@ -1,15 +1,10 @@
----
-title: υ-Integral
-type: definition
----
-
 Sei $g \in \mathcal{M}$ eine [[zettel/Funktion/Messbarkeit|messbare]] [[zettel/Funktion|Funktion]], $\nu$ ein $\nu$-[[zettel/υ-Maß|Maß]] mit
 - $d\nu = g d\mu$
 
-Das *$\nu$-Integral* ist mit dem $\mu$-[[zettel/μ-Integral|Integral]] definiert als
+Das *$\nu$-Integral* ist definiert als
 
 $$
-	\int g d\nu = \int g \cdot f d\mu
+	\int g d\nu := \int g \cdot f d\mu
 $$
 
 ---

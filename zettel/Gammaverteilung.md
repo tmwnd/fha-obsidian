@@ -1,8 +1,3 @@
----
-title: Gammaverteilung
-type: example
----
-
 Sei $\alpha \gt 0$, $\lambda \gt 0$, $t \in (0, \infty)$ , die Gamma-[[zettel/Funktion|Funktion]] $\Gamma$ mit
 
 $$
@@ -12,7 +7,7 @@ $$
 und die $\lambda$-[[zettel/λ-Dichte|Dichte]] $g_{a, \lambda}$ definiert als 
 
 $$
-	g_{a, \lambda}(t) = \frac{\lambda^\alpha}{\Gamma(\alpha)}t^{\alpha-1}e^{-\lambda t}
+	g_{a, \lambda}(t) := \frac{\lambda^\alpha}{\Gamma(\alpha)}t^{\alpha-1}e^{-\lambda t}
 $$
 
 Sei $x \in \mathbb{R}$.

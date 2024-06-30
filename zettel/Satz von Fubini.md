@@ -1,8 +1,3 @@
----
-title: Satz von Fubini
-type: theorem
----
-
 Seien $((\Omega_i, \mathcal{A}_i, \mu_i))_{i \in \{ 1, 2 \}}$ [[zettel/Maßraum|Maßräume]], $f : (\Omega_1 \times \Omega_2, \mathcal{A}_1 \otimes \mathcal{A_2}) \to (\overline{\mathbb{R}}, \overline{\mathcal{L}})$ eine [[zettel/Funktion/Messbarkeit|messbare]] [[zettel/Funktion|Funktion]] mit
 - $f \gt 0$
 

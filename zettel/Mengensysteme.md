@@ -1,8 +1,3 @@
----
-title: Mengensysteme
-type: bonus
----
-
 ![[zettel/Mengensystem|Mengensystem]]
 ![[zettel/Semiring|Semiring]]
 ![[zettel/Ring|Ring]]

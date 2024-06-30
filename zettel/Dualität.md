@@ -1,8 +1,3 @@
----
-title: Dualität
-type: definition
----
-
 Sei $f$ ein [[zettel/restringiertes Optimierungsproblem|restringiertes Optimierungsproblem]] mit den Nebenbedingungen
 - $g(x) \le 0$
 - $h(x) = 0$
@@ -16,7 +11,7 @@ $$
 Sei $q$ eine duale [[zettel/Funktion|Funktion]] definiert als
 
 $$
-	q(\lambda, \mu) = \inf_{x \in X} L(x, \lambda, \mu)
+	q(\lambda, \mu) := \inf_{x \in X} L(x, \lambda, \mu)
 $$
 
 mit dem Definitionsbereich

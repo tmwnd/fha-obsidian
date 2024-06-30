@@ -1,8 +1,3 @@
----
-title: Konvergenz P-fast sicher
-type: definition
----
-
 Sei $(\Omega, \mathcal{A}, P)$ ein [[zettel/Wahrscheinlichkeitsraum|Wahrscheinlichkeitsraum]], $n \in \mathbb{N}$, $X, (X_i)_{i \in \{ 1, \dots, n \}}$ [[zettel/Zufallsvariable|Zufallsvektoren]] mit
 - $\forall n \in \{ 1, \dots, n \} : X_n : (\Omega, \mathcal{A}) \to (\mathbb{R}^d, \mathcal{L}^d)$ [[zettel/Funktion/Messbarkeit|messbar]]
 
@@ -40,8 +35,8 @@ $f \circ X_n \overset{P\text{-f. s.}}{\longrightarrow} f \circ X$ gilt falls
 
 ---
 
-Seien $(X_n)_{n \in \mathbb{N}}$ reelle [[zettel/Zufallsvariable|Zufallsvariablen]] mit dem [[zettel/Erwartungswert|Erwartungswert]] $E$, der [[zettel/Varianz|Varianz]] $\text{Var}$ und
-- $\forall n \in \mathbb{N} : E[X_n]  = 0$
-- $\sum_{n=1}^\infty \text{Var}(X_n) \lt \infty$
+Seien $(X_n)_{n \in \mathbb{N}}$ reelle [[zettel/Zufallsvariable|Zufallsvariablen]] mit
+- $\forall n \in \mathbb{N} : \text{E}[X_n]  = 0$
+- $\sum_{n=1}^\infty \text{Var}[X_n] \lt \infty$
 
 $\sum_{n=1}^\infty X_k$ konvergiert $P$-f. s. gegen eine reelle [[zettel/Zufallsvariable|Zufallsvariable]]

@@ -1,8 +1,3 @@
----
-title: Antiton konvergente Folge
-type: property
----
-
 Sei $(A_n)_{n \in \mathbb{N}} \subseteq \Omega$.
 
 $(A_n)_{n \in \mathbb{N}}$ heißt *antiton konvergent* gegen $A \subseteq \Omega$, falls

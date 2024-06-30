@@ -1,8 +1,3 @@
----
-title: Diskretes Wahrscheinlichkeitsmaß
-type: definition
----
-
 Sei $\Omega \ne \emptyset$, $\mathcal{A}$ eine $\sigma$-[[zettel/σ-Algebra|Algebra]] auf $\Omega$, $\{ \omega \} \in \mathcal{A}$.
 
 Ein Wahrscheinlichkeitsmaß $P : \mathcal{A} \to \overline{\mathbb{R}}_+$ heißt *diskret*, falls für eine abzählbare Menge $\Omega_0 \subseteq \Omega$ gilt

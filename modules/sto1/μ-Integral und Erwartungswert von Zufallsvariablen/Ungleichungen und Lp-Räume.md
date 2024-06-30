@@ -1,8 +1,3 @@
----
-title: Ungleichungen und Lp-Räume
-type: subsection
----
-
 ![[zettel/Tschebyscheffsche Ungleichung|Tschebyscheffsche Ungleichung]]
 ![[zettel/_lemmas/Lemma 3.24|Lemma 3.24]]
 ![[zettel/Höldersche Ungleichung|Höldersche Ungleichung]]

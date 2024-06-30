@@ -1,8 +1,3 @@
----
-title: Rechenregeln Unendlich
-type: convention
----
-
 Sei $x \in \mathbb{R}$.
 
 Es gilt

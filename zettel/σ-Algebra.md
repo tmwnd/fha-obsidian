@@ -1,8 +1,3 @@
----
-title: σ-Algebra
-type: definition
----
-
 $\mathcal{A} \subseteq \mathcal{P}(\Omega)$ heißt *$\sigma$-Algebra* auf $\Omega$, falls
 - $\Omega \in \mathcal{A}$
 - $A \in \mathcal{A} \implies A^\complement \in \mathcal{A}$

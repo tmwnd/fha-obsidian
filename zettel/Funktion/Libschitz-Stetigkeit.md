@@ -1,10 +1,3 @@
----
-title: Libschitz-stetige Funktion
-type: property
-aliase:
-  - L-stetige Funktion
----
-
 Sei $f : \mathbb{R}^d \to \mathbb{R}$ eine [[zettel/Funktion|Funktion]].
 
 $f$ heißt *Libschitz-stetig* bzw. *L-stetig*, falls

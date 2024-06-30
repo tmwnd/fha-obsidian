@@ -1,14 +1,9 @@
----
-title: Produktmaß
-type: definition
----
-
 Sei $n \in \mathbb{N}$, $\mu_1, \dots, \mu_n$ $\sigma$-endliche [[zettel/Maß|Maße]].
 
 Das *Produktmaß* $\mu$ ist definiert als
 
 $$
-	\mu = \bigotimes_{i=1}^n \mu_i
+	\mu := \bigotimes_{i=1}^n \mu_i
 $$
 
 Es gilt für $(A_n)_{n \in \mathbb{N}}$

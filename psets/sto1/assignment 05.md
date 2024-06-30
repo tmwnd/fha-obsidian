@@ -1,7 +1,3 @@
----
-type: assignment
----
-
 1. Das Wahrscheinlichkeitsmaß $P$ auf $(\mathbb{R}, \mathfrak{B})$ habe die Dichte
 	
 	$$

@@ -1,10 +1,3 @@
----
-title: Stochastic (Sub-)Gradient-Descent
-type: definition
-aliases:
-  - Minibatch Stochastic Gradient-Descent
----
-
 Seien $(x_i, y_i)_{i \in \{ 1, \dots, m \}}$ Datenpaare, $l$ eine nicht-differenzierbare [[zettel/Loss-Funktion|Loss-Funktion]], $w^{(0)} \in \mathbb{R}^n$, $\gamma^{(k)} \ge 0$ die Schrittlänge.
 
 Die $k$-te Iteration des *(Sub-)Gradient-Descent-Verfahrens* ist definiert als

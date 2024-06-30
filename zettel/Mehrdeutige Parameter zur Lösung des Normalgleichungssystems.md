@@ -1,8 +1,3 @@
----
-title: Mehrdeutige Parameter zur Lösung des Normalgleichungssystems
-type: definition
----
-
 Sei $X \in \mathbb{R}^{m \times n}, y \in \mathbb{R}^m$ mit
 - Spaltenvektoren von $X$ linear abhängig $\implies$ $X^TX$ [[zettel/Matrix/Indefinitheit|positiv semidefinit]] $\implies$ $X^TX$ nicht [[zettel/Matrix/Regularität|regulär]] bzw. [[zettel/Matrix/Singularität|singulär]]
 - $U\Sigma V$ die [[zettel/Singulärwertzerlegung|SVD]] von $X$

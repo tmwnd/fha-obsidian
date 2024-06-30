@@ -1,8 +1,3 @@
----
-title: Satz 1.9
-type: theorem
----
-
 Sei $\mathcal{R}$ ein [[zettel/Ring|Ring]] auf $\Omega$ und $\mu : \mathcal{R} \to \overline{\mathbb{R}}_+$ ein endlich-additives [[zettel/Maß|Maß]].
 
 Wir betrachten die folgenden [[zettel/Konvergenz|Konvergenz]]-Aussagen:

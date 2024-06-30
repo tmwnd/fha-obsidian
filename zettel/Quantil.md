@@ -1,8 +1,3 @@
----
-title: Quantil
-type: definition
----
-
 Sei $p \in [0, 1]$ und $X$ eine reelle [[zettel/Zufallsvariable|Zufallsvariable]].
 
 $\xi_p \in \mathbb{R}$ heißt *$p$-Quantil*  von $X$ bzw. $P^X$, falls

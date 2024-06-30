@@ -1,8 +1,3 @@
----
-title: Äußeres Maß, Maßerweiterung und Vervollständigung
-type: subsection
----
-
 ![[zettel/Äußeres Maß|Äußeres Maß]]
 ![[zettel/Funktion/Messbarkeit|Messbarkeit]]
 ![[zettel/Äußeres Lebesgue-Maß|Äußeres Lebesgue-Maß]]

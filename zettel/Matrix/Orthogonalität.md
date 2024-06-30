@@ -1,8 +1,3 @@
----
-title: Orthogonale Matrizen
-type: property
----
-
 Sei $A \in \mathbb{R}^{m \times n}$.
 
 $A$ heißt *orthogonal*, falls

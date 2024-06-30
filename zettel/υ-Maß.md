@@ -1,16 +1,9 @@
----
-title: υ-Maß
-type: example
-aliases:
- - Maß mit der μ-Dichte
----
-
 Sei $f \in \mathcal{M}_+$ eine [[zettel/Funktion/Messbarkeit|messbare]] [[zettel/Funktion|Funktion]], $A \in \mathcal{A}$.
 
-Das [[zettel/Maß|Maß]] $\nu$ ist auf $(\Omega, \mathcal{A})$ mit dem $\mu$-[[zettel/μ-Integral|Integral]] definiert als
+Das [[zettel/Maß|Maß]] $\nu$ ist auf $(\Omega, \mathcal{A})$ definiert als
 
 $$
-	\nu(A) = \int_A f d\mu
+	\nu(A) := \int_A f d\mu
 $$
 
 $f$ heißt *$\mu$-[[zettel/μ-Dichte|Dichte]]* mit

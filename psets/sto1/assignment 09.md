@@ -1,7 +1,3 @@
----
-type: assignment
----
-
 1. Es sei $X$ eine reelle Zufallsvariable mit der Verteilungsfunktion $F$, $u : [a, b] \to \mathbb{R}$ sei stetig differenzierbar.
 	Zeigen Sie mit Hilfe des Satzes von Fubini:
 	

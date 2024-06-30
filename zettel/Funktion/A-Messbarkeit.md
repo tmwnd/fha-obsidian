@@ -1,8 +1,3 @@
----
-title: A-messbare Funktion
-type: property
----
-
 Sei $(\Omega, \mathcal{A})$ ein [[zettel/Messraum|Messraum]].
 
 Die [[zettel/Funktion|Funktion]] $f : \Omega \to \mathbb{R}$ heißt *$\mathcal{A}$-messbar*, falls

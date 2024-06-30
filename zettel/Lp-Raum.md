@@ -1,14 +1,9 @@
----
-title: Lp-Raum
-type: definition
----
-
 Sei $1 \le p \in \mathbb{R}$, $(\Omega, \mathcal{A}, \mu)$ ein [[zettel/Maßraum|Maßraum]].
 
-Der *$\mathcal{L}^p$-Raum* ist mit dem $\mu$-[[zettel/μ-Integral|Integral]] definiert als
+Der *$\mathcal{L}^p$-Raum* ist definiert als
 
 $$
-	\mathcal{L}^p = \mathcal{L}^p(\Omega, \mathcal{A}, \mu) = \left\{ f : (\Omega, \mathcal{A}) \to (\mathbb{R}, \mathcal{L}), \int |f|^p d\mu \lt \infty \right\}
+	\mathcal{L}^p := \mathcal{L}^p(\Omega, \mathcal{A}, \mu) = \left\{ f : (\Omega, \mathcal{A}) \to (\mathbb{R}, \mathcal{L}), \int |f|^p d\mu \lt \infty \right\}
 $$
 
 ---

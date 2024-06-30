@@ -1,7 +1,3 @@
----
-type: assignment
----
-
 1. Es sei $\Omega$ eine nicht abzählbare Menge und
 	
 	$$

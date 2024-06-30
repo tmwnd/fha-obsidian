@@ -1,10 +1,3 @@
----
-title: Stochastisch unabhängige Zufallsvariablen
-type: definition
-aliases:
-  - Unabhängige Zufallsvariablen
----
-
 Sei $(\Omega, \mathcal{A}, P)$ ein [[zettel/Wahrscheinlichkeitsraum|Wahrscheinlichkeitsraum]], $n \in \mathbb{N}$, $((R_i, \mathscr{S}_i))_{i \in \{ 1, \dots, n \}}$ [[zettel/Messraum|Messräume]], $(X_i)_{i \in \{ 1, \dots, n \}}$ [[zettel/Zufallsvariable|Zufallsvariablen]] auf $((R_i, \mathscr{S}_i))_{i \in \{ 1, \dots, n \}}$ mit
 - $\mathscr{S} = \bigotimes_{i=1}^n \mathscr{S}_i$ eine Produkt-$\sigma$-[[zettel/Produkt-σ-Algebra|Algebra]] auf $((R_i, \mathscr{S}_i))_{i \in \{ 1, \dots, n \}}$
 
@@ -46,7 +39,7 @@ Sei $(\Omega, \mathcal{A}, P)$ ein [[zettel/Wahrscheinlichkeitsraum|Wahrscheinli
 - $f : R \to R$ ist definiert als
   
   $$
-  f(x_1, \dots, x_n) = \prod_{i=1}^n f_i(x_i)
+  f(x_1, \dots, x_n) := \prod_{i=1}^n f_i(x_i)
   $$
   
 - $f$ ist $(\mathscr{S}, \mathcal{L})$ [[zettel/Funktion/Messbarkeit|messbar]]

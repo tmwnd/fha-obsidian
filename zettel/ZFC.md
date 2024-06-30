@@ -1,8 +1,3 @@
----
-title: ZFC
-type: definition
----
-
 **ZFC** ist ein Axiomensystem nach **Z**ermello und **F**raenkel.
 Zusätzlich wird das [[zettel/Auswahlaxiom|Auswahlaxiom]] (axiom of **c**hoice) hinzugezogen.
 

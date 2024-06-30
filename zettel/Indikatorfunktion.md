@@ -1,14 +1,9 @@
----
-title: Indikatorfunktion
-type: definition
----
-
 Sei $A \subseteq \Omega$, $\omega \in \Omega$.
 
 Die *Indikatorfunktion* $I_A : \Omega \to \mathbb{R}$ ist definiert als
 
 $$
-	I_A(\omega) = \begin{cases}
+	I_A(\omega) := \begin{cases}
 		1, & \omega \in A \\
 		0, & \omega \notin A
 	\end{cases}

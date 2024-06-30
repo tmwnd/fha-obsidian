@@ -1,8 +1,3 @@
----
-title: Mengensysteme und Maße
-type: section
----
-
 ![[modules/muit/Mengensysteme und Maße/Einleitung|Einleitung]]
 ![[modules/muit/Mengensysteme und Maße/Strukturierte Mengensysteme|Strukturierte Mengensysteme]]
 ![[modules/muit/Mengensysteme und Maße/Maße|Maße]]

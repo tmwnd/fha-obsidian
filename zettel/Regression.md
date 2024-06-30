@@ -1,8 +1,3 @@
----
-title: Regression
-type: definition
----
-
 Seien $(x_i, y_i)_{i \in \{ 1, \dots, m \}}$ Datenpaare, $w \in \mathbb{R}^{m+1}$, $H(w)$ eine [[zettel/Hyperebene|Hyperebene]], $g(x, w)$ die Funktion aus $H(w)$.
 
 Der optimale Parameter $\hat{w}$ wird über das [[zettel/nicht-restringiertes Optimierungsproblem|nicht-restringiertes Optimierungsproblem]] definiert als

@@ -1,8 +1,3 @@
----
-title: Indefinite Matrix
-type: property
----
-
 Sei $A \in \mathbb{R}^{n \times n}$.
 
 $A$ heißt *indefinit*, falls

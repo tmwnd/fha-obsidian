@@ -1,8 +1,3 @@
----
-title: Satz 2.4.9
-type: theorem
----
-
 Sei $\mathcal{A} \subseteq \mathcal{P}(\Omega)$, $\mu : \mathcal{A} \to [0, \infty]$ mit
 - $\Omega \in \mathcal{A}$
 - $A \in \mathcal{A} \implies A^\complement \in \mathcal{A}$

@@ -1,8 +1,3 @@
----
-title: restringiertes Optimierungsproblem
-type: definition
----
-
 Sei $f : X \to \mathbb{R}$.
 
 Minimiere das [[zettel/Optimierungsproblem|Optimierungsproblem]]
@@ -24,7 +19,7 @@ $$
 $$
 
 Falls $x_* \in \arg\min_{x \in X} f(x)$ gilt
-- $\exists \lambda_* \ge 0, \mu_* : x_*, \lambda_*, \mu_*$ [[zettel/KKT-Bedingungen|KKT-Punkt]]
+- $\exists \lambda_* \ge 0, \mu_* : x_*, \lambda_*, \mu_*$ [[zettel/Karush-Kuhn-Tucker-Bedingungen|KKT-Punkt]]
 
 ---
 
@@ -32,7 +27,7 @@ Seien $X$ [[zettel/Menge/Konvexität|konvex]], $f$, $g$ [[zettel/Funktion/Konvex
 
 Es gilt
 - Als Regularisierungsbedingung muss nur [[zettel/Slater-Bedingung|Slater-Bedingung]] erfüllt sein
-- $x_*$ [[zettel/KKT-Bedingungen|KKT-Punkt]] $\implies$ $x_*$ lokales Minimum $\implies$ $x_*$ globales Minimum
+- $x_*$ [[zettel/Karush-Kuhn-Tucker-Bedingungen|KKT-Punkt]] $\implies$ $x_*$ lokales Minimum $\implies$ $x_*$ globales Minimum
 
 ---
 
@@ -45,6 +40,6 @@ Es gilt
 
 Seien $f, g, h \in C^2$.
 
-Falls $x_*, \lambda_*, \mu_*$ ein [[zettel/KKT-Bedingungen|KKT-Punkt]] und
+Falls $x_*, \lambda_*, \mu_*$ ein [[zettel/Karush-Kuhn-Tucker-Bedingungen|KKT-Punkt]] und
 - $S = \left\{ s \in \mathbb{R}^2 \mid s \ne 0 \land \begin{pmatrix} \partial_x g(x_*) \\ \partial_x h(x_*) \end{pmatrix}^Ts = 0 \right\}$
 - $\forall s \in S : s^T\partial_x^2L (x_*, \lambda_*, \mu_*)s \ge 0$

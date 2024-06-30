@@ -1,7 +1,3 @@
----
-type: assignment
----
-
 1. Ist
 
 	$$

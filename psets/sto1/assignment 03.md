@@ -1,7 +1,3 @@
----
-type: assignment
----
-
 1. 
 	- a) Es sei $f : (\mathbb{R}, \mathfrak{B}) \to (\mathbb{R}, \mathfrak{B})$ differenzierbar.
 		Ist die Ableitung $f'$ von $f$ $(\mathfrak{B}, \mathfrak{B})$-messbar?

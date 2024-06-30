@@ -1,8 +1,3 @@
----
-title: Ring
-type: definition
----
-
 $\mathcal{R} \subseteq \mathcal{P}(\Omega)$ heißt *Ring* auf $\Omega$, falls
 - $\emptyset \in \mathcal{R}$
 - $A, B \in \mathcal{R} \implies A \cap B^\complement \in \mathcal{R}$

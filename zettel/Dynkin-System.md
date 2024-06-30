@@ -1,8 +1,3 @@
----
-title: Dynkin-System
-type: definition
----
-
 $\mathcal{D} \subseteq \mathcal{P}(\Omega)$ heißt *Dynkin-System* auf $\Omega$, falls
 - $\Omega \in \mathcal{D}$
 - $A \in \mathcal{D} \implies A^\complement \in \mathcal{D}$

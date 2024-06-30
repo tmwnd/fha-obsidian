@@ -1,8 +1,3 @@
----
-title: Weitere Eigenschaften von μ-Integralen und Beispiele
-type: subsection
----
-
 ![[zettel/μ-Nullmenge|μ-Nullmenge]]
 ![[zettel/_theorems/Satz 3.9|Satz 3.9]]
 ![[zettel/_corollaries/Korollar 3.10|Korollar 3.10]]

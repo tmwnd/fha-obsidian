@@ -1,8 +1,3 @@
----
-title: NMF über Gradient-Descent
-type: definition
----
-
 Sei $V \in \mathbb{R}_+^{m \times n}$ [[zettel/Matrix/Dünnbesetztheit|Dünnbesetztheit]], $A \star B$ die komponentenweise Multiplikation der Matrizen $A$ und $B$.
 
 Finde eine Lösung der [[zettel/Nonnegative-Matrix-Factorisation|NFM]] $V = EF$ über [[zettel/Gradient Descent|GD]]  mit

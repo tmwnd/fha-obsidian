@@ -1,8 +1,3 @@
----
-title: Unabhängige Zufallsvariablen
-type: subsection
----
-
 ![[zettel/_lemmas/Lemma 4.3.1|Lemma 4.3.1]]
 ![[zettel/_lemmas/Lemma 4.3.2|Lemma 4.3.2]]
 ![[zettel/Randverteilung|Randverteilung]]

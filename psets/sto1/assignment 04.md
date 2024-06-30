@@ -1,7 +1,3 @@
----
-type: assignment
----
-
 1. Auf dem Rand eines Kreises mit dem Mittelpunkt im Koordinatenursprung und dem Radius $r$ werde zufällig und gleichwahrscheinlich ein Punkt ausgewählt (mit anderen Worten, der Polarwinkel des Punks ist eine $\mathfrak{R}(-\pi, +\pi)$-verteilte Zufallsvariable).
 	Bestimmen Sie die Verteilungsfunktion der Abszisse des Punkts.
 

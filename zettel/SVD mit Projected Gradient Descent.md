@@ -1,8 +1,3 @@
----
-title: SVD mit Projected Gradient Descent
-type: definition
----
-
 Sei $X \in \mathbb{R}^{m \times n}$ mit
 - $f(v) = \| Xv \|_2^2$
 - $f(v_k) = \sigma_1^2$

@@ -1,8 +1,3 @@
----
-title: Maße
-type: subsection
----
-
 ![[zettel/Funktion/Monotonie|Monotonie]]
 ![[zettel/Funktion/Additivität|Additivität]]
 ![[zettel/Funktion/Subadditivität|Subadditivität]]

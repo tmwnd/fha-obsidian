@@ -1,10 +1,3 @@
----
-title: Algebra
-type: definition
-aliases:
-  - Mengenalgebra
----
-
 $\mathcal{A} \subseteq \mathcal{P}(\Omega)$ heißt *Algebra* auf $\Omega$, falls
 - $\Omega \in \mathcal{A}$
 - $A \in \mathcal{A} \implies A^\complement \in \mathcal{A}$

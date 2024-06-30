@@ -1,10 +1,3 @@
----
-title: Principle Component Analysis
-type: definition
-aliases:
-  - PCA
----
-
 Sei $X = (x_1, \dots, x_n) \in \mathbb{R}^{m \times n}$ mit
 - $X$ [[zettel/Zentrierter Datensatz|zentriert]]
 - $U\Sigma V^T$ die [[zettel/Singulärwertzerlegung|SVD]] von $X$

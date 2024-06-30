@@ -1,5 +1,0 @@
----
-title: Einleitung
-type: subsection
----
-

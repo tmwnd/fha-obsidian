@@ -1,14 +1,9 @@
----
-title: Topologischer Rand
-type: definition
----
-
 Sei $d \in \mathbb{D}$, $C \subseteq \mathbb{R}^d$.
 
 Der *(topologische) Rand* $\partial C$ von $C$ ist mit der Menge der [[zettel/innere Punkte|inneren Punkte]] $\overset{\circ}{C}$ definiert als
 
 $$
-	\partial C = \overline{C} \cap (\overset{\circ}{C})^\complement
+	\partial C := \overline{C} \cap (\overset{\circ}{C})^\complement
 $$
 
 ---

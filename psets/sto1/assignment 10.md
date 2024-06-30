@@ -1,10 +1,6 @@
----
-type: assignment
----
-
 1. Ein echter Würfel wird $n$-mal unabhängig voneinander geworfen.
 	Die Zufallsvariable $X$ bzw. $Y$ gebe die Anzahl der Würfe, bei denen die Augenzahl $1$ bzw. die Augenzahl $6$ fällt, an.
-	Bestimmen Sie $\text{Cov}(X, Y)$ und $\text{Var}(X + Y)$.
+	Bestimmen Sie $\text{Cov}[X, Y]$ und $\text{Var}[X + Y]$.
 
 ^1
 

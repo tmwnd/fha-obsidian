@@ -1,8 +1,3 @@
----
-title: Mengenoperationen
-type: definition
----
-
 Sei $A, B, (A_i)_{i \in I} \in \mathcal{P}(\Omega)$.
 
 Es gilt

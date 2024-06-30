@@ -1,7 +1,3 @@
----
-type: assignment
----
-
 1. Eine Cauchy-verteilte Zufallsvariable $X$ hat die Fourier-Transformierte
 	
 	$$
@@ -32,7 +28,7 @@ type: assignment
 
 ^3
 
-4. Es seien $X_1, X_2$ unabhängige und identisch verteilte reelle Zufallsvariablen mit $E(X_1) = 0$ und $\text{Var}(X_1) = 1$.
+4. Es seien $X_1, X_2$ unabhängige und identisch verteilte reelle Zufallsvariablen mit $E(X_1) = 0$ und $\text{Var}[X_1] = 1$.
 	Zeigen Sie:
 	
 	$$

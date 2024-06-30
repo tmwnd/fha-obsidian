@@ -1,7 +1,3 @@
----
-type: solution
----
-
 ![[psets/sto1/assignment 03#^1|assignment 03]]
 
 - a) Betrachten wir den Differentialquotientern

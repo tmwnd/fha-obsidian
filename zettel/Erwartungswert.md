@@ -1,8 +1,3 @@
----
-title: Erwartungswert
-type: definition
----
-
 Sei $(\Omega, \mathcal{A}, P)$ ein [[zettel/Wahrscheinlichkeitsraum|Wahrscheinlichkeitsraum]], $\overline{\mathcal{L}}$ die Borelsche $\sigma$-[[zettel/Borelsche σ-Algebra|Algebra]] , $X : (\Omega, \mathcal{A}) \to (\overline{R}, \overline{\mathcal{L}})$ eine [[zettel/Zufallsvariable|Zufallsvariable]] mit
 - $\int X^+ dP \lt \infty$ oder
 - $\int X^- dP \lt \infty$
@@ -10,17 +5,17 @@ Sei $(\Omega, \mathcal{A}, P)$ ein [[zettel/Wahrscheinlichkeitsraum|Wahrscheinli
 Der *Erwartungswert* von $X$ bzw. $P^X$ ist mit dem $P$-[[zettel/P-Integral|Integral]] definiert als
 
 $$
-	E[X] = \int X dP = \int X^+ dP - \int X^- dP
+	\text{E}[X] := \int X dP = \int X^+ dP - \int X^- dP
 $$
 
 ---
 
 Sei $(\Omega, \mathcal{A}, P)$ ein [[zettel/Wahrscheinlichkeitsraum|Wahrscheinlichkeitsraum]], $\mathcal{L}$ die Borelsche $\sigma$-[[zettel/Borelsche σ-Algebra|Algebra]] , $X : (\Omega, \mathcal{A}) \to (\overline{R}, \overline{\mathcal{L}})$ eine [[zettel/Zufallsvariable|Zufallsvariable]] mit der $\lambda$-[[zettel/λ-Dichte|Dichte]] $f : (\mathbb{R}, \mathcal{L}) \to (\mathbb{R}, \mathcal{L})$, $g : (\mathbb{R}, \mathcal{L}) \to (\mathbb{R}, \mathcal{L})$ eine nicht-negative [[zettel/Funktion|Funktion]].
 
-Es gilt mit dem $P$-[[zettel/P-Integral|Integral]] 
+Es gilt
 
 $$
-	E[g \circ X] = \int g \circ X dP = \int_{-\infty}^{+\infty} g(x)f(x) dx
+	\text{E}[g \circ X] = \int g \circ X dP = \int_{-\infty}^{+\infty} g(x)f(x) dx
 $$
 
 ---
@@ -32,20 +27,20 @@ Sei $(\Omega, \mathcal{A}, P)$ ein [[zettel/Wahrscheinlichkeitsraum|Wahrscheinli
 Es gilt mit dem $P^X$-[[zettel/PX-Integral|Integral]]
 
 $$
-	E[g \circ X] = \int g dP^X = \sum_{a \in S} g(y)P(X = a) = \sum_{a \in R} g(a) P(X = a)
+	\text{E}[g \circ X] = \int g dP^X = \sum_{a \in S} g(y)P(X = a) = \sum_{a \in R} g(a) P(X = a)
 $$
 
 ---
 
 Sie $X$ ein $d$-dimensionaler [[zettel/Zufallsvariable|Zufallsvektor]] mit
-- $\forall i \in \{ 1, \dots, d \} : E[X_i] \lt \infty$ bzw. $E[|X_i|] \lt \infty$
+- $\forall i \in \{ 1, \dots, d \} : \text{E}[X_i] \lt \infty$ bzw. $\text{E}[|X_i|] \lt \infty$
 
 Der *Erwartungswertvekotor* von $X$ ist definiert als
 
 $$
-	E[X] = (E[X_1], \dots, E[X_d])
+	\text{E}[X] = (\text{E}[X_1], \dots, \text{E}[X_d])
 $$
 
 Es gilt
-- $\forall A \in \mathbb{R}^{n \times d}, b \in \mathbb{R}^n : E[AX + b] = AE[X] + b$
-- $E[X^2] \lt \infty$
+- $\forall A \in \mathbb{R}^{n \times d}, b \in \mathbb{R}^n : \text{E}[AX + b] = AE[X] + b$
+- $\text{E}[X^2] \lt \infty$

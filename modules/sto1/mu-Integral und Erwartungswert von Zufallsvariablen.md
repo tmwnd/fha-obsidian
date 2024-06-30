@@ -1,8 +1,3 @@
----
-title: mu-Integral und Erwartungswert von Zufallsvariablen
-type: section
----
-
 ![[modules/sto1/μ-Integral und Erwartungswert von Zufallsvariablen/Definition und Eigenschaften des μ-Integrals|Definition und Eigenschaften des μ-Integrals]]
 ![[modules/sto1/mu-Integral und Erwartungswert von Zufallsvariablen/Konvergenzsätze|Konvergenzsätze]]
 ![[modules/sto1/μ-Integral und Erwartungswert von Zufallsvariablen/Weitere Eigenschaften von μ-Integralen und Beispiele|Weitere Eigenschaften von μ-Integralen und Beispiele]]

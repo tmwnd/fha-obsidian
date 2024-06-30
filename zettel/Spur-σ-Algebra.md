@@ -1,14 +1,9 @@
----
-title: Spur-σ-Algebra
-type: example
----
-
 Sei $\mathcal{A}$ eine $\sigma$-[[zettel/σ-Algebra|Algebra]] auf $\Omega$, $B \subseteq \Omega$.
 
 Die *Spur-$\sigma$-Algebra* $\mathcal{A}_B$ von $\mathcal{A}$ auf $B$ ist definiert als
 
 $$
-	\mathcal{A}_B = \{ A \cap B, A \in \mathcal{A} \}
+	\mathcal{A}_B := \{ A \cap B, A \in \mathcal{A} \}
 $$
 
 ---
@@ -35,7 +30,7 @@ Das [[zettel/Maß|Maß]] $\mu_B$ ist ein [[zettel/Wahrscheinlichkeitsmaß|Wahrsc
 und ist definiert durch
 
 $$
-	\mu_B(C) = \frac{\mu(C)}{\mu(B)}
+	\mu_B(C) := \frac{\mu(C)}{\mu(B)}
 $$
 
 ---

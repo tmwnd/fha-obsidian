@@ -1,14 +1,9 @@
----
-title: τ-Integral
-type: definition
----
-
-Sei $\tau$ das [[zettel/τ-Maß|Zählmaß]], $f : \mathbb{N} \to \overline{\mathbb{R}}$ eine nicht-negative [[zettel/Funktion|Funktion]].
+Sei $\tau$ das [[zettel/Zählmaß|Zählmaß]], $f : \mathbb{N} \to \overline{\mathbb{R}}$ eine nicht-negative [[zettel/Funktion|Funktion]].
 
 Das *$\tau$-Integral* ist definiert als
 
 $$
-	\int f d\tau = \sum_{n \in \mathbb{N}} f(n)
+	\int f d\tau := \sum_{n \in \mathbb{N}} f(n)
 $$
 
 ---

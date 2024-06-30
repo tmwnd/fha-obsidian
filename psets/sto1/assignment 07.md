@@ -1,7 +1,3 @@
----
-type: assignment
----
-
 1. Die diskrete Verteilung des $\{ -1, 0, 1 \}^2$-wertigen $2$-dimensionalen Zufallsvektors $(X, Y)$ sei festgelegt durch die in der nachfolgenden Tabelle genannten Werte $p_{xy} = P(X = x, Y = y)$.
 	
 	$$

@@ -1,7 +1,3 @@
----
-type: assignment
----
-
 1. Eine Abbildung $\varphi : \mathbb{R}^n \to \mathbb{R}^n$ heißt *Bewegung des Raumes*, wenn
 	
 	$$

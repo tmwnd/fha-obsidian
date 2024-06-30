@@ -1,8 +1,3 @@
----
-title: Lemma 2.3.2
-type: lemma
----
-
 Jede [[zettel/Funktion/Additivität|additive]] nicht-negative [[zettel/Maß|Mengenfunktion]] $\mu$ auf einer $\sigma$-[[zettel/σ-Algebra|Algebra]] $\mathcal{A}$ ist [[zettel/Funktion/Monotonie|monoton]].
 
 ---

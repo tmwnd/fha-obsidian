@@ -1,8 +1,3 @@
----
-title: Monotone Funktion
-type: property
----
-
 Sei $A, B \in \mathcal{A}$ mit
 - $A \subseteq B$
 

@@ -1,8 +1,3 @@
----
-title: Norm auf Lp-Raum
-type: property
----
-
 Sei $1 \le p \in \mathbb{R}$, $\mathcal{L}^p$ ein $\mathcal{L}^p$-[[zettel/Lp-Raum|Raum]], $\|\cdot\|_p$ die [[zettel/Lp-Raum/Halbnorm|Halbnorm]] auf $\mathcal{L}^p$.
 
 $\|\cdot\|_p$ ist keine Norm, da

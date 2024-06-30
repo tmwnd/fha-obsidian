@@ -1,6 +1,1 @@
----
-title: Wahrscheinlichkeitsraum
-type: definition
----
-
 Ein Tripel $(\Omega, \mathcal{A}, P)$ aus der Menge $\Omega$, der $\sigma$-[[zettel/σ-Algebra|Algebra]] $\mathcal{A}$ und dem  [[zettel/Wahrscheinlichkeitsmaß|Wahrscheinlichkeitsmaß]] $P$ heißt *Wahrscheinlichkeitsraum*.

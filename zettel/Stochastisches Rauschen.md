@@ -1,8 +1,3 @@
----
-title: Stochastisches Rauschen
-type: definition
----
-
 Sei $f$ eine [[Target-Function|Target-Function]], $X, y$ ein [[Datensatz|Datensatz]], $\Omega$ ein Strafterm.
 
 Es wird von *stochastischem Rauschen* gesprochen, falls

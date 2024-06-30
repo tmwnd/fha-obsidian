@@ -1,8 +1,3 @@
----
-title: Satz von der stetigen Abbildung
-type: theorem
----
-
 Seien $d, m \in \mathbb{N}$, $\mathcal{L}$ die Borelsche $\sigma$-[[zettel/Borelsche σ-Algebra|Algebra]], $P, (P_n)_{n \in \mathbb{N}}$ [[zettel/Wahrscheinlichkeitsmaß|Wahrscheinlichkeitsmaße]] auf $(\mathbb{R}^d, \mathcal{L}^d)$, $f : (\mathbb{R}^d, \mathcal{L}^d) \to (\mathbb{R}^m, \mathcal{L}^m)$ mit
 - $P_n \to P$
 - $f$ $p$-f. ü. stetig

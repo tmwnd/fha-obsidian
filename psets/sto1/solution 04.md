@@ -1,7 +1,3 @@
----
-type: solution
----
-
 ![[psets/sto1/assignment 04#^1|assignment 04]]
 
 ---

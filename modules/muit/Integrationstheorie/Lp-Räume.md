@@ -1,8 +1,3 @@
----
-title: Lp-Räume
-type: subsection
----
-
 ![[zettel/Lp-Raum/Halbnorm|Halbnorm]]
 ![[zettel/Höldersche Ungleichung|Höldersche Ungleichung]]
 ![[zettel/Minkowskische Ungleichung|Minkowskische Ungleichung]]

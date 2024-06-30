@@ -1,7 +1,3 @@
----
-type: assignment
----
-
 1. Es sei $X$ eine reelle Zufallsvariable mit der Dichte
 	
 	$$
@@ -11,7 +7,7 @@ type: assignment
 		\end{cases}
 	$$
 	
-	Gesucht ist $\text{Var}(X)$.
+	Gesucht ist $\text{Var}[X]$.
 
 ^1
 

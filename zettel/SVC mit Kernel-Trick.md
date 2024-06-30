@@ -1,8 +1,3 @@
----
-title: SVC mit Kernel-Trick
-type: definition
----
-
 Sei $x, \hat{w} \in \mathbb{R}^n$, $H(\hat{w})$ eine [[zettel/Hyperebene|Hyperebene]], $g(x, \hat{w})$ die Funktion aus $H(w)$ mit
 
 $$

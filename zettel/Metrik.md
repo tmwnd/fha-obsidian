@@ -1,8 +1,3 @@
----
-title: Metrik
-type: definition
----
-
 Sei $X$ eine Menge.
 
 Die [[zettel/Funktion|Funktion]] $d : X \times X \to \mathbb{R}_0^+$ heißt *Metrik* auf $x$, falls

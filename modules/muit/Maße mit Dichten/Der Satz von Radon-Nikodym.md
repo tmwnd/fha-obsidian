@@ -1,5 +1,0 @@
----
-title: Der Satz von Radon-Nikodym
-type: subsection
----
-

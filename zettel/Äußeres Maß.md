@@ -1,8 +1,3 @@
----
-title: Äußeres Maß
-type: definition
----
-
 Sei $\Omega$ eine beliebige Menge, $\mu^* : \mathcal{P}(\Omega) \to [0, \infty]$.
 
 $\mu$ heißt *äußeres Maß* auf $\Omega$, falls
@@ -17,7 +12,7 @@ Sei $\mu^*$ ein äußeres Maß auf $\Omega$.
 Das System der $\mu^*$*-messbaren Mengen* $\mathcal{M_{\mu^*}}$ ist definiert als
 
 $$
-	\mathcal{M}_{\mu^*} = \{ M \subseteq \Omega \}
+	\mathcal{M}_{\mu^*} := \{ M \subseteq \Omega \}
 $$
 
 ---

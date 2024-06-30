@@ -1,8 +1,3 @@
----
-title: Subadditive Funktion
-type: property
----
-
 Sei $n \in \mathbb{N}$.
 
 Eine nicht-negative [[zettel/Funktion|Funktion]] $\mu : \mathcal{C} \to \overline{\mathbb{R}}_+$ heißt *(endlich) subadditiv*, falls

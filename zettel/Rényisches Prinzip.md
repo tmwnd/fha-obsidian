@@ -1,8 +1,3 @@
----
-title: Rényisches Prinzip
-type: definition
----
-
 Sei $n \in \mathbb{N}$, $(A_i)_{i \in \{ 1, \dots, n \}} \subseteq \Omega \ne \emptyset$, $(a_i)_{i \in \{ 1, \dots, n \}} \in \mathbb{R}$ und $\mathscr{P}_d$ die Menge der [[zettel/Wahrscheinlichkeitsmaß/Diskretes Wahrscheinlichkeitsmaß|diskreten]] [[zettel/Wahrscheinlichkeitsmaß|Wahrscheinlichkeitsmaße]] auf $(\Omega, \mathcal{P}(\Omega))$.
 
 Wir betrachten die Folgenden Aussagen

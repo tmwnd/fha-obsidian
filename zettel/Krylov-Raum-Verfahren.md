@@ -1,10 +1,3 @@
----
-title: Krylov-Raum-Verfahren
-type: definition
-aliases:
-  - ARPACK
----
-
 Sei $A \in \mathbb{R}^{m \times n}$ mit
 - $U\Sigma V^T$ die [[zettel/Singulärwertzerlegung|SVD]] von $A$
 

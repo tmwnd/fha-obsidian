@@ -1,10 +1,3 @@
----
-title: Conjugate Gradients for Least-Square
-type: definition
-aliases:
-  - CGLS
----
-
 Sei $X \in \mathbb{R}^{m \times n}, y \in \mathbb{R}^m$, $w^{(0)} \in \mathbb{R}^n$ mit
 - $\underbrace{X^TX}_Aw = \underbrace{X^Ty}_b$
 - $A$ ist [[zettel/Matrix/Symmetrisch positiv Definitheit|spd]]

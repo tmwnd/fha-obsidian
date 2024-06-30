@@ -1,8 +1,3 @@
----
-title: Orthonormalbasis
-type: definition
----
-
 Seien $(x_i)_{i \in \{ 1, \dots, n \}} \in \mathbb{R}^m$.
 
 $(x_i)_{i \in \{ 1, \dots, n \}}$ heißt *Orhonormalbasis*, falls

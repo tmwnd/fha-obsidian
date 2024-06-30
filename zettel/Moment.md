@@ -1,13 +1,14 @@
----
-title: Moment
-type: definition
----
-
 Sei $r \in \mathbb{N}$, $X$ eine reelle [[zettel/Zufallsvariable|Zufallsvariable]] mit
-- $E[|X|^r] \lt \infty$
+- $\text{E}[|X|^r] \lt \infty$
 
-Der *$r$-te endliche Moment* von $X$ ist definiert als
+Der *$r$-te absolute Moment* von $X$ ist definiert als
 
 $$
-	M_r = E[|X - E[X]|^r]
+	M_r := \text{E}[|X|^r]
+$$
+
+Der *$r$-te Moment* von $X$ ist definiert als
+
+$$
+	M_r := \text{E}[X^r]
 $$

@@ -1,8 +1,3 @@
----
-title: Lemma 4.2.1
-type: lemma
----
-
 Seien $((\Omega_i, \mathcal{A}_i))_{i \in \{ 1, 2 \}}$ [[zettel/Messraum|Messräume]] mit
 - $\Omega = \Omega_1 \times \Omega_2$
 - $\mathcal{A} = \mathcal{A}_1 \otimes \mathcal{A}_2$ die Produkt-$\sigma$-[[zettel/Produkt-σ-Algebra|Algebra]] auf $((\Omega_i, \mathcal{A}_i))_{i \in \{ 1, 2 \}}$
@@ -32,5 +27,5 @@ Sie $\mu_1$ ein [[zettel/Maß|Maß]] auf $\mathcal{A}_1$, $\mu_2$ ein [[zettel/M
 $\tilde{\mu}$ ist definiert als
 
 $$
-	\tilde{\mu}(S) = \mu_1(A_1) \times \mu_2(A_2)
+	\tilde{\mu}(S) := \mu_1(A_1) \times \mu_2(A_2)
 $$

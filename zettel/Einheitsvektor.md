@@ -1,12 +1,7 @@
----
-title: Einheitsvektor
-type: definition
----
-
 Der $i$-te Einheitsvektor des $\mathbb{R}^n$ ist definiert als
 
 $$
-	e_i = (a_k)_{k \in \{ 1, \dots, n \}}^T
+	e_i := (a_k)_{k \in \{ 1, \dots, n \}}^T
 $$
 
 mit

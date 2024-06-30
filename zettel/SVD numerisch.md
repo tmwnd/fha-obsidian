@@ -1,8 +1,3 @@
----
-title: SVD numerisch
-type: definition
----
-
 Sei $X \in \mathbb{R}^{m \times n}$.
 
 Zerlege $X$, sodass

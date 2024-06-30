@@ -1,8 +1,3 @@
----
-title: Satz 6.5
-type: theorem
----
-
 Sei $(\Omega, \mathcal{A}, P)$ ein [[zettel/Wahrscheinlichkeitsraum|Wahrscheinlichkeitsraum]], $X, (X_n)_{n \in \mathbb{N}}$ $d$-dimensionale [[zettel/Zufallsvariable|Zufallsvektoren]], $c \in \mathbb{R}^d$ mit
 - $P(X = c) = 1$
 

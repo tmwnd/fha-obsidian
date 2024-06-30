@@ -1,8 +1,3 @@
----
-title: Grundlagen und Vorbereitungen
-type: section
----
-
 ![[zettel/Potenzmenge|Potenzmenge]]
 ![[zettel/Mengensystem|Mengensystem]]
 ![[zettel/Indexmenge|Indexmenge]]

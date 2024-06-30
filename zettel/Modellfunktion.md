@@ -1,8 +1,3 @@
----
-title: Modellfunktion
-type: definition
----
-
 Seien $(x_i, y_i)_{i \in \{ 1, \dots, m \}}$ Datenpaare, $w \in \mathbb{R}^n$.
 
 Die *Modellfunktion* $g$ ist definiert als

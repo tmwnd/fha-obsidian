@@ -1,14 +1,9 @@
----
-title: Fourier-Transformierte
-type: definition
----
-
 Sei $(\Omega, \mathcal{A}, P)$ ein [[zettel/Wahrscheinlichkeitsraum|Wahrscheinlichkeitsraum]], $X$ ein $d$-dimensionaler [[zettel/Zufallsvariable|Zufallsvektor]] auf $(\Omega, \mathcal{A}, P)$, $z \in \mathbb{R}^d$.
 
 Die Funktione $\varphi_X : \mathbb{R}^d \to \mathbb{C}$ heißt *Fourier-Transformierte* von $X$ bzw. $P^X$ und ist definiert als
 
 $$
-	\varphi_X(z) = E[e^{iz^TX}]
+	\varphi_X(z) := \text{E}[e^{iz^TX}]
 $$
 
 ---
@@ -33,5 +28,5 @@ Sei $n \in \mathbb{N}$, $(X_n)_{n \in \{ 1, \dots, n \}}$ [[zettel/Zufallsvariab
 Die Fourier-Transformierte $\varphi_x$ ist definiert als
 
 $$
-	\varphi_X(z) = \prod_{i=1}^n \varphi_i(z)
+	\varphi_X(z) := \prod_{i=1}^n \varphi_i(z)
 $$

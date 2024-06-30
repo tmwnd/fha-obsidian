@@ -1,8 +1,3 @@
----
-title: Maßtheoretische Grundlagen
-type: subsection
----
-
 ![[zettel/Rechenregeln Unendlich|Rechenregeln Unendlich]]
 ![[zettel/Ring|Ring]]
 ![[zettel/Algebra|Algebra]]

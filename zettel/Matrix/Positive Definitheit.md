@@ -1,8 +1,3 @@
----
-title: Postiv definite Matrix
-type: property
----
-
 Sei $A \in \mathbb{R}^{n \times n}$.
 
 $A$ heißt *positiv definit*, falls

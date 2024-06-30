@@ -1,10 +1,3 @@
----
-title: Lebesgue-Borelsches Maß
-type: example
----
-
-TODO stiejltjes
-
 Das zu $F(x) = x, x \in \mathbb{R}$ gehörende [[zettel/Maß|Maß]] $\lambda$ heißt *Lebesgue-Borelsches Maß* auf der Borelschen $\sigma$-[[zettel/Borelsche σ-Algebra|Algebra]] $\mathcal{L}$
 
 Es gilt
@@ -30,7 +23,7 @@ Sei $-\infty \lt a \le b \lt +\infty$, $x \in \mathbb{R}$, $f : [a, b] \to \math
 Die [[zettel/Verteilungsfunktion|Verteilungsfunktion]] $F : \mathbb{R} \to \mathbb{R}$ eines [[zettel/Wahrscheinlichkeitsmaß|Wahrscheinlichkeitsmaßes]] $P$ auf der Borelschen $\sigma$-[[zettel/Borelsche σ-Algebra|Algebra]] $\mathcal{L}$ ist definiert als
 
 $$
-	F(x) = \begin{cases}
+	F(x):= \begin{cases}
 		0, & x \le a \\
 		\int_a^x f(t) dt, & a \lt x \le b \\
 		1, & x \gt b
@@ -45,7 +38,7 @@ Sei $x \in \mathbb{R}$, $f : \mathbb{R} \to \mathbb{R}_+$ eine uneigentlich Riem
 Die [[zettel/Verteilungsfunktion|Verteilungsfunktion]] $F : \mathbb{R} \to \mathbb{R}$ eines [[zettel/Wahrscheinlichkeitsmaß|Wahrscheinlichkeitsmaßes]] $P$ auf der Borelschen $\sigma$-[[zettel/Borelsche σ-Algebra|Algebra]] $\mathcal{L}$ ist definiert als
 
 $$
-	F(x) = \int_{-\infty}^x f(t) dtcd
+	F(x) := \int_{-\infty}^x f(t) dtcd
 $$
 
 ---

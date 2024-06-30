@@ -1,8 +1,3 @@
----
-title: Hyperebene
-type: definition
----
-
 Sei $x, v \in \mathbb{R}^m \setminus \{ 0 \}$, $v_0 \in \mathbb{R}$ mit
 - $w = (v, v_0)$
 - $g(x, w) = v^Tx - v_0$
@@ -10,7 +5,7 @@ Sei $x, v \in \mathbb{R}^m \setminus \{ 0 \}$, $v_0 \in \mathbb{R}$ mit
 Eine *Hyperebene* $H$ ist definiert als
 
 $$
-	H(w) = \{ x \in \mathbb{R}^m \mid g(x, w) = 0 \}
+	H(w) := \{ x \in \mathbb{R}^m \mid g(x, w) = 0 \}
 $$
 
 Es gilt

@@ -1,7 +1,3 @@
----
-type: assignment
----
-
 1. Sei $f : (X, \mathcal{A}) \to Y$ eine Abbildung aus dem messbaren Raum $(X, \mathcal{A})$.
 	Zeigen Sie, dass dann durch
 	

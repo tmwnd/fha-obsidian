@@ -1,5 +1,0 @@
----
-title: Anwendungen
-type: subsection
----
-

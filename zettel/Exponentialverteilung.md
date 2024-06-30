@@ -1,12 +1,7 @@
----
-title: Exponentialverteilung
-type: example
----
-
 Sei $\mu \in (0, \infty)$, $t \gt 0$ und die $\lambda$-[[zettel/λ-Dichte|Dichte]] $e_\lambda$ definiert als
 
 $$
-	e_\lambda(t) = \lambda e^{-\lambda t}
+	e_\lambda(t) := \lambda e^{-\lambda t}
 $$
 
 Sei $x \in \mathbb{R}$.
@@ -28,5 +23,5 @@ Schreibe
 Sei $X \sim \text{Exp}(\lambda)$ eine [[zettel/Zufallsvariable|Zufallsvariable]].
 
 Es gilt
-- Der [[zettel/Erwartungswert|Erwartungswert]] von $X$ ist $E[X] = \frac{1}{\lambda}$
-- Die [[zettel/Varianz|Varianz]] von $X$ ist $\text{Var}(X) = \frac{1}{\lambda^2}$
+- $\text{E}[X] = \frac{1}{\lambda}$
+- $\text{Var}[X] = \frac{1}{\lambda^2}$

@@ -1,8 +1,3 @@
----
-title: Translationsinvariante σ-Algebra
-type: property
----
-
 Sei $\mathcal{A}$ eine $\sigma$-[[zettel/σ-Algebra|Algebra]] auf $\Omega$.
 
 $\mathcal{A}$ ist *translationsinvariant*, falls

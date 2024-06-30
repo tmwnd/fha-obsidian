@@ -1,8 +1,3 @@
----
-title: Konvergenzsätze
-type: subsection
----
-
 ![[zettel/Satze der monotonen Konvergenz|Satze der monotonen Konvergenz]]
 ![[zettel/_corollaries/Korollar 3.5|Korollar 3.5]]
 ![[zettel/Lemma von Fatou|Lemma von Fatou]]
@@ -15,6 +10,6 @@ type: subsection
 ![[zettel/υ-Integral|υ-Integral]]
 ![[zettel/Transformationssatz für Integrale|Transformationssatz für Integrale]]
 ![[zettel/δ-a-Integral|δ-a-Integral]]
-![[zettel/τ-Integral|τ-Integral]]
+![[zettel/Zählmaß-Integral|Zählmaß-Integral]]
 ![[zettel/λ-a-b-Integral|λ-a-b-Integral]]
 ![[zettel/λ-Integral|λ-Integral]]
