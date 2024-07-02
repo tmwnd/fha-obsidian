@@ -47,4 +47,4 @@ Es gilt für die Spur-$\sigma$-[[zettel/Spur-σ-Algebra|Algebra]] $\overline{\ma
 
 ---
 
-Die Borelsche $\sigma$-[[zettel/σ-Algebra|Algebra]] ist [[sigma-Algebra Invarianzen|translations-]] und [[sigma-Algebra Invarianzen|spiegelungsinvariant]].
+Die Borelsche $\sigma$-[[zettel/σ-Algebra|Algebra]] ist [[zettel/σ-Algebra Invarianzen|translations-]] und [[zettel/σ-Algebra Invarianzen|spiegelungsinvariant]].

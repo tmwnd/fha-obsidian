@@ -102,7 +102,7 @@ Sei $X \sim \mathcal{N}(0, 1)$, $s \in \mathbb{R}$ mit
 - $\mu := \text{E}[X]$
 - $\sigma^2 := \text{Var}[X]$
 
-Die [[zettel/Momentenerzeugende Funktion|momentenerzeugende Funktion]] $M_X(s)$ ist definiert als
+Die [[zettel/Momenterzeugende Funktion|momentenerzeugende Funktion]] $M_X(s)$ ist definiert als
 
 $$
 	M_X(s) = \text{E}\left[ e^{sX} \right] = e^{\mu s + \frac{\sigma^2}{2}s^2}
