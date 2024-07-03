@@ -1,1 +1,1 @@
-![[zettel/Satze der monotonen Konvergenz|Satze der monotonen Konvergenz]]
+![[zettel/Satz der monotonen Konvergenz|Satz der monotonen Konvergenz]]

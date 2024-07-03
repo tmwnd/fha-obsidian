@@ -1,4 +1,4 @@
-![[zettel/Satze der monotonen Konvergenz|Satze der monotonen Konvergenz]]
+![[zettel/Satz der monotonen Konvergenz|Satz der monotonen Konvergenz]]
 ![[zettel/_corollaries/Korollar 3.5|Korollar 3.5]]
 ![[zettel/Lemma von Fatou|Lemma von Fatou]]
 ![[zettel/Satz der majorisierten Konvergenz|Satz der majorisierten Konvergenz]]
