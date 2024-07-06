@@ -18,4 +18,4 @@ $\xi_p$ ist eindeutig bestimmt, falls die [[zettel/Verteilungsfunktion|Verteilun
 
 ---
 
-Ein $\frac{1}{2}$-Quantil heißt *Median* von $X$.
+Das $\frac{1}{2}$-Quantil heißt *Median* von $X$.

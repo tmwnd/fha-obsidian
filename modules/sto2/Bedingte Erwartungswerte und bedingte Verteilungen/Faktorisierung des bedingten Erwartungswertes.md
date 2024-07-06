@@ -1,1 +1,6 @@
 ![[zettel/Faktorisierung des bedingten Erwartungswertes|Faktorisierung des bedingten Erwartungswertes]]
+![[zettel/Stochastischer Prozess|Stochastischer Prozess]]
+![[zettel/Filtration|Filtration]]
+![[zettel/Natürliche Filtration|Natürliche Filtration]]
+![[zettel/_edges/Adaption Stochastischer Prozess Filtration|Adaption Stochastischer Prozess Filtration]]
+![[zettel/Martingal|Martingal]]
