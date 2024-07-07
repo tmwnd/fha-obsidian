@@ -1,2 +1,7 @@
 ![[zettel/Copula|Copula]]
 ![[zettel/Satz von Sklar|Satz von Sklar]]
+![[zettel/Approximation von bedingten Verteilungen|Approximation von bedingten Verteilungen]]
+![[zettel/Approximation von bedingten Erwartungswerten|Approximation von bedingten Erwartungswerten]]
+![[zettel/Value at Risk zum Niveau γ|Value at Risk zum Niveau γ]]
+![[zettel/Wurzelformel|Wurzelformel]]
+![[zettel/Standardformel|Standardformel]]
