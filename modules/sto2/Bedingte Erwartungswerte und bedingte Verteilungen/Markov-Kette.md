@@ -1,0 +1,5 @@
+![[zettel/Markov-Eigenschaft|Markov-Eigenschaft]]
+![[zettel/Markov-Kette|Markov-Kette]]
+![[zettel/Markov-Kette/Homogenität|Homogenität]]
+![[zettel/Stoppzeit|Stoppzeit]]
+![[zettel/Starke Markoveigenschaft|Starke Markoveigenschaft]]

@@ -2,7 +2,7 @@ Sei $(\Omega, \mathcal{A}, P)$ ein [[zettel/Wahrscheinlichkeitsraum|Wahrscheinli
 - $\int X^+ dP \lt \infty$ oder
 - $\int X^- dP \lt \infty$
 
-Der *Erwartungswert* von $X$ bzw. $P^X$ ist mit dem $P$-[[zettel/P-Integral|Integral]] definiert als
+Der *Erwartungswert* von $X$ bzw. $P^X$ ist definiert als
 
 $$
 	\text{E}[X] := \int X dP = \int X^+ dP - \int X^- dP

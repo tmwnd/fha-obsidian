@@ -1,0 +1,1 @@
+Eine um $0$ symmetrische [[zettel/μ-Dichte|μ-Dichte]] heißt *Kern*.
