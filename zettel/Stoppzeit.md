@@ -1,7 +1,7 @@
-Sei $(\mathcal{F}_n)_{n \in \mathbb{N}}$ eine [[zettel/Filtration|Filtration]] von $\mathcal{A}$, $\tau : \Omega \to \overline{\mathbb{N}}_0$ eine [[zettel/Funktion|Funktion]].
+Sei $(\mathcal{F}_t)_{t \in T}$ eine [[zettel/Filtration|Filtration]], $\tau : \Omega \to \overline{\mathbb{N}}_0$ eine [[zettel/Zufallsvariable|Zufallsvariable]].
 
-$\tau$ heißt *Stoppzeit* bezüglich $(\mathcal{F}_n)_{n \in \mathbb{N}}$, falls
+$\tau$ heißt *Stoppzeit* bezüglich $(\mathcal{F}_t)_{t \in T}$, falls
 
 $$
-	\forall n \in \mathbb{N} : \{ \tau \le n \} \in \mathcal{F}_n
+	\forall t \in T : \{ \tau \le t \} \in \mathcal{F}_t
 $$
