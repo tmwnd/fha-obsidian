@@ -3,7 +3,7 @@ Sei $X : [0, \overline{T}] \to \mathbb{R}$ stetig und mit stetiger [[zettel/Quad
 Das *Itô-Integral* ist definiert als
 
 $$
-	\forall t \in [0, \overline{T}] : \int_0^t F'(X_s) dX_s := \lim_{n \to \infty} \sum_{t_i \in \tau_n, t_i \le t} F'(X_{t_{i-1}})(X_{t_i} - X_{t_{i-1}})
+	\forall t \in [0, \overline{T}] : I_t := \int_0^t F'(X_s) dX_s := \lim_{n \to \infty} \sum_{t_i \in \tau_n, t_i \le t} F'(X_{t_{i-1}})(X_{t_i} - X_{t_{i-1}})
 $$
 
 Es gilt
