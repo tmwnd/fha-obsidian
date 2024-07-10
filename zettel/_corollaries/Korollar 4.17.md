@@ -1,0 +1,1 @@
+Die [[zettel/Stochastischer Prozess/Pfad|Pfade]] eines [[zettel/Wiener Prozess|Wiener Prozesses]] sind von endlicher [[zettel/Erste Variation|erster Variation]].

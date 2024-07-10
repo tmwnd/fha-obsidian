@@ -2,4 +2,4 @@
 ![[zettel/Stochastischer Prozess/Stationäre und normalverteilte Inkremente|Stationäre und normalverteilte Inkremente]]
 ![[zettel/Wiener Prozess|Wiener Prozess]]
 ![[zettel/Mehrdimensionaler Wiener Prozess|Mehrdimensionaler Wiener Prozess]]
-![[zettel/_lemmas/Lemma 4.10|Lemma 4.10]]
+![[zettel/_propositions/Proposition 4.10|Proposition 4.10]]
