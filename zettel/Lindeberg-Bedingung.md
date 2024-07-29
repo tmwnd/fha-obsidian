@@ -7,5 +7,5 @@ Sei $(X_{n, l})_{l \in \{ 1, \dots, k_n \}, n \in \mathbb{N}}$ ein [[zettel/Sche
 Die *Lindeberg-Bedingung* ist erfüllt, falls
 
 $$
-	\forall \epsilon \gt 0 : \lim_{n \to \infty} \frac{1}{s_n^2} \sum_{l=1}^{k_n} \text{E}[|X_{n, l}|^2 I(|X_{n, l}| \gt s_n\epsilon)] = 0
+	\forall \epsilon \gt 0 : \lim_{n \to \infty} \frac{1}{s_n^2} \sum_{l=1}^{k_n} \text{E}[X_{n, l}^2 I(|X_{n, l}| \gt s_n\epsilon)] = 0
 $$

@@ -10,5 +10,5 @@ und für $P^Y$-fast alle $y \in \mathbb{R}^d$
 Die *bedingte Dichteformel* gilt für die zugehörige [[zettel/μ-Dichte|μ-Dichte]] und ist definiert als
 
 $$
-	\forall x \in \mathbb{R}^p : f_{X \mid Y=y}(x) \frac{f_{(X, Y)}(x, y)}{f_Y(y)}
+	\forall x \in \mathbb{R}^p : f_{X \mid Y=y}(x) = \frac{f_{(X, Y)}(x, y)}{f_Y(y)}
 $$

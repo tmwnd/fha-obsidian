@@ -4,4 +4,4 @@ Seien $(X_n)_{n \in \mathbb{N}}$, $X$ reelle [[zettel/Zufallsvariable|Zufallsvar
 
 Es gilt
 - $\forall j \in \mathbb{N} : \text{E}\left[ |X|^j \right] \lt \infty$
-- $\forall j \in \mathbb{N} : \lim_{n \to \infty} \text{E}\left[ |X_n^j \right] = \text{E}\left[ |X|^j \right]$
+- $\forall j \in \mathbb{N} : \lim_{n \to \infty} \text{E}\left[ |X_n|^j \right] = \text{E}\left[ |X|^j \right]$

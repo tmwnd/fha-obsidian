@@ -1,0 +1,1 @@
+![[modules/stat1/Konfidenzbereichsschätzer/Konfidenzbereiche bei Normalverteilung|Konfidenzbereiche bei Normalverteilung]]
