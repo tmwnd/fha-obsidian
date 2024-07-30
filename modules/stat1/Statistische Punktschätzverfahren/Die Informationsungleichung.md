@@ -8,3 +8,7 @@
 ![[zettel/Schätzer/Varianz|Varianz]]
 ![[zettel/Informationsmatrix|Informationsmatrix]]
 ![[zettel/Cramér-Rao-Ungleichung|Cramér-Rao-Ungleichung]]
+![[zettel/_edges/Cramér-Rao-Ungleichung Erwartungstreue|Cramér-Rao-Ungleichung Erwartungstreue]]
+![[zettel/Gleichmäßig beste erwartungstreue Schätzfunktion|Gleichmäßig beste erwartungstreue Schätzfunktion]]
+![[zettel/Kovarianzmethode von Rao|Kovarianzmethode von Rao]]
+![[zettel/Eindeutigkeitssatz für gleichmäßig beste erwartungstreue Schätzer|Eindeutigkeitssatz für gleichmäßig beste erwartungstreue Schätzer]]
