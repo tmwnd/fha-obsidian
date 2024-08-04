@@ -1,6 +1,6 @@
 ![[zettel/Einparametrische Exponentialfamilie|Einparametrische Exponentialfamilie]]
-![[zettel/Familie der Exponentialverteilungen|Familie der Exponentialverteilungen]]
-![[zettel/Familie der Normalverteilungen|Familie der Normalverteilungen]]
-![[zettel/Familie der Binomialverteilungen|Familie der Binomialverteilungen]]
-TODO Multivariat
-TODO Momentenschätzer
+![[zettel/Einparametrische Familie der Exponentialverteilungen|Einparametrische Familie der Exponentialverteilungen]]
+![[zettel/Einparametrische Familie der Normalverteilungen|Einparametrische Familie der Normalverteilungen]]
+![[zettel/Einparametrische Familie der Binomialverteilungen|Einparametrische Familie der Binomialverteilungen]]
+![[zettel/Mehrparametrische Exponentialfamilie|Mehrparametrische Exponentialfamilie]]
+![[zettel/Mehrparametrische Familie der Normalverteilungen|Mehrparametrische Familie der Normalverteilungen]]

@@ -1,4 +1,4 @@
-Sei $\mu \in (0, \infty)$, $t \gt 0$ und die $\lambda$-[[zettel/λ-Dichte|Dichte]] $e_\lambda$ definiert als
+Sei $\lambda \in (0, \infty)$, $t \gt 0$ und die $\lambda$-[[zettel/λ-Dichte|Dichte]] $e_\lambda$ definiert als
 
 $$
 	e_\lambda(t) := \lambda e^{-\lambda t}
