@@ -2,3 +2,6 @@
 ![[zettel/Likelihood-Gleichungen|Likelihood-Gleichungen]]
 ![[zettel/_examples/Maximum-Likelihood-Schätzer Laplaceverteilung|Maximum-Likelihood-Schätzer Laplaceverteilung]]
 ![[zettel/_examples/Maximum-Likelihood-Schätzer Logistische Verteilung|Maximum-Likelihood-Schätzer Logistische Verteilung]]
+![[zettel/Maximum-Likelihood-Schätzer Normalverteilung|Maximum-Likelihood-Schätzer Normalverteilung]]
+![[zettel/Existenz des Maximum-Likelihood-Schätzers|Existenz des Maximum-Likelihood-Schätzers]]
+![[zettel/_lemmas/Lemma 1.16|Lemma 1.16]]
