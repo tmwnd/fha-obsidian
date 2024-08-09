@@ -4,20 +4,7 @@ Seien $X = (X_i)_{i \in \{ 1, \dots, n \}} : (\Omega, \mathcal{A}) \to (R, \math
 - $\forall \vartheta_1, \vartheta_2 \in \Theta, \vartheta_1 \ne \vartheta_2 : P_{\vartheta_1}^{X_1} \ne P_{\vartheta_2}^{X_1}$
 - $A := \{ x \in R \mid f(x, \vartheta) \gt 0 \}$ unabhängig von $\vartheta \in \Theta$
 - $\forall x \in \mathcal{A} : \vartheta \mapsto f(x, \vartheta) \in C^1 \mid \vartheta \in \Theta$
-- $\forall n \in \mathbb{N}, (x_i)_{i \in \{ 1, \dots, n \}} \in \mathcal{A}$ haben die [[zettel/Likelihood-Gleichungen|Likelihood-Gleichungen]] exakt eine Lösung in $\Theta$
-
-Es existiert die [[zettel/Maximum-Likelihood-Schätzfunktion|Maximum-Likelihood-Schätzfunktion]] $\hat{\vartheta}_n : (R^n, \mathscr{S}^n) \to (\Theta, \mathcal{L}_\Theta)$ mit
-
-$$
-	\forall (x_i)_{i \in \{ 1, \dots, n \}} : 0 = \left. \sum_{i=1}^n \log(f(x, \vartheta)) \right|_{\vartheta=\vartheta_n((x_i)_{i \in \{ 1, \dots, n \}})}
-$$
 
 Es gilt
-- $\hat{\vartheta}_n((x_i)_{i \in \{ 1, \dots, n \}})$ ist [[zettel/Schätzer/Starke Konsistenz|stark konsistent]]
-- $\forall \vartheta \in \Theta : \hat{\vartheta}_n((X_i(\omega))_{i \in \{ 1, \dots, n \}}) \in \Omega$ für $P_\vartheta$-f. a. $\omega \in \Omega$
-
-und für genügend große $n \in \mathbb{N}$
-
-$$
-	\prod_{i=1}^n f(X_i(\omega), (\hat{\vartheta}((X_j(\omega))_{j \in \{ 1, \dots, n \}}))) = \sup_{\vartheta \in \Theta} \prod_{i=1}^n f(X_i(\omega), \vartheta)
-$$
+- $\forall \omega \in N^\complement : \left. \sum_{i=0}^n \frac{d}{d\vartheta} \log(f(X_i(\omega), \vartheta)) \right|_{\vartheta=\vartheta_n(\omega)} = 0$
+- $\forall \omega \in N^\complement : \lim_{n \to \infty} \vartheta_n(\omega) = \vartheta_0$
