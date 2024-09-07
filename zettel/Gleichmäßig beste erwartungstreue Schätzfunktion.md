@@ -1,4 +1,4 @@
-Sei $d^* : (\mathbb{R}, \mathscr{S}) \to (\mathbb{R}, \mathcal{L})$ eine erwartungstreue [[zettel/Schätzfunktion|Schätzfunktion]] für $\delta(\vartheta)$ mit
+Sei $d^* : (\mathbb{R}, \mathscr{S}) \to (\mathbb{R}, \mathscr{B})$ eine erwartungstreue [[zettel/Schätzfunktion|Schätzfunktion]] für $\delta(\vartheta)$ mit
 - $\text{E}_\vartheta[d^*(X)^2] \lt \infty$
 - $\delta : \Theta \to \mathbb{R}$ partiell differenzierbar
 - $m = 1$
@@ -6,7 +6,7 @@ Sei $d^* : (\mathbb{R}, \mathscr{S}) \to (\mathbb{R}, \mathcal{L})$ eine erwartu
 $d^*$ heißt *gleichmäßig beste erwartungstreue Schätzfunktion*, falls
 
 $$
-	\forall d : (R, \mathscr{S}) \to (\mathbb{R}, \mathcal{L}), \text{E}_\vartheta[d(X)^2] \lt \infty : \text{Var}_\vartheta[d^*(X)] \le \text{Var}_\vartheta[d(X)]
+	\forall d : (R, \mathscr{S}) \to (\mathbb{R}, \mathscr{B}), \text{E}_\vartheta[d(X)^2] \lt \infty : \text{Var}_\vartheta[d^*(X)] \le \text{Var}_\vartheta[d(X)]
 $$
 
 Es gilt

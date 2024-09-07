@@ -8,9 +8,9 @@ Seien $X = (X_i)_{i \in \{ 1, \dots, n \}} : (\Omega, \mathcal{A}) \to (R, \math
 - $\forall \vartheta \in \Theta : \int \frac{d^2}{d\vartheta^2} f(x, \vartheta) d\mu(x) = 0$
 - $\forall \vartheta \in \Theta : 0 \lt i_{X_1}(\vartheta) \lt \infty$
 - $\forall \vartheta_0 \in \Theta, \exists \delta \gt 0 : (\vartheta_0 - \delta, \vartheta_0 + \delta) \subseteq \Theta$ 
-- $\forall \vartheta_0 \in \Theta, \exists M : (R, \mathscr{S}) \to (\mathbb{R}, \mathcal{L}), \forall x \in A, \vartheta \in (\vartheta_0 - \delta, \vartheta_0 + \delta) : \text{E}_{\vartheta_0}[M(x)] \lt \infty$
-- $\forall \vartheta_0 \in \Theta, \exists M : (R, \mathscr{S}) \to (\mathbb{R}, \mathcal{L}), \forall x \in A, \vartheta \in (\vartheta_0 - \delta, \vartheta_0 + \delta) : \left| \frac{d^2}{d\vartheta^2} \log(f(x, \vartheta)) \right| \le M(x)$
-- $\forall n \in \mathbb{N} : \hat{\vartheta}_n : (R^n, \mathscr{S}^n) \to (\Theta, \mathcal{L}_\Theta)$
+- $\forall \vartheta_0 \in \Theta, \exists M : (R, \mathscr{S}) \to (\mathbb{R}, \mathscr{B}), \forall x \in A, \vartheta \in (\vartheta_0 - \delta, \vartheta_0 + \delta) : \text{E}_{\vartheta_0}[M(x)] \lt \infty$
+- $\forall \vartheta_0 \in \Theta, \exists M : (R, \mathscr{S}) \to (\mathbb{R}, \mathscr{B}), \forall x \in A, \vartheta \in (\vartheta_0 - \delta, \vartheta_0 + \delta) : \left| \frac{d^2}{d\vartheta^2} \log(f(x, \vartheta)) \right| \le M(x)$
+- $\forall n \in \mathbb{N} : \hat{\vartheta}_n : (R^n, \mathscr{S}^n) \to (\Theta, \mathscr{B}_\Theta)$
 - $\forall \vartheta \in \Theta : \hat{\vartheta}_n((X_i)_{i \in \{ 1, \dots, n \}}) \overset{P_\vartheta}{\longrightarrow} \vartheta$
 - $\forall \vartheta \in \Theta : \frac{1}{\sqrt{n}} \sum_{i=1}^n \left. \frac{d}{d\vartheta} \log(f(X_i, \vartheta)) \right|_{\vartheta=\hat{\vartheta}((X_i)_{i \in \{ 1, \dots, n \}})} \overset{P_\vartheta}{\longrightarrow} 0$
 

@@ -8,7 +8,7 @@ $$
 
 ---
 
-Sei $d \in \mathbb{D}$, $C \subseteq \mathbb{R}^d$ nicht leer, $\mathcal{L}^d$ die Borelsche $\sigma$-[[zettel/Borelsche σ-Algebra|Algebra]] , $P$ ein [[zettel/Wahrscheinlichkeitsmaß|Wahrscheinlichkeitsmaß]] auf $(\mathbb{R}^d, \mathcal{L}^d)$, $d_C : \mathbb{R}^d \to \mathbb{R}$ eine gleichmäßig stetige [[zettel/Funktion|Funktion]], $x  \in \mathbb{R}^d$ mit
+Sei $d \in \mathbb{D}$, $C \subseteq \mathbb{R}^d$ nicht leer, $\mathscr{B}^d$ die Borelsche $\sigma$-[[zettel/Borelsche σ-Algebra|Algebra]] , $P$ ein [[zettel/Wahrscheinlichkeitsmaß|Wahrscheinlichkeitsmaß]] auf $(\mathbb{R}^d, \mathscr{B}^d)$, $d_C : \mathbb{R}^d \to \mathbb{R}$ eine gleichmäßig stetige [[zettel/Funktion|Funktion]], $x  \in \mathbb{R}^d$ mit
 
 $$
 	d_C(x) = \inf \{ |x - y|, y \in C \}

@@ -25,4 +25,4 @@ Der Maximum-Likelihood-Schätzer für $(\mu, \sigma^2)$ ist
 
 mit
 - $\hat{\mu}(X) = \frac{1}{n} \sum_{i=1}^n x_i$
-- $\hat{\sigma}^2 =  \frac{1}{n} \sum_{i=1}^n (x_i - \hat{\mu}(X))^2$
+- $\hat{\sigma}^2(X) =  \frac{1}{n} \sum_{i=1}^n (x_i - \hat{\mu}(X))^2$

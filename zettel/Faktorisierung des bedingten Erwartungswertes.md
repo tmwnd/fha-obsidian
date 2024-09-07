@@ -1,4 +1,4 @@
-Sei $X : (\Omega, \mathcal{A}) \to (\mathbb{R}, \mathcal{L})$ eine [[zettel/Zufallsvariable|Zufallsvariable]], $Y : (\Omega, \mathcal{A}) \to (\mathbb{R}^d, \mathcal{L}^d)$ ein [[zettel/Zufallsvariable|Zufallsvektor]] mit
+Sei $X : (\Omega, \mathcal{A}) \to (\mathbb{R}, \mathscr{B})$ eine [[zettel/Zufallsvariable|Zufallsvariable]], $Y : (\Omega, \mathcal{A}) \to (\mathbb{R}^d, \mathscr{B}^d)$ ein [[zettel/Zufallsvariable|Zufallsvektor]] mit
 - $\text{E}[|X|] \lt \infty$
 
 Die *faktorisierung des [[zettel/Bedingter Erwartungswert|bedingten Erwartungswertes]]* $g$ von $X$ unter $Y$ ist definiert als

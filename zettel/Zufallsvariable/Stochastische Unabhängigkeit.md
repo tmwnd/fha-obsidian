@@ -33,7 +33,7 @@ Sei $(\Omega, \mathcal{A}, P)$ ein [[zettel/Wahrscheinlichkeitsraum|Wahrscheinli
 - $R = \prod_{i=1}^n R_i$
 - $\mathscr{S} = \bigotimes_{i=1}^n \mathscr{S}_i$ eine Produkt-$\sigma$-[[zettel/Produkt-σ-Algebra|Algebra]] auf $((R_i, \mathscr{S}_i))_{i \in \{ 1, \dots, n \}}$
 - $\mu = \bigotimes_{i=1}^n \mu_i$ das [[zettel/Produktmaß|Produktmaß]] von $\mu_1, \dots, \mu_2$
-- $\forall i \in \{ 1, \dots, n \} : f_i : (R_i, \mathscr{S}_i) \to (\mathbb{R}, \mathcal{L})$ [[zettel/Funktion/Messbarkeit|messbar]]
+- $\forall i \in \{ 1, \dots, n \} : f_i : (R_i, \mathscr{S}_i) \to (\mathbb{R}, \mathscr{B})$ [[zettel/Funktion/Messbarkeit|messbar]]
 - $\forall i \in \{ 1, \dots, n \} : \int f_i d\mu_1 = 1$
 - $(x_1, \dots, x_n) \in R$
 - $f : R \to R$ ist definiert als
@@ -42,7 +42,7 @@ Sei $(\Omega, \mathcal{A}, P)$ ein [[zettel/Wahrscheinlichkeitsraum|Wahrscheinli
   f(x_1, \dots, x_n) := \prod_{i=1}^n f_i(x_i)
   $$
   
-- $f$ ist $(\mathscr{S}, \mathcal{L})$ [[zettel/Funktion/Messbarkeit|messbar]]
+- $f$ ist $(\mathscr{S}, \mathscr{B})$ [[zettel/Funktion/Messbarkeit|messbar]]
 - $\int f d\mu = 1$
 
 $(X_i)_{i \in \{ 1, \dots, n \}}$ sind unabhängig, falls

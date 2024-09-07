@@ -1,4 +1,4 @@
-Seien $f, g : (\Omega, \mathcal{A}) \to (\overline{\mathbb{R}}, \overline{\mathcal{L}})$ [[zettel/Funktion/Messbarkeit|messbare]] [[zettel/Funktion|Funktionen]].
+Seien $f, g : (\Omega, \mathcal{A}) \to (\overline{\mathbb{R}}, \overline{\mathscr{B}})$ [[zettel/Funktion/Messbarkeit|messbare]] [[zettel/Funktion|Funktionen]].
 
 Es gilt
 

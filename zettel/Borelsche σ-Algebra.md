@@ -4,10 +4,10 @@ Seien $\mathscr{S}, \mathcal{O}, \mathcal{A}, \mathcal{K}$ [[zettel/Semiring|Sem
 - $\mathcal{A} = \{ A, A \subseteq \mathbb{R} \text{ abgeschlossen } \}$
 - $\mathcal{K} = \{ K, K \subseteq \mathbb{R} \text{ kompakt } \}$
 
-$\mathcal{L}$ heißt *Borelsche $\sigma$-[[zettel/σ-Algebra|Algebra]]* auf $\mathbb{R}$ mit
+$\mathscr{B}$ heißt *Borelsche $\sigma$-[[zettel/σ-Algebra|Algebra]]* auf $\mathbb{R}$ mit
 
 $$
-	\mathcal{L}
+	\mathscr{B}
 	= \sigma(\mathscr{S})
 	= \sigma(\mathcal{O})
 	= \sigma(\mathcal{A})
@@ -22,10 +22,10 @@ Seien $\mathscr{S}^d, \mathcal{O}^d, \mathcal{A}^d, \mathcal{K}^d$ [[zettel/Semi
 - $\mathcal{A}^d = \{ A, A \subseteq \mathbb{R}^d \text{ abgeschlossen } \}$
 - $\mathcal{K}^d = \{ K, K \subseteq \mathbb{R}^d \text{ kompakt } \}$
 
-$\mathcal{L}^d$ heißt Borelsche $\sigma$-[[zettel/σ-Algebra|Algebra]] auf $\mathbb{R}^d$ mit
+$\mathscr{B}^d$ heißt Borelsche $\sigma$-[[zettel/σ-Algebra|Algebra]] auf $\mathbb{R}^d$ mit
 
 $$
-	\mathcal{L}^d
+	\mathscr{B}^d
 	= \sigma(\mathscr{S}^d)
 	= \sigma(\mathcal{O}^d)
 	= \sigma(\mathcal{A}^d)
@@ -34,16 +34,16 @@ $$
 
 ---
 
-Sei $\mathcal{L}$ eine Borelsche $\sigma$-Algebra auf $\mathbb{R}$.
+Sei $\mathscr{B}$ eine Borelsche $\sigma$-Algebra auf $\mathbb{R}$.
 
-Die Borelsche $\sigma$-Algebra $\overline{\mathcal{L}}$ auf $\overline{\mathbb{R}}$ ist definiert als
+Die Borelsche $\sigma$-Algebra $\overline{\mathscr{B}}$ auf $\overline{\mathbb{R}}$ ist definiert als
 
 $$
-	\overline{\mathcal{L}} := \mathcal{L} \cup \{ B \cup \{ -\infty \}, B \in \mathcal{L} \} \cup \{ B \cup \{ +\infty \}, B \in \mathcal{L} \}
+	\overline{\mathscr{B}} := \mathscr{B} \cup \{ B \cup \{ -\infty \}, B \in \mathscr{B} \} \cup \{ B \cup \{ +\infty \}, B \in \mathscr{B} \}
 $$
 
-Es gilt für die Spur-$\sigma$-[[zettel/Spur-σ-Algebra|Algebra]] $\overline{\mathcal{L}}_\mathbb{R}$
-- $\overline{\mathcal{L}}_\mathbb{R} = \mathcal{L}$
+Es gilt für die Spur-$\sigma$-[[zettel/Spur-σ-Algebra|Algebra]] $\overline{\mathscr{B}}_\mathbb{R}$
+- $\overline{\mathscr{B}}_\mathbb{R} = \mathscr{B}$
 
 ---
 

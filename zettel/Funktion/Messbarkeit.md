@@ -1,7 +1,7 @@
-Eine [[zettel/Funktion|Funktion]] $f : \mathcal{A} \to \mathcal{L}$ heißt *messbar*, falls
+Eine [[zettel/Funktion|Funktion]] $f : \mathcal{A} \to \mathscr{B}$ heißt *messbar*, falls
 - $f$ $\mathcal{A}$-[[zettel/Funktion/A-Messbarkeit|messbar]] ist oder
-- $f$ $(\mathcal{A}, \mathcal{L})$-[[zettel/Funktion/A-S-Messbarkeit|messbar]] ist oder
-- $f$ $(\mathcal{A}, \overline{\mathcal{L}})$-[[zettel/Funktion/A-S-Messbarkeit|messbar]] ist
+- $f$ $(\mathcal{A}, \mathscr{B})$-[[zettel/Funktion/A-S-Messbarkeit|messbar]] ist oder
+- $f$ $(\mathcal{A}, \overline{\mathscr{B}})$-[[zettel/Funktion/A-S-Messbarkeit|messbar]] ist
 
 Schreibe
 - $f \in \mathcal{M}$
@@ -22,16 +22,16 @@ Es gilt
 
 ---
 
-Die Menge aller messbaren [[zettel/Funktion|Funktionen]] ist mit der Borelschen $\sigma$-[[zettel/Borelsche σ-Algebra|Algebra]] $\mathcal{L}$ definiert als
+Die Menge aller messbaren [[zettel/Funktion|Funktionen]] ist mit der Borelschen $\sigma$-[[zettel/Borelsche σ-Algebra|Algebra]] $\mathscr{B}$ definiert als
 
 $$
-	\mathcal{M} := \mathcal{M}(\Omega, \mathcal{A}) = \{ f, f : (\Omega, \mathcal{A}) \to (\overline{\mathbb{R}}, \overline{\mathcal{L}}) \}
+	\mathcal{M} := \mathcal{M}(\Omega, \mathcal{A}) = \{ f, f : (\Omega, \mathcal{A}) \to (\overline{\mathbb{R}}, \overline{\mathscr{B}}) \}
 $$
 
 Die Menge aller nicht-negativen messbaren [[zettel/Funktion|Funktionen]] ist definiert als
 
 $$
-	\mathcal{M}_+ := \mathcal{M}_+(\Omega, \mathcal{A}) = \{ f, f : (\Omega, \mathcal{A}) \to (\overline{\mathbb{R}}, \overline{\mathcal{L}}) \land f \ge 0 \}
+	\mathcal{M}_+ := \mathcal{M}_+(\Omega, \mathcal{A}) = \{ f, f : (\Omega, \mathcal{A}) \to (\overline{\mathbb{R}}, \overline{\mathscr{B}}) \land f \ge 0 \}
 $$
 
 ---

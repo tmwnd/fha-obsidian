@@ -6,7 +6,7 @@ Seien $X = (X_i)_{i \in \{ 1, \dots, n \}} : (\Omega, \mathcal{A}) \to (R, \math
 - $\forall x \in \mathcal{A} : \vartheta \mapsto f(x, \vartheta) \in C^1 \mid \vartheta \in \Theta$
 - $\forall n \in \mathbb{N}, (x_i)_{i \in \{ 1, \dots, n \}} \in \mathcal{A}$ haben die [[zettel/Likelihood-Gleichungen|Likelihood-Gleichungen]] exakt eine Lösung in $\Theta$
 
-Es existiert die [[zettel/Maximum-Likelihood-Schätzfunktion|Maximum-Likelihood-Schätzfunktion]] $\hat{\vartheta}_n : (R^n, \mathscr{S}^n) \to (\Theta, \mathcal{L}_\Theta)$ mit
+Es existiert die [[zettel/Maximum-Likelihood-Schätzfunktion|Maximum-Likelihood-Schätzfunktion]] $\hat{\vartheta}_n : (R^n, \mathscr{S}^n) \to (\Theta, \mathscr{B}_\Theta)$ mit
 
 $$
 	\forall (x_i)_{i \in \{ 1, \dots, n \}} : 0 = \left. \sum_{i=1}^n \log(f(x, \vartheta)) \right|_{\vartheta=\vartheta_n((x_i)_{i \in \{ 1, \dots, n \}})}

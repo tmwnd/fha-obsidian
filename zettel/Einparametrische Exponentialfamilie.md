@@ -1,4 +1,4 @@
-Sei $\emptyset \ne \Theta \subseteq \mathbb{R}$ ein offenes Intervall, $\mu$ ein [[zettel/Maß/σ-Endlichkeit|σ-endliches]] [[zettel/Maß|Maß]] auf $(R, \mathscr{S})$, $c : \Theta \to (0, \infty)$, $h : (E, \mathscr{S}) \to (\mathbb{R}, \mathcal{L})$ nicht-negativ, $T : (R, \mathscr{S}) \to (\mathbb{R}, \mathcal{L})$ eine suffiziente Statistik mit
+Sei $\emptyset \ne \Theta \subseteq \mathbb{R}$ ein offenes Intervall, $\mu$ ein [[zettel/Maß/σ-Endlichkeit|σ-endliches]] [[zettel/Maß|Maß]] auf $(R, \mathscr{S})$, $c : \Theta \to (0, \infty)$, $h : (E, \mathscr{S}) \to (\mathbb{R}, \mathscr{B})$ nicht-negativ, $T : (R, \mathscr{S}) \to (\mathbb{R}, \mathscr{B})$ eine suffiziente Statistik mit
 - $\forall \gamma \in \mathbb{R} : \mu(T \ne \gamma, h \gt 0) \gt 0$
 
 Die Familie der Verteilungen $\mathcal{P}^X := \{ P_\vartheta^X \mid \vartheta \in \Theta \}$ heißt *einparametrische Exponentialfamilie*, falls

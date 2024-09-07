@@ -35,4 +35,4 @@ $$
 
 ---
 
-Das [[zettel/Lebesgue-Borelsches Maß|Lebesgue-Borelsches Maß]] $\lambda_{[0, 1]}$ ist ein [[zettel/Wahrscheinlichkeitsmaß|Wahrscheinlichkeitsmaß]] auf der Borelschen $\sigma$-[[zettel/Borelsche σ-Algebra|Algebra]] $\mathcal{L}_{[0, 1]}$.
+Das [[zettel/Lebesgue-Borelsches Maß|Lebesgue-Borelsches Maß]] $\lambda_{[0, 1]}$ ist ein [[zettel/Wahrscheinlichkeitsmaß|Wahrscheinlichkeitsmaß]] auf der Borelschen $\sigma$-[[zettel/Borelsche σ-Algebra|Algebra]] $\mathscr{B}_{[0, 1]}$.

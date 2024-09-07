@@ -1,4 +1,4 @@
-Sei $f: (\Omega, \mathcal{A}) \to (\mathbb{C}, \mathcal{L}(\mathbb{C}))$ eine [[zettel/Funktion|Funktion]].
+Sei $f: (\Omega, \mathcal{A}) \to (\mathbb{C}, \mathscr{B}(\mathbb{C}))$ eine [[zettel/Funktion|Funktion]].
 
 Es gilt
 - $\Re(f)$ ist der Realteil von $f$

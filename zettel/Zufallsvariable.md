@@ -4,7 +4,7 @@ Eine $(\mathcal{A}, \mathscr{S})$-[[zettel/Funktion/A-S-Messbarkeit|messbare]] [
 
 ---
 
-$F(X)$ heißt [[zettel/Verteilungsfunktion|Verteilungsfunktion]] von $X : (\Omega, \mathcal{A}) \to (\mathbb{R}, \mathcal{L})$, falls
+$F(X)$ heißt [[zettel/Verteilungsfunktion|Verteilungsfunktion]] von $X : (\Omega, \mathcal{A}) \to (\mathbb{R}, \mathscr{B})$, falls
 - $X$ eine reelwertige Zufallsvariable ist
 
 Sei $x \in \mathbb{R}$.
@@ -18,7 +18,7 @@ $$
 ---
 
 Seien $(X_i)_{i \in \{ 1, \dots, d \}}$ reelle Zufallsvariablen mit
-- $\forall i \in \{ 1, \dots, d \} : X_i : (\Omega, \mathcal{A}) \to (\mathbb{R}, \mathcal{L})$
+- $\forall i \in \{ 1, \dots, d \} : X_i : (\Omega, \mathcal{A}) \to (\mathbb{R}, \mathscr{B})$
 - $X = (X_1, \dots, X_d)$ heißt *Zufallsvektor*
 
 Sei $(x_i)_{i \in \{ 1, \dots, d \}} \in \mathbb{R}$.

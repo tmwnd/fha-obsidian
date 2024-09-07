@@ -1,4 +1,4 @@
-Sei $X$ ein $d$-dimensionaler [[zettel/Zufallsvariable|Zufallsvektor]] mit $\lambda^d$-[[zettel/λ-Dichte|Dichte]] $f$, $(M_i)_{i \in \mathbb{I}} \subseteq \mathbb{R}^d$, $T : (\mathbb{R}^d, \mathcal{L}^d) \to (\mathbb{R}^d, \mathcal{L}^d)$  eine geeignete $(\mathcal{L}^d, \mathcal{L}^d)$-[[zettel/Funktion/A-S-Messbarkeit|messbare]] Transformation, $S$ die Inverse zu $T$ und $\Delta : \mathbb{R}^d \to \mathbb{R}$ die [[zettel/Funktionaldeterminante|Funktionaldeterminante]]  mit
+Sei $X$ ein $d$-dimensionaler [[zettel/Zufallsvariable|Zufallsvektor]] mit $\lambda^d$-[[zettel/λ-Dichte|Dichte]] $f$, $(M_i)_{i \in \mathbb{I}} \subseteq \mathbb{R}^d$, $T : (\mathbb{R}^d, \mathscr{B}^d) \to (\mathbb{R}^d, \mathscr{B}^d)$  eine geeignete $(\mathscr{B}^d, \mathscr{B}^d)$-[[zettel/Funktion/A-S-Messbarkeit|messbare]] Transformation, $S$ die Inverse zu $T$ und $\Delta : \mathbb{R}^d \to \mathbb{R}$ die [[zettel/Funktionaldeterminante|Funktionaldeterminante]]  mit
 - $f$ verschwindet außerhalb $\bigcup_{i \in I} M_i$
 - $I$ abzählbar
 - $(M_i)_{i \in \mathbb{I}}$ p. d.
@@ -8,7 +8,7 @@ Sei $X$ ein $d$-dimensionaler [[zettel/Zufallsvariable|Zufallsvektor]] mit $\lam
 - $\forall i \in I : T_i$ injektiv
 - $\forall i \in I : S_i : T(M_i) \to M_i$
 - $\forall i \in I : S_i$ offen
-- $\forall i \in I : S_i$ ist $(\mathcal{L}_{T_i(M_i)}^d, \mathcal{L}_{M_i}^d)$-[[zettel/Funktion/A-S-Messbarkeit|messbar]]
+- $\forall i \in I : S_i$ ist $(\mathscr{B}_{T_i(M_i)}^d, \mathscr{B}_{M_i}^d)$-[[zettel/Funktion/A-S-Messbarkeit|messbar]]
 
 Die $\lambda$-[[zettel/λ-Dichte|Dichte]] des $d$-dimensionalen [[zettel/Zufallsvariable|Zufallsvektor]] $Y = T \circ X$ ist definiert
 

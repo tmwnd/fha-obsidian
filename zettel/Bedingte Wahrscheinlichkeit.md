@@ -9,7 +9,7 @@ $$
 
 ---
 
-Seien $X : (\Omega, \mathcal{A}) \to (\mathbb{R}^p, \mathcal{L}^p)$, $Y : (\Omega, \mathcal{A}) \to (\mathbb{R}^d, \mathcal{L}^d)$ [[zettel/Zufallsvariable|Zufallsvektoren]], $B \in \mathcal{L}^p$.
+Seien $X : (\Omega, \mathcal{A}) \to (\mathbb{R}^p, \mathscr{B}^p)$, $Y : (\Omega, \mathcal{A}) \to (\mathbb{R}^d, \mathscr{B}^d)$ [[zettel/Zufallsvariable|Zufallsvektoren]], $B \in \mathscr{B}^p$.
 
 $\text{E}[I_B(X) \mid Y]$ heißt *bedingte Wahrscheinlichkeit* von $X \in B$ unter $Y$.
 
@@ -18,7 +18,7 @@ Schreibe
 
 ---
 
-Seien $X : (\Omega, \mathcal{A}) \to (\mathbb{R}^p, \mathcal{L}^p)$, $Y : (\Omega, \mathcal{A}) \to (\mathbb{R}^d, \mathcal{L}^d)$ [[zettel/Zufallsvariable|Zufallsvektoren]], $B \in \mathcal{L}^p$, $y \in \mathbb{R}^d$.
+Seien $X : (\Omega, \mathcal{A}) \to (\mathbb{R}^p, \mathscr{B}^p)$, $Y : (\Omega, \mathcal{A}) \to (\mathbb{R}^d, \mathscr{B}^d)$ [[zettel/Zufallsvariable|Zufallsvektoren]], $B \in \mathscr{B}^p$, $y \in \mathbb{R}^d$.
 
 $\text{E}[I_B(X) \mid Y=y]$ heißt *bedingte Wahrscheinlichkeit* von $X \in B$ unter $Y=y$.
 

@@ -1,32 +1,32 @@
 Sie $\Theta \subseteq \mathbb{R}^k$, $g : R \times \Theta \to \mathbb{R}^l$ mit
-- $\forall \vartheta \in \Theta : x \mapsto g(x, \vartheta) \mid x \in R$ ist $(\mathscr{S}, \mathcal{L}^l)$-[[zettel/Funktion/A-S-Messbarkeit|messbar]]
+- $\forall \vartheta \in \Theta : x \mapsto g(x, \vartheta) \mid x \in R$ ist $(\mathscr{S}, \mathscr{B}^l)$-[[zettel/Funktion/A-S-Messbarkeit|messbar]]
 - $\forall x \in R : \vartheta \mapsto g(x, \vartheta) \mid \vartheta \in \Theta$ stetig
 
 Es gilt
-- $g$ ist $(\mathscr{S} \otimes \mathcal{L}_\Theta^k, \mathcal{L}^l)$-[[zettel/Funktion/A-S-Messbarkeit|messbar]]
-- $x \mapsto g(x, \hat{\vartheta}(x)) \mid x \in R$ ist $(\mathscr{S}, \mathcal{L}^l)$-[[zettel/Funktion/A-S-Messbarkeit|messbar]] mit
-	- $\hat{\vartheta} : (R, \mathscr{S}) \to (\Theta, \mathcal{L}_\Theta^k)$
-- $\exists \tilde{\vartheta} : (R, \mathcal{S}) \to (\Theta, \mathcal{L}_\Theta^l), \forall x \in R : g(x, \vartheta^*(x)) = g(x, \tilde{\vartheta}(x))$ mit
+- $g$ ist $(\mathscr{S} \otimes \mathscr{B}_\Theta^k, \mathscr{B}^l)$-[[zettel/Funktion/A-S-Messbarkeit|messbar]]
+- $x \mapsto g(x, \hat{\vartheta}(x)) \mid x \in R$ ist $(\mathscr{S}, \mathscr{B}^l)$-[[zettel/Funktion/A-S-Messbarkeit|messbar]] mit
+	- $\hat{\vartheta} : (R, \mathscr{S}) \to (\Theta, \mathscr{B}_\Theta^k)$
+- $\exists \tilde{\vartheta} : (R, \mathcal{S}) \to (\Theta, \mathscr{B}_\Theta^l), \forall x \in R : g(x, \vartheta^*(x)) = g(x, \tilde{\vartheta}(x))$ mit
 	- $\Theta$ ist eine Vereinigung von abzählbar vielen kompakten Teilmengen
-	- $\vartheta^* : (R; \mathscr{S}) \to (\Theta, \mathcal{L}_\Theta^l)$
-	- $x \mapsto g(x, \vartheta^*(x)) \mid x \in R$ ist $(\mathscr{S}, \mathcal{L})$-[[zettel/Funktion/A-S-Messbarkeit|messbar]]
+	- $\vartheta^* : (R; \mathscr{S}) \to (\Theta, \mathscr{B}_\Theta^l)$
+	- $x \mapsto g(x, \vartheta^*(x)) \mid x \in R$ ist $(\mathscr{S}, \mathscr{B})$-[[zettel/Funktion/A-S-Messbarkeit|messbar]]
 - $\frac{1}{n} \sum_{i=1}^n (g(X_i, \hat{\vartheta}((X_i)_{i \in \{ 1, \dots, n \}})) - g(X_i, \vartheta_0)) \overset{P}{\longrightarrow} \vartheta_0$ mit
 	- $l = 1$
 	- $\vartheta_0 \in \Theta$
 	- $\delta_0 \gt 0$
-	- $M : (R, \mathscr{S}) \to (\mathbb{R}, \mathcal{L}) \ge 0$
+	- $M : (R, \mathscr{S}) \to (\mathbb{R}, \mathscr{B}) \ge 0$
 	- $U_{\delta_0} := \{ \vartheta \in \mathbb{R}^k \mid |\vartheta - \vartheta_0| \lt \delta_0 \} \subseteq \Theta$
 	- $\forall x \in R : \sup_{\vartheta \in U_{\delta_0}(\vartheta_0)} |g(x, \vartheta)| \le M(x)$
 	- $(X_i)_{i \in \{ 1, \dots, n \}}$ [[zettel/Zufallsvariable/Stochastische Unabhängigkeit|unabhängige]] und identischverteilte [[zettel/Zufallsvariable|Zufallsvariablen]]
 	- $\text{E}[M(X_1)] \lt \infty$
-	- $\forall n \in \mathbb{N} : \hat{\vartheta}_n : (R^n, \mathscr{S}^n) \to (\Theta, \mathcal{L}_\Theta^k)$
+	- $\forall n \in \mathbb{N} : \hat{\vartheta}_n : (R^n, \mathscr{S}^n) \to (\Theta, \mathscr{B}_\Theta^k)$
 - $\frac{1}{n} \sum_{i=1}^n g(X_i, \hat{\vartheta}_n((X_i)_{i \in \{ 1, \dots, n \}})) \overset{P}{\longrightarrow} \text{E}[g(X_1, \vartheta_0)]$ mit
 	- $l = 1$
 	- $\vartheta_0 \in \Theta$
 	- $\delta_0 \gt 0$
-	- $M : (R, \mathscr{S}) \to (\mathbb{R}, \mathcal{L}) \ge 0$
+	- $M : (R, \mathscr{S}) \to (\mathbb{R}, \mathscr{B}) \ge 0$
 	- $U_{\delta_0} := \{ \vartheta \in \mathbb{R}^k \mid |\vartheta - \vartheta_0| \lt \delta_0 \} \subseteq \Theta$
 	- $\forall x \in R : \sup_{\vartheta \in U_{\delta_0}(\vartheta_0)} |g(x, \vartheta)| \le M(x)$
 	- $(X_i)_{i \in \{ 1, \dots, n \}}$ [[zettel/Zufallsvariable/Stochastische Unabhängigkeit|unabhängige]] und identischverteilte [[zettel/Zufallsvariable|Zufallsvariablen]]
 	- $\text{E}[M(X_1)] \lt \infty$
-	- $\forall n \in \mathbb{N} : \hat{\vartheta}_n : (R^n, \mathscr{S}^n) \to (\Theta, \mathcal{L}_\Theta^k)$
+	- $\forall n \in \mathbb{N} : \hat{\vartheta}_n : (R^n, \mathscr{S}^n) \to (\Theta, \mathscr{B}_\Theta^k)$

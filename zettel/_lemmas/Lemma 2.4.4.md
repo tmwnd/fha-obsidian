@@ -4,13 +4,13 @@ Sei $\lambda : \mathcal{I}^1 \to [0, \infty]$ eine Mengenfunktion, $\lambda^*$ d
 Es gilt
 
 $$
-	\mathcal{L}^* = \sigma(\mathcal{I}^1) \subset \mathcal{M}_{\lambda^*}
+	\mathscr{B}^* = \sigma(\mathcal{I}^1) \subset \mathcal{M}_{\lambda^*}
 $$
 
 und
-- $(\mathbb{R}, \mathcal{L}^*, \lambda^*)$ ist ein [[zettel/Maßraum|Maßraum]]
+- $(\mathbb{R}, \mathscr{B}^*, \lambda^*)$ ist ein [[zettel/Maßraum|Maßraum]]
 - $(\mathbb{R}, \mathcal{M}_{\lambda^*}, \lambda^*)$ ist ein [[zettel/Maßraum|Maßraum]]
 - $\lambda^*$ ist eine Erweiterung von $\lambda$, da $\forall I \in \mathcal{I}^1 : \lambda(I) = \lambda^*(I)$
-- $\lambda^*$ ist auf $\mathcal{L}^*$ eindeutig, da $\mathcal{I}^1$ ein $\cap$-[[zettel/Menge/Durchschnittsstabilität|stabiler]] Erzeuger von $\mathcal{L}^*$ ist.
+- $\lambda^*$ ist auf $\mathscr{B}^*$ eindeutig, da $\mathcal{I}^1$ ein $\cap$-[[zettel/Menge/Durchschnittsstabilität|stabiler]] Erzeuger von $\mathscr{B}^*$ ist.
 
 Schreibe für das [[zettel/Lebesgue-Borelsches Maß|Lebesgue-Borelsches Maß]] $\lambda$ statt $\lambda^+$

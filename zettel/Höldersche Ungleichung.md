@@ -1,4 +1,4 @@
-Sei $1 \lt p, q \in \mathbb{R}$, $f, g : (\Omega, \mathcal{A}) \to (\overline{\mathbb{R}}, \overline{\mathcal{L}})$ [[zettel/Funktion/Messbarkeit|messbare]] [[zettel/Funktion|Funktionen]] mit
+Sei $1 \lt p, q \in \mathbb{R}$, $f, g : (\Omega, \mathcal{A}) \to (\overline{\mathbb{R}}, \overline{\mathscr{B}})$ [[zettel/Funktion/Messbarkeit|messbare]] [[zettel/Funktion|Funktionen]] mit
 - $\frac{1}{p} + \frac{1}{q} = 1$ bzw. $p, q$ zueinander konjugierte Hölder Exponenten
 
 Es gilt

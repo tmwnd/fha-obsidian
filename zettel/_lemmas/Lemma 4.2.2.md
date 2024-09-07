@@ -1,4 +1,4 @@
-Sei $(\Omega, \mathcal{A}, \mu)$ ein [[zettel/Maßraum|Maßraum]], $f : (\Omega, \mathcal{A}) \to (\overline{\mathbb{R}}, \overline{\mathcal{L}})$ eine $\mu$-[[zettel/Funktion/μ-Integrierbarkeit|integrierbare]] [[zettel/Funktion/Messbarkeit|messbare]] Funktion mit
+Sei $(\Omega, \mathcal{A}, \mu)$ ein [[zettel/Maßraum|Maßraum]], $f : (\Omega, \mathcal{A}) \to (\overline{\mathbb{R}}, \overline{\mathscr{B}})$ eine $\mu$-[[zettel/Funktion/μ-Integrierbarkeit|integrierbare]] [[zettel/Funktion/Messbarkeit|messbare]] Funktion mit
 - $\mu(|f| = \infty) = 0$
 
 Es gilt

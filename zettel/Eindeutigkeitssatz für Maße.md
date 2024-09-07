@@ -3,7 +3,7 @@ Sei $\mathcal{E} \subseteq \mathcal{P}(\Omega)$ $\cap$-[[zettel/Menge/Durchschni
 
 ---
 
-Sei $d \in \mathbb{N}$, $\mathcal{L}^d$ die Borelsche $\sigma$-[[zettel/Borelsche σ-Algebra|Algebra]], $P$ ein [[zettel/Wahrscheinlichkeitsmaß|Wahrscheinlichkeitsmaß]] auf $(\mathbb{R}^d, \mathcal{L}^d)$, $C \subseteq \mathbb{R}^d$, $f : \mathbb{R}^d \to \mathbb{R}$ eine [[zettel/Funktion|Funktion]] mit
+Sei $d \in \mathbb{N}$, $\mathscr{B}^d$ die Borelsche $\sigma$-[[zettel/Borelsche σ-Algebra|Algebra]], $P$ ein [[zettel/Wahrscheinlichkeitsmaß|Wahrscheinlichkeitsmaß]] auf $(\mathbb{R}^d, \mathscr{B}^d)$, $C \subseteq \mathbb{R}^d$, $f : \mathbb{R}^d \to \mathbb{R}$ eine [[zettel/Funktion|Funktion]] mit
 - $C$ abgeschlossen
 - $f$ gleichmäßig stetig und beschränkt
 

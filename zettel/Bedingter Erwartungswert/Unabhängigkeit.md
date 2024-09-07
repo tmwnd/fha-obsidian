@@ -1,4 +1,4 @@
-Sei $X : (\Omega, \mathcal{A}) \to (\mathbb{R}, \mathcal{L})$ eine [[zettel/Zufallsvariable|Zufallsvariable]], $\mathcal{B}$ eine [[zettel/Unter-σ-Algebra|Unter-σ-Algebra]] von $\mathcal{A}$ mit
+Sei $X : (\Omega, \mathcal{A}) \to (\mathbb{R}, \mathscr{B})$ eine [[zettel/Zufallsvariable|Zufallsvariable]], $\mathcal{B}$ eine [[zettel/Unter-σ-Algebra|Unter-σ-Algebra]] von $\mathcal{A}$ mit
 - $\text{E}[|X|] \lt \infty$
 - $X$, $\mathcal{B}$ [[zettel/_edges/Stochastische Unabhängigkeit Zufallsvariable Unter-σ-Algebra|unabhängig]]
 

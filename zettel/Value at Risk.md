@@ -1,4 +1,4 @@
-Sei $X : (\Omega, \mathcal{A}) \to (\mathbb{R}, \mathcal{L})$ eine [[zettel/Zufallsvariable|Zufallsvariable]], $\gamma \in \mathbb{R}$.
+Sei $X : (\Omega, \mathcal{A}) \to (\mathbb{R}, \mathscr{B})$ eine [[zettel/Zufallsvariable|Zufallsvariable]], $\gamma \in \mathbb{R}$.
 
 Die *Value at Risk* zum Niveau $\gamma$ ($\text{VaR}_\gamma(X)$) ist definiert als
 

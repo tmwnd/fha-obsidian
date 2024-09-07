@@ -1,4 +1,4 @@
-Sei $d : (R, \mathscr{S}) \to (\mathbb{R}^m, \mathcal{L}^m) := (d_1, \dots, d_m)^T$ ein [[zettel/Schätzer|Schätzer]] für $\delta(\vartheta)$ mit
+Sei $d : (R, \mathscr{S}) \to (\mathbb{R}^m, \mathscr{B}^m) := (d_1, \dots, d_m)^T$ ein [[zettel/Schätzer|Schätzer]] für $\delta(\vartheta)$ mit
 - $\forall i \in \{ 1, \dots, m \}, \vartheta \in \Theta : \text{E}_\vartheta((d_i(X)^2)) \lt \infty$
 - $\forall i \in \{ 1, \dots, m \}, \vartheta \in \Theta : \vartheta \mapsto \text{E}_\vartheta(d_i(X))$ partiell differenzierbar
 

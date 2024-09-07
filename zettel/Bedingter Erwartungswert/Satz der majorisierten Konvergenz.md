@@ -1,4 +1,4 @@
-Seien $(X_n)_{n \in \mathbb{N}}, X, Y : (\Omega, \mathcal{A}) \to (\mathbb{R}, \mathcal{L})$ [[zettel/Zufallsvariable|Zufallsvariablen]], $\lim_{n \to \infty} X_n = X$, $\mathcal{B}$ eine [[zettel/Unter-σ-Algebra|Unter-σ-Algebra]] von $\mathcal{A}$ mit
+Seien $(X_n)_{n \in \mathbb{N}}, X, Y : (\Omega, \mathcal{A}) \to (\mathbb{R}, \mathscr{B})$ [[zettel/Zufallsvariable|Zufallsvariablen]], $\lim_{n \to \infty} X_n = X$, $\mathcal{B}$ eine [[zettel/Unter-σ-Algebra|Unter-σ-Algebra]] von $\mathcal{A}$ mit
 - $\text{E}[Y \mid \mathcal{B}] \lt \infty$
 - $\forall n \in \mathbb{N} : |X_n| \le Y$
 

@@ -1,4 +1,4 @@
-Sei $\mu$ ein [[zettel/Maß|Maß]], $f : (\Omega, \mathcal{A}) \to (\overline{R}, \overline{\mathcal{L}})$ [[zettel/Funktion/Messbarkeit|messbar]].
+Sei $\mu$ ein [[zettel/Maß|Maß]], $f : (\Omega, \mathcal{A}) \to (\overline{R}, \overline{\mathscr{B}})$ [[zettel/Funktion/Messbarkeit|messbar]].
 
 Es gilt
 

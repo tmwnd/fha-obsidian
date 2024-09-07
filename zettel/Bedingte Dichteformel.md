@@ -1,4 +1,4 @@
-Seien $X : (\Omega, \mathcal{A}) \to (\mathbb{R}^p, \mathcal{L}^p)$, $Y : (\Omega, \mathcal{A}) \to (\mathbb{R}^d, \mathcal{L}^d)$ [[zettel/Zufallsvariable|Zufallsvektoren]], $\mu$, $\nu$ [[zettel/Maß/σ-Endlichkeit|σ-endliche]] [[zettel/Maß|Maße]] auf $(\mathbb{R}^p, \mathcal{L}^p)$ bzw. $(\mathbb{R}^d, \mathcal{L}^d)$ mit
+Seien $X : (\Omega, \mathcal{A}) \to (\mathbb{R}^p, \mathscr{B}^p)$, $Y : (\Omega, \mathcal{A}) \to (\mathbb{R}^d, \mathscr{B}^d)$ [[zettel/Zufallsvariable|Zufallsvektoren]], $\mu$, $\nu$ [[zettel/Maß/σ-Endlichkeit|σ-endliche]] [[zettel/Maß|Maße]] auf $(\mathbb{R}^p, \mathscr{B}^p)$ bzw. $(\mathbb{R}^d, \mathscr{B}^d)$ mit
 - $P^{(X, Y)} \ll \mu \otimes \nu$ mit $\mu \otimes \nu$-[[zettel/μ-Dichte|Dichte]] $f_{(X, Y)}$
 
 Es gilt

@@ -1,4 +1,4 @@
-Sei $(\Omega, \mathcal{A}, \mu)$ ein [[zettel/Maßraum|Maßraum]], $f: (\Omega, \mathcal{A}) \to (\mathbb{C}, \mathcal{L}(\mathbb{C}))$ eine [[zettel/Funktion/Komplexwertigkeit|komplexwertige]], [[zettel/Funktion/Komplexwertigkeit A-S-Messbarkeit|messbare]] [[zettel/Funktion|Funktion]].
+Sei $(\Omega, \mathcal{A}, \mu)$ ein [[zettel/Maßraum|Maßraum]], $f: (\Omega, \mathcal{A}) \to (\mathbb{C}, \mathscr{B}(\mathbb{C}))$ eine [[zettel/Funktion/Komplexwertigkeit|komplexwertige]], [[zettel/Funktion/Komplexwertigkeit A-S-Messbarkeit|messbare]] [[zettel/Funktion|Funktion]].
 
 $f$ heißt *$\mu$-integrierbar*, falls
 - $\Re(f)$ $\mu$-[[zettel/Funktion/μ-Integrierbarkeit|integrierbare]] ist
@@ -12,7 +12,7 @@ $$
 
 ---
 
-Sei $(\Omega, \mathcal{A}, \mu)$ ein [[zettel/Maßraum|Maßraum]], $f: (\Omega, \mathcal{A}) \to (\mathbb{C}, \mathcal{L}(\mathbb{C}))$ eine $\mu$-integrierbare [[zettel/Funktion/Komplexwertigkeit|komplexwertige]], [[zettel/Funktion/Komplexwertigkeit A-S-Messbarkeit|messbare]] [[zettel/Funktion|Funktion]].
+Sei $(\Omega, \mathcal{A}, \mu)$ ein [[zettel/Maßraum|Maßraum]], $f: (\Omega, \mathcal{A}) \to (\mathbb{C}, \mathscr{B}(\mathbb{C}))$ eine $\mu$-integrierbare [[zettel/Funktion/Komplexwertigkeit|komplexwertige]], [[zettel/Funktion/Komplexwertigkeit A-S-Messbarkeit|messbare]] [[zettel/Funktion|Funktion]].
 
 Es gilt
 - Die komplex konjugierte Funktion $\overline{f} = \Re(f) - i \text{Im}(f)$ ist ebenfalls $\mu$-Integrierbare
@@ -24,14 +24,14 @@ $$
 
 ---
 
-Sei $(\Omega, \mathcal{A}, \mu)$ ein [[zettel/Maßraum|Maßraum]], $f: (\Omega, \mathcal{A}) \to (\mathbb{C}, \mathcal{L}(\mathbb{C}))$ eine [[zettel/Funktion/Komplexwertigkeit|komplexwertige]], [[zettel/Funktion/Komplexwertigkeit A-S-Messbarkeit|messbare]] [[zettel/Funktion|Funktion]].
+Sei $(\Omega, \mathcal{A}, \mu)$ ein [[zettel/Maßraum|Maßraum]], $f: (\Omega, \mathcal{A}) \to (\mathbb{C}, \mathscr{B}(\mathbb{C}))$ eine [[zettel/Funktion/Komplexwertigkeit|komplexwertige]], [[zettel/Funktion/Komplexwertigkeit A-S-Messbarkeit|messbare]] [[zettel/Funktion|Funktion]].
 
 Es gilt
 - $f$ $\mu$-integrierbar $\iff$ $|f|$ $\mu$-integrierbar
 
 ---
 
-Sei $(\Omega, \mathcal{A}, \mu)$ ein [[zettel/Maßraum|Maßraum]], $f: (\Omega, \mathcal{A}) \to (\mathbb{C}, \mathcal{L}(\mathbb{C}))$ eine $\mu$-integrierbare [[zettel/Funktion/Komplexwertigkeit|komplexwertige]], [[zettel/Funktion/Komplexwertigkeit A-S-Messbarkeit|messbare]] [[zettel/Funktion|Funktion]].
+Sei $(\Omega, \mathcal{A}, \mu)$ ein [[zettel/Maßraum|Maßraum]], $f: (\Omega, \mathcal{A}) \to (\mathbb{C}, \mathscr{B}(\mathbb{C}))$ eine $\mu$-integrierbare [[zettel/Funktion/Komplexwertigkeit|komplexwertige]], [[zettel/Funktion/Komplexwertigkeit A-S-Messbarkeit|messbare]] [[zettel/Funktion|Funktion]].
 
 Es gilt
 

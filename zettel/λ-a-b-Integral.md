@@ -1,4 +1,4 @@
-Sei $\lambda$ das [[zettel/Lebesgue-Borelsches Maß|Lebesgue-Borelsches Maß]], $-\infty \lt a \lt b \lt +\infty$, $\mathcal{L}$ die Borelsche $\sigma$-[[zettel/Borelsche σ-Algebra|Algebra]] , $f : ([a, b], \mathcal{L}_{[a, b]}) \to (\mathbb{R}, \mathcal{L})$.
+Sei $\lambda$ das [[zettel/Lebesgue-Borelsches Maß|Lebesgue-Borelsches Maß]], $-\infty \lt a \lt b \lt +\infty$, $\mathscr{B}$ die Borelsche $\sigma$-[[zettel/Borelsche σ-Algebra|Algebra]] , $f : ([a, b], \mathscr{B}_{[a, b]}) \to (\mathbb{R}, \mathscr{B})$.
 
 Das *$\lambda_{[a, b]}$-Integral* ist definiert als
 
@@ -8,7 +8,7 @@ $$
 
 ---
 
-Sei $\lambda$ das [[zettel/Lebesgue-Borelsches Maß|Lebesgue-Borelsches Maß]], $-\infty \lt a \lt b \lt +\infty$, $\mathcal{L}$ die Borelsche $\sigma$-[[zettel/Borelsche σ-Algebra|Algebra]] , $f : ([a, b], \mathcal{L}_{[a, b]}) \to (\mathbb{R}, \mathcal{L})$.
+Sei $\lambda$ das [[zettel/Lebesgue-Borelsches Maß|Lebesgue-Borelsches Maß]], $-\infty \lt a \lt b \lt +\infty$, $\mathscr{B}$ die Borelsche $\sigma$-[[zettel/Borelsche σ-Algebra|Algebra]] , $f : ([a, b], \mathscr{B}_{[a, b]}) \to (\mathbb{R}, \mathscr{B})$.
 
 $f$ ist genau dann $\lambda_{[a, b]}$-integrierbar, falls
 - $f$ Riemann-integrierbar ist

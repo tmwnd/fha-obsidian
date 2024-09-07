@@ -1,4 +1,4 @@
-Sei $(X, Y) : (\Omega, \mathcal{A}) \to (\mathbb{R}^2, \mathcal{L}^2)$ ein [[zettel/Zufallsvariable|Zufallsvektor]], $m : (\mathbb{R}, \mathcal{L}) \to (\mathbb{R}, \mathcal{L})$ eine Regressionsfunktion, $Z : (\Omega, \mathcal{A}) \to (\mathbb{R}, \mathcal{L})$ eine [[zettel/Zufallsvariable|zufällige]] Störung mit
+Sei $(X, Y) : (\Omega, \mathcal{A}) \to (\mathbb{R}^2, \mathscr{B}^2)$ ein [[zettel/Zufallsvariable|Zufallsvektor]], $m : (\mathbb{R}, \mathscr{B}) \to (\mathbb{R}, \mathscr{B})$ eine Regressionsfunktion, $Z : (\Omega, \mathcal{A}) \to (\mathbb{R}, \mathscr{B})$ eine [[zettel/Zufallsvariable|zufällige]] Störung mit
 - $X$, $Y$ [[zettel/Zufallsvariable/Stochastische Unabhängigkeit|unabhängig]]
 - $\forall n \in \mathbb{N} : (X_n, Y_n) \sim (X, Y)$
 - $\text{E}[|m(X)|] \lt \infty$

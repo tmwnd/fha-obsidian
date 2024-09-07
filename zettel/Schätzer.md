@@ -1,3 +1,3 @@
-Seien $(\Omega, \mathcal{A})$, $(R, \mathscr{S})$ [[zettel/Messraum|Messräume]], $X : (\Omega, \mathcal{A}) \to (R, \mathscr{S})$ eine [[zettel/Zufallsvariable|Zufallsvariable]], $d : (R, \mathscr{S}) \to (\mathbb{R}^m, \mathcal{L}^m)$ eine [[zettel/Schätzfunktion|Schätzfunktion]] für $\delta(\vartheta)$.
+Seien $(\Omega, \mathcal{A})$, $(R, \mathscr{S})$ [[zettel/Messraum|Messräume]], $X : (\Omega, \mathcal{A}) \to (R, \mathscr{S})$ eine [[zettel/Zufallsvariable|Zufallsvariable]], $d : (R, \mathscr{S}) \to (\mathbb{R}^m, \mathscr{B}^m)$ eine [[zettel/Schätzfunktion|Schätzfunktion]] für $\delta(\vartheta)$.
 
 Die [[zettel/Zufallsvariable|Zufallsvariable]] $d \circ X = d(X)$ heißt *Schätzer* für $\delta(\vartheta)$.
