@@ -13,4 +13,4 @@ $$
 $$
 
 Schreibe
-- $X \sim \mathcal{C}(\mu, \sigma)$
+- $X \sim \mathfrak{C}(\mu, \sigma)$

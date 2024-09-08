@@ -41,7 +41,7 @@ Seien $(X_n)_{n \in \mathbb{N}}$ [[zettel/Zufallsvariable/Stochastische Unabhän
 - $\text{E}[X] \lt \infty$
 - $\text{Var}[X] \lt \infty$
 
-$Z$ ist [[zettel/Normalverteilung|standardnormalverteilt]], falls
+$Z$ ist [[zettel/_examples/Normalverteilung|standardnormalverteilt]], falls
 - $\sigma Z + \mu \sim \mathcal{N}(\mu, \sigma^2)$
 
 ---

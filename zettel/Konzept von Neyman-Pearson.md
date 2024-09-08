@@ -1,3 +1,3 @@
-Sei $X$ eine [[zettel/Zufallsvariable|Zufallsvariable]], $\emptyset \ne \Theta$ eine Parametermenge, $\emptyset \ne \Theta_0 \subset \Theta$, $\alpha$ ein Testniveau.
+Sei $X$ eine [[zettel/Zufallsvariable|Zufallsvariable]], $\emptyset \ne \Theta$ eine Parametermenge, $\emptyset \ne \Theta_0 \subset \Theta$, $\alpha \in (0, 1)$ das vorgegebene Testniveau.
 
 Nach dem *Konzept von Neyman-Pearson* sind alle [[zettel/Testfunktion|Testfunktionen]] $\varphi$ zu verwenden, sodass der [[zettel/Statistisches Testproblem/Fehler 1. Art|Fehler 1. Art]] für alle $\vartheta \in \Theta_0$ höchstens $\alpha$ ist.

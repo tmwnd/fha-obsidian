@@ -9,5 +9,5 @@ $$
 $$
 
 Es gilt
-- $C_X \sim \mathcal{R}(0, 1)$
-- $C_Y \sim \mathcal{R}(0, 1)$
+- $C_X \sim \mathfrak{R}(0, 1)$
+- $C_Y \sim \mathfrak{R}(0, 1)$

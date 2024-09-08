@@ -1,11 +1,11 @@
-![[zettel/Gleichverteilung|Gleichverteilung]]
-![[zettel/Normalverteilung|Normalverteilung]]
-![[zettel/Exponentialverteilung|Exponentialverteilung]]
-![[zettel/Gammaverteilung|Gammaverteilung]]
-![[zettel/Cauchy-Verteilung|Cauchy-Verteilung]]
-![[zettel/Binomialverteilung|Binomialverteilung]]
-![[zettel/Multinomialverteilung|Multinomialverteilung]]
-![[zettel/Poisson-Verteilung|Poisson-Verteilung]]
+![[zettel/_examples/Gleichverteilung|Gleichverteilung]]
+![[zettel/_examples/Normalverteilung|Normalverteilung]]
+![[zettel/_examples/Exponentialverteilung|Exponentialverteilung]]
+![[zettel/_examples/Gammaverteilung|Gammaverteilung]]
+![[zettel/_examples/Cauchy-Verteilung|Cauchy-Verteilung]]
+![[zettel/_examples/Binomialverteilung|Binomialverteilung]]
+![[zettel/_examples/Multinomialverteilung|Multinomialverteilung]]
+![[zettel/_examples/Poisson-Verteilung|Poisson-Verteilung]]
 
 Sei $X$ ein $d$-dimensionaler Zufallsvektor, $P^X$ eine diskrete Verteiltung.
 

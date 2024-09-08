@@ -18,11 +18,11 @@ $$
 $$
 
 Schreibe
-- $X \sim \mathcal{R}(a, b)$.
+- $X \sim \mathfrak{R}(a, b)$.
 
 ---
 
-Sei $X \sim \mathcal{R}(a, b)$ eine [[zettel/Zufallsvariable|Zufallsvariable]].
+Sei $X \sim \mathfrak{R}(a, b)$ eine [[zettel/Zufallsvariable|Zufallsvariable]].
 
 Es gilt
 - $\text{E}[X] = \frac{a + b}{2}$

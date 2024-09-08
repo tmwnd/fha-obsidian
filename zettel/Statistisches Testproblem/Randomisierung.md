@@ -1,4 +1,4 @@
-Sei $X$ eine [[zettel/Zufallsvariable|Zufallsvariable]], $x$ eine Beobachtung von $X$, $\varphi$ ein [[zettel/Testfunktion|Testfunktion]], $\text{H}$ die Hypothese eines [[zettel/Statistisches Testproblem|statistisches Testproblems]], $u$ eine Beobachtung von $U \sim \mathcal{R}(0, 1)$ mit
+Sei $X$ eine [[zettel/Zufallsvariable|Zufallsvariable]], $x$ eine Beobachtung von $X$, $\varphi$ ein [[zettel/Testfunktion|Testfunktion]], $\text{H}$ die Hypothese eines [[zettel/Statistisches Testproblem|statistisches Testproblems]], $u$ eine Beobachtung von $U \sim \mathfrak{R}(0, 1)$ mit
 - $\varphi(x) \in (0, 1)$
 - $X, U$ [[zettel/Zufallsvariable/Stochastische Unabhängigkeit|unabhängig]]
 

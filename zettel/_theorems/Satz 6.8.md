@@ -10,7 +10,7 @@ $$
 
 ---
 
-Sei $(\Omega, \mathcal{A}, P)$ ein [[zettel/Wahrscheinlichkeitsraum|Wahrscheinlichkeitsraum]], $(X_n)_{n \in \mathbb{N}_0}$ reelle [[zettel/Zufallsvariable|Zufallsvariablen]] auf $(\Omega, \mathcal{A}, P)$, $(\tilde{\Omega}, \tilde{\mathcal{A}}, \tilde{P})$ ein beliebiger [[zettel/Wahrscheinlichkeitsraum|Wahrscheinlichkeitsraum]], $U \sim \mathcal{R}(0, 1)$ eine [[zettel/Gleichverteilung|gleichverteilte]] [[zettel/Zufallsvariable|Zufallsvariable]] auf $(\tilde{\Omega}, \tilde{\mathcal{A}}, \tilde{P})$ mit
+Sei $(\Omega, \mathcal{A}, P)$ ein [[zettel/Wahrscheinlichkeitsraum|Wahrscheinlichkeitsraum]], $(X_n)_{n \in \mathbb{N}_0}$ reelle [[zettel/Zufallsvariable|Zufallsvariablen]] auf $(\Omega, \mathcal{A}, P)$, $(\tilde{\Omega}, \tilde{\mathcal{A}}, \tilde{P})$ ein beliebiger [[zettel/Wahrscheinlichkeitsraum|Wahrscheinlichkeitsraum]], $U \sim \mathfrak{R}(0, 1)$ eine [[zettel/_examples/Gleichverteilung|gleichverteilte]] [[zettel/Zufallsvariable|Zufallsvariable]] auf $(\tilde{\Omega}, \tilde{\mathcal{A}}, \tilde{P})$ mit
 - $X_n \overset{V}{\longrightarrow} X_0$ [[zettel/Verteilungskonvergenz|verteilungskonvergent]]
 
 Es gilt

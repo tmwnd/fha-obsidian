@@ -6,4 +6,4 @@
 ![[zettel/Statistisches Testproblem/Fehler 2. Art|Fehler 2. Art]]
 ![[zettel/Gütefunktion|Gütefunktion]]
 ![[zettel/Konzept von Neyman-Pearson|Konzept von Neyman-Pearson]]
-![[zettel/Gleichmäßig bester Test|Gleichmäßig bester Test]]
+![[zettel/Statistischer Test/Gleichmäßige Bestheit|Gleichmäßige Bestheit]]

@@ -22,4 +22,4 @@ $$
 $$
 
 Schreibe
-- $X \sim \text{G}(\alpha, \lambda)$
+- $X \sim \mathfrak{G}(\alpha, \lambda)$

@@ -9,7 +9,7 @@ Schreibe
 ---
 
 Sei $X, (X_n)_{n \in \mathbb{N}}$ $d$-dimensionale [[zettel/Zufallsvariable|Zufallsvektoren]].
-- $X \sim \mathcal{N}_d(\vec{0}, I_d)$ [[zettel/Normalverteilung|standardnormalverteilt]]
+- $X \sim \mathcal{N}_d(\vec{0}, I_d)$ [[zettel/_examples/Normalverteilung|standardnormalverteilt]]
 - $X_n \overset{V}{\longrightarrow} X$
 
 Schreibe
