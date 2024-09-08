@@ -1,4 +1,4 @@
-Seien $(Z_i)_{i \in \{ 1, \dots, n \}} \sim \mathcal{N}(0, 1)$ [[zettel/Zufallsvariable/Stochastische Unabhängigkeit|unabhängige]] [[zettel/Zufallsvariable|Zufallsvariablen]].
+Seien $(Z_i)_{i \in \{ 1, \dots, n \}} \sim \mathcal{N}(0, 1)$ [[zettel/Zufallsvariable/Stochastische Unabhängigkeit|unabhängige]], identisch verteilte [[zettel/Zufallsvariable|Zufallsvariablen]].
 
 $X := \sum_{i=1}^n Z_i^2$ heißt *Chi-Quadrat-verteilt* mit $n$ Freiheitsgraden.
 

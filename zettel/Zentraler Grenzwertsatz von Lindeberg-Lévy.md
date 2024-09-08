@@ -24,7 +24,7 @@ $$
 
 ---
 
-Seien $(X_n)_{n \in \mathbb{N}}$ [[zettel/Zufallsvariable/Stochastische Unabhängigkeit|unabhängige]] und identisch verteilte, reelle [[zettel/Zufallsvariable|Zufallsvariablen]] mit
+Seien $(X_n)_{n \in \mathbb{N}}$ [[zettel/Zufallsvariable/Stochastische Unabhängigkeit|unabhängige]], identisch verteilte, reelle [[zettel/Zufallsvariable|Zufallsvariablen]] mit
 - $\mu \lt \infty$
 - $\sigma^2 \lt \infty$
 - $\forall n \in \mathbb{N} : \overline{X}_n = \frac{1}{n} \sum_{i=1}^n X_i$
@@ -37,7 +37,7 @@ $$
 
 ---
 
-Seien $(X_n)_{n \in \mathbb{N}}$ [[zettel/Zufallsvariable/Stochastische Unabhängigkeit|unabhängige]] und identisch verteilte, reelle [[zettel/Zufallsvariable|Zufallsvariablen]], $Z$ eine [[zettel/Zufallsvariable|Zufallsvariable]] mit
+Seien $(X_n)_{n \in \mathbb{N}}$ [[zettel/Zufallsvariable/Stochastische Unabhängigkeit|unabhängige]], identisch verteilte, reelle [[zettel/Zufallsvariable|Zufallsvariablen]], $Z$ eine [[zettel/Zufallsvariable|Zufallsvariable]] mit
 - $\text{E}[X] \lt \infty$
 - $\text{Var}[X] \lt \infty$
 
@@ -46,7 +46,7 @@ $Z$ ist [[zettel/_examples/Normalverteilung|standardnormalverteilt]], falls
 
 ---
 
-Seien $(X_n)_{n \in \mathbb{N}}$ [[zettel/Zufallsvariable/Stochastische Unabhängigkeit|unabhängige]] und identisch verteilte, reelle [[zettel/Zufallsvariable|Zufallsvariablen]] mit
+Seien $(X_n)_{n \in \mathbb{N}}$ [[zettel/Zufallsvariable/Stochastische Unabhängigkeit|unabhängige]], identisch verteilte, reelle [[zettel/Zufallsvariable|Zufallsvariablen]] mit
 - $\mu \lt \infty$
 - $\text{Var}[X]  = 0$
 

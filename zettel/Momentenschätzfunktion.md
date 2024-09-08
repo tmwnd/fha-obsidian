@@ -1,4 +1,4 @@
-Seien $X = (X_i)_{i \in \{ 1, \dots, n \}}$ unter jedem $P_\vartheta \in \mathcal{P}$ [[zettel/Zufallsvariable/Stochastische Unabhängigkeit|unabhängige]] und identisch verteilte reelle [[zettel/Zufallsvariable|Zufallsvariablen]], $\Theta \subseteq \mathbb{R}^k$, $\vartheta_0 \in \Theta$ fest mit
+Seien $X = (X_i)_{i \in \{ 1, \dots, n \}}$ unter jedem $P_\vartheta \in \mathcal{P}$ [[zettel/Zufallsvariable/Stochastische Unabhängigkeit|unabhängige]], identisch verteilte reelle [[zettel/Zufallsvariable|Zufallsvariablen]], $\Theta \subseteq \mathbb{R}^k$, $\vartheta_0 \in \Theta$ fest mit
 - $\forall \vartheta \in \Theta : \text{E}_\vartheta[|X_1|^k] \lt \infty$
 - $\forall \vartheta \in \Theta, j \in \{ 1, \dots, k \} : \text{E}_\vartheta[|X_1|^j] \lt \infty$
 

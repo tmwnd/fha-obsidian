@@ -1,4 +1,4 @@
-Seien $X = (X_i)_{i \in \{ 1, \dots, n \}} \sim G(\alpha, \lambda)$ mit
+Seien $X = (X_i)_{i \in \{ 1, \dots, n \}} \sim \mathfrak{G}(\alpha, \lambda)$ mit
 - $(\alpha, \lambda) \in (0, \infty) \times (0, \infty)$ unbekannt
 - $(X_i)_{i \in \{ 1, \dots, n \}}$ mit Wahrscheinlichkeit $1$ nicht alle gleich
 - $\overline{X} := \frac{1}{n} \sum_{i = 1}^n X_i$

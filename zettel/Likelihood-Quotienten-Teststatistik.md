@@ -4,7 +4,7 @@ Sei $X : (\Omega, \mathcal{A}) \to (R, \mathscr{S})$ eine [[zettel/Zufallsvariab
 Die *Likelihood-Quotienten-Teststatistik* ist definiert als
 
 $$
-	T(x) = \begin{cases}
+	\Lambda(x) := \begin{cases}
 		\frac{\sup_{\vartheta \in \Theta} f_\vartheta(x)}{\sup_{\vartheta \in \Theta_0} f_\vartheta(x)}, \quad & \sup_{\vartheta \in \Theta_0} f_\vartheta(x) \gt 0, \\
 		0, \quad & \text{sonst}
 	\end{cases}

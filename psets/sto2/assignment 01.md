@@ -16,7 +16,7 @@
 
 ^2
 
-3. Es seien $X_n$, $n \in \mathbb{N}$, reelle unabhängige und identisch verteilte Zufallsvariablen mit $E(X_n) = a \in \mathbb{R}$, $0 \lt \sigma^2 = \text{Var}[X_n] \lt \infty$.
+3. Es seien $X_n$, $n \in \mathbb{N}$ reelle, unabhängige und identisch verteilte Zufallsvariablen mit $E(X_n) = a \in \mathbb{R}$, $0 \lt \sigma^2 = \text{Var}[X_n] \lt \infty$.
 	Es sei $\overline{X}_n = \frac{1}{n} \sum_{i=1}^n X_i$, $S_n^2 = \frac{1}{n} \sum_{i=1}^n (X_i - \overline{X}_n)^2$, $n = 1, 2, \dots$.
 	Zeigen Sie:
 	1. $S_n^2 \overset{P}{\longrightarrow} \sigma^2$

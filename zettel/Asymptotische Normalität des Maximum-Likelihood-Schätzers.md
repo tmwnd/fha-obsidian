@@ -1,4 +1,4 @@
-Seien $X = (X_i)_{i \in \{ 1, \dots, n \}} : (\Omega, \mathcal{A}) \to (R, \mathscr{S})$ unter jedem $P_\vartheta \in \mathcal{P}$ [[zettel/Zufallsvariable/Stochastische Unabhängigkeit|unabhängige]] und identisch verteilte [[zettel/Zufallsvariable|Zufallsvariablen]], $\mu$ ein [[zettel/Maß/σ-Endlichkeit|σ-endliches]] [[zettel/Maß|Maß]] auf $(R, \mathscr{S})$, $\Theta \subseteq \mathbb{R}$ ein offenes Intervall mit
+Seien $X = (X_i)_{i \in \{ 1, \dots, n \}} : (\Omega, \mathcal{A}) \to (R, \mathscr{S})$ unter jedem $P_\vartheta \in \mathcal{P}$ [[zettel/Zufallsvariable/Stochastische Unabhängigkeit|unabhängige]], identisch verteilte [[zettel/Zufallsvariable|Zufallsvariablen]], $\mu$ ein [[zettel/Maß/σ-Endlichkeit|σ-endliches]] [[zettel/Maß|Maß]] auf $(R, \mathscr{S})$, $\Theta \subseteq \mathbb{R}$ ein offenes Intervall mit
 - $\forall \vartheta \in \Theta : P_\vartheta^{X_1} \ll \mu$
 - $\forall \vartheta \in \Theta : P_\vartheta^{X_1}$ hat die [[zettel/μ-Dichte|μ-Dichte]] $f(x, \vartheta) \mid x \in R$
 - $\forall \vartheta_1, \vartheta_2 \in \Theta, \vartheta_1 \ne \vartheta_2 : P_{\vartheta_1}^{X_1} \ne P_{\vartheta_2}^{X_1}$

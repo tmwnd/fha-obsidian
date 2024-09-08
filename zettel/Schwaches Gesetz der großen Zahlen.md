@@ -1,4 +1,4 @@
-Sei $(\Omega, \mathcal{A}, P)$ ein [[zettel/Wahrscheinlichkeitsraum|Wahrscheinlichkeitsraum]]. $(X_n)_{n \in \mathbb{N}}$ reelle, [[zettel/Zufallsvariable/Stochastische Unabhängigkeit|unabhängige]] und identisch verteilte [[zettel/Zufallsvariable|Zufallsvariablen]], $\mu \in \mathbb{R}$ mit
+Sei $(\Omega, \mathcal{A}, P)$ ein [[zettel/Wahrscheinlichkeitsraum|Wahrscheinlichkeitsraum]]. $(X_n)_{n \in \mathbb{N}}$ reelle, [[zettel/Zufallsvariable/Stochastische Unabhängigkeit|unabhängige]], identisch verteilte [[zettel/Zufallsvariable|Zufallsvariablen]], $\mu \in \mathbb{R}$ mit
 - $\forall n \in \mathbb{N} : \text{E}[X_n] \lt \infty$ existiert
 - $\forall n \in \mathbb{N} : \text{E}[X_n] = \mu$
 

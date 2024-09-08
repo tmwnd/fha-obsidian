@@ -3,5 +3,5 @@ Sei $X$ eine [[zettel/Zufallsvariable|Zufallsvariable]], $x$ eine Beobachtung vo
 Ein *einseitiges statistisches Testproblem* ist definiert über die [[zettel/Testfunktion|Testfunktion]]
 
 $$
-	\varphi(x) := \underbrace{I(T(x) \gt c)}_\text{Ablehnungsbereich} + \underbrace{\gamma I(T(c) = c)}_\text{Randomisierungsbereich}
+	\varphi(x) := \underbrace{I(T(x) \gt c)}_\text{Ablehnungsbereich} + \underbrace{\gamma I(T(x) = c)}_\text{Randomisierungsbereich}
 $$
