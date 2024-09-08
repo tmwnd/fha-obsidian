@@ -15,7 +15,7 @@ $$
 	\frac{f_{\mu_1}(x)}{f_{\mu_0}(x)} = \left. \exp\left( \frac{1}{\sigma^2} \sum_{i=1}^n x_i(\mu_1 - \mu_0) - n\frac{\mu_1^2 - \mu_0^2}{2\sigma^2} \right) \ \right| \ x = (x_i)_{i \in \{ 1, \dots, n \}} \in \mathbb{R}^n
 $$
 
-Die *Gauß-Teststatistik* ist definiert als
+Die *Gauß-Teststatistik* $T$ ist definiert als
 
 $$
 	T(x) := \left. \frac{1}{\sqrt{n\sigma^2}} \sum_{i=1}^n (x_i - \mu_0) \ \right| \ x = (x_i)_{i \in \{ 1, \dots, n \}} \in \mathbb{R}^n

@@ -15,7 +15,7 @@ $$
 	\frac{f_{\sigma_1^2}(x)}{f_{\sigma_0^2}(x)} = \left. \left( \frac{\sigma_1^2}{\sigma_0^2} \right)^{-\frac{n}{2}} \exp\left( -\left( \frac{1}{2\sigma_1^2} - \frac{1}{2\sigma_0^2} \right) \sum_{i=1}^n (x_i - \mu)^2 \right) \ \right| \ x = (x_i)_{i \in \{ 1, \dots, n \}} \in \mathbb{R}^n
 $$
 
-Die *$\chi^2$-Teststatistik* ist definiert als
+Die *$\chi^2$-Teststatistik* $T$ ist definiert als
 
 $$
 	T(x) : \frac{1}{\sigma_0^2} \sum_{i=1}^n (x_i - \mu)^2 = \left. \sum_{i=1}^n \left( \frac{x_i - \mu}{\sigma_0} \right)^2 \ \right| \ x = (x_i)_{i \in \{ 1, \dots, n \}} \in \mathbb{R}^n

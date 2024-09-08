@@ -1,7 +1,7 @@
 Sei $X : (\Omega, \mathcal{A}) \to (R, \mathscr{S})$ eine [[zettel/Zufallsvariable|Zufallsvariable]], $x \in R$ eine Beobachtung von $X$, $\emptyset \ne \Theta$ eine Parametermenge, $\emptyset \ne \Theta_0 \subset \Theta$ mit
 - $\Theta, \Theta_0$ nicht einelementig
 
-Die *Likelihood-Quotienten-Teststatistik* ist definiert als
+Die *Likelihood-Quotienten-Teststatistik* $\Lambda$ ist definiert als
 
 $$
 	\Lambda(x) := \begin{cases}

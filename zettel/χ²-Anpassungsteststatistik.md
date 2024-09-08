@@ -8,9 +8,9 @@ Es gilt
 
 Sei $S := (S_i)_{i \in \{ 1, \dots, n-1 \}}$, $p := (p_i)_{i \in \{ 1, \dots, r-1 \}}$, $\pi := (\pi_i)_{i \in \{ 1, \dots, n-1 \}}$, $\Sigma := \text{diag}(\pi) - \pi\pi^2$ mit
 - $\text{H} \equiv p = \pi, \text{K} \equiv p \ne \pi$
-- $\Sigma^{-1} = \text{diag}((\frac{1}{\pi_i})_{i \in \{ 1, \dots, n-1 \}}) - \frac{1}{\pi} I_{(n-1) \times (n-1)}$
+- $\Sigma^{-1} = \text{diag}((\frac{1}{\pi_i})_{i \in \{ 1, \dots, n-1 \}}) - \frac{1}{\pi} \mathbb{1}_{(n-1) \times (n-1)}$
 
-Die $\chi^2$-Anpassungsteststatistik ist definiert als
+Die *$\chi^2$-Anpassungsteststatistik* $T$ ist definiert als
 
 $$
 	T_n(S) := \sum_{i=1}^{n-1} \frac{(S_i - m\pi_i)^2}{m\pi_i}
