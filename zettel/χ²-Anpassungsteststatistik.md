@@ -1,4 +1,4 @@
-Seien $(S_i)_{i \in \{ 1, \dots, n \}} \sim \mathfrak{M}(n, (p_i)_{i \in \{ 1, \dots, r \}})$ [[zettel/Zufallsvariable/Stochastische Unabhängigkeit|unabhängige]], identisch verteilte [[zettel/Zufallsvariable|Zufallsvariablen]], $(\pi_i)_{i \in \{ 1, \dots, n \}} \in (0, 1)$ beliebig, $\text{H} : \forall i \in \{ 1, \dots, n \} : p_i = \pi_i, \text{K} : \exists i \in \{ 1, \dots, n \} : p_i \ne \pi_i$ ein [[zettel/Statistisches Testproblem|statistisches Testproblem]], $\alpha$ das vorgegebene Testniveau mit
+Seien $(S_i)_{i \in \{ 1, \dots, n \}} \sim \mathfrak{M}(n, (p_i)_{i \in \{ 1, \dots, r \}})$ [[zettel/Zufallsvariable/Stochastische Unabhängigkeit|unabhängige]] [[zettel/Zufallsvariable|Zufallsvariablen]], $(\pi_i)_{i \in \{ 1, \dots, n \}} \in (0, 1)$ beliebig, $\text{H} : \forall i \in \{ 1, \dots, n \} : p_i = \pi_i, \text{K} : \exists i \in \{ 1, \dots, n \} : p_i \ne \pi_i$ ein [[zettel/Statistisches Testproblem|statistisches Testproblem]], $\alpha$ das vorgegebene Testniveau mit
 - $(p_i)_{i \in \{ 1, \dots, n \}} \in (0, 1)$ bekannt
 - $\sum_{i=1}^n p_i = 1$ 
 - $\sum_{i=1}^n \pi_i = 1$

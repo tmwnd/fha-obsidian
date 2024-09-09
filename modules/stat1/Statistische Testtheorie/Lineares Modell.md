@@ -1,3 +1,6 @@
 ![[zettel/Lineares Modell|Lineares Modell]]
 ![[zettel/_examples/t-Verteilung|t-Verteilung]]
 ![[zettel/_examples/F-Verteilung|F-Verteilung]]
+![[zettel/_examples/t-Test im Einstichprobenfall Normalverteilung Mittelwert|t-Test im Einstichprobenfall Normalverteilung Mittelwert]]
+![[zettel/_examples/Einfache Varianzanalyse|Einfache Varianzanalyse]]
+![[zettel/_examples/Einfache lineare Regression|Einfache lineare Regression]]

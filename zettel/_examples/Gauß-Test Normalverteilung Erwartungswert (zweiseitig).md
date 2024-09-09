@@ -1,4 +1,4 @@
-Seien $X = (X_i)_{i \in \{ 1 \dots, n \}} \sim \mathcal{N}(\mu, \sigma^2)$ [[zettel/Zufallsvariable/Stochastische Unabhängigkeit|unabhängige]], identisch verteilte [[zettel/Zufallsvariable|Zufallsvariablen]], $\mu_0 \in \mathbb{R}$ beliebig, $\text{H} : \mu = \mu_0, \text{K} : \mu \ne \mu_0$ ein [[zettel/Zweiseitiges statistisches Testproblem|zweiseitiges statistisches Testproblem]], $T(X)$ die [[zettel/Gauß-Teststatistik|Gauß-Teststatistik]], $\alpha$ das vorgegebene Testniveau mit
+Seien $X = (X_i)_{i \in \{ 1 \dots, n \}} \sim \mathcal{N}(\mu, \sigma^2)$ [[zettel/Zufallsvariable/Stochastische Unabhängigkeit|unabhängige]] [[zettel/Zufallsvariable|Zufallsvariablen]], $\mu_0 \in \mathbb{R}$ beliebig, $\text{H} : \mu = \mu_0, \text{K} : \mu \ne \mu_0$ ein [[zettel/Zweiseitiges statistisches Testproblem|zweiseitiges statistisches Testproblem]], $T(X)$ die [[zettel/Gauß-Teststatistik|Gauß-Teststatistik]], $\alpha$ das vorgegebene Testniveau mit
 - $\mu \in \mathbb{R}$ unbekannt
 - $\sigma^2 \gt 0$ bekannt
 

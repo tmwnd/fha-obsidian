@@ -1,4 +1,4 @@
-Seien $X = (X_i)_{i \in \{ 1 \dots, n \}} \sim \mathcal{N}(\mu, \sigma^2)$ [[zettel/Zufallsvariable/Stochastische Unabhängigkeit|unabhängige]] identisch verteilte [[zettel/Zufallsvariable|Zufallsvariablen]], $\mu_0 \in \mathbb{R}$ beliebig.
+Seien $X = (X_i)_{i \in \{ 1 \dots, n \}} \sim \mathcal{N}(\mu, \sigma^2)$ [[zettel/Zufallsvariable/Stochastische Unabhängigkeit|unabhängige]] [[zettel/Zufallsvariable|Zufallsvariablen]], $\mu_0 \in \mathbb{R}$ beliebig.
 
 Die [[zettel/Gütefunktion|Gütefunktion]] von $X$ ist definiert als
 

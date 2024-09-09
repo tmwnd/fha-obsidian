@@ -1,4 +1,4 @@
-Seien $X = (X_i)_{i \in \{ 1 \dots, n \}} \sim \mathcal{N}(\mu, \sigma^2)$ [[zettel/Zufallsvariable/Stochastische Unabhängigkeit|unabhängige]] identisch verteilte [[zettel/Zufallsvariable|Zufallsvariablen]], $\sigma_0^2, \sigma_1^2 \gt 0$ beliebig, $\text{H} : \sigma^2 = \sigma_0^2, \text{K} : \sigma^2 = \sigma_1^2$ ein [[zettel/Likelihood-Quotiententestproblem|Likelihood-Quotiententestproblem]], $\alpha \in (0, 1)$ das vorgegebene Testniveau  mit
+Seien $X = (X_i)_{i \in \{ 1 \dots, n \}} \sim \mathcal{N}(\mu, \sigma^2)$ [[zettel/Zufallsvariable/Stochastische Unabhängigkeit|unabhängige]] [[zettel/Zufallsvariable|Zufallsvariablen]], $\sigma_0^2, \sigma_1^2 \gt 0$ beliebig, $\text{H} : \sigma^2 = \sigma_0^2, \text{K} : \sigma^2 = \sigma_1^2$ ein [[zettel/Likelihood-Quotiententestproblem|Likelihood-Quotiententestproblem]], $\alpha \in (0, 1)$ das vorgegebene Testniveau  mit
 - $\mu \in \mathbb{R}$ bekannt
 - $\sigma^2 \gt 0$ unbekannt
 - $\sigma_0^2 \gt \sigma_1^2$

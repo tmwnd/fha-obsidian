@@ -1,4 +1,4 @@
-Seien $h, k, n \in \mathbb{N}_0$, $\mathcal{L} \subset \mathbb{R}^n$ ein beliebiger $k$-dimensionaler, linearer Teilraum, $\mathcal{L_0} \subset \mathcal{L}$ ein beliebiger $h$-dimensionaler, linearer Teilraum, $X = (X_n)_{i \in \{ 1, \dots, n \}} \sim \mathcal{N}(\mu, \sigma^2\mathbb{1}_n)$ ein [[zettel/Zufallsvariable/Stochastische Unabhängigkeit|unabhängiger]] [[zettel/Zufallsvariable|Zufallsvektor]], $\text{H} : \mu \in \mathcal{L}_0, \text{K} : \mu \in \mathcal{L} \setminus \mathcal{L}_0$ ein [[zettel/Likelihood-Quotiententestproblem|Likelihood-Quotiententestproblem]] mit
+Seien $h, k, n \in \mathbb{N}_0$, $\mathcal{L} \subset \mathbb{R}^n$ ein beliebiger $k$-dimensionaler, linearer Teilraum, $\mathcal{L_0} \subset \mathcal{L}$ ein beliebiger $h$-dimensionaler, linearer Teilraum, $X = (X_n)_{i \in \{ 1, \dots, n \}} \sim \mathcal{N}(\mu, \sigma^2\mathbb{1}_n)$ ein [[zettel/Zufallsvariable/Stochastische Unabhängigkeit|unabhängiger]] [[zettel/Zufallsvariable|Zufallsvektor]], $\text{H} : \mu \in \mathcal{L}_0, \text{K} : \mu \in \mathcal{L} \setminus \mathcal{L}_0$ ein [[zettel/Likelihood-Quotiententestproblem|Likelihood-Quotiententestproblem]], $\alpha$ das vorgegebene Testniveau mit
 - $\mu$ unbekannt
 - $\sigma^2$ unbekannt, uninteressant
 - $h \lt k \lt n$
@@ -30,3 +30,26 @@ Es gilt
 $$
 	\Lambda(X) \equiv T(X) := \frac{\frac{1}{k-h} |P_\mathcal{L}(X) - P_{\mathcal{L}_0}(X)|^2}{\frac{1}{n-k} |X - P_\mathcal{L}(X)|^2} = \frac{\frac{1}{k-h} \sum_{i=h+1}^k Y_i^2}{\frac{1}{n-k} \sum_{i=k+1}^n Y_i^2}
 $$
+
+Der [[zettel/Statistischer Test|statistischer Test]] $\varphi(X)$ des Linearen Modells ist definiert als
+
+$$
+	\varphi(X) := \begin{cases}
+		1, \quad & T(X) \gt c \\
+		0, \quad & T(X) \le c
+	\end{cases}
+$$
+
+mit
+- $T(X) \sim F_{k-h, n-k}$
+- $c := F_{k-h, n-k, 1-\alpha}$
+- $P_{\mu, \sigma^2}(T(X) \gt F_{k-h, n-k, 1-\alpha}) = \alpha$
+
+Falls $k-h = 1$, gilt
+
+$$
+	T(X) = t(X)^2 := \frac{|q_k^TX| \frac{1}{\sigma}}{\sqrt{\frac{1}{n-k} \sum_{i=k+1}^n (q_i^TX \frac{1}{\sigma})^2}} \sim t_{n-k}
+$$
+
+mit
+- $c := t_{n-k, 1-\frac{\alpha}{2}}$
