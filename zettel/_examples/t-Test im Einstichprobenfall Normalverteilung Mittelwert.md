@@ -29,7 +29,7 @@ $$
 $$
 
 mit
-- $t(X) \sim t_{n-1}$
+- $t(X) \sim t_{n-1}$, falls $\text{H}$ gültig ist
 - $c := t_{n-1, 1-\frac{\alpha}{2}}$
 
 ---

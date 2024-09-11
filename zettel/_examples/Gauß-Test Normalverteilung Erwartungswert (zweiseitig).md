@@ -12,6 +12,6 @@ $$
 $$
 
 mit
-- $c := \phi^{-1}(1 - \frac{\alpha}{2})$
+- $c := \phi^{-1}(1-\frac{\alpha}{2})$
 - $\text{E}_{\mu_0}[\varphi(X)] = P_{\mu_0}(T(X) \gt c) + P_{\mu_0}(T(X) \le -c) = \frac{\alpha}{2} + \frac{\alpha}{2} = \alpha$ $\implies$ $\varphi(X)$ ist der [[zettel/Statistischer Test/Gleichmäßige Bestheit|gleichmäßig beste]] [[zettel/Statistischer Test|statistische Test]] zum Testniveau $\alpha$ für das gegebene Testproblem
 - $\varphi(X)$ [[zettel/Statistischer Test/Gleichmäßige Bestheit|gleichmäßig bester]] [[zettel/Statistischer Test|statistische Test]] zum Testniveau $\alpha$ aller [[zettel/Statistischer Test/Unverfälschtheit|unverfälschten]] [[zettel/Statistischer Test|statistischen Tests]]

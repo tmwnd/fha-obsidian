@@ -41,7 +41,7 @@ $$
 $$
 
 mit
-- $T(X) \sim F_{k-h, n-k}$
+- $T(X) \sim F_{k-h, n-k}$, falls $\text{H}$ gültig ist
 - $c := F_{k-h, n-k, 1-\alpha}$
 - $P_{\mu, \sigma^2}(T(X) \gt F_{k-h, n-k, 1-\alpha}) = \alpha$
 

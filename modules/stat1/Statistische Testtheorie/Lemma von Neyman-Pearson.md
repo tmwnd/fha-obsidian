@@ -9,6 +9,5 @@
 ![[zettel/Statistischer Test/Unverfälschtheit|Unverfälschtheit]]
 ![[zettel/_examples/Gauß-Test Normalverteilung Erwartungswert (zweiseitig)|Gauß-Test Normalverteilung Erwartungswert (zweiseitig)]]
 ![[zettel/_examples/χ²-Verteilung|χ²-Verteilung]]
-![[zettel/χ²-Anpassungsteststatistik|χ²-Anpassungsteststatistik]]
 ![[zettel/χ²-Teststatistik|χ²-Teststatistik]]
 ![[zettel/_examples/χ²-Test Normalverteilung Varianz|χ²-Test Normalverteilung Varianz]]

@@ -1,0 +1,5 @@
+| Verteilung | gegeben | gesucht | Konfidenzbereich $K$ |
+|---|---|---|---|
+| $\mathcal{N}(\mu, \sigma^2)$ || $\mu$ | $B(X) := \left[ \overline{X} - \frac{t_{n-1, 1-\frac{\alpha}{2}}}{\sqrt{n}} \sqrt{\frac{1}{n-1}s^2}, \quad \overline{X} + \frac{t_{n-1, 1-\frac{\alpha}{2}}}{\sqrt{n}} \sqrt{\frac{1}{n-1}s^2} \right]$ |
+| $\mathcal{N}(\mu, \sigma^2)$ || $\sigma^2$ | $B(X) := \left[ \frac{s^2}{\chi_{n-1, 1-\frac{\alpha}{2}}^2}, \quad \frac{s^2}{\chi_{n-1, \frac{\alpha}{2}}^2} \right]$ |
+| $\mathcal{N}(a + by_i, Z_i)$ | $y_i$ | $a + by_i$ | $B(X) := \left[ \hat{a}(X) + \hat{b}(X)y_0 - t_{n-1, 1-\frac{\alpha}{2}} \sqrt{\frac{\sigma^2}{n-2} \left( 1 + \frac{(y_0 - \overline{y})^2}{\sigma_y^2} \right)}, \quad \hat{a}(X) + \hat{b}(X)y_0 + t_{n-1, 1-\frac{\alpha}{2}} \sqrt{\frac{\sigma^2}{n-2} \left( 1 + \frac{(y_0 - \overline{y})^2}{\sigma_y^2} \right)} \right]$ |

@@ -1,0 +1,1 @@
+![[zettel/χ²-Anpassungsteststatistik|χ²-Anpassungsteststatistik]]

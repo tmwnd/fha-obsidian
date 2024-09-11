@@ -31,7 +31,7 @@ $$
 $$
 
 mit
-- $T(X) \sim \mathcal{N}\left( \sqrt{n}\frac{\mu - \mu_0}{\sqrt{\sigma^2}}, 1 \right)$
+- $T(X) \sim \mathcal{N}\left( \sqrt{n}\frac{\mu - \mu_0}{\sqrt{\sigma^2}}, 1 \right)$, falls $\text{H}$ gültig ist
 - $c := \phi^{-1}(1-\alpha)$
 - $\forall x = (x_i)_{i \in \{ 1, \dots, n \}} \in \mathbb{R}^n : \frac{f_{\mu_1}(x)}{f_{\mu_0}(x)} \lesseqqgtr k \iff T(x) \lesseqqgtr c$
 

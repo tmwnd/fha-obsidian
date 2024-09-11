@@ -31,7 +31,7 @@ $$
 $$
 
 mit
-- $T(X) \sim \chi_n^2$
+- $T(X) \sim \chi_n^2$, falls $\text{H}$ gültig ist
 - $c := \chi_{n, 1-\alpha}^2$
 - $\forall x = (x_i)_{i \in \{ 1, \dots, n \}} \in \mathbb{R}^n : \frac{f_{\sigma_1^2}(x)}{f_{\sigma_0^2}(x)} \lesseqqgtr k \iff T(x) \lesseqqgtr c$
 

@@ -20,5 +20,5 @@ $$
 $$
 
 mit
-- $T(X) \sim F_{s-1, n-1}$
+- $T(X) \sim F_{s-1, n-1}$, falls $\text{H}$ gültig ist
 - $c := F_{s-1, n-1, 1-\alpha}$
