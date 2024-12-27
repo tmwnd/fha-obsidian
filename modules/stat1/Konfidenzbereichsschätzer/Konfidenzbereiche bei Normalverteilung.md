@@ -1,3 +1,6 @@
 ![[zettel/_examples/Konfidenzbereich Normalverteilung Mittelwert|Konfidenzbereich Normalverteilung Mittelwert]]
 ![[zettel/_examples/Konfidenzbereich Normalverteilung Varianz|Konfidenzbereich Normalverteilung Varianz]]
-![[zettel/Konfidenzbereich einfacher Lineare Regression|Konfidenzbereich einfacher Lineare Regression]]
+![[zettel/_examples/Konfidenzbereich einfacher Lineare Regression|Konfidenzbereich einfacher Lineare Regression]]
+![[zettel/_examples/Konfidenzbereich Binomialverteilung|Konfidenzbereich Binomialverteilung]]
+[[zettel/Konfidenzbereich Poisson-Verteilung|Konfidenzbereich Poisson-Verteilung]]
+![[zettel/Konfidenzintervalle Qualitätskriterium Volumen|Konfidenzintervalle Qualitätskriterium Volumen]]

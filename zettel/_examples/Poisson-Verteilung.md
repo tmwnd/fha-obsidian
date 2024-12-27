@@ -2,7 +2,7 @@ TODO
 
 ---
 
-Sei $X \sim \mathcal{P}(\lambda)$, $s \in \mathbb{R}$.
+Sei $X \sim \mathscr{P}(\lambda)$, $s \in \mathbb{R}$.
 
 Die [[zettel/Momenterzeugende Funktion|momentenerzeugende Funktion]] $M_X(s)$ ist definiert als
 

@@ -74,5 +74,29 @@ Es gilt
 Der [[zettel/Konfidenzbereichsschätzer|Konfidenzbereichsschätzer]] $B(X)$ für $a + by_0$ mit dem Konfidenzniveau $1-\alpha$ ist definiert als
 
 $$
-	B(X) := \left[ \hat{a}(X) + \hat{b}(X)y_0 - t_{n-1, 1-\frac{\alpha}{2}} \sqrt{\frac{\sigma^2}{n-2} \left( 1 + \frac{(y_0 - \overline{y})^2}{\sigma_y^2} \right)}, \quad \hat{a}(X) + \hat{b}(X)y_0 + t_{n-1, 1-\frac{\alpha}{2}} \sqrt{\frac{\sigma^2}{n-2} \left( 1 + \frac{(y_0 - \overline{y})^2}{\sigma_y^2} \right)} \right]
+	B(X) := \left[ \hat{a}(X) + \hat{b}(X)y_0 - c \sqrt{\frac{\sigma^2}{n-2} \left( 1 + \frac{(y_0 - \overline{y})^2}{\sigma_y^2} \right)}, \quad \hat{a}(X) + \hat{b}(X)y_0 + c \sqrt{\frac{\sigma^2}{n-2} \left( 1 + \frac{(y_0 - \overline{y})^2}{\sigma_y^2} \right)} \right]
+$$
+
+Es gilt
+
+$$
+	1-\alpha = P_{\alpha, \beta, \sigma^2}\left( (\hat{\alpha}(X) - \alpha)^2 + (\hat{\beta}(X) - \beta)^2 \le \frac{2}{n-2} F_{2, n-2, 1-\alpha} \hat{\sigma}^2(X) \right)
+$$
+
+sodass
+
+$$
+	\forall t \in \mathbb{R} : |\hat{\alpha}(X) - \alpha) + (\hat{\beta}(X) - \beta)t| \le \sqrt{1+t^2}\sqrt{(\hat{\alpha}(X) - \alpha)^2 + (\hat{\beta}(X) - \beta)^2}
+$$
+
+und
+
+$$
+	\forall \alpha, \beta \in \mathbb{R}, \sigma^2 \gt 0 : P_{\alpha, \beta, \sigma^2}\left( \forall t \in \mathbb{R} : |\hat{\alpha}(X) + \hat{\beta}(X)t - (\alpha + \beta t)| \le \sqrt{\frac{2}{n-2} F_{2, n-2, 1-\alpha} \hat{\sigma}^2(X)(1 - t^2)} \right) \ge 1-\alpha
+$$
+
+sodass die Grenzen des Konfidenzgürtelschätzers der Regressionsgeraden $\alpha + \beta t \mid t \in \mathbb{R}$ definiert sind als
+
+$$
+	\left. \hat{\alpha}(X) + \hat{\beta}(X)t \pm \sqrt{\frac{2}{n-2} F_{2, n-2, 1-\alpha} \hat{\sigma}^2(X) (1+t^2)} \ \right| \ t \in \mathbb{R}
 $$

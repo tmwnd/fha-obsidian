@@ -15,11 +15,14 @@ $$
 sodass
 
 $$
-	1 - \alpha = P_{\mu, \sigma^2}\left( \sqrt{n} \frac{|\overline{X} - \mu|}{\sqrt{\frac{1}{n-1}s^2}} \le t_{n-1, 1-\frac{\alpha}{2}} \right) = P_{\mu, \sigma^2}\left( \overline{X} - \frac{t_{n-1, 1-\frac{\alpha}{2}}}{\sqrt{n}} \sqrt{\frac{1}{n-1}s^2} \le \mu \le \overline{X} + \frac{t_{n-1, 1-\frac{\alpha}{2}}}{\sqrt{n}} \sqrt{\frac{1}{n-1}s^2} \right)
+	1 - \alpha = P_{\mu, \sigma^2}\left( \sqrt{n} \frac{|\overline{X} - \mu|}{\sqrt{\frac{1}{n-1}s^2}} \le c \right) = P_{\mu, \sigma^2}\left( \overline{X} - \frac{c}{\sqrt{n}} \sqrt{\frac{1}{n-1}s^2} \le \mu \le \overline{X} + \frac{c}{\sqrt{n}} \sqrt{\frac{1}{n-1}s^2} \right)
 $$
+
+mit
+- $c := t_{n-1, 1-\frac{\alpha}{2}}$
 
 Der [[zettel/Konfidenzbereichsschätzer|Konfidenzbereichsschätzer]] $B(X)$ für $\mu$ mit dem Konfidenzniveau $1-\alpha$ ist definiert als
 
 $$
-	B(X) := \left[ \overline{X} - \frac{t_{n-1, 1-\frac{\alpha}{2}}}{\sqrt{n}} \sqrt{\frac{1}{n-1}s^2}, \quad \overline{X} + \frac{t_{n-1, 1-\frac{\alpha}{2}}}{\sqrt{n}} \sqrt{\frac{1}{n-1}s^2} \right]
+	B(X) := \left[ \overline{X} - \frac{c}{\sqrt{n}} \sqrt{\frac{1}{n-1}s^2}, \quad \overline{X} + \frac{c}{\sqrt{n}} \sqrt{\frac{1}{n-1}s^2} \right]
 $$
