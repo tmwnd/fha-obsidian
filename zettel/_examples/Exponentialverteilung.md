@@ -10,7 +10,7 @@ Die [[zettel/Verteilungsfunktion|Verteilungsfunktion]] einer reelwertigen [[zett
 
 $$
 	F(x) = \begin{cases}
-		0, & x \ge 0 \\
+		0 & x \ge 0 \\
 		\int_0^x e_\lambda(t) dt & x \gt 0
 	\end{cases}
 $$

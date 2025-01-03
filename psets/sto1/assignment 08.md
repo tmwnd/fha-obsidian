@@ -2,8 +2,8 @@
 	
 	$$
 		f(x) = \begin{cases}
-			\alpha x^2(1-x), & 0 \le x \le 1, \\
-			0, & \text{sonst}
+			\alpha x^2(1-x) & 0 \le x \le 1, \\
+			0 & \text{sonst}
 		\end{cases}
 	$$
 	

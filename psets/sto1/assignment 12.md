@@ -2,8 +2,8 @@
 	
 	$$
 		f(x) = \begin{cases}
-			\frac{1}{\pi\sqrt{1-x^2}}, & -1 \lt x \lt 1 \\
-			0, & \text{sonst}
+			\frac{1}{\pi\sqrt{1-x^2}} & -1 \lt x \lt 1 \\
+			0 & \text{sonst}
 		\end{cases}
 	$$
 	

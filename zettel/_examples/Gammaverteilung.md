@@ -16,8 +16,8 @@ Die [[zettel/Verteilungsfunktion|Verteilungsfunktion]] einer reelwertigen [[zett
 
 $$
 	F(x) = P(X \le x) = \begin{cases}
-		0, & x \le 0 \\
-		\int_0^x g_{a, \lambda}(t) dt, & x \gt 0
+		0 & x \le 0 \\
+		\int_0^x g_{a, \lambda}(t) dt & x \gt 0
 	\end{cases}
 $$
 

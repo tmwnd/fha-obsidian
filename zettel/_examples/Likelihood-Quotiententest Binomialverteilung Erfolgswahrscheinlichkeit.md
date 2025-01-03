@@ -7,15 +7,15 @@ Der [[zettel/Testfunktion|Testfunktion]] $\varphi : \{ 0, \dots, n \} \to [0, 1]
 
 $$
 	\varphi(x) := \left. \begin{cases}
-		1, \quad & x \gt c \\
-		\gamma, \quad & x = c \\
-		0, \quad & x \lt c
+		1 & x \gt c \\
+		\gamma & x = c \\
+		0 & x \lt c
 	\end{cases} \ \right| \ x \in \{ 0, \dots, n \}
 $$
 
 mit
 - $c := \min\{ x \in \{ 0, \dots, n \} \mid P_{p_0}(X \gt x) \le \alpha \}$ das kleinste $(1-\alpha)$-Quantil von $\mathfrak{B}(n, p_0)$
-- $\gamma := \begin{cases} \frac{\alpha - P_{p_0}(X \gt c)}{P_{p_0}(X = c)} \in (0, 1], \quad & P_{p_0}(X \gt c) \lt \alpha \\ 0, \quad & P_{p_0}(X = c) = 0 \end{cases}$
+- $\gamma := \begin{cases} \frac{\alpha - P_{p_0}(X \gt c)}{P_{p_0}(X = c)} \in (0, 1] & P_{p_0}(X \gt c) \lt \alpha \\ 0 & P_{p_0}(X = c) = 0 \end{cases}$
 
 Der Likelihood-Quotient ist definiert als
 

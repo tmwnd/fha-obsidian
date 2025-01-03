@@ -23,8 +23,8 @@ Der [[zettel/Statistischer Test|statistischer Test]] $\varphi(X)$ des $t$-Tests 
 
 $$
 	\varphi(X) := \begin{cases}
-		1, \quad & t(X) \gt c \\
-		0, \quad & t(X) \le c
+		1 & t(X) \gt c \\
+		0 & t(X) \le c
 	\end{cases}
 $$
 

@@ -5,7 +5,7 @@ Eine [[zettel/Testfunktion|Testfunktion]] $\varphi : (R, \mathscr{S}) \to (\{ 0,
 
 $$
 	\exists k \in [0, \infty), \forall x \in \{ f_1(x) \ne kf_0(x) \} : \varphi(x) \overset{\mu\text{-f. s.}}{=} \begin{cases}
-		1, \quad f_1(x) \gt kf_0 \\
-		0, \quad f_1(x) \lt kf_0
+		1 & f_1(x) \gt kf_0 \\
+		0 & f_1(x) \lt kf_0
 	\end{cases}
 $$

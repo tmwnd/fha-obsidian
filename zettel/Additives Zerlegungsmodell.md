@@ -1,4 +1,4 @@
-Sei $(X_t)_{t \in \mathbb{N}}$ eine Zeitreihe.
+Sei $(X_t)_{t \in \mathbb{N}}$ eine [[zettel/Zeitreihe|Zeitreihe]].
 
 Das *additive Zerlegungsmodell* $(\mu_t + \epsilon_t)_{t \in \mathbb{N}}$ ist definiert über
 - $\forall t \in \mathbb{N} : \mu_t := \text{E}[X_t]$ deterministisches *Signal* bzw. *Trend*

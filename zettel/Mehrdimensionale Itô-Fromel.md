@@ -3,8 +3,8 @@ Sei $X = (X^i)_{i \in \{ 1, \dots, d \}} : [0, \overline{T}] \to \mathbb{R}^d$ s
 Es gilt
 $$
 	[X^k, X^l]_t = \begin{cases}
-		[X^k]_t, & k=l \\
-		\frac{1}{2} ([X^k + X^l]_t - [X^k]_t - [X^l]_t), & k \ne l
+		[X^k]_t & k=l \\
+		\frac{1}{2} ([X^k + X^l]_t - [X^k]_t - [X^l]_t) & k \ne l
 	\end{cases}
 $$
 

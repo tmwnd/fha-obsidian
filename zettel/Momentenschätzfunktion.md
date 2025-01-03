@@ -18,7 +18,7 @@ Die *Momentenschätzfunktion* $\text{mo} : \mathbb{R}^k \to \mathbb{R}^k$ ist de
 
 $$
 	\text{mo}(t) := \begin{cases}
-		g(t), & t \in \mathcal{M} \\
-		\vartheta_0, & t \notin \mathcal{M}
+		g(t) & t \in \mathcal{M} \\
+		\vartheta_0 & t \notin \mathcal{M}
 	\end{cases}
 $$

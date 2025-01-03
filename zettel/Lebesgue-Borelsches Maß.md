@@ -24,9 +24,9 @@ Die [[zettel/Verteilungsfunktion|Verteilungsfunktion]] $F : \mathbb{R} \to \math
 
 $$
 	F(x):= \begin{cases}
-		0, & x \le a \\
-		\int_a^x f(t) dt, & a \lt x \le b \\
-		1, & x \gt b
+		0 & x \le a \\
+		\int_a^x f(t) dt & a \lt x \le b \\
+		1 & x \gt b
 	\end{cases}
 $$
 

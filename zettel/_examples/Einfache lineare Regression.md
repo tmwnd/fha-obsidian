@@ -28,8 +28,8 @@ Der [[zettel/Statistischer Test|statistischer Test]] $\varphi(X)$ der einfachen 
 
 $$
 	\varphi(X) := \begin{cases}
-		1, \quad & T(X) \gt c \\
-		0, \quad & T(X) \le c
+		1 \quad & T(X) \gt c \\
+		0 \quad & T(X) \le c
 	\end{cases}
 $$
 

@@ -9,3 +9,6 @@
 ![[zettel/Multiplikatives Zerlegungsmodell|Multiplikatives Zerlegungsmodell]]
 ![[zettel/Lokal lineare Schätzung|Lokal lineare Schätzung]]
 ![[zettel/_edges/Fourier-Transformation Additves Zerlegungsmodell mit saisonaler Komponente|Fourier-Transformation Additves Zerlegungsmodell mit saisonaler Komponente]]
+
+![[modules/zeitreihen/Zeitreihen und stochastische Prozesse|Zeitreihen und stochastische Prozesse]]
+![[modules/zeitreihen/Mathematische Grundlagen|Mathematische Grundlagen]]

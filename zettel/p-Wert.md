@@ -4,8 +4,8 @@ Der $p$-Wert ist definiert als
 
 $$
 	p := \begin{cases}
-		P_0(T(X) \ge T(x)), \quad & \varphi(X) \text{ einseitig (rechtsstetig)} \\
-		P_0(T(X) \le T(x)), \quad & \varphi(X) \text{ einseitig (linksstetig)} \\
-		2 \cdot \min(P_0(T(X) \le T(x)), P_0(T(X)) \ge T(x))), \quad & \varphi(X) \text{ zweiseitig}
+		P_0(T(X) \ge T(x)) & \varphi(X) \text{ einseitig (rechtsstetig)} \\
+		P_0(T(X) \le T(x)) & \varphi(X) \text{ einseitig (linksstetig)} \\
+		2 \cdot \min(P_0(T(X) \le T(x)), P_0(T(X)) \ge T(x))) & \varphi(X) \text{ zweiseitig}
 	\end{cases}
 $$

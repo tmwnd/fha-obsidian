@@ -17,9 +17,9 @@ $$
 
 $$
 	x \cdot \pm \infty = \pm \infty \cdot x = \begin{cases}
-		\pm \infty, & x \gt 0 \\
-		0, & x = 0 \\
-		\mp \infty, & x \lt 0
+		\pm \infty & x \gt 0 \\
+		0 & x = 0 \\
+		\mp \infty & x \lt 0
 	\end{cases}
 $$
 

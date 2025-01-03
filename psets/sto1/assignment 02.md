@@ -2,8 +2,8 @@
 
 	$$
 		F(x) = \begin{cases}
-			0, & x \lt 0 \\
-			1 - \frac{1}{2}e^{-x}, & x \ge 0
+			0 & x \lt 0 \\
+			1 - \frac{1}{2}e^{-x} & x \ge 0
 		\end{cases}
 	$$
 	
@@ -13,8 +13,8 @@
 	
 	$$
 		\delta_a(B) = \begin{cases}
-			1, & a \in B \\
-			0, & a \notin B
+			1 & a \in B \\
+			0 & a \notin B
 		\end{cases}
 	$$
 	

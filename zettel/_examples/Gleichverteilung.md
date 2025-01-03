@@ -7,13 +7,13 @@ Die [[zettel/Verteilungsfunktion|Verteilungsfunktion]] einer reelwertigen [[zett
 
 $$
 	F(x) = P(x \le x) = \begin{cases}
-		0, & x \le a \\
-		\int_a^x r(t) dt, & a \lt x \le b \\
-		1, & x \gt b
+		0 & x \le a \\
+		\int_a^x r(t) dt & a \lt x \le b \\
+		1 & x \gt b
 	\end{cases} = \begin{cases}
-		0, & x \le a \\
-		\frac{x - a}{b - a}, & a \lt x \le b \\
-		1, & x \gt b
+		0 & x \le a \\
+		\frac{x - a}{b - a} & a \lt x \le b \\
+		1 & x \gt b
 	\end{cases}
 $$
 

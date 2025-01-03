@@ -1,4 +1,4 @@
-Sei $(X_t)_{t \in \mathbb{N}}$ eine Zeitreihe.
+Sei $(X_t)_{t \in \mathbb{N}}$ eine [[zettel/Zeitreihe|Zeitreihe]].
 
 Das *multiplikatives Zerlegungsmodell* $(\mu_t \cdot s_t \cdot \epsilon_t)_{t \in \mathbb{N}}$ ist definiert über
 - $\forall t \in \mathbb{N} : \mu_t$ deterministisches *Signal* bzw. *Trend*
