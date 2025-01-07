@@ -2,7 +2,7 @@ Sei $(X_t)_{t \in \mathbb{Z}}$ eine [[zettel/Zufallsvariable/Stochastische Unabh
 - $\forall t \in \mathbb{Z} : \mu_t = \mu$
 - $\forall t \in \mathbb{Z} : \text{Var}[X_t] = \sigma^2$
 
-Der Schätzer $(\hat{\mu}_n)_{n \in \mathbb{N}}$ für $\mu$ ist definiert als
+Der [[zettel/Schätzer|Schätzer]] $(\hat{\mu}_n)_{n \in \mathbb{N}}$ für $\mu$ ist definiert als
 
 $$
 	\forall n \in \mathbb{N} : \hat{\mu}_n := \frac{1}{n} \sum_{t=1}^n X_t

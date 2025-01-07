@@ -3,7 +3,7 @@ Sei $Y = m(X) + Z$ ein [[zettel/Nichtparametrisches Regressionsmodell|Nichtparam
 - $\forall x, y \in \mathbb{R} : \hat{f}_{(X, Y)}(x, y) := \frac{1}{n} \sum_{i=1}^n K_h(x - X_i)K_h(y - Y_i)$
 - $\forall x \in \mathbb{R} : \hat{f}_X(x) := \frac{1}{n} \sum_{i=1}^n K_h(x - X_i)$
 
-Der *Nadaraya-Watson-Schätzer* ist definiert als
+Der *Nadaraya-Watson-[[zettel/Schätzer|Schätzer]]* ist definiert als
 
 $$
 	\forall x \in \mathbb{R} : \hat{m}(x) := \int_\mathbb{R} y \frac{\hat{f}_{(X, Y)}(x, y)}{\hat{f}_X(x)} dy = \frac{\sum_{i=1}^n K_h(x - X_i)Y_i}{\sum_{i=1}^n K_h(x - X_i)}

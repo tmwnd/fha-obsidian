@@ -6,4 +6,4 @@ $$
 	\forall t \in \mathbb{N} : \hat{\mu}_t := \frac{1}{2b+1} \sum_{i=t-b}^{t+b} X_i
 $$
 
-Das gleitende Mittel ist der Schätzer für das Signal eines [[zettel/Additives Zerlegungsmodell|additives Zerlegungsmodells]].
+Das gleitende Mittel ist der [[zettel/Schätzer|Schätzer]] für das Signal eines [[zettel/Additives Zerlegungsmodell|additives Zerlegungsmodells]].

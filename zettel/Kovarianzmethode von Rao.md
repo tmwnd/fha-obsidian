@@ -7,7 +7,7 @@ $$
 	D := \{ d : (R, \mathscr{S}) \to (\mathbb{R}, \mathscr{B}) \mid \forall \vartheta \in \Theta : \text{E}_\vartheta[d(X)] = 0 \}
 $$
 
-$d^*(X)$ ist genau dann ein *gleichmäßig bester erwartungstreuer Schätzer*, falls
+$d^*(X)$ ist genau dann ein *gleichmäßig bester erwartungstreuer [[zettel/Schätzer|Schätzer]]*, falls
 
 $$
 	\forall \vartheta \in \Theta, \forall d \in D : \text{Cov}_\vartheta[d^*(X), d(X)] = 0

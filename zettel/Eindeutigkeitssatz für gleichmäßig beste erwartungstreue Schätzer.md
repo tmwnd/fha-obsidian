@@ -1,4 +1,4 @@
-Seien $d_1^*(X), d_2^*(X)$ gleichmäßig beste erwartungstreue Schätzer für $\delta(\vartheta)$.
+Seien $d_1^*(X), d_2^*(X)$ gleichmäßig beste erwartungstreue [[zettel/Schätzer|Schätzer]] für $\delta(\vartheta)$.
 
 Es gilt
 

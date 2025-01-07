@@ -1,4 +1,4 @@
-Sei $(W_t)_{t \in \mathbb{R}_0}$ ein [[zettel/Wiener Prozess|Wiener Prozess]], $\mu \in \mathbb{R}$, $\sigma, S_0 \in \mathbb{R}_+$ mit
+Sei $(W_t)_{t \in \mathbb{R}_0}$ eine [[zettel/Wiener Prozess|Wiener Prozess]], $\mu \in \mathbb{R}$, $\sigma, S_0 \in \mathbb{R}_+$ mit
 - $\forall t \in \mathbb{R}_0 : X_t := \sigma W_t$
 - $\forall t \in \mathbb{R}_0 : Y_t := (\mu - \frac{1}{2}\sigma^2)t$
 - $[X]_t = [\sigma W]_t = \sigma^2[W]_t = \sigma^2t$
