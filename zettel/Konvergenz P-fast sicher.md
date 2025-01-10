@@ -15,7 +15,7 @@ Schreibe
 
 Seien $X, (X_n)_{n \in \mathbb{N}}$ [[zettel/Zufallsvariable|Zufallsvariablen]].
 
-$X_n \overset{P\text{-f. s.}}{\longrightarrow} X$ gilt falls
+$X_n \overset{P\text{-f. s.}}{\longrightarrow} X$ gilt, falls
 - $P(\lim_{n \to \infty} X_n = X) = 1$
 
 ---
@@ -30,7 +30,7 @@ $X \overset{P\text{-f. s.}}{=} X'$ gilt, falls
 
 Sei $d, m \in \mathbb{N}$, $X, (X_n)_{n \in \mathbb{N}}$ [[zettel/Zufallsvariable|Zufallsvariablen]], $f : \mathbb{R}^d \to \mathbb{R}^m$ $P$-fast sicher stetig.
 
-$f \circ X_n \overset{P\text{-f. s.}}{\longrightarrow} f \circ X$ gilt falls
+$f \circ X_n \overset{P\text{-f. s.}}{\longrightarrow} f \circ X$ gilt, falls
 - $X_n \overset{P\text{-f. s.}}{\longrightarrow} X$
 
 ---

@@ -1,18 +1,18 @@
 TODO
 
-Sei $(\Omega, d)$ ein metrischer Raum, $A \subseteq \Omega$, $\omega \in \Omega$, $\epsilon \gt 0$.
+Sei $(\Omega, d)$ ein metrischer Raum, $A \subseteq \Omega$, $\omega \in \Omega$, $\varepsilon \gt 0$.
 
 Es sei definiert
-- Die *$\epsilon$-Kugel* um $\omega$
+- Die *$\varepsilon$-Kugel* um $\omega$
 
 $$
-	K_\epsilon(\omega) = \{ \omega' \in \Omega \mid d(\omega, \omega') \lt \epsilon \}
+	K_\varepsilon(\omega) = \{ \omega' \in \Omega \mid d(\omega, \omega') \lt \varepsilon \}
 $$
 
 - Der *Rand* von $A$
 
 $$
-	\partial A = \{ \omega \in \Omega \mid \forall \epsilon \gt 0 : K_\epsilon(\omega) \cap A \ne \emptyset \land K_\epsilon(\omega) \cap A^\complement \ne \emptyset \}
+	\partial A = \{ \omega \in \Omega \mid \forall \varepsilon \gt 0 : K_\varepsilon(\omega) \cap A \ne \emptyset \land K_\varepsilon(\omega) \cap A^\complement \ne \emptyset \}
 $$
 
 - $A$ heißt *offen*, falls $A = A \setminus \partial A$

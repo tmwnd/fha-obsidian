@@ -1,10 +1,10 @@
-Sei $(\epsilon_t)_{t \in \mathbb{Z}} \sim \text{WN}(0, \sigma^2)$, $(\psi_i)_{i \in \mathbb{Z}} \in \mathbb{R}$ mit
-- $\sum_{i=-\infty}^\infty |\psi_i| \lt \infty$
+Sei $(\varepsilon_t)_{t \in \mathbb{Z}} \sim \text{WN}(0, \sigma^2)$, $(\psi_i)_{i \in \mathbb{Z}} \in \mathbb{R}$ eine Folge mit
+- $\sum_{i \in \mathbb{Z}} |\psi_i| \lt \infty$
 
 Die [[zettel/Zeitreihe|Zeitreihe]] $(X_t)_{t \in \mathbb{Z}}$ heißt *Linearer Prozess* und ist definiert als
 
 $$
-	\forall t \in \mathbb{Z} : X_t := \sum_{i=-\infty}^\infty \psi_i B^i(\epsilon_t)
+	\forall t \in \mathbb{Z} : X_t := \sum_{i \in \mathbb{Z}} \psi_i B^i(\varepsilon_t)
 $$
 
 Es gilt

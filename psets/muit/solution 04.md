@@ -1,14 +1,14 @@
 ![[psets/muit/assignment 04#^1|assignment 04]]
 
-Sei $\lambda$ das $\sigma$-[[zettel/Maß|endliche]] TODO [[zettel/Lebesgue-Borelsches Maß|Lebesgue-Borelsches Maß]], $\epsilon_x$ das [[zettel/Dirac-Maß|Einpunktmaß]], $\mathcal{N}_\lambda$ das [[zettel/μ-Nullmenge|System der Nullmengen]] auf $\lambda$, $\mathcal{N}_{\epsilon_x}$ das [[zettel/μ-Nullmenge|System der Nullmengen]] auf $\epsilon_x$.
+Sei $\lambda$ das $\sigma$-[[zettel/Maß|endliche]] TODO [[zettel/Lebesgue-Borelsches Maß|Lebesgue-Borelsches Maß]], $\varepsilon_x$ das [[zettel/Dirac-Maß|Einpunktmaß]], $\mathcal{N}_\lambda$ das [[zettel/μ-Nullmenge|System der Nullmengen]] auf $\lambda$, $\mathcal{N}_{\varepsilon_x}$ das [[zettel/μ-Nullmenge|System der Nullmengen]] auf $\varepsilon_x$.
 
-$\epsilon_x$ hat eine $\lambda$-[[zettel/μ-Dichte|Dichte]], falls
-- $\epsilon_x$ $\lambda$-[[zettel/Maß/μ-Stetigkeit|stetig]] ist
+$\varepsilon_x$ hat eine $\lambda$-[[zettel/μ-Dichte|Dichte]], falls
+- $\varepsilon_x$ $\lambda$-[[zettel/Maß/μ-Stetigkeit|stetig]] ist
 
-$\epsilon_x$ ist $\lambda$-stetig, falls
-- $\forall N \in \mathcal{N}_\lambda : N \in \mathcal{N}_{\epsilon_x}$
+$\varepsilon_x$ ist $\lambda$-stetig, falls
+- $\forall N \in \mathcal{N}_\lambda : N \in \mathcal{N}_{\varepsilon_x}$
 
-$\unicode{x21af}$: $\{ x \} \in \mathcal{N}_\lambda \land \{ x \} \notin \mathcal{N}_{\epsilon_x}$
+$\unicode{x21af}$: $\{ x \} \in \mathcal{N}_\lambda \land \{ x \} \notin \mathcal{N}_{\varepsilon_x}$
 
 ---
 

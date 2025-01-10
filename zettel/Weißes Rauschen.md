@@ -8,3 +8,6 @@ Schreibe
 $$
 	(X_t)_{t \in \mathbb{Z}} \sim \text{WN}(0, \sigma^2)
 $$
+
+Es gilt
+- $(X_t)_{t \in \mathbb{R}}$ ist [[zettel/Zeitreihe/Schwache Stationarität|schwach staionär]]

@@ -1,6 +1,6 @@
 Sei $(X_t)_{t \in \mathbb{N}} \sim \text{AR}(1)$.
 
-Die [[zettel/Partielle Autokorrelationsfunktion (PACF)|PACF]] ist gegeben durch
+Die [[zettel/PACF|PACF]] ist gegeben durch
 
 $$
 	\forall h \in \mathbb{Z} : \tau(h) = \begin{cases}

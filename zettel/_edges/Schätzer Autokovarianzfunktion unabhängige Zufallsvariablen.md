@@ -1,7 +1,7 @@
 Sei $(X_t)_{t \in \mathbb{Z}}$ eine [[zettel/Zufallsvariable/Stochastische Unabhängigkeit|unabhängige]] [[zettel/Zeitreihe/Schwache Stationarität|schwach stationäre]] [[zettel/Zeitreihe|Zeitreihe]], $\mu := \mu_0$, $(\mu_n)_{n \in \mathbb{N}}$ ein [[zettel/Schätzer|Schätzer]] für $\mu$ mit
 - $\forall t \in \mathbb{Z} : \mu_t = \mu$
 
-Die [[zettel/Schätzer|Schätzer]] der [[zettel/Autokovarianzfunktion (ACVF)|ACVF]] $\hat{\gamma} : \mathbb{Z} \to \mathbb{R}$ ist definiert als
+Die [[zettel/Schätzer|Schätzer]] der [[zettel/ACVF|ACVF]] $\hat{\gamma} : \mathbb{Z} \to \mathbb{R}$ ist definiert als
 
 $$
 	\forall h \in \mathbb{Z} : \hat{\gamma}(h) := \begin{cases}

@@ -1,4 +1,4 @@
-Sei $(X_t)_{t \in \{ 1, \dots, n \}} = (\mu_t + s_t + \epsilon_t)_{t \in \{ 1, \dots, n \}}$ ein  [[zettel/Additives Zerlegungsmodell mit saisonaler Komponente|additives Zerlegungsmodell mit saisonaler Komponente]].
+Sei $(X_t)_{t \in \{ 1, \dots, n \}} = (\mu_t + s_t + \varepsilon_t)_{t \in \{ 1, \dots, n \}}$ ein  [[zettel/Additives Zerlegungsmodell mit saisonaler Komponente|additives Zerlegungsmodell mit saisonaler Komponente]].
 
 Die *diskrete Fourier-Transformation* $(\hat{X}_f)_{f \in \{ 0, \dots, n-1 \}}$ von $(X_t)_{t \in \{ 1, \dots, n \}}$ ist definiert als
 

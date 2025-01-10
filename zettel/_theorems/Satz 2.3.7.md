@@ -1,6 +1,6 @@
 Sei $(\Omega, \mathcal{A}, \mu)$ ein [[zettel/Maßraum|Maßraum]], $(A_n)_{n \in \mathbb{N}} \subseteq \mathcal{A}$.
 
-Es gelten folgende [[zettel/Konvergenz|Konvergenzaussagen]]
+Es gelten folgende Konvergenzaussagen
 - Falls $A_n \uparrow A$ gilt die *$\sigma$-Stetigkeit von unten*
 
 $$

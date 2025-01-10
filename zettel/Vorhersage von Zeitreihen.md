@@ -43,7 +43,7 @@ $$
 	\end{pmatrix}
 $$
 
-Falls die [[zettel/Autokovarianzfunktion (ACVF)|ACVF]] unbekannt ist, ist die [[zettel/Empirische Autokorrelation (emp. ACF)|emp. ACF]] zu nutzen
+Falls die [[zettel/ACVF|ACVF]] unbekannt ist, ist die [[zettel/Emp. ACF|emp. ACF]] zu nutzen
 
 $$
 	\begin{pmatrix}

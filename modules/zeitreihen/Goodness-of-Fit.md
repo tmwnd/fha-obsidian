@@ -1,0 +1,7 @@
+![[zettel/Einfacher Goodness-of-Fit-Test|Einfacher Goodness-of-Fit-Test]]
+![[zettel/Portmanteau-Test|Portmanteau-Test]]
+![[zettel/Ljung-Box-Test|Ljung-Box-Test]]
+![[zettel/Rank-Test|Rank-Test]]
+![[zettel/_edges/Zeitreihe Wendepunkt|Zeitreihe Wendepunkt]]
+![[zettel/Wendepunkt-Test|Wendepunkt-Test]]
+![[zettel/Gaußsches weißes Rauschen|Gaußsches weißes Rauschen]]

@@ -8,7 +8,7 @@ Wir betrachten folgende Aussagen
 - a) $\exists \delta \gt 0, \forall n \in \mathbb{N}, l \in \{ 1, \dots, k_n \} : \text{E}\left[ |X_{n, l}|^{2+\delta} \right] \lt \infty$ und die [[zettel/Ljapunow-Bedingung|Ljapunow-Bedingung]] ist erfüllt
 - b) Die [[zettel/Lindeberg-Bedingung|Lindeberg-Bedingung]] ist erfüllt
 - c) Der [[zettel/Zentraler Grenzwertsatz von Lindeberg-Lévy|Zentraler Grenzwertsatz von Lindeberg-Lévy]] gilt und der [[zettel/Feller-Bedingung|Feller-Bedingung]] ist erfüllt
-- d) Der [[zettel/Zentraler Grenzwertsatz von Lindeberg-Lévy|Zentraler Grenzwertsatz von Lindeberg-Lévy]] gilt und $\forall \epsilon \gt 0 : \lim_{n \to \infty} \max_{l \in \{ 1, \dots, k_n \}} P\left(\left| \frac{X_{n, l}}{s_n} \right| \ge \epsilon \right) = 0$
+- d) Der [[zettel/Zentraler Grenzwertsatz von Lindeberg-Lévy|Zentraler Grenzwertsatz von Lindeberg-Lévy]] gilt und $\forall \varepsilon \gt 0 : \lim_{n \to \infty} \max_{l \in \{ 1, \dots, k_n \}} P\left(\left| \frac{X_{n, l}}{s_n} \right| \ge \varepsilon \right) = 0$
 - e) Der [[zettel/Zentraler Grenzwertsatz von Lindeberg-Lévy|Zentraler Grenzwertsatz von Lindeberg-Lévy]] gilt
 
 Es gilt

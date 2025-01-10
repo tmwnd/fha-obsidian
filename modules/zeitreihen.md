@@ -12,3 +12,4 @@
 
 ![[modules/zeitreihen/Zeitreihen und stochastische Prozesse|Zeitreihen und stochastische Prozesse]]
 ![[modules/zeitreihen/Mathematische Grundlagen|Mathematische Grundlagen]]
+![[modules/zeitreihen/Stationärtests|Stationärtests]]

@@ -16,8 +16,8 @@ $$
 $$
 
 und
-- $\forall k \in \{ 1, \ldots, n \} : \sum_{t=1}^k \text{E}[X_t] - \frac{k}{n} \sum_{i=1}^n \text{E}[X_t] = 0$ bzw. $\sqrt{n}T_n^{(2)} \overset{V}{\longrightarrow} \hat{\sigma}q_{1-\alpha}$ falls $\text{H}$ gilt
-- $\sum_{t=1}^{k^*} \text{E}[X_t] - \frac{k^*}{n} \sum_{t=1}^n \text{E}[X_t] = \frac{(n-k^*)k^*}{n} (\mu_1 - \mu_2)$ bzw. $\sqrt{n}T_n^{(2)} \overset{V}{\longrightarrow} \infty$ falls $\text{K}$ gilt
+- $\forall k \in \{ 1, \ldots, n \} : \sum_{t=1}^k \text{E}[X_t] - \frac{k}{n} \sum_{i=1}^n \text{E}[X_t] = 0$ bzw. $\sqrt{n}T_n^{(2)} \overset{V}{\longrightarrow} \hat{\sigma}q_{1-\alpha}$, falls $\text{H}$ gültig ist
+- $\sum_{t=1}^{k^*} \text{E}[X_t] - \frac{k^*}{n} \sum_{t=1}^n \text{E}[X_t] = \frac{(n-k^*)k^*}{n} (\mu_1 - \mu_2)$ bzw. $\sqrt{n}T_n^{(2)} \overset{V}{\longrightarrow} \infty$, falls $\text{K}$ gültig ist
 
 Verwerfe $\text{H}$, falls
 

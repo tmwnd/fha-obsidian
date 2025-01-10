@@ -1,6 +1,6 @@
 Sei $\mathcal{R}$ ein [[zettel/Ring|Ring]] auf $\Omega$ und $\mu : \mathcal{R} \to \overline{\mathbb{R}}_+$ ein endlich-additives [[zettel/Maß|Maß]].
 
-Wir betrachten die folgenden [[zettel/Konvergenz|Konvergenz]]-Aussagen:
+Wir betrachten die folgenden Konvergenzaussagen:
 - a) $\mu$ ist $\sigma$-additiv
 - b) Stetigkeit von unten:
 	- $(A_n)_{n \in \mathbb{N}} \in \mathcal{R}$ mit $A_n \uparrow A \in \mathcal{R} \implies$
