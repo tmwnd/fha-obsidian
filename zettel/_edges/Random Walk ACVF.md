@@ -1,4 +1,4 @@
-Sei $(X_t)_{t \in \mathbb{N}} = \left( \sum_{i=1}^t \varepsilon_t \right)_{t \in \mathbb{N}}$ ein [[zettel/Random Walk|Random Walk]].
+Sei $(X_t)_{t \in \mathbb{N}}$ ein [[zettel/Random Walk|Random Walk]] von $(\varepsilon_t)_{t \in \mathbb{N}} \sim \text{IID}(0, \sigma ^2)$.
 
 Die [[zettel/ACVF|ACVF]] ist gegeben durch
 

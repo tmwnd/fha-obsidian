@@ -1,4 +1,4 @@
-Sei $(X_t)_{t \in \mathbb{N}} \sim \text{AR}(1)$.
+Sei $(X_t)_{t \in \mathbb{Z}} \sim \text{AR}(1)$.
 
 Die [[zettel/ACVF|ACVF]] ist gegeben durch
 

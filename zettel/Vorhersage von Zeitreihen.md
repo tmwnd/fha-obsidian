@@ -4,7 +4,7 @@ Sei $(X_t)_{t \in \mathbb{Z}} \in \mathcal{L}^2(\Omega, \mathcal{A}, P)$ eine [[
 und
 
 $$
-	M := \left\{ \sum_{i=1}^p \alpha_i X_{t-i} \mid \alpha \in \mathbb{R}^p \right\} = \text{span}((X_i)_{i \in \{ t-p, t \}})
+	M := \left\{ \sum_{i=1}^p \alpha_i X_{t-i} \mid \alpha \in \mathbb{R}^p \right\} = \text{span}((X_i)_{i \in \{ t-p, t \}}) \subseteq \mathcal{L}^2(\Omega, \mathcal{A}, P)
 $$
 
 Die Vorhersage von $X_t$, $t \in \mathbb{Z}$ basierend auf den vergangenen $p \in \mathbb{Z}$ Werten $(X_i)_{i \in \{ t-p, t \}}$ ist mit $\beta \in \mathbb{R}^p$ definiert als

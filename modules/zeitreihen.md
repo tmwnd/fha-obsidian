@@ -16,3 +16,4 @@
 ![[modules/zeitreihen/Goodness-of-Fit|Goodness-of-Fit]]
 ![[modules/zeitreihen/ARMA-Prozesse|ARMA-Prozesse]]
 ![[modules/zeitreihen/ARMA-Modellierung|ARMA-Modellierung]]
+![[modules/zeitreihen/ARMA-Modelle|ARMA-Modelle]]
