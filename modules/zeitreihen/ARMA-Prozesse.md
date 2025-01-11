@@ -5,7 +5,7 @@
 ![[zettel/ARMA-Prozess/Eindeutigkeit|Eindeutigkeit]]
 ![[zettel/ARMA-Prozess/AR-Stationärität|AR-Stationärität]]
 ![[zettel/ARMA-Prozess/Kausale Abhängigkeit|Kausale Abhängigkeit]]
-![[zettel/ARMA-Prozess/Inventierbarkeit|Inventierbarkeit]]
+![[zettel/ARMA-Prozess/Invertierbarkeit|Invertierbarkeit]]
 ![[zettel/MA-Prozess|MA-Prozess]]
 ![[zettel/_edges/MA-Prozess ACVF|MA-Prozess ACVF]]
 ![[zettel/AR-Prozess|AR-Prozess]]

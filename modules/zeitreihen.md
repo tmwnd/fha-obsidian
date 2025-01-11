@@ -13,3 +13,6 @@
 ![[modules/zeitreihen/Zeitreihen und stochastische Prozesse|Zeitreihen und stochastische Prozesse]]
 ![[modules/zeitreihen/Mathematische Grundlagen|Mathematische Grundlagen]]
 ![[modules/zeitreihen/Stationärtests|Stationärtests]]
+![[modules/zeitreihen/Goodness-of-Fit|Goodness-of-Fit]]
+![[modules/zeitreihen/ARMA-Prozesse|ARMA-Prozesse]]
+![[modules/zeitreihen/ARMA-Modellierung|ARMA-Modellierung]]
