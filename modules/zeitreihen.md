@@ -17,3 +17,4 @@
 ![[modules/zeitreihen/ARMA-Prozesse|ARMA-Prozesse]]
 ![[modules/zeitreihen/ARMA-Modellierung|ARMA-Modellierung]]
 ![[modules/zeitreihen/ARMA-Modelle|ARMA-Modelle]]
+![[modules/zeitreihen/Nichtstationäre und saisonale Modelle|Nichtstationäre und saisonale Modelle]]

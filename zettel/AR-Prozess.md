@@ -1,3 +1,4 @@
+
 Sei $(\varepsilon_t)_{t \in \mathbb{Z}} \sim \text{WN}(0, \sigma^2)$, $\phi \in \mathbb{R}^p$.
 
 Die [[zettel/Zeitreihe|Zeitreihe]] $(X_t)_{t \in \mathbb{Z}}$ heißt *Autoregressiver Prozess (AR-Prozess)* und ist definiert als
