@@ -14,7 +14,7 @@ $$
 mit
 - $\phi$ und $\vartheta$ haben keine gemeinsamen Nullstellen
 
-Eine [[zettel/Zeitreihe|Zeitreihe]] $(X_t)_{t \in \mathbb{R}}$ heißt *Autoregressiver Moving Average Prozess (ARMA-Prozess) der Ordnungen $p$ und $q$* falls
+Eine [[zettel/Zeitreihe|Zeitreihe]] $(X_t)_{t \in \mathbb{R}}$ heißt *Autoregressiver Moving Average Prozess (ARMA-Prozess) der Ordnungen $p$ und $q$*, falls
 
 $$
 	\forall t \in \mathbb{Z} : X_t = \varepsilon_t + \sum_{i=1}^p \phi_i X_{t-i} + \sum_{i=1}^q \vartheta_i \varepsilon_{t-i}

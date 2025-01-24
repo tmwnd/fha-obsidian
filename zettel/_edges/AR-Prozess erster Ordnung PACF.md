@@ -1,6 +1,6 @@
 Sei $(X_t)_{t \in \mathbb{Z}} \sim \text{AR}(1)$.
 
-Die [[zettel/PACF|PACF]] $\rho : \mathbb{Z} \to [0, 1]$ für $(X_t)_{t \in \mathbb{Z}}$ ist gegeben durch
+Die [[zettel/PACF|PACF]] $\tau : \mathbb{Z} \to [0, 1]$ für $(X_t)_{t \in \mathbb{Z}}$ ist gegeben durch
 
 $$
 	\forall h \in \mathbb{Z} : \tau(h) = \begin{cases}

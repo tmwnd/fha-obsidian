@@ -1,4 +1,4 @@
-Seien $(x_i, y_i)_{i \in \{ 1, \dots, n \}} \in \mathbb{R}^2$ i. i. d. Daten.
+Seien $(x_i, y_i)_{i \in \{ 1, \dots, n \}} \in \mathbb{R}^2$ unabhängige und identisch verteilte Daten.
 
 *Lineare Regression* definiert eine Funktion $f : \mathbb{R} \to \mathbb{R}$ über den minimalen $L^2$-Abstand
 
