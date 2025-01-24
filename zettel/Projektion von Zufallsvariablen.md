@@ -7,5 +7,5 @@ Es gilt
 Gesucht ist eine Funktion $f : \mathbb{R} \to \mathbb{R}$ über
 
 $$
-	\underset{\alpha, \beta \in \mathbb{R}}{\arg\min} \ d(X_{t+1}, \beta + \sum_{i=1}^t \alpha_iX_i)
+	\underset{\alpha, \beta \in \mathbb{R}}{\arg\min} \ d\left( X_{t+1}, \beta + \sum_{i=1}^t \alpha_iX_i \right)
 $$

@@ -1,4 +1,4 @@
-Sei $(X_t)_{t \in T} \in \mathcal{L}^2(\Omega, \mathcal{A}, P)$ eine [[zettel/Zeitreihe|Zeitreihe]].
+Sei $(X_t)_{t \in T} \in \mathcal{L}^2(\Omega, \mathcal{A}, P)$ eine [[zettel/Zeitreihe|Zeitreihe]]
 
 Es gilt
 - $\forall t \in T : \text{E}[X_t^2] \le \infty$

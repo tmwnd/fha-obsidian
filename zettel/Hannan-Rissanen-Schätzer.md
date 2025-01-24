@@ -17,11 +17,11 @@ $$
 	\hat{\beta} := \underset{\beta \in \mathbb{R}^{p+q}}{\arg\min} S(\beta)
 $$
 
-bzw.
+mit
 - $\hat{\phi} = (\beta_i)_{i \in \{ 1, \dots, p \}}$
 - $\hat{\vartheta} = (\beta_{p+i})_{i \in \{ 1, \dots, q \}}$
 
-und
+bzw.
 
 $$
 	\hat{\sigma}^2 = \frac{1}{n-m-q} S(\hat{\beta})

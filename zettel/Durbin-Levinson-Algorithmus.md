@@ -24,7 +24,7 @@ mit
 Der *Durbin-Levinson-Algorithmus* definiert folgende Rekursionsvorschriften
 
 $$
-	\phi_{n+1, n+1} = \left( \gamma(n+1) - \sum_{i=1}^n \phi_{n, i} \gamma(n+1-i) \right) v_n^{-1}
+	\phi_{n+1, n+1} := \left( \gamma(n+1) - \sum_{i=1}^n \phi_{n, i} \gamma(n+1-i) \right) v_n^{-1}
 $$
 
 und
@@ -35,7 +35,7 @@ $$
 		\phi_{n+1, 2} \\
 		\vdots \\
 		\phi_{n+1, n}
-	\end{pmatrix} = \begin{pmatrix}
+	\end{pmatrix} := \begin{pmatrix}
 		\phi_{n, 1} \\
 		\phi_{n, 2} \\
 		\vdots \\
@@ -51,7 +51,7 @@ $$
 und
 
 $$
-	v_{n+1} = v_n(1 - \phi_{n+1, n+1}^2)
+	v_{n+1} := v_n(1 - \phi_{n+1, n+1}^2)
 $$
 
 und

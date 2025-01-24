@@ -1,4 +1,4 @@
-Seien $(X_t)_{n \in \mathbb{N}}$ [[zettel/Zufallsvariable/Stochastische Unabhängigkeit|unabhängige]] und identisch verteilte [[zettel/Zufallsvariable|Zufallsvariablen]], $\sigma^2 \in \mathbb{R}$ mit
+Seien $(X_t)_{n \in \mathbb{N}}$ [[zettel/Zufallsvariable/Stochastische Unabhängigkeit|unabhängige]] und identisch verteilte [[zettel/Zufallsvariable|Zufallsvariablen]], $\sigma^2 := \text{Var}[X_1]$ mit
 - $\forall t \in \mathbb{N} : \text{E}[X_t] = 0$
 - $\forall t \in \mathbb{N} : \text{Var}[X_t] = \sigma^2$
 
@@ -15,7 +15,7 @@ Sei $(x_n)_{n \in \mathbb{N}} \in \mathbb{R}$.
 Es gilt
 
 $$
-	\forall t \in \mathbb{N} : P(X_{t+1} \le x \mid \forall i \le t : X_i = x_i) = P(X_{t+1} \le x_{t+1})
+	\forall t \in \mathbb{N} : P(X_{t+1} \le x \mid \forall s \in \{ 1, \dots, t \} : X_s = x_s) = P(X_{t+1} \le x_{t+1})
 $$
 
 und

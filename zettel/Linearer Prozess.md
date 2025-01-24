@@ -11,5 +11,5 @@ Es gilt
 - $\forall t \in \mathbb{Z} : \mu_t = 0$
 - $(X_t)_{t \in \mathbb{Z}}$ ist [[zettel/Zeitreihe/Schwache Stationarität|schwach stationär]]
 
-Falls $\forall i \lt 0 : \psi_i = 0$ gilt
-- $(X_t)_{t \in \mathbb{Z}} \sim \text{MA}(\infty)$
+und
+- $(X_t)_{t \in \mathbb{Z}} \sim \text{MA}(\infty)$, falls $\forall i \lt 0 : \psi_i = 0$

@@ -15,5 +15,5 @@ und
 Verwerfe $\text{H}$, falls
 
 $$
-	\frac{|P - \text{E}[P]|}{\sqrt{\text{Var}[P]}} \gt \Psi_{1-\frac{\alpha}{2}}
+	\frac{|P - \text{E}[P]|}{\sqrt{\text{Var}[P]}} \gt \Psi_{1-\frac{\alpha}{2}} \overset{\text{z. B.}}{=} \mathcal{N}(0, 1)_{1-\frac{1}{2}}
 $$

@@ -5,3 +5,9 @@ Die *Autokorrelationsfunktion (ACF)* $\rho : \mathbb{Z} \to \mathbb{R}$ für $(X
 $$
 	\forall h \in \mathbb{Z} : \rho(h) := \frac{\gamma(h)}{\gamma(0)}
 $$
+
+Es gilt
+
+$$
+	\forall t, h \in \mathbb{Z} : \rho(h) = \frac{\gamma(t+h, t)}{\text{Var}[X_t]}
+$$

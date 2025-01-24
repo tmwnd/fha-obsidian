@@ -1,4 +1,4 @@
-Sei $(X_t)_{t \in \mathbb{Z}} \in \mathcal{L}^2(\Omega, \mathcal{A}, P)$ eine [[zettel/Zeitreihe|Zeitreihe]], $\sigma^2 = \text{Var}[X_0]$ mit
+Sei $(X_t)_{t \in \mathbb{Z}} \in \mathcal{L}^2(\Omega, \mathcal{A}, P)$ eine unkorrelierte [[zettel/Zeitreihe|Zeitreihe]], $\sigma^2 := \text{Var}[X_0]$ mit
 - $\forall t \in \mathbb{Z} : \text{E}[X_t] = 0$
 - $\forall t \in \mathbb{Z} : \text{Var}[X_t] = \sigma^2$
 - $\forall t, s \in \mathbb{Z}, t \ne s : \text{Cov}[X_t, X_s] = 0$

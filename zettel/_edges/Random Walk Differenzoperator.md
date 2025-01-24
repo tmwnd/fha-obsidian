@@ -1,5 +1,5 @@
-Sei $(X_t)_{t \in \mathbb{Z}}$ ein [[zettel/Random Walk|Random Walk]] mit
-- der [[zettel/Zeitreihe|Zeitreihe]] $(Y_t)_{t \in \mathbb{Z}}$ definiert als
+Sei $(X_t)_{t \in \mathbb{Z}}$ ein [[zettel/Random Walk|Random Walk]] und
+- $(Y_t)_{t \in \mathbb{Z}}$ eine [[zettel/Zeitreihe|Zeitreihe]] definiert als
 
 $$
 	\forall t \in \mathbb{Z} : Y_t := \nabla X_t = \varepsilon_t

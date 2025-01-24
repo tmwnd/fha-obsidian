@@ -1,4 +1,4 @@
-Seien $\mathcal{F}$, $\mathcal{G}$ [[zettel/σ-Algebra|σ-Algebren]] im [[zettel/Wahrscheinlichkeitsraum|Wahrscheinlichkeitsraum]] $(\Omega, \mathcal{A}, P)$.
+Seien $\mathcal{F}$, $\mathcal{G}$ [[zettel/σ-Algebra|σ-Algebren]] in einem [[zettel/Wahrscheinlichkeitsraum|Wahrscheinlichkeitsraum]] $(\Omega, \mathcal{A}, P)$.
 
 Der *Mischkoeffizient* $\alpha : \Sigma(\Omega)^2 \to \mathbb{R}$ ist definiert als
 

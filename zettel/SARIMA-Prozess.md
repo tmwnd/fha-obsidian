@@ -1,11 +1,11 @@
 Seien $d, D, s \in \mathbb{N}_0$, $\phi, \Phi, \vartheta, \Theta$ Polynome des Grades $p, P, q, Q$ und
-- die [[zettel/Zeitreihe|Zeitreihe]] $(X_t)_{t \in \mathbb{Z}}$ definiert über
+- $(X_t)_{t \in \mathbb{Z}}$ eine [[zettel/Zeitreihe|Zeitreihe]] definiert über
 
 $$
 	\forall t \in \mathbb{Z} : \sum_{i=1}^p \phi_i B\left( \sum_{j=1}^P \Phi_j B^s(X_t) \right) = \sum_{i=1}^q \vartheta_i B\left( \sum_{j=1}^Q \Theta_j B^s(\varepsilon_t) \right)
 $$
 
-- die [[zettel/Zeitreihe|Zeitreihe]] $(Y_t)_{t \in \mathbb{Z}}$ definiert über
+- $(Y_t)_{t \in \mathbb{Z}}$ eine [[zettel/Zeitreihe|Zeitreihe]] definiert über
 
 $$
 	\forall t \in \mathbb{Z} : X_t : \nabla^d\nabla_s^D Y_t

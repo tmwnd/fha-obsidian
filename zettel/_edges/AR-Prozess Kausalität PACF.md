@@ -1,6 +1,6 @@
-Sei $(X_t)_{t \in \mathbb{Z}}$ [[zettel/ARMA-Prozess/Kausale Abhängigkeit|kausal abhängig]].
+Sei $(X_t)_{t \in \mathbb{Z}} \sim \text{MA}(p)$ von $(\varepsilon_t)_{t \in \mathbb{Z}} \sim \text{WN}(0, \sigma^2)$ [[zettel/ARMA-Prozess/Kausale Abhängigkeit|kausal abhängig]].
 
-Die [[zettel/PACF|PACF]] ist gegeben durch
+Die [[zettel/PACF|PACF]] $\rho : \mathbb{Z} \to [0, 1]$ für $(X_t)_{t \in \mathbb{Z}}$ ist gegeben durch
 
 $$
 	\forall h \in \mathbb{Z} : \tau(h) = \begin{cases}

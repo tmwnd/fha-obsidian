@@ -27,7 +27,7 @@ $$
 mit
 
 $$
-	\forall k \in \{ 0, \dots, n+1 \} : \vartheta_{n+1, n+1-k} := v_k^{-1} \left( \gamma(n+2, k+1) - \sum_{i=0}^{k-1} \vartheta_{k, k-1} \cdot \vartheta_{n+1, n+1-i} \cdot v_i \right)
+	\forall k \in \mathbb{N}_0, k \lt n : \vartheta_{n+1, n+1-k} := v_k^{-1} \left( \gamma(n+2, k+1) - \sum_{i=0}^{k-1} \vartheta_{k, k-1} \cdot \vartheta_{n+1, n+1-i} \cdot v_i \right)
 $$
 
 und

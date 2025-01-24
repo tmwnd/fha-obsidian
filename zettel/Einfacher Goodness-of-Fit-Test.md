@@ -3,14 +3,14 @@ Sei $(X_t)_{t \in \mathbb{Z}}$ eine [[zettel/Zeitreihe|Zeitreihe]], $h$ die maxi
 Es gilt
 
 $$
-	\sqrt{n}(\hat{\rho}(h) - \rho(h)) \overset{V}{\longrightarrow} \mathcal{N}(0, W)
+	\sqrt{n}((\hat{\rho}(h))_{h \in \{ 1, \dots, n \}} - (\rho(h))_{h \in \{ 1, \dots, n \}}) \overset{V}{\longrightarrow} \mathcal{N}(0, W)
 $$
 
 und
-- $\forall h \in \mathbb{R}_0^+ : \rho(h) = 0$, falls $\text{H}$ gültig ist
+- $\forall h \in \mathbb{N} : \rho(h) = 0$, $W = \mathbb{1}_H$, falls $\text{H}$ gültig ist
 
 Verwerfe $\text{H}$, falls
 
 $$
-	\sum_{i=1}^h \mathbb{1}\left( |\hat{\rho}(i)| \gt q_{1 - \frac{1}{2}} \right) \gt \lfloor \alpha h \rfloor
+	\sum_{i=1}^h \mathbb{1}\left( |\hat{\rho}(i)| \gt \mathcal{N}(0, 1)_{1 - \frac{1}{2}} \right) \gt \lfloor \alpha h \rfloor
 $$

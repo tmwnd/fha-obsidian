@@ -7,7 +7,7 @@ $$
 
 Zur *Modelldiagnose* sind folgende Schritte notwendig
 1. Plotte Residuen $(\hat{\varepsilon}_t)_{t \in \mathbb{Z}}$
-2. Plotte [[zettel/ACF|ACF]] bzw. [[zettel/PACF|PACF]]
-3. Teste auf Korrelation ([[zettel/Ljung-Box-Test|Ljung-Box-Test]])
-4. Teste auf Trend ([[zettel/Rank-Test|Rank-Test]])
-5. Teste auf Normalverteilung (Shapiro-Wilk-Test)
+2. Plotte [[zettel/ACF|ACF]] bzw. [[zettel/PACF|PACF]] der Residuen $(\hat{\varepsilon}_t)_{t \in \mathbb{Z}}$
+3. Teste die Residuen $(\hat{\varepsilon}_t)_{t \in \mathbb{Z}}$ auf Korrelation ([[zettel/Ljung-Box-Test|Ljung-Box-Test]])
+4. Teste die Residuen $(\hat{\varepsilon}_t)_{t \in \mathbb{Z}}$ auf Trend ([[zettel/Rank-Test|Rank-Test]])
+5. Teste die Residuen $(\hat{\varepsilon}_t)_{t \in \mathbb{Z}}$ auf Normalverteilung (Shapiro-Wilk-Test)

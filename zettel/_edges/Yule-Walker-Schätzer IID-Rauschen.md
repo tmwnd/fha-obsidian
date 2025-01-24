@@ -1,4 +1,4 @@
-Sei $(X_t)_{t \in \mathbb{Z}} \sim \text{AR}(p)$ zu $(\varepsilon_t)_{t \in \mathbb{Z}} \sim \text{IID}(0, \sigma^2)$ [[zettel/ARMA-Prozess/Kausale Abhängigkeit|kausal abhängig]], $\hat{\sigma^2}, \hat{\phi}$ die [[zettel/Yule-Walker-Schätzer|Yule-Walker-Schätzer]] von $\phi, \sigma^2$.
+Sei $(X_t)_{t \in \mathbb{Z}} \sim \text{AR}(p)$ von $(\varepsilon_t)_{t \in \mathbb{Z}} \sim \text{IID}(0, \sigma^2)$ [[zettel/ARMA-Prozess/Kausale Abhängigkeit|kausal abhängig]], $\hat{\sigma^2}, \hat{\phi}$ die [[zettel/Yule-Walker-Schätzer|Yule-Walker-Schätzer]] von $\phi, \sigma^2$.
 
 Es gilt
 

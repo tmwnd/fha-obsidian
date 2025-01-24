@@ -1,4 +1,4 @@
-Seien $(X_i)_{i \in \mathbb{N}}$ [[zettel/Zufallsvariable/Stochastische Unabhängigkeit|unabhängige]] [[zettel/Zufallsvariable|Zufallsvariablen]], $\mu := \text{E}[X_1]$, $\sigma^2 := \text{Var}[X_1]$ mit
+Seien $(X_i)_{i \in \{ 1, \dots, n \}}$ [[zettel/Zufallsvariable/Stochastische Unabhängigkeit|unabhängige]] [[zettel/Zufallsvariable|Zufallsvariablen]], $\mu := \text{E}[X_1]$, $\sigma^2 := \text{Var}[X_1]$ mit
 - $\forall i \in \{ 1, \dots, n \} : \text{E}[X_i] = \mu$
 - $\forall i \in \{ 1, \dots, n \} : \text{Var}[X_i] = \sigma^2$
 

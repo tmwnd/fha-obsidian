@@ -6,5 +6,5 @@ Sei $(X_t)_{t \in \mathbb{Z}}$ eine [[zettel/Zeitreihe/Schwache Stationarität|s
 Falls $\exists C \in \mathbb{R}^+, a \in (0, 1) \ \forall t \in \mathbb{Z} : \alpha(k) \le Ca^k$ gilt
 
 $$
-	\sqrt{n} \frac{\frac{1}{n} \sum_{s=1}^n X_s - \mu}{\tilde{\sigma}^2} \overset{V}{\longrightarrow} \mathcal{N}(0, 1)
+	\sqrt{n} \frac{\frac{1}{n} \sum_{t=1}^n X_t - \mu}{\tilde{\sigma}^2} \overset{V}{\longrightarrow} \mathcal{N}(0, 1)
 $$
