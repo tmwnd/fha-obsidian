@@ -4,4 +4,4 @@ $(X_t)_{t \in \mathbb{Z}}$ heißt *kausal von $(\varepsilon_t)_{t \in \mathbb{Z}
 - $\forall i \in \{ 1, \dots, q \} : |z_i| \gt 1$
 
 Es gilt
-- $\exists (\psi_i)_{i \in \mathbb{N}_0}, \forall t \in \mathbb{Z} : X_t = \varepsilon_t + \sum_{i \in \mathbb{N}} \psi_i\varepsilon_{t-i}$
+- $\exists (\psi_i)_{i \in \mathbb{N}_0}, \forall t \in \mathbb{Z} : X_t = \varepsilon_t + \sum_{i \in \mathbb{N}} \psi_i B^i(\varepsilon_t)$

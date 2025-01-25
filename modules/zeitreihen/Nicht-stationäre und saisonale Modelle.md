@@ -2,7 +2,7 @@
 ![[zettel/k-facher Differenzoperator|k-facher Differenzoperator]]
 ![[zettel/_edges/Lineare Transformation ARMA-Prozess|Lineare Transformation ARMA-Prozess]]
 ![[zettel/_edges/Quadratische Transformation ARMA-Prozess|Quadratische Transformation ARMA-Prozess]]
-![[zettel/_edges/K-faches Polynom Erwartungswertfunktion K-facher Differenzoperator|K-faches Polynom Erwartungswertfunktion K-facher Differenzoperator]]
+![[zettel/_edges/K-faches Erwartungswert-Polynom K-facher Differenzoperator|K-faches Erwartungswert-Polynom K-facher Differenzoperator]]
 ![[zettel/_edges/Random Walk Differenzoperator|Random Walk Differenzoperator]]
 ![[zettel/Box-Cox-Transformation|Box-Cox-Transformation]]
 ![[zettel/Differenzoperator zum Lag p|Differenzoperator zum Lag p]]

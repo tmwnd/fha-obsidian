@@ -3,7 +3,7 @@ Sei $(\varepsilon_t)_{t \in \mathbb{Z}} \sim \text{WN}(0, \sigma^2)$, $\phi \in 
 Die [[zettel/Zeitreihe|Zeitreihe]] $(X_t)_{t \in \mathbb{Z}}$ heißt *Autoregressiver Prozess (AR-Prozess) erster Ordnung* und ist definiert als
 
 $$
-	\forall t \in \mathbb{Z} : X_t := \varepsilon_t + \phi \cdot X_{t-1}
+	\forall t \in \mathbb{Z} : X_t := \varepsilon_t + \phi \cdot B(X_t)
 $$
 
 Schreibe

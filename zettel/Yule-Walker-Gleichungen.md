@@ -32,7 +32,7 @@ $$
 $$
 
 mit
-- $\forall t \in \mathbb{Z} : X_t = \varepsilon_t + \sum_{i \in \mathbb{N}} \psi_i\varepsilon_{t-1}$
+- $\forall t \in \mathbb{Z} : X_t = \varepsilon_t + \sum_{i \in \mathbb{N}} \psi_i B(\varepsilon_t)$
 
 Die *Yule-Walker-Gleichungen* sind definiert als
 

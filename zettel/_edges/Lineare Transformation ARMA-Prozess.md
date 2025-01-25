@@ -8,7 +8,7 @@ $$
 - $(Y_t)_{t \in \mathbb{Z}}$ eine [[zettel/Zeitreihe|Zeitreihe]] definiert als
 
 $$
-	\forall t \in \mathbb{Z} : Y_t := \nabla X_t - 1 = 1 + (\varepsilon_t - \varepsilon_{t-1}) - 1 = \varepsilon_t - \varepsilon_{t-1}
+	\forall t \in \mathbb{Z} : Y_t := \nabla X_t - 1 = 1 + (\varepsilon_t - B(\varepsilon_t)) - 1 = \varepsilon_t - B(\varepsilon_t)
 $$
 
 Es gilt

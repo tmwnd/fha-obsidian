@@ -22,4 +22,7 @@
 ![[zettel/_edges/Lp-Raum Hilbertraum|Lp-Raum Hilbertraum]]
 ![[zettel/Vorhersage von Zeitreihen|Vorhersage von Zeitreihen]]
 ![[zettel/PACF|PACF]]
+![[zettel/_edges/AR-Prozess erster Ordnung ACF|AR-Prozess erster Ordnung ACF]]
+![[zettel/_edges/AR-Prozess erster Ordnung PACF|AR-Prozess erster Ordnung PACF]]
+![[zettel/Zeitreihe/Deterministisch|Deterministisch]]
 ![[zettel/Wold-Zerlegung|Wold-Zerlegung]]

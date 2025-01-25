@@ -4,19 +4,19 @@ Sei $(X_t)_{t \in \mathbb{Z}} \in \mathcal{L}^2(\Omega, \mathcal{A}, P)$ eine [[
 und
 
 $$
-	M := \left\{ \sum_{i=1}^p \alpha_i X_{t-i} \mid \alpha \in \mathbb{R}^p \right\} = \text{span}((X_i)_{i \in \{ t-p, t \}}) \subseteq \mathcal{L}^2(\Omega, \mathcal{A}, P)
+	M := \left\{ \sum_{i=1}^p \alpha_i B^i(X_t) \mid \alpha \in \mathbb{R}^p \right\} = \text{span}((X_i)_{i \in \{ t-p, t \}}) \subseteq \mathcal{L}^2(\Omega, \mathcal{A}, P)
 $$
 
 Die Vorhersage von $X_t$, $t \in \mathbb{Z}$ basierend auf den vergangenen $p \in \mathbb{Z}$ Werten $(X_i)_{i \in \{ t-p, t \}}$ ist mit $\beta \in \mathbb{R}^p$ definiert als
 
 $$
-	\hat{X}_t := P_M(X_t) = \sum_{i=1}^p \beta_i X_{t-i} \in M
+	\hat{X}_t := P_M(X_t) = \sum_{i=1}^p \beta_i B^i(X_t) \in M
 $$
 
 Es muss gelten
 
 $$
-	\forall \alpha \in \mathbb{R}^p : \text{E}\left[ (X_t - \hat{X}_t) \sum_{i=1}^p \alpha_i X_{t-i} \right] \implies \forall j \in \{ 1, \dots, p \} : 0 \overset{!}{=} \text{E}[(X_t - \hat{X}_t)X_{t-j}] = \gamma(j) - \sum_{i=1}^p \beta_i\gamma(|i-j|)
+	\forall \alpha \in \mathbb{R}^p : \text{E}\left[ (X_t - \hat{X}_t) \sum_{i=1}^p \alpha_i B^i(X_t) \right] \implies \forall j \in \{ 1, \dots, p \} : 0 \overset{!}{=} \text{E}[(X_t - \hat{X}_t)B^j(X_t)] = \gamma(j) - \sum_{i=1}^p \beta_i\gamma(|i-j|)
 $$
 
 Zur eindeutigen Bestimmung von $\hat{X}_t$ ist folgendes LGS zu lösen

@@ -1,0 +1,1 @@
+Sei $(X_t)_{t \in \mathbb{Z}}$ eine [[zettel/Zeitreihe|Zeitreihe]], $(Y_t)_{t \in \mathbb{Z}} \sim \text{ARMA}(p, q)$

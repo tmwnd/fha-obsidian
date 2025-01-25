@@ -25,5 +25,5 @@ $$
 Es gilt
 
 $$
-	\forall t \in \mathbb{Z} : \sum_{i=1}^p \phi \nabla^d Y_t = \sum_{i=1}^q \vartheta\varepsilon_t
+	\forall t \in \mathbb{Z} : Y_t = \varepsilon_t + \sum_{i=1}^q \vartheta_i B^i(\varepsilon_t) + \sum_{i=1}^p \phi_i \nabla^d Y_{t-i}
 $$
