@@ -2,7 +2,7 @@
 |---|---|---|---|---|---|---|
 | [[zettel/Weißes Rauschen\|Weißes Rauschen]] | $\text{WN}(0, \sigma^3)$ | ja  |||||
 | [[zettel/IID-Rauschen\|IID-Rauschen]] | $\text{IID}(0, \sigma^2)$ | ja || $\sigma^2 \cdot \mathbb{1}(h = 0)$ | $\mathbb{1}(h = 0)$ ||
-| [[zettel/Gaußsches weißes Rauschen\|Gaußsches weißes Rauschen]] | $\text{GWN}(0, \sigma^2)$ ||||||
+| [[zettel/Gauß'sches Weißes Rauschen\|Gaußsches weißes Rauschen]] | $\text{GWN}(0, \sigma^2)$ ||||||
 | [[zettel/Random Walk\|Random Walk]] || nein | $t \cdot \sigma^2$ |/|/|/
 | [[zettel/AR-Prozess erster Ordnung\|AR-Prozess erster Ordnung]] | $\text{AR}(1)$ | ja | siehe ACVF | $\frac{\sigma^2}{1 - \phi^2} \cdot \phi^{\lvert h \rvert}$ | $\phi^{\lvert h \rvert}$ | $\begin{cases} \alpha = \rho(1) & h = 1 \\ 0 & h \gt 1 \end{cases}$ |
 | [[zettel/AR-Prozess\|AR-Prozess]] | $\text{AR}(p)$ |

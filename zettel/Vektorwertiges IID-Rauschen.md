@@ -1,0 +1,11 @@
+Sei $(X_t)_{t \in \mathbb{Z}} \in \mathcal{L}^2(\Omega, \mathcal{A}, P)$ eine [[zettel/Vektorwertiger Zeitreihe|vektorwertiger Zeitreihe]] mit Werten in $\mathbb{R}^k$, $\Sigma := \text{Var}[X_0]$ mit
+- $\forall t \in \mathbb{Z}, l \in \{ 1, \dots, k \} : \text{E}[X_{t, i}] = 0$
+
+$(X_t)_{t \in \mathbb{Z}}$ heißt *Vektorwertiges IID-Rauschen*, falls
+- $\forall t, s \in \mathbb{Z}, t \ne s : X_t, X_s$ [[zettel/Zufallsvariable/Stochastische Unabhängigkeit|unabhängig]]
+
+Schreibe
+
+$$
+	(X_t)_{t \in \mathbb{Z}} \sim \text{VIID}(0, \Sigma)
+$$

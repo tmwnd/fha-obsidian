@@ -4,4 +4,4 @@
 ![[zettel/Rank-Test|Rank-Test]]
 ![[zettel/_edges/Zeitreihe Wendepunkt|Zeitreihe Wendepunkt]]
 ![[zettel/Wendepunkt-Test|Wendepunkt-Test]]
-![[zettel/Gaußsches weißes Rauschen|Gaußsches weißes Rauschen]]
+![[zettel/Gauß'sches Weißes Rauschen|Gauß'sches Weißes Rauschen]]

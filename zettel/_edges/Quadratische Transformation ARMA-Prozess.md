@@ -8,7 +8,7 @@ $$
 - $(Y_t)_{t \in \mathbb{Z}}$ eine [[zettel/Zeitreihe|Zeitreihe]] definiert als
 
 $$
-	\forall t \in \mathbb{Z} : Y_t := \nabla^2 X_t - 2 = X_t - 2 \cdot B(X_t) + B^2(X_t) - 2 = 2 + (\varepsilon_t - 2 \cdot B^\varepsilon_t) + B^2(\varepsilon_t)) - 2 = \varepsilon_t - 2 \cdot B(\varepsilon_t) + B^2(\varepsilon_t)
+	\forall t \in \mathbb{Z} : Y_t := \nabla^2 X_t - 2 = X_t - 2 \cdot B(X_t) + B^2(X_t) - 2 = 2 + (\varepsilon_t - 2 \cdot B(\varepsilon_t) + B^2(\varepsilon_t)) - 2 = \varepsilon_t - 2 \cdot B(\varepsilon_t) + B^2(\varepsilon_t)
 $$
 
 Es gilt

@@ -4,7 +4,7 @@ Sei $(\varepsilon_t)_{t \in \mathbb{Z}} \sim \text{WN}(0, \sigma^2)$, $\phi \in 
 Die [[zettel/Zeitreihe|Zeitreihe]] $(X_t)_{t \in \mathbb{Z}}$ heißt *Autoregressiver Prozess (AR-Prozess)* und ist definiert als
 
 $$
-	\forall t \in \mathbb{Z} : X_t := \varepsilon_t + \sum_{i=1}^p \phi_i \cdot B^i(X_t)
+	\forall t \in \mathbb{Z} : X_t := \varepsilon_t + \sum_{i=1}^p \phi_i B^i(X_t)
 $$
 
 Schreibe

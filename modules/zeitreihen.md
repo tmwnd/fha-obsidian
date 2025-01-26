@@ -20,3 +20,4 @@
 ![[modules/zeitreihen/ARMA-Vorhersage|ARMA-Vorhersage]]
 ![[modules/zeitreihen/Nicht-stationäre und saisonale Modelle|Nicht-stationäre und saisonale Modelle]]
 ![[modules/zeitreihen/Nicht-stationäre Modelle|Nicht-stationäre Modelle]]
+![[modules/zeitreihen/Multivariate Modelle|Multivariate Modelle]]

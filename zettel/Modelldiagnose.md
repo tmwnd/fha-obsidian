@@ -2,8 +2,11 @@ Sei $(X_t)_{t \in \mathbb{Z}} \sim \text{ARMA}(p, q)$ [[zettel/ARMA-Prozess/Inve
 - $(\hat{\varepsilon}_t)_{t \in \mathbb{Z}}$ ein Schätzer für die Residuen von $(X_t)_{t \in \mathbb{Z}}$ definiert als
 
 $$
-	\forall t \in \mathbb{Z} : \hat{\varepsilon}_t = \sum_{i \in \mathbb{Z}} \hat{\vartheta}^{-1} B^i\left( \sum_{j \in \mathbb{Z}} \hat{\phi}_j B^j(X_t) \right) = X_t - \hat{X}_t
+	\forall t \in \mathbb{Z} : \hat{\varepsilon}_t = \sum_{i \in \mathbb{Z}} \hat{\theta} B^i\left( \sum_{j \in \mathbb{Z}} \hat{\phi}_j B^j(X_t) \right) = X_t - \hat{X}_t
 $$
+
+mit
+- $\hat{\theta}$ der Inverse von $\hat{\vartheta}$
 
 Zur *Modelldiagnose* sind folgende Schritte notwendig
 1. Plotte Residuen $(\hat{\varepsilon}_t)_{t \in \mathbb{Z}}$
