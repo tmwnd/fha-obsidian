@@ -21,3 +21,4 @@ $$
 und
 - $(X_t)_{n \in \mathbb{N}}$ ist [[zettel/Weißes Rauschen|weißes Rauschen]]
 - $(X_t)_{n \in \mathbb{N}}$ ist [[zettel/Zeitreihe/Schwache Stationarität|schwach stationär]]
+- $(X_t)_{n \in \mathbb{N}}$ ist [[zettel/Zeitreihe/Starke Stationarität|stark stationär]]

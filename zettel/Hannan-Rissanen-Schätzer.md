@@ -2,7 +2,7 @@ Sei $(X_t)_{t \in \mathbb{Z}} \sim \text{ARMA}(p, q)$ [[zettel/ARMA-Prozess/Kaus
 - $(\hat{\varepsilon}_t)_{t \in \mathbb{Z}}$ ein Schätzer für die Residuen von $(X_t)_{t \in \mathbb{Z}}$ definiert als
 
 $$
-	\forall t \in \mathbb{Z} : \hat{\varepsilon_t} := X_t - \sum_{i=1}^m \tilde{\phi}_i B^i(X_t)
+	\forall t \in \mathbb{Z} : \hat{\varepsilon}_t := X_t - \sum_{i=1}^m \tilde{\phi}_i B^i(X_t)
 $$
 
 - $S : \mathbb{R}^{p+q} \to \mathbb{R}$ definiert als

@@ -6,7 +6,7 @@ $$
 	\forall t \in \mathbb{N} : \hat{\mu}_t := \frac{1}{2b+1} \sum_{s=t-b}^{t+b} X_s
 $$
 
-Das gleitende Mittel ist der [[zettel/Schätzer|Schätzer]] für das Signal eines [[zettel/Additives Zerlegungsmodell|additives Zerlegungsmodells]].
+Das gleitende Mittel ist der Schätzer für das Signal eines [[zettel/Additives Zerlegungsmodell|additives Zerlegungsmodells]].
 
 Es gilt
 - $(\hat{\mu}_t)_{t \in \mathbb{N}}$ entspricht [[zettel/_edges/Nadaraya-Watson-Schätzer Additives Zerlegungsmodell Signal|Nadaraya-Watson-Schätzer]] mit dem Kern $K : \mathbb{R} \to \mathbb{R}$ definiert als

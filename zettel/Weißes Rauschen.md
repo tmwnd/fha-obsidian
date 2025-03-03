@@ -12,4 +12,4 @@ $$
 $$
 
 Es gilt
-- $(X_t)_{t \in \mathbb{R}}$ ist [[zettel/Zeitreihe/Schwache Stationarität|schwach staionär]]
+- $(X_t)_{t \in \mathbb{R}}$ ist [[zettel/Zeitreihe/Schwache Stationarität|schwach stationär]]

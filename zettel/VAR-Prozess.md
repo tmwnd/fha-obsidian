@@ -1,4 +1,4 @@
-Sei $(X_t)_{t \in \mathbb{Z}} \in \mathcal{L}^2(\Omega, \mathcal{A}, P)$ eine [[zettel/Zeitreihe/Mehrdimensionale Schwache Stationarität|mehrdimensional schwach stationäre]] [[zettel/Vektorwertiger Zeitreihe|vektorwertiger Zeitreihe]] mit Werten in $\mathbb{R}^k$, $(\varepsilon_t)_{t \in \mathbb{Z}} \sim \text{VWN}(0, \Sigma)$, $\Phi \in \mathbb{R}^{p \times k}$.
+Sei $(X_t)_{t \in \mathbb{Z}} \in \mathcal{L}^2(\Omega, \mathcal{A}, P)$ eine [[zettel/Zeitreihe/Mehrdimensionale Schwache Stationarität|mehrdimensional schwach stationäre]] [[zettel/Vektorwertige Zeitreihe|vektorwertige Zeitreihe]] mit Werten in $\mathbb{R}^k$, $(\varepsilon_t)_{t \in \mathbb{Z}} \sim \text{VWN}(0, \Sigma)$, $\Phi \in \mathbb{R}^{p \times k}$.
 
 $(X_t)_{t \in \mathbb{Z}}$ heißt *Vektorwertiger Autoregressiver Prozess (VAR-Prozess) der Ordnung $p$*, falls
 
@@ -11,3 +11,6 @@ Schreibe
 $$
 	(X_t)_{t \in \mathbb{Z}} \sim \text{VAR}(p)
 $$
+
+Es gilt
+- $\text{VAR}(p)$ mit Werten in $\mathbb{R}^k$ $\equiv$ $\text{VAR}(1)$ mit Werten in $\mathbb{R}^{k \cdot p}$

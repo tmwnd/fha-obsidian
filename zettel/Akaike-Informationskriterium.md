@@ -16,3 +16,6 @@ Das *Akaike-Informationskriterium* $\text{AIK}$ für $\hat{\vartheta}$ ist defin
 $$
 	\text{AIK} := 2k - 2\log(L(\hat{\vartheta}))
 $$
+
+Es gilt
+- $k = p + q$, falls $(X_t)_{t \ni \mathbb{Z}} \sim \text{ARMA}(p, q)$

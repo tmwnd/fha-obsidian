@@ -1,7 +1,7 @@
 Sei $(X_t)_{t \in \mathbb{Z}}$ ein [[zettel/Linearer Prozess|Linearer Prozess]] definiert als
 
 $$
-	\forall t \in \mathbb{Z} : X_t := \sum_{i=-\infty}^\infty \psi_i B^i(\varepsilon_t)
+	\forall t \in \mathbb{Z} : X_t := \sum_{i \in \mathbb{Z}} \psi_i B^i(\varepsilon_t)
 $$
 
 mit dem linearen Filter

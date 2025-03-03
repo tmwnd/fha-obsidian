@@ -1,5 +1,10 @@
-Eine Menge $C \subseteq \Omega$ heißt *abgeschlossen*, falls
+Eine Menge $M \subseteq \mathbb{R}^d$ heißt *abgeschlossen*, falls
+- $\mathbb{R}^d \setminus M$ [[zettel/Menge/Offenheit|offen]]
+
+---
+
+Eine Menge $M \subseteq \mathbb{R}^d$ heißt *abgeschlossen*, falls
 
 $$
-	\forall (x_n)_{n \in \mathbb{N}} \subseteq C : \lim_{n \to \infty} x_n = 0
+	\forall (x_i)_{i \in \mathbb{N}} \in M : \lim_{n \to \infty} x_i \in M
 $$

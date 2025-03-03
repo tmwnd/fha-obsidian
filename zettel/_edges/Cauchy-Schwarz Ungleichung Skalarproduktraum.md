@@ -6,5 +6,5 @@ $$
 	\forall u, v \in V : |\langle u, v \rangle| \le \| u \| \| v \|
 $$
 
-Falls $u$, $v$ linear abhängig gilt
-- $|\langle u, v \rangle| = \| u \| \| v \|$
+Es gilt
+- $|\langle u, v \rangle| = \| u \| \| v \|$, falls $u$, $v$ linear abhängig sind

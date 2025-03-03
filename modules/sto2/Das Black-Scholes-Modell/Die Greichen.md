@@ -1,5 +1,0 @@
-![[modules/sto2/Das Black-Scholes-Modell/Die Griechen/Delta|Delta]]
-![[modules/sto2/Das Black-Scholes-Modell/Die Griechen/Gamma|Gamma]]
-![[modules/sto2/Das Black-Scholes-Modell/Die Griechen/Vega|Vega]]
-![[modules/sto2/Das Black-Scholes-Modell/Die Griechen/Theta|Theta]]
-![[modules/sto2/Das Black-Scholes-Modell/Die Griechen/Rho|Rho]]

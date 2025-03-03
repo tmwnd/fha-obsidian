@@ -1,0 +1,1 @@
+Eine beschränkte Folge $(x_i)_{i \in \mathbb{N}} \in \mathbb{R}$ besitzt immer eine konvergente Teilfolge.

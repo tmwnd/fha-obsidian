@@ -1,0 +1,5 @@
+![[modules/Statistik  1/Statistische Testtheorie/Grundbegriffe|Grundbegriffe]]
+![[modules/Statistik  1/Statistische Testtheorie/Lemma von Neyman-Pearson|Lemma von Neyman-Pearson]]
+![[modules/Statistik  1/Statistische Testtheorie/Likelihood-Quotiententest für zusammengetzte Hypothesen|Likelihood-Quotiententest für zusammengetzte Hypothesen]]
+![[modules/Statistik  1/Statistische Testtheorie/Lineares Modell|Lineares Modell]]
+![[modules/Statistik  1/Statistische Testtheorie/Chi-Quadrat Anpassungstest|Chi-Quadrat Anpassungstest]]

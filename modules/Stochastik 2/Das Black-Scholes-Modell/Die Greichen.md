@@ -1,0 +1,5 @@
+![[modules/Stochastik 2/Das Black-Scholes-Modell/Die Griechen/Delta|Delta]]
+![[modules/Stochastik 2/Das Black-Scholes-Modell/Die Griechen/Gamma|Gamma]]
+![[modules/Stochastik 2/Das Black-Scholes-Modell/Die Griechen/Vega|Vega]]
+![[modules/Stochastik 2/Das Black-Scholes-Modell/Die Griechen/Theta|Theta]]
+![[modules/Stochastik 2/Das Black-Scholes-Modell/Die Griechen/Rho|Rho]]

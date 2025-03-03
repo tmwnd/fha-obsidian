@@ -1,0 +1,4 @@
+![[modules/Stochastik 1/Messbare Funktionen, Bildmaße, Zufallsvariablen und ihre Verteilung, Eigenschaften von diskreten Wahrscheinlichkeitsmaße/Messbare Funktionen, Indikatorfunktionen, primitive Funktionen]]
+![[modules/Stochastik 1/Messbare Funktionen, Bildmaße, Zufallsvariablen und ihre Verteilung, Eigenschaften von diskreten Wahrscheinlichkeitsmaße/Bildmaße, Zufallsvariablen und ihre Verteilungen]]
+![[modules/Stochastik 1/Messbare Funktionen, Bildmaße, Zufallsvariablen und ihre Verteilung, Eigenschaften von diskreten Wahrscheinlichkeitsmaße/Quantile]]
+![[modules/Stochastik 1/Messbare Funktionen, Bildmaße, Zufallsvariablen und ihre Verteilung, Eigenschaften von diskreten Wahrscheinlichkeitsmaße/Eigenschaften von diskreten Wahrscheinlichkeitsmaßen]]

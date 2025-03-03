@@ -1,6 +1,0 @@
-![[modules/muit/Integrationstheorie/Messbare Abbildungen|Messbare Abbildungen]]
-![[modules/muit/Integrationstheorie/Numerische Abbildungen|Numerische Abbildungen]]
-![[modules/muit/Integrationstheorie/Integrierbarkeit numerischer Funktionen|Integrierbarkeit numerischer Funktionen]]
-![[modules/muit/Integrationstheorie/Konvergenzsätze|Konvergenzsätze]]
-![[modules/muit/Integrationstheorie/Lebesgue- und Riemann-Integral|Lebesgue- und Riemann-Integral]]
-![[modules/muit/Integrationstheorie/Lp-Räume|Lp-Räume]]

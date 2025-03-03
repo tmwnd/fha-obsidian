@@ -1,0 +1,6 @@
+![[psets/Maß- und Integrationstheorie/solution 01|solution 01]]
+![[psets/Maß- und Integrationstheorie/solution 02|solution 02]]
+![[psets/Maß- und Integrationstheorie/solution 03|solution 03]]
+![[psets/Maß- und Integrationstheorie/solution 04|solution 04]]
+![[psets/Maß- und Integrationstheorie/solution 05|solution 05]]
+![[psets/Maß- und Integrationstheorie/solution 06|solution 06]]
