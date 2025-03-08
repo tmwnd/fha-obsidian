@@ -3,4 +3,4 @@ Sei $A \in \mathbb{R}^{m \times n}$ mit
 
 $A$ heißt *symmetrisch*, falls
 - $A$ [[zettel/Matrix/Quadratische Matrix|quadratisch]]
-- $\forall i \le m, j \le n : a_{ij} = a_{ji}$
+- $\forall i \le m, j \le n : a_{ij} = a_{ji}$ bzw. $A = A^T$

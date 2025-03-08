@@ -8,7 +8,7 @@
 ![[zettel/Maßraum/σ-Finitheit|σ-Finitheit]]
 ![[zettel/Maß/Finitheit]]
 ![[zettel/Wahrscheinlichkeitsmaß|Wahrscheinlichkeitsmaß]]
-![[Stetigkeit]]
+![[zettel/Funktion/Stetigkeit]]
 TODO sigma-stetigkeit von unten/oben
 ![[zettel/Verteilungsfunktion|Verteilungsfunktion]]
 ![[zettel/Eindeutigkeitssatz für Maße|Eindeutigkeitssatz für Maße]]

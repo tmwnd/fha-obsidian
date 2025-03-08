@@ -1,0 +1,1 @@
+Die *Dimension* $\dim(V)$ eines Vektorraums $V$ ist definiert als die maximale Anzahl linearer unabhängiger Vektoren.
