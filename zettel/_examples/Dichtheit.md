@@ -1,4 +1,4 @@
-$\mathbb{Q}$ ist [[zettel/Metrischer Raum/Menge/Dichtheit|dicht]] in $\mathbb{R}$.
+$\mathbb{Q}$ ist [[zettel/Metrischer Raum/Teilmenge/Dichtheit|dicht]] in $\mathbb{R}$.
 
 Es gilt
 

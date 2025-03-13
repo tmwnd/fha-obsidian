@@ -1,6 +1,6 @@
 Sei $(X, d)$ ein [[zettel/Metrischer Raum|metrischer Raum]].
 
-Eine Menge $U \subseteq X$ heißt *offen*, falls
+$U \subseteq X$ heißt *offen*, falls
 
 $$
 	\forall u \in U \ \exists r \gt 0 : B(u, r) \subseteq U

@@ -7,7 +7,7 @@ $$
 $$
 
 bzw.
-- $X$ liegt bzgl. $\bar{d}$ [[zettel/Metrischer Raum/Menge/Dichtheit|dicht]] in $\bar{X}$
+- $X$ liegt bzgl. $\bar{d}$ [[zettel/Metrischer Raum/Teilmenge/Dichtheit|dicht]] in $\bar{X}$
 
 Schreibe
 

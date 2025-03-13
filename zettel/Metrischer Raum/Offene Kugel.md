@@ -7,4 +7,4 @@ $$
 $$
 
 Es gilt
-- $\forall x \in X, r \in \mathbb{R} : B(x, r)$ ist eine [[zettel/Metrischer Raum/Menge/Offenenheit|offene]] Menge
+- $\forall x \in X, r \in \mathbb{R} : B(x, r)$ ist eine [[zettel/Metrischer Raum/Teilmenge/Offenenheit|offene]] Menge
