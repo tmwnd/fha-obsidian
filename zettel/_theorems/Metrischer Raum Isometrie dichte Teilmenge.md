@@ -1,0 +1,1 @@
+Ein [[zettel/Metrischer Raum|metrischer Raum]] $(X, d)$ ist [[zettel/Metrischer Raum/Isometrisch Isomorph|isometrisch isomorph]] zu einer [[zettel/Metrischer Raum/Menge/Dichtheit|dichten]] Teilmenge der [[zettel/Metrischer Raum/Vervollständigung|Vervollständigung]] $(\bar{X}, \bar{d})$ von $(X, d)$.

@@ -1,0 +1,2 @@
+Ein [[zettel/Metrischer Raum|metrischer Raum]] $(X, d)$ heißt *vollständig*, falls
+- jede [[zettel/Metrischer Raum/Cauchyfolge|Cauchyfolge]] gegen ein Element aus $X$ [[zettel/Metrischer Raum/Folge/Konvergenz|konvergiert]]

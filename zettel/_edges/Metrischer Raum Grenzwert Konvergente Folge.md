@@ -1,0 +1,1 @@
+Der Grenzwert einer [[zettel/Metrischer Raum/Folge/Konvergenz|konvergenten]] Folge in $(X, d)$ ist eindeutig bestimmt.

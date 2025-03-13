@@ -1,0 +1,1 @@
+Die [[zettel/Metrischer Raum/Vervollständigung|Vervollständigung]] von $(\mathbb{Q}, (x, y) \mapsto |x-y|)$ ist $(\mathbb{R}, (x, y) \mapsto |x-y|)$

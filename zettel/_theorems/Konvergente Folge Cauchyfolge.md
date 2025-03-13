@@ -1,0 +1,1 @@
+Jede [[zettel/Metrischer Raum/Folge/Konvergenz|konvergente]] Folge ist eine [[zettel/Metrischer Raum/Cauchyfolge|Cauchyfolge]].
