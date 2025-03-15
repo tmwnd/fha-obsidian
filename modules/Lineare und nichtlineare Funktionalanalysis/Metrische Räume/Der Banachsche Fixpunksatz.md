@@ -1,0 +1,7 @@
+![[zettel/Metrischer Raum/Operator|Operator]]
+![[zettel/Metrischer Raum/Operator/Kontraktion|Kontraktion]]
+![[zettel/Metrischer Raum/Operator/Fixpunkt|Fixpunkt]]
+![[zettel/_lemmas/Kontraktion gleichmäßige Stetigkeit Fixpunkt|Kontraktion gleichmäßige Stetigkeit Fixpunkt]]
+![[zettel/_theorems/Banachscher Fixpunktsatz 1|Banachscher Fixpunktsatz 1]]
+![[zettel/_theorems/Banachscher Fixpunktsatz 2|Banachscher Fixpunktsatz 2]]
+![[zettel/_theorems/Banachscher Fixpunktsatz 3|Banachscher Fixpunktsatz 3]]

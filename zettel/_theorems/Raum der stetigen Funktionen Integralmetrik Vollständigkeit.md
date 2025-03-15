@@ -1,0 +1,1 @@
+Der [[zettel/Metrischer Raum|metrischer Raum]] $(C([a, b]), d_1)$ ist nicht [[zettel/Metrischer Raum/Vollständigkeit|vollständig]].

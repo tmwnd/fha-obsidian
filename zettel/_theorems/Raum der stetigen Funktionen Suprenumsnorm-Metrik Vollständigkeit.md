@@ -1,0 +1,1 @@
+Der [[zettel/Metrischer Raum|metrischer Raum]] $(C([a, b]), d_\infty)$ ist [[zettel/Metrischer Raum/Vollständigkeit|vollständig]].
