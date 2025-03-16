@@ -1,0 +1,3 @@
+Jeder [[zettel/Normierter Raum|normierte Raum]] $((X, \oplus, \odot), \| \cdot \|)$ ist [[zettel/Normierter Raum/Normisomorphie|normisomorph]] zu einer [[zettel/Metrischer Raum/Teilmenge/Dichtheit|dichten]] Teilmenge des [[zettel/Banachraum|Banachraums]] $((\bar{X}, \oplus, \odot), \bar{\| \cdot \|})$ mit
+- der [[zettel/Metrischer Raum/Abgeschlossene Hülle|abgeschlossenen Hülle]] $\bar{X}$ von $X$
+- der [[zettel/Metrischer Raum/Metrik/Fortsetzung|Fortsetzung]] $\bar{\| \cdot \|}$ von $\| \cdot \|$

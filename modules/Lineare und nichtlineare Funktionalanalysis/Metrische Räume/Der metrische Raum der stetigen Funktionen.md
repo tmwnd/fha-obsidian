@@ -6,7 +6,7 @@
 ![[zettel/_examples/Integralmetrik|Integralmetrik]]
 ![[zettel/_theorems/Raum der stetigen Funktionen Integralmetrik Vollständigkeit|Raum der stetigen Funktionen Integralmetrik Vollständigkeit]]
 ![[zettel/Raum der stetigen Funktionen/Gleichgeradige Stetigkeit|Gleichgeradige Stetigkeit]]
-![[zettel/_theorems/Arzela-Ascoli|Arzela-Ascoli]]
+![[zettel/_theorems/Arzela-Ascoli 1|Arzela-Ascoli 1]]
 ![[zettel/_edges/Metrischer Raum der stetigen Funktionen Kampaktheit Abgeschlossenheit Beschränktheit gleichgeradige Stetigkeit|Metrischer Raum der stetigen Funktionen Kampaktheit Abgeschlossenheit Beschränktheit gleichgeradige Stetigkeit]]
 ![[zettel/_edges/Raum der stetigen Funktionen Folge Beschränktheit gleichgeradige Stetigkeit konvergente Teilfolge|Raum der stetigen Funktionen Folge Beschränktheit gleichgeradige Stetigkeit konvergente Teilfolge]]
 ![[zettel/Funktion/Globale Libschitz-Stetigkeit|Globale Libschitz-Stetigkeit]]

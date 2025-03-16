@@ -1,0 +1,1 @@
+Alle [[zettel/Menge/Beschränktheit|beschränkten]] Teilmengen eines endlichdimensionalen [[zettel/Normierter Raum|normierten Raums]] $((X, \oplus, \odot), \| \cdot \|)$ sind [[zettel/Metrischer Raum/Teilmenge/Relative Kompaktheit|relativ kompakt]].

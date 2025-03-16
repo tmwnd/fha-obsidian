@@ -1,0 +1,1 @@
+Ein [[zettel/_examples/Normierter Raum|normierter Raum]] $((X, \oplus, \odot), \| \cdot \|)$ ist endlichdimensional genau dann, wenn $B(0, 1)$ [[zettel/Metrischer Raum/Teilmenge/Relative Kompaktheit|relativ kompakt]] ist.

@@ -1,0 +1,1 @@
+$((\mathbb{R}, +, \cdot), x \mapsto |x|)$ ist ein [[zettel/Normierter Raum|normierter Raum]].

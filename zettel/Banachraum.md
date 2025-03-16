@@ -1,1 +1,1 @@
-Ein *Banachraum* ist ein vollständig normierter Vektorraum.
+Ein [[zettel/Metrischer Raum/Vollständigkeit|vollständiger]] [[zettel/Normierter Raum|normierter Raum]] heißt *Banachraum*.

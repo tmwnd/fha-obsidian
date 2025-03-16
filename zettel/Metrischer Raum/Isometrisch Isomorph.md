@@ -1,6 +1,6 @@
 Seien $(X, d)$, $(X', d')$ [[zettel/Metrischer Raum|metrische Räume]].
 
-$X$ und $X'$ heißen *isometrisch isomorph*, falls
+$(X, d)$ und $(X', d')$ heißen *isometrisch isomorph*, falls
 - eine [[zettel/Funktion/Surjektivität|surjektive]] [[zettel/Isometrie|Isometrie]] $f : X \to X'$ existiert
 
 Es gilt
