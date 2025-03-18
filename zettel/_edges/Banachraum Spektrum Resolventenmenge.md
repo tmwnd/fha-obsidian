@@ -1,4 +1,4 @@
-Sei $((X, \oplus, \odot), \| \cdot \|)$ ein [[zettel/Banachraum|Banachraum]], $A : X \to X$ ein [[zettel/Normierter Raum/Operator/Beschränktheit|beschränkter]] [[zettel/Metrischer Raum/Operator|Operator]] in $X$ mit
+Sei $(X, \| \cdot \|)$ ein [[zettel/Banachraum|Banachraum]], $A : X \to X$ ein [[zettel/Normierter Raum/Operator/Beschränktheit|beschränkter]] [[zettel/Metrischer Raum/Operator|Operator]] in $X$ mit
 - $\dim(X) \lt \infty$
 
 Es gilt

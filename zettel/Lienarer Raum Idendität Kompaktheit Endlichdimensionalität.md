@@ -1,4 +1,4 @@
-Sei $((X, \oplus, \odot), \| \cdot \|)$ ein [[zettel/Normierter Raum|normierter Raum]].
+Sei $(X, \| \cdot \|)$ ein [[zettel/Normierter Raum|normierter Raum]].
 
 Es gilt
 - $I$ [[zettel/Normierter Raum/Operator/Kompaktheit|kompakt]] $\iff$ $X$ endlichdimensional

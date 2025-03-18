@@ -1,4 +1,4 @@
-Sei $(X, \oplus, \odot)$ ein [[zettel/Linearer Raum|linearer Raum]], $\| \cdot \|$, $\| \cdot \|'$ [[zettel/Linearer Raum/Norm|Normen]] auf $(X, \oplus, \odot)$.
+Sei $X$ ein [[zettel/Linearer Raum|linearer Raum]], $\| \cdot \|$, $\| \cdot \|'$ [[zettel/Linearer Raum/Norm|Normen]] auf $X$.
 
 $\| \cdot \|$ heißt *stärker* als $\| \cdot \|'$, falls
 

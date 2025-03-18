@@ -1,6 +1,6 @@
-Seien $((X, \oplus, \odot), \| \cdot \|)$, $((X', \oplus', \odot'), \| \cdot \|')$ zwei [[zettel/Normierter Raum|normierte Räume]].
+Seien $(X, \| \cdot \|)$, $(X', \| \cdot \|')$ zwei [[zettel/Normierter Raum|normierte Räume]].
 
-$((X, \oplus, \odot), \| \cdot \|)$ und $((X', \oplus', \odot'), \| \cdot \|')$ heißen *normisometrisch*, falls
+$(X, \| \cdot \|)$ und $(X', \| \cdot \|')$ heißen *normisometrisch*, falls
 - eine [[zettel/Funktion/Surjektivität|surjektive]] [[zettel/Normisomorphie|Normisomorphie]] $f : X \to X'$ existiert
 
 Es gilt

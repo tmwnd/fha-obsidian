@@ -1,4 +1,4 @@
-Sei $((X, \oplus, \odot), \| \cdot \|)$ ein [[zettel/Banachraum|Banachraum]], $A : X \to X$ ein [[zettel/Normierter Raum/Operator/Stetigkeit|stetiger]] [[zettel/Metrischer Raum/Operator|Operator]] in $X$.
+Sei $(X, \| \cdot \|)$ ein [[zettel/Banachraum|Banachraum]], $A : X \to X$ ein [[zettel/Normierter Raum/Operator/Stetigkeit|stetiger]] [[zettel/Metrischer Raum/Operator|Operator]] in $X$.
 
 Es gilt
 

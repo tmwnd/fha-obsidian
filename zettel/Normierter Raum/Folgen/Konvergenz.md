@@ -1,4 +1,4 @@
-Sei $((X, \oplus, \odot), \| \cdot \|)$ ein [[zettel/Normierter Raum|normierter Raum]].
+Sei $(X, \| \cdot \|)$ ein [[zettel/Normierter Raum|normierter Raum]].
 
 Eine Folge $(x_n)_{n \in \mathbb{N}} \in X$ heißt *konvergent* gegen einen *Grenzwert* $x \in X$, falls
 

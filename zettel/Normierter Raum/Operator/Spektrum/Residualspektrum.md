@@ -1,4 +1,4 @@
-Sei $((X, \oplus, \odot), \| \cdot \|)$ ein [[zettel/Normierter Raum|normierter Raum]], $A : X \to X$ ein [[zettel/Normierter Raum/Operator/Beschränktheit|beschränkter]] [[zettel/Metrischer Raum/Operator|Operator]] in $X$.
+Sei $(X, \| \cdot \|)$ ein [[zettel/Normierter Raum|normierter Raum]], $A : X \to X$ ein [[zettel/Normierter Raum/Operator/Beschränktheit|beschränkter]] [[zettel/Metrischer Raum/Operator|Operator]] in $X$.
 
 Das *Residualspektrum* $\sigma_r(A)$ von $A$ ist definiert als
 

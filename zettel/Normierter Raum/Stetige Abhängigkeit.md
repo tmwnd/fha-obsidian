@@ -1,4 +1,4 @@
-Sei $((X, \oplus, \odot), \| \cdot \|)$ ein [[zettel/Normierter Raum|normierter Raum]], $x, b \in X$, $A : X \to X$ ein [[zettel/Normierter Raum/Operator/Kompaktheit|kompakter]] [[zettel/Metrischer Raum/Operator|Operator]] in $X$, $L := I - A$ mit
+Sei $(X, \| \cdot \|)$ ein [[zettel/Normierter Raum|normierter Raum]], $x, b \in X$, $A : X \to X$ ein [[zettel/Normierter Raum/Operator/Kompaktheit|kompakter]] [[zettel/Metrischer Raum/Operator|Operator]] in $X$, $L := I - A$ mit
 - $Lx = b$
 
 $x$ heißt *stetig abhängig* von $b$, falls

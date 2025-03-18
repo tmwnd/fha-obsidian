@@ -1,4 +1,4 @@
-Sei $((X, \oplus, \odot), \| \cdot \|)$ ein [[zettel/Normierter Raum|normierter Raum]], $U \subset X$ [[zettel/Metrischer Raum/Teilmenge/Abgeschlossenheit|abgeschlossen]].
+Sei $(X, \| \cdot \|)$ ein [[zettel/Normierter Raum|normierter Raum]], $U \subset X$ [[zettel/Metrischer Raum/Teilmenge/Abgeschlossenheit|abgeschlossen]].
 
 Es gilt
 

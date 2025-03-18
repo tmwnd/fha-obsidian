@@ -1,1 +1,1 @@
-Der [[zettel/Normierter Raum|normierte Raum]] $((C([a, b]), \oplus, \odot), \| \cdot \|_\infty)$ ist ein [[zettel/Banachraum|Banachraum]].
+Der [[zettel/Normierter Raum|normierte Raum]] $(C([a, b]), \| \cdot \|_\infty)$ ist ein [[zettel/Banachraum|Banachraum]].

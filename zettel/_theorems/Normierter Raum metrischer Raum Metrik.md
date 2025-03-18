@@ -1,1 +1,1 @@
-Jeder [[zettel/Normierter Raum|normierte Raum]] $((X, \oplus, \odot), \| \cdot \|)$ ist ein [[zettel/Metrischer Raum|metrischer Raum]] mit [[zettel/Metrik|Metrik]] $(x, y) \mapsto \| x -y \|$.
+Jeder [[zettel/Normierter Raum|normierte Raum]] $(X, \| \cdot \|)$ ist ein [[zettel/Metrischer Raum|metrischer Raum]] mit [[zettel/Metrik|Metrik]] $(x, y) \mapsto \| x -y \|$.

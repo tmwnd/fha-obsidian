@@ -1,3 +1,3 @@
-Sei $(X, \oplus, \odot)$ ein [[zettel/Linearer Raum|Linearer Raum]], $\| \cdot \|$ eine [[zettel/Linearer Raum/Norm|Norm]] auf $(X, \oplus, \odot)$.
+Sei $X$ ein [[zettel/Linearer Raum|linearer Raum]], $\| \cdot \|$ eine [[zettel/Linearer Raum/Norm|Norm]] auf $X$.
 
-Das Tupel $((X, \oplus, \odot), \| \cdot \|)$ heißt *normierter Raum*.
+Das Tupel $(X, \| \cdot \|)$ heißt *normierter Raum*.

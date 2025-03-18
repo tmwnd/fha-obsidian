@@ -1,1 +1,1 @@
-Jeder endlichdimensionale [[zettel/Normierter Raum|normierte Raum]] $((X, \oplus, \odot), \| \cdot \|)$ über $\mathbb{R}$ bzw. $\mathbb{C}$ ist [[zettel/Metrischer Raum/Teilmenge/Abgeschlossenheit|abgeschlossen]].
+Jeder endlichdimensionale [[zettel/Normierter Raum|normierte Raum]] $(X, \| \cdot \|)$ über $\mathbb{R}$ bzw. $\mathbb{C}$ ist [[zettel/Metrischer Raum/Teilmenge/Abgeschlossenheit|abgeschlossen]].

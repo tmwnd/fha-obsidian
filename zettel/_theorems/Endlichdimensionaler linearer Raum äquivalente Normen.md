@@ -1,1 +1,1 @@
-Auf einem endlichdimensionalen [[zettel/Linearer Raum|linearer Raum]] $(X, \oplus, \odot)$ sind alle [[zettel/Linearer Raum/Norm|Normen]] $\| \cdot \|$ auf $(X, \oplus, \odot)$ [[zettel/Linearer Raum/Norm/Äquivalenz|äquivalent]].
+Auf einem endlichdimensionalen [[zettel/Linearer Raum|linearer Raum]] $X$ sind alle [[zettel/Linearer Raum/Norm|Normen]] $\| \cdot \|$ auf $X$ [[zettel/Linearer Raum/Norm/Äquivalenz|äquivalent]].

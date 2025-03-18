@@ -9,3 +9,6 @@ $(X, \oplus, \odot)$ heißt *linearer Raum* über $\mathbb{R}$ bzw. $\mathbb{C}$
 - $\forall x \in X, \lambda, \mu \in \mathbb{R} : (\lambda \oplus \mu) \odot x = \lambda \odot x \oplus \mu \odot x$ (Distributivität II)
 - $\forall x \in X, \lambda, \mu \in \mathbb{R} : (\lambda\mu) \odot x = \lambda \odot (\mu \odot x)$
 - $\exists 1_X \in X \ \forall x \in X : 1_X \odot x = x$ (Neutrales Element)
+
+Schreibe
+- $X := (X, \oplus, \odot)$

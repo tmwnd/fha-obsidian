@@ -1,4 +1,4 @@
-Sei $((X, \oplus, \odot), \| \cdot \|)$ ein [[zettel/Normierter Raum|normierter Raum]], $(x_n)_{n \in \mathbb{N}} \in X$ eine Folge.
+Sei $(X, \| \cdot \|)$ ein [[zettel/Normierter Raum|normierter Raum]], $(x_n)_{n \in \mathbb{N}} \in X$ eine Folge.
 
 Es gilt
 

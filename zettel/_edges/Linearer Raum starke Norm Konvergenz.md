@@ -1,4 +1,4 @@
-Sei $(X, \oplus, \odot)$ ein [[zettel/Linearer Raum|linearer Raum]], $(x_n)_{n \in \mathbb{N}} \in X$ eine Folge, $\| \cdot \|$, $\| \cdot \|'$ [[zettel/Linearer Raum/Norm|Normen]] auf $(X, \oplus, \odot)$ mit
+Sei $X$ ein [[zettel/Linearer Raum|linearer Raum]], $(x_n)_{n \in \mathbb{N}} \in X$ eine Folge, $\| \cdot \|$, $\| \cdot \|'$ [[zettel/Linearer Raum/Norm|Normen]] auf $X$ mit
 - $\| \cdot \|$ [[zettel/Linearer Raum/Norm/Stärke|stärker als]] $\| \cdot \|'$
 
 Es gilt

@@ -1,4 +1,4 @@
-Sei $((X, \oplus_X, \odot_X), \| \cdot \|_X)$ ein [[zettel/Banachraum|Banachraum]], $A : X \to X$ ein [[zettel/Linearer Raum/Operator/Linearität|linearer]] [[zettel/Normierter Raum/Operator/Beschränktheit|beschränkter]] [[zettel/Metrischer Raum/Operator|Operator]] in $X$, $\| \cdot \|$ die [[zettel/Normierter Raum/Operatornorm|Operatornorm]] mit
+Sei $(X, \| \cdot \|_X)$ ein [[zettel/Banachraum|Banachraum]], $A : X \to X$ ein [[zettel/Linearer Raum/Operator/Linearität|linearer]] [[zettel/Normierter Raum/Operator/Beschränktheit|beschränkter]] [[zettel/Metrischer Raum/Operator|Operator]] in $X$, $\| \cdot \|$ die [[zettel/Normierter Raum/Operatornorm|Operatornorm]] mit
 - $\| A \| \lt 1$
 
 Es gilt

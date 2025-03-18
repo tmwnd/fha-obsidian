@@ -7,7 +7,7 @@ Es gilt
 Es gilt
 
 $$
-	\forall x \in X : (A+B)x := Ax + Bx
+	\forall x \in X : (A+B)x := Ax \oplus_Y Bx
 $$
 
 und

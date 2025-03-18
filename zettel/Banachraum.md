@@ -1,1 +1,1 @@
-Ein [[zettel/Metrischer Raum/Vollständigkeit|vollständiger]] [[zettel/Normierter Raum|normierter Raum]] heißt *Banachraum*.
+Ein [[zettel/Metrischer Raum/Vollständigkeit|vollständiger]] [[zettel/Normierter Raum|normierter Raum]] $(X, \| \cdot \|)$ heißt *Banachraum*.

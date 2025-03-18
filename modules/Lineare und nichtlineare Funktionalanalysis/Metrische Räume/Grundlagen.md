@@ -1,5 +1,7 @@
+![[zettel/Metrik|Metrik]]
 ![[zettel/_examples/Raum der stetigen Funktionen Metrik Suprenumsnorm-Metrik|Raum der stetigen Funktionen Metrik Suprenumsnorm-Metrik]]
 ![[zettel/_examples/Raum der stetigen Funktionen Integralmetrik|Raum der stetigen Funktionen Integralmetrik]]
+![[zettel/Metrischer Raum|Metrischer Raum]]
 ![[zettel/Raum der stetigen Funktionen|Raum der stetigen Funktionen]]
 ![[zettel/Ausgeartete Metrik|Ausgeartete Metrik]]
 ![[zettel/_theorems/Vierecksungleichung|Vierecksungleichung]]

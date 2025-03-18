@@ -1,4 +1,4 @@
-Seien $((X, \oplus, \odot), \| \cdot \|)$, $((X', \oplus', \odot'), \| \cdot \|')$ zwei [[zettel/Normierter Raum|normierte Räume]].
+Seien $(X, \| \cdot \|)$, $(X, \| \cdot \|')$ zwei [[zettel/Normierter Raum|normierte Räume]].
 
 Eine [[zettel/Lineare Abbildung|lineare Abbildung]] $f : X \to X'$ heißt *Normisomorphie*, falls
 

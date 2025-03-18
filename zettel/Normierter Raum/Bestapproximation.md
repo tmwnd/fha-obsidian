@@ -1,4 +1,4 @@
-Sei $((X, \oplus, \odot), \| \cdot \|)$ ein [[zettel/Normierter Raum|normierter Raum]], $U \subseteq X$.
+Sei $(X, \| \cdot \|)$ ein [[zettel/Normierter Raum|normierter Raum]], $U \subseteq X$.
 
 $u \in U$ heißt *Bestapproximation* von $x \in X$ bzgl. $U$, falls
 

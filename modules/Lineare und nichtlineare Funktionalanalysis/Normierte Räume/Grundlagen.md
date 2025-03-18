@@ -4,7 +4,7 @@
 ![[zettel/Normierter Raum|Normierter Raum]]
 ![[zettel/_theorems/Normierter Raum metrischer Raum Metrik|Normierter Raum metrischer Raum Metrik]]
 ![[zettel/Normierter Raum/Folgen/Konvergenz|Konvergenz]]
-![[zettel/_edges/Linearer Raum Metrik Konvergenz|Linearer Raum Metrik Konvergenz]]
+![[zettel/_edges/Normierter Raum Metrik Konvergenz|Normierter Raum Metrik Konvergenz]]
 ![[zettel/Normierter Raum/Zweite Dreiecksungleichung|Zweite Dreiecksungleichung]]
 ![[zettel/Normierter Raum/Offene Kugel|Offene Kugel]]
 ![[zettel/Normierter Raum/Abgeschlossene Kugel|Abgeschlossene Kugel]]
