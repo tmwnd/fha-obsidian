@@ -1,5 +1,5 @@
 ![[zettel/_examples/Raum der stetigen Funktionen Metrik Suprenumsnorm-Metrik|Raum der stetigen Funktionen Metrik Suprenumsnorm-Metrik]]
 ![[zettel/_examples/Raum der stetigen Funktionen Integralmetrik|Raum der stetigen Funktionen Integralmetrik]]
-![[zettel/Raum der stetigen Funktionen auf Intervallen|Raum der stetigen Funktionen auf Intervallen]]
+![[zettel/Raum der stetigen Funktionen|Raum der stetigen Funktionen]]
 ![[zettel/Ausgeartete Metrik|Ausgeartete Metrik]]
 ![[zettel/_theorems/Vierecksungleichung|Vierecksungleichung]]

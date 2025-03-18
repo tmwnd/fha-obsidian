@@ -1,0 +1,2 @@
+Der *Raum der Lebesgue-messbaren Funktionen deren $p$-te Potzenzen Lebesgue-integrierbar sind* $L^p([a, b])$ ist definiert als
+- die [[zettel/Metrischer Raum/Abgeschlossene Hülle|abgeschlossene Hülle]] von $C([a, b])$ bzgl. $\| \cdot \|_p$

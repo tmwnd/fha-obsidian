@@ -1,0 +1,2 @@
+![[zettel/Normierter Raum/Bestapproximation|Bestapproximation]]
+![[zettel/_theorems/Normierter Raum endlichdimensionaler Unterraum Bestapproximation|Normierter Raum endlichdimensionaler Unterraum Bestapproximation]]

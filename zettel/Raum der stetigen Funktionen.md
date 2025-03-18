@@ -1,10 +1,7 @@
-Sei $X$ eine beliebige Menge, $n \in \mathbb{N}$.
+Seien $a, b \in \mathbb{R}$.
 
-Der *Raum der stetigen Funktionen* $C(X, \mathbb{R}^d)$ ist definiert als
+Der *Raum der stetigen Funktionen* $C([a, b])$ ist definiert als
 
 $$
-	C((X, \mathbb{R}^n)) = \{ f : X \to \mathbb{R}^n \mid f \text{ ist stetig} \}
+	C([a, b]) := \{ f : [a, b] \to \mathbb{R} \mid f \text{ ist stetig} \}
 $$
-
-Schreibe
-- $C(X)$, falls $d=1$

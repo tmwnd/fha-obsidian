@@ -1,0 +1,1 @@
+In $\mathbb{R}^n$ sind alle [[zettel/Minkowski-Norm|Minkowski-Normen]] [[zettel/Metrischer Raum/Metrik/Äquivalenz|äquivalent]].
