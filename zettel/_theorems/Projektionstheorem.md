@@ -1,4 +1,4 @@
-Sei $H$ ein [[zettel/Hilbertraum|Hilbertraum]], $M \subseteq H$ [[zettel/Menge/Abgeschlossenheit|abgeschlossen]] linear.
+Sei $H$ ein [[zettel/Hilbertraum Cauchy-Folge|Hilbertraum Cauchy-Folge]], $M \subseteq H$ [[zettel/Menge/Abgeschlossenheit|abgeschlossen]] linear.
 
 Es gilt
 - $\forall x \in H \ \exists! \hat{x} \in M : \| x - \hat{x} \| = \inf_{y \in M} \| x - y \|$

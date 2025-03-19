@@ -20,4 +20,4 @@ Die [[zettel/Metrischer Raum/Vervollständigung|Vervollständigung]] von $(X, \l
 
 Es gilt
 - $X$ ist nicht [[zettel/Metrischer Raum/Vollständigkeit|vollständig]]
-- $(H_0^1([a, b]), \langle \cdot, \cdot \rangle_{(H_0^1([a, b])}$ ist ein [[zettel/Linearer Raum/Hilbertraum|Hilbertraum]]
+- $(H_0^1([a, b]), \langle \cdot, \cdot \rangle_{(H_0^1([a, b])}$ ist ein [[zettel/Hilbertraum|Hilbertraum]]

@@ -1,4 +1,4 @@
-Sei $(X, \langle \cdot, \cdot \rangle)$ ein [[zettel/Linearer Raum/Prä-Hilbertraum|Prä-Hilbertraum]].
+Sei $(X, \langle \cdot, \cdot \rangle)$ ein [[zettel/Prä-Hilbertraum|Prä-Hilbertraum]].
 
 Es gilt
 

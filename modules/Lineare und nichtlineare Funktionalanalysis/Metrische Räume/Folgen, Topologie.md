@@ -1,6 +1,6 @@
 ![[zettel/Metrischer Raum/Folge/Konvergenz|Konvergenz]]
 ![[zettel/Metrischer Raum/Folge/Divergenz|Divergenz]]
-![[zettel/_edges/Metrischer Raum Grenzwert Konvergente Folge|Metrischer Raum Grenzwert Konvergente Folge]]
+![[zettel/_theorems/Metrischer Raum Grenzwert Konvergente Folge|Metrischer Raum Grenzwert Konvergente Folge]]
 ![[zettel/Metrischer Raum/Folge/Häufungspunkt|Häufungspunkt]]
 ![[zettel/_edges/Metrischer Raum Grenzwert Häufungspunkt|Metrischer Raum Grenzwert Häufungspunkt]]
 ![[zettel/_theorems/Metrischer Raum Konvergente Folge Beschränktheit|Metrischer Raum Konvergente Folge Beschränktheit]]

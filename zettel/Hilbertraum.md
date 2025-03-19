@@ -1,1 +1,1 @@
-Eine Menge $V$ heißt *Hilbertraum*, falls jede [[zettel/Cauchy-Folge|Cauchy-Folge]] von $V$ [[zettel/Folge/Konvergenz|konvergiert]].
+Ein [[zettel/Metrischer Raum/Vollständigkeit|vollständiger]] [[zettel/Prä-Hilbertraum|Prä-Hilbertraum]] $(X, \langle \cdot, \cdot \rangle)$ heißt *Hilbertraum*.

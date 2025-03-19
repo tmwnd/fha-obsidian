@@ -15,7 +15,7 @@
 ![[zettel/Folge/Konvergenz|Konvergenz]]
 ![[zettel/Menge/Abgeschlossenheit|Abgeschlossenheit]]
 ![[zettel/Cauchy-Folge|Cauchy-Folge]]
-![[zettel/Hilbertraum|Hilbertraum]]
+![[zettel/Hilbertraum Cauchy-Folge|Hilbertraum Cauchy-Folge]]
 ![[zettel/_lemmas/Stetigkeit der Norm|Stetigkeit der Norm]]
 ![[zettel/_lemmas/Stetigkeit des Skalarprodukts|Stetigkeit des Skalarprodukts]]
 ![[zettel/_theorems/Projektionstheorem|Projektionstheorem]]

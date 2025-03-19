@@ -1,0 +1,7 @@
+![[zettel/Linearer Raum/Bilinearform/Symmetrie|Symmetrie]]
+![[zettel/Variationsgleichung|Variationsgleichung]]
+![[zettel/_edges/Linearer Raum Bilinearform lineares Funktional Variationsgleichung|Linearer Raum Bilinearform lineares Funktional Variationsgleichung]]
+![[zettel/_theorems/Darstellungssatz von Riesz|Darstellungssatz von Riesz]]
+![[zettel/_edges/Hilbertraum lineares stetiges Funktional Skalarprodukt|Hilbertraum lineares stetiges Funktional Skalarprodukt]]
+![[zettel/Hilbertraum/Bilinearform/Elliptizität|Elliptizität]]
+![[zettel/_theorems/Lax-Milgram|Lax-Milgram]]

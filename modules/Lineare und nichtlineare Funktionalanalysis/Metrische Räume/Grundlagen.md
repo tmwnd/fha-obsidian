@@ -4,4 +4,4 @@
 ![[zettel/Metrischer Raum|Metrischer Raum]]
 ![[zettel/Raum der stetigen Funktionen|Raum der stetigen Funktionen]]
 ![[zettel/Ausgeartete Metrik|Ausgeartete Metrik]]
-![[zettel/_theorems/Vierecksungleichung|Vierecksungleichung]]
+![[zettel/_theorems/Viereckungleichung|Viereckungleichung]]

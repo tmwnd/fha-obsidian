@@ -1,1 +1,0 @@
-Ein [[zettel/Metrischer Raum/Vollständigkeit|vollständiger]] [[zettel/Linearer Raum/Prä-Hilbertraum|Prä-Hilbertraum]] $(X, \langle \cdot, \cdot \rangle)$ heißt *Hilbertraum*.
