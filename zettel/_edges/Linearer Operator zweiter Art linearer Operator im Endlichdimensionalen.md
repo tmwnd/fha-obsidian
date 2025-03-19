@@ -1,0 +1,1 @@
+Jeder [[zettel/Normierter Raum/Linearer Operator zweiter Art|lineare Operator zweiter Art]] verhält sich so wie ein [[zettel/Linearer Raum/Operator/Linearität|linearer]] [[zettel/Operator|Operator]] im Endlichdimensionalen.

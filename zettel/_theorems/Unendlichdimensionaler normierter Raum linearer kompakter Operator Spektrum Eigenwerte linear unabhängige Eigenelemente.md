@@ -1,4 +1,4 @@
-Sei $(X, \| \cdot \|)$ ein [[zettel/Normierter Raum|normierter Raum]], $A : X \to X$ ein [[zettel/Normierter Raum/Operator/Kompaktheit|kompakter]] [[zettel/Metrischer Raum/Operator|Operator]] in $X$.
+Sei $(X, \| \cdot \|)$ ein [[zettel/Normierter Raum|normierter Raum]], $A : X \to X$ ein [[zettel/Linearer Raum/Operator/Linearität|linearer]] [[zettel/Normierter Raum/Operator/Kompaktheit|kompakter]] [[zettel/Metrischer Raum/Operator|Operator]] in $X$.
 
 Es gilt
 - $0 \in \sigma(A)$

@@ -1,6 +1,6 @@
 Seien $(X, d)$, $(X, d')$ [[zettel/Metrischer Raum|metrische Räume]].
 
-$d$ und $d'$ sind [[zettel/Metrischer Raum/Metrik/Äquivalenz|äquivalent]], falls
+$d$ und $d'$ sind [[zettel/Metrischer Raum/Metrik/Äquivalenz|äquivalent]] genau dann, falls
 - $d$ und $d'$ dieselben [[zettel/Metrischer Raum/Folge/Konvergenz|konvergenten]] Folgen besitzen
 
 oder

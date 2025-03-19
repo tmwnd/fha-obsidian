@@ -2,6 +2,7 @@
 ![[zettel/_edges/Minkowski-Norm Äquivalenz|Minkowski-Norm Äquivalenz]]
 ![[zettel/Minkowski-Ungleichung|Minkowski-Ungleichung]]
 ![[zettel/Hölder-Ungleichung|Hölder-Ungleichung]]
+![[zettel/_theorems/Normierter Raum der stetigen Funktionen Minkowski-Norm Banachraum|Normierter Raum der stetigen Funktionen Minkowski-Norm Banachraum]]
 ![[zettel/_theorems/Normierter Raum der stetigen Funktionen Minkowski-Norm kein Banachraum|Normierter Raum der stetigen Funktionen Minkowski-Norm kein Banachraum]]
 ![[zettel/Linearer Raum/Norm/Stärke|Stärke]]
 ![[zettel/_edges/Linearer Raum starke Norm Konvergenz|Linearer Raum starke Norm Konvergenz]]
