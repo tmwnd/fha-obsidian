@@ -12,4 +12,5 @@
 ![[zettel/Funktion/Globale Libschitz-Stetigkeit|Globale Libschitz-Stetigkeit]]
 ![[zettel/_lemmas/Metrischer Raum relative kompaktheit Häufungspunkt Konvergenz|Metrischer Raum relative kompaktheit Häufungspunkt Konvergenz]]
 ![[zettel/Raum der stetigen Funktionen einer Menge|Raum der stetigen Funktionen einer Menge]]
-![[zettel/_lemmas/Kompakter metrischer Raum relativ kompakte Teilmenge Beschränktheit gleichgradige Stetigkeit|Kompakter metrischer Raum relativ kompakte Teilmenge Beschränktheit gleichgradige Stetigkeit]]
+![[zettel/_lemmas/Kompakter metrischer Raum relativ kompakte Raum der stetigen Funktionen Teilmenge Beschränktheit gleichgradige Stetigkeit|Kompakter metrischer Raum relativ kompakte Raum der stetigen Funktionen Teilmenge Beschränktheit gleichgradige Stetigkeit]]
+![[zettel/_edges/Kompakter metrischer Raum metrischer Raum Raum der stetigen Funktionen Teilmenge relative Kompaktheit gleichgradige Stetigkeit Kompaktheit|Kompakter metrischer Raum metrischer Raum Raum der stetigen Funktionen Teilmenge relative Kompaktheit gleichgradige Stetigkeit Kompaktheit]]

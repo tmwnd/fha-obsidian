@@ -1,1 +1,1 @@
-Ein [[zettel/_examples/Normierter Raum|normierter Raum]] $(X, \| \cdot \|)$ ist endlichdimensional genau dann, wenn $B(0, 1)$ [[zettel/Metrischer Raum/Teilmenge/Relative Kompaktheit|relativ kompakt]] ist.
+Ein [[zettel/_examples/Normierter Raum|normierter Raum]] $(X, \| \cdot \|)$ ist endlichdimensional genau dann, falls $B(0, 1)$ [[zettel/Metrischer Raum/Teilmenge/Relative Kompaktheit|relativ kompakt]] ist.

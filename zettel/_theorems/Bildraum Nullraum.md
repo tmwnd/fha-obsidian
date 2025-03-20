@@ -9,9 +9,8 @@ $$
 bzw.
 
 $$
-	\mathbb{R}^m = R(A) \oplus N(A^T)
+	\forall v \in \mathbb{R}^m \ \exists v_R \in R(A), v_N \in N(A^T) : v = v_R + v_N
 $$
 
 und
-- $\forall v \in \mathbb{R}^m \ \exists v_R \in R(A), v_N \in N(A^T) : v = v_R + v_N$
 - $m = \dim(\mathbb{R}^m) = \dim(R(A)) + \dim(N(A^T))$
