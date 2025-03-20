@@ -3,7 +3,7 @@
 ![[zettel/Metrischer Raum/Vollständigkeit|Vollständigkeit]]
 ![[zettel/Metrischer Raum/Teilmenge/Vollständigkeit|Vollständigkeit]]
 ![[zettel/_theorems/Metrischer Raum Menge Vollständigkeit Abgeschlossenheit|Metrischer Raum Menge Vollständigkeit Abgeschlossenheit]]
-![[zettel/_theorems/Metrischer Raum Menge Abgeschlossenheit Vollständigkeit|Metrischer Raum Menge Abgeschlossenheit Vollständigkeit]]
+![[zettel/_theorems/Vollständiger metrischer Raum Menge Abgeschlossenheit Vollständigkeit|Vollständiger metrischer Raum Menge Abgeschlossenheit Vollständigkeit]]
 ![[zettel/Metrischer Raum/Teilmenge/Dichtheit|Dichtheit]]
 ![[zettel/Metrischer Raum/Metrik/Fortsetzung|Fortsetzung]]
 ![[zettel/Metrischer Raum/Vervollständigung|Vervollständigung]]
