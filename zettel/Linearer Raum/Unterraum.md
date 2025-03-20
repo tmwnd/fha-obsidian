@@ -6,4 +6,4 @@ $(U, \oplus, \odot)$ heißt *Unterraum* von $X$, falls
 bzw.
 - $0_X \in U$
 - $\forall u, v \in U : u \oplus v \in U$
-- $\forall u \in u, \lambda \in \mathbb{R} : \lambda \odot u \in U$
+- $\forall u \in U, \lambda \in \mathbb{R} : \lambda \odot u \in U$
